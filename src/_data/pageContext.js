@@ -7,9 +7,14 @@
  * layer is applied.
  *
  * Eleventy evaluates this default-exported async function and exposes its
- * return value to every template as `pageContext`. The function itself only
- * resolves the location tuple and the service record it is composed with; it
- * performs no interpolation, no URL shaping, no metadata assembly.
+ * return value to every template as `pageContext`. The function returns a
+ * helper object whose `build` method composes one page context by delegating
+ * to the shared `composePageContext` in `engine/page/composer.js`, passing a
+ * single shared DataLoader and MemoryCache so every composition during a
+ * build reuses parsed, validated, frozen dataset reads.
+ *
+ * Composition only — no SEO, Schema, URLs, templates, or pagination. Per-page
+ * composition lives in `engine/page/composer.js`; the bridges share it.
  *
  * No JSON is read directly and no paths are hardcoded — the data root is taken
  * from the canonical `paths.DATA` value exported by the engine core.
@@ -17,9 +22,8 @@
 
 import { createDataLoader } from '../../engine/data/loader.js';
 import { MemoryCache } from '../../engine/data/cache.js';
-import { resolveLocation } from '../../engine/location/locationService.js';
-import { resolveStateSlug } from '../../engine/location/slugResolver.js';
 import { paths } from '../../engine/core/paths.js';
+import { composePageContext } from '../../engine/page/composer.js';
 
 /** Shared cache so repeated reads during a build share work. */
 const cache = new MemoryCache();
@@ -28,49 +32,13 @@ const cache = new MemoryCache();
 const dataLoader = createDataLoader({ dataDirectory: paths.DATA, cache });
 
 /**
- * Normalizes a free-form state identifier to its canonical lowercase code.
- *
- * Accepts full names (`California`), abbreviations (`CA`), and slugified
- * variants (`california`). Returns `undefined` when the input cannot be
- * recognized as a state.
- *
- * @param {string} stateIdentifier State name, code, or slug.
- * @returns {string | undefined} Canonical lowercase state code.
- * @private
- */
-function toStateCode(stateIdentifier) {
-  if (typeof stateIdentifier !== 'string' || stateIdentifier.trim() === '') {
-    return undefined;
-  }
-
-  return resolveStateSlug(stateIdentifier);
-}
-
-/**
- * Normalizes a service slug to the canonical lowercase form expected by the
- * data tier's identifier rules (`^[a-z0-9][a-z0-9-]*$`).
- *
- * @param {string} slug Raw service slug.
- * @returns {string} Canonical lowercase slug.
- * @throws {TypeError} When `slug` is empty or not a string.
- * @private
- */
-function normalizeServiceSlug(slug) {
-  if (typeof slug !== 'string' || slug.trim() === '') {
-    throw new TypeError('serviceSlug must be a non-empty string.');
-  }
-
-  return slug.trim().toLowerCase();
-}
-
-/**
  * Eleventy global data entry point for the joined page context.
  *
  * Returns a helper object whose `build` method composes the location tuple
  * (`{ state, city, county }`) with a service record into a single page
- * context. Resolves to `undefined` when the location or service cannot be
- * resolved, so callers can detect an absent page without distinguishing which
- * component failed.
+ * context via the shared composer. Resolves to `undefined` when the location
+ * or service cannot be resolved, so callers can detect an absent page without
+ * distinguishing which component failed.
  *
  * Composition only — no SEO, Schema, URLs, templates, or pagination.
  *
@@ -87,6 +55,9 @@ export default async function pageContext() {
     /**
      * Composes one page context for a state, city, and service triple.
      *
+     * Delegates to `composePageContext`, forwarding the shared DataLoader and
+     * MemoryCache, so the per-page composition logic lives in one place.
+     *
      * @param {string} stateIdentifier State name, code, or slug.
      * @param {string} citySlug City slug (with or without the `-<state>` suffix).
      * @param {string} serviceSlug Service slug (for example, `flooring`).
@@ -94,34 +65,8 @@ export default async function pageContext() {
      *   `{ state, city, county, service }`, or `undefined` when the location
      *   or service cannot be resolved.
      */
-    async build(stateIdentifier, citySlug, serviceSlug) {
-      const code = toStateCode(stateIdentifier);
-      if (code === undefined || typeof citySlug !== 'string' || citySlug.trim() === '') {
-        return undefined;
-      }
-
-      let serviceCode;
-      try {
-        serviceCode = normalizeServiceSlug(serviceSlug);
-      } catch {
-        return undefined;
-      }
-
-      const [location, service] = await Promise.all([
-        resolveLocation(dataLoader, code, citySlug, { cache }),
-        dataLoader.loadService(serviceCode).catch(() => undefined),
-      ]);
-
-      if (!location || !service) {
-        return undefined;
-      }
-
-      return {
-        state: location.state,
-        city: location.city,
-        county: location.county,
-        service,
-      };
+    build(stateIdentifier, citySlug, serviceSlug) {
+      return composePageContext(dataLoader, cache, stateIdentifier, citySlug, serviceSlug);
     },
   };
 }

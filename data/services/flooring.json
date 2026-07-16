@@ -1,0 +1,50 @@
+{
+  "serviceId": "flooring-installation",
+  "serviceSlug": "flooring",
+  "serviceName": "Flooring",
+  "category": "home-services",
+  "primaryKeyword": "flooring",
+  "secondaryKeywords": ["floor installation", "flooring contractor", "floor replacement"],
+  "synonyms": ["floors", "floor fitting", "flooring repair"],
+  "aliases": ["floor"],
+  "parentService": null,
+  "relatedServices": ["floor-refinishing", "tile-installation", "carpet-installation"],
+  "description": "Find local flooring installation, repair, and replacement contractors. Compare materials, read verified reviews, and request free written estimates from licensed flooring pros near you.",
+  "metaTitle": "Flooring Contractors Near You | Free Estimates",
+  "metaDescription": "Compare local flooring contractors for installation, repair, and replacement. Free written estimates, verified reviews, and licensed pros near you.",
+  "h1": "Flooring",
+  "intro": "Programmatic flooring pages for every U.S. city — installation, repair, refinishing, and replacement by licensed local contractors.",
+  "searchIntent": "commercial",
+  "cta": "Get Free Estimates",
+  "schemaType": "Service",
+  "features": [
+    { "title": "Installation", "description": "New floors installed to manufacturer spec by licensed local contractors." },
+    { "title": "Repair", "description": "Patch, refasten, and refinish damaged or lifting flooring." },
+    { "title": "Replacement", "description": "Full tear-out and replacement of worn or outdated flooring." }
+  ],
+  "benefits": [
+    "Licensed and insured contractors",
+    "Free written estimates",
+    "Material choice guidance",
+    "Verified customer reviews"
+  ],
+  "process": [
+    { "step": 1, "title": "Request estimates", "body": "Tell us your flooring needs and location." },
+    { "step": 2, "title": "Compare local pros", "body": "Review matched flooring contractors, reviews, and quotes." },
+    { "step": 3, "title": "Book your pro", "body": "Choose a contractor and schedule the work." }
+  ],
+  "faqs": [
+    { "question": "How much does flooring cost?", "answer": "Cost varies by material, square footage, and labor. Request free estimates to compare local pricing." },
+    { "question": "Do flooring contractors offer free estimates?", "answer": "Most pros in this directory provide free written estimates before any work begins." },
+    { "question": "Is the flooring work licensed and insured?", "answer": "Listed contractors carry licensing and insurance; verify specifics with each pro at booking." }
+  ],
+  "defaultImage": { "src": "/assets/services/flooring.webp", "alt": "Flooring installation near a residential entryway" },
+  "serviceArea": "United States — city-level coverage via programmatic local pages.",
+  "schema": {
+    "provider": { "type": "LocalBusiness", "name": "Enterprise PSEO Network" },
+    "audience": { "type": "Homeowner" },
+    "areaServed": { "type": "Country", "name": "US" },
+    "offers": { "type": "Offer", "priceCurrency": "USD", "description": "Free written estimates" }
+  },
+  "order": 10
+}

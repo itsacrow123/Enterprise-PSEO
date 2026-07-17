@@ -76,7 +76,7 @@ function normalizeServiceSlug(serviceSlug) {
  * @param {string} stateIdentifier State name, code, or slug (for example, `California`, `CA`).
  * @param {string} citySlug City slug (with or without the `-<state>` suffix).
  * @param {string} serviceSlug Service slug (for example, `flooring`).
- * @returns {Promise<{ state: Record<string, unknown>, city: Record<string, unknown>, county: Record<string, unknown> | undefined, service: Record<string, unknown> } | undefined>}
+ * @returns {Promise<{ state: Record<string, unknown>, city: Record<string, unknown>, county: Record<string, unknown> | undefined, service: Record<string, unknown>, keywords: null, images: null, business: null, seo: null, schema: null, breadcrumbs: null, nearbyCities: never[], nearbyCounties: never[], relatedServices: never[], faq: never[] } | undefined>}
  *   The composed page context, or `undefined` when the state, city, or service
  *   is missing from the data tier.
  */
@@ -105,5 +105,19 @@ export async function composePageContext(dataLoader, cache, stateIdentifier, cit
     city: location.city,
     county: location.county,
     service,
+    // Extended-page-context placeholders. Populated by later stages; no logic
+    // or data loading is performed here. `null` flags "not yet populated";
+    // empty arrays flag "populated but empty" so consumers can distinguish
+    // absence from an empty collection.
+    keywords: null,
+    images: null,
+    business: null,
+    seo: null,
+    schema: null,
+    breadcrumbs: null,
+    nearbyCities: [],
+    nearbyCounties: [],
+    relatedServices: [],
+    faq: [],
   };
 }

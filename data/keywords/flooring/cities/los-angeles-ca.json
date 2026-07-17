@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "service": "flooring",
+  "scope": "los-angeles-ca",
+  "primary": ["flooring los angeles", "los angeles flooring"],
+  "secondary": ["flooring contractor los angeles", "floor installation los angeles ca"],
+  "longTail": ["affordable hardwood flooring los angeles", "vinyl plank flooring installation la"],
+  "commercial": ["flooring los angeles near me", "la flooring contractors free estimate"],
+  "faq": ["how much is flooring in los angeles", "best flooring stores los angeles"],
+  "lsi": ["la floors", "los angeles floor installation", "flooring materials la"],
+  "metadata": {
+    "source": "curated-city",
+    "importedAt": "2026-07-17",
+    "notes": "City-scope keyword bundle for flooring in Los Angeles, California."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "service": "flooring",
+  "scope": "california",
+  "primary": ["flooring california", "ca flooring"],
+  "secondary": ["flooring contractor california", "floor installation ca"],
+  "longTail": ["best flooring for california climate", "flooring company los angeles area"],
+  "commercial": ["flooring contractor california near me", "ca licensed flooring installer"],
+  "faq": ["what flooring is best for california homes", "do california flooring installers need a license"],
+  "lsi": ["california floors", "ca floor materials", "california home flooring"],
+  "metadata": {
+    "source": "curated-state",
+    "importedAt": "2026-07-17",
+    "notes": "State-scope keyword bundle expanding the flooring service for California."
+  }
+}

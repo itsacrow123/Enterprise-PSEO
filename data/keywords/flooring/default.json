@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "service": "flooring",
+  "scope": "default",
+  "primary": ["flooring"],
+  "secondary": ["flooring installation", "flooring contractor", "floor repair"],
+  "longTail": ["hardwood flooring installation cost", "best flooring for high traffic areas"],
+  "commercial": ["flooring near me", "flooring contractors free estimates"],
+  "faq": ["how much does flooring cost", "what flooring is best for pets"],
+  "lsi": ["floors", "flooring materials", "floor installation"],
+  "metadata": {
+    "source": "curated-default",
+    "importedAt": "2026-07-17",
+    "notes": "Default keyword bundle for the flooring service before locality expansion."
+  }
+}

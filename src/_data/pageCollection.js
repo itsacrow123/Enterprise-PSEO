@@ -23,6 +23,7 @@ import { join } from 'node:path';
 import { createDataLoader } from '../../engine/data/loader.js';
 import { MemoryCache } from '../../engine/data/cache.js';
 import { resolveStateSlug } from '../../engine/location/slugResolver.js';
+import { loadCitiesByState } from '../../engine/location/cityLoader.js';
 import { paths } from '../../engine/core/paths.js';
 import { composePageContext } from '../../engine/page/composer.js';
 
@@ -156,12 +157,10 @@ async function buildRecord(code, citySlug, serviceCode) {
  */
 export default async function pageCollection() {
   const statesDir = join(paths.DATA, 'locations', 'usa', 'states');
-  const citiesDir = join(paths.DATA, 'locations', 'usa', 'cities');
   const servicesDir = join(paths.DATA, 'services');
 
-  const [stateStems, cityStems, serviceStems] = await Promise.all([
+  const [stateStems, serviceStems] = await Promise.all([
     readDatasetSlugs(statesDir),
-    readDatasetSlugs(citiesDir),
     readDatasetSlugs(servicesDir),
   ]);
 
@@ -177,14 +176,22 @@ export default async function pageCollection() {
       continue;
     }
 
-    // Only cities whose filename stem carries this state's code belong to it.
-    for (const cityStem of cityStems) {
-      if (!cityStem.endsWith(`-${code}`)) {
+    // The city dataset is one file per state, holding an array of every city in
+    // that state. Enumerate the state's cities by loading that dataset and
+    // iterating each record's slug, rather than assuming a per-city file.
+    const cities = await loadCitiesByState(dataLoader, code, { cache });
+    if (!cities) {
+      continue;
+    }
+
+    for (const city of cities) {
+      const citySlug = String(city?.slug ?? '');
+      if (citySlug === '') {
         continue;
       }
 
       for (const serviceSlug of services) {
-        const record = await buildRecord(code, cityStem, serviceSlug);
+        const record = await buildRecord(code, citySlug, serviceSlug);
         if (record) {
           records.push(record);
         }

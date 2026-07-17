@@ -3,6 +3,12 @@
  * Purpose: Load and validate Enterprise PSEO JSON datasets from disk.
  * Responsibilities: Resolve approved dataset paths, parse JSON, validate structure, and cache reads.
  * Dependencies: Node.js fs/path/url APIs, MemoryCache, and dataset validators.
+ *
+ * All dataset reads share one generic pipeline: path resolution, JSON parsing,
+ * structural validation, deep-freezing, and `MemoryCache` de-duplication live in
+ * a single private `#loadDataset`. Public per-type loaders are thin delegators,
+ * and future dataset types can register their path segments and validation
+ * contract through `options.datasets` without duplicating any pipeline logic.
  */
 
 import { readFile } from 'node:fs/promises';
@@ -71,42 +77,61 @@ export class DataLoadError extends Error {
  */
 export class DataLoader {
   /**
-   * @param {{dataDirectory?: string, cache?: MemoryCache, datasetPaths?: Partial<Record<keyof typeof DEFAULT_DATASET_PATHS, string[]>>}} [options]
+   * @param {{
+   *   dataDirectory?: string,
+   *   cache?: MemoryCache,
+   *   datasetPaths?: Partial<Record<string, string[]>>,
+   *   datasets?: Record<string, {path?: string[], expectedType?: 'object' | 'array', requiredFields?: readonly string[]}>
+   * }} [options]
+   *
+   * `datasetPaths` overrides path segments for known dataset types (backward
+   * compatible with earlier options). `datasets` is the registration seam for
+   * future dataset types, supplying their path segments and/or validation
+   * contract; built-in types are merged on top so existing behavior is
+   * unchanged.
    */
   constructor(options = {}) {
     this.dataDirectory = resolve(options.dataDirectory ?? DEFAULT_DATA_DIRECTORY);
     this.cache = options.cache ?? new MemoryCache();
-    this.datasetPaths = { ...DEFAULT_DATASET_PATHS, ...options.datasetPaths };
+
+    // Registered dataset types: built-in defaults overlaid with caller
+    // registrations via `options.datasets`, and path segments overlaid with
+    // `options.datasetPaths`. Backward compatible: with no options, this is
+    // exactly the built-in registry.
+    this.#datasets = mergeRegistry(DEFAULT_DATASET_PATHS, DEFAULT_VALIDATION, options);
+
+    /** @deprecated kept for back-compat; prefer the merged registry. */
+    this.datasetPaths = { ...DEFAULT_DATASET_PATHS, ...options.datasetPaths, ...pluckPaths(options.datasets) };
   }
 
   /** @param {string} stateCode Lowercase state identifier. @param {DatasetLoadOptions} [options] @returns {Promise<Record<string, unknown>>} */
   loadState(stateCode, options) {
-    return this.#loadNamedDataset('state', stateCode, options);
+    return this.#loadDataset('state', stateCode, options);
   }
 
   /** @param {string} stateCode Lowercase state identifier for its city dataset. @param {DatasetLoadOptions} [options] @returns {Promise<Record<string, unknown>[]>} */
   loadCity(stateCode, options) {
-    return this.#loadNamedDataset('city', stateCode, options);
+    return this.#loadDataset('city', stateCode, options);
   }
 
   /** @param {string} stateCode Lowercase state identifier for its county dataset. @param {DatasetLoadOptions} [options] @returns {Promise<Record<string, unknown>[]>} */
   loadCounty(stateCode, options) {
-    return this.#loadNamedDataset('county', stateCode, options);
+    return this.#loadDataset('county', stateCode, options);
   }
 
   /** @param {DatasetLoadOptions & {fileName?: string}} [options] @returns {Promise<Record<string, unknown>>} */
   loadBusiness(options = {}) {
-    return this.#loadNamedDataset('business', options.fileName ?? 'business', options);
+    return this.#loadDataset('business', options.fileName ?? 'business', options);
   }
 
   /** @param {string} serviceSlug Service identifier. @param {DatasetLoadOptions} [options] @returns {Promise<Record<string, unknown>>} */
   loadService(serviceSlug, options) {
-    return this.#loadNamedDataset('service', serviceSlug, options);
+    return this.#loadDataset('service', serviceSlug, options);
   }
 
   /** @param {string} templateName Template identifier. @param {DatasetLoadOptions} [options] @returns {Promise<Record<string, unknown>>} */
   loadTemplate(templateName, options) {
-    return this.#loadNamedDataset('template', templateName, options);
+    return this.#loadDataset('template', templateName, options);
   }
 
   /**
@@ -120,15 +145,22 @@ export class DataLoader {
   }
 
   /**
-   * @param {keyof typeof DEFAULT_DATASET_PATHS} datasetType Dataset category.
+   * Generic single-pipeline dataset loader.
+   *
+   * Resolves the dataset path, reads the JSON, validates its structure, and
+   * returns a deep-frozen value, all de-duplicated through the shared
+   * `MemoryCache`. Every public per-type loader delegates here; future dataset
+   * types reuse this pipeline by registering through `options.datasets`.
+   *
+   * @param {string} datasetType Dataset category.
    * @param {string} identifier Dataset file identifier without `.json`.
    * @param {DatasetLoadOptions} [options] Load and validation overrides.
    * @returns {Promise<Record<string, unknown> | Record<string, unknown>[]>} Validated immutable JSON.
    * @private
    */
-  #loadNamedDataset(datasetType, identifier, options = {}) {
+  #loadDataset(datasetType, identifier, options = {}) {
     const filePath = this.#resolveDatasetPath(datasetType, identifier);
-    const defaults = DEFAULT_VALIDATION[datasetType];
+    const defaults = this.#datasetValidation(datasetType);
     const validation = {
       expectedType: options.expectedType ?? defaults.expectedType,
       requiredFields: options.requiredFields ?? defaults.requiredFields,
@@ -158,18 +190,18 @@ export class DataLoader {
   }
 
   /**
-   * @param {keyof typeof DEFAULT_DATASET_PATHS} datasetType Dataset category.
+   * @param {string} datasetType Dataset category.
    * @param {string} identifier Dataset file identifier without `.json`.
    * @returns {string} Safe absolute dataset path.
    * @private
    */
   #resolveDatasetPath(datasetType, identifier) {
-    if (!Object.hasOwn(DEFAULT_DATASET_PATHS, datasetType)) {
+    if (!this.#hasDataset(datasetType)) {
       throw new TypeError(`Unsupported dataset type: ${datasetType}.`);
     }
 
     const fileName = `${assertDatasetIdentifier(identifier)}.json`;
-    const directorySegments = this.datasetPaths[datasetType];
+    const directorySegments = this.#datasetPath(datasetType);
 
     if (!Array.isArray(directorySegments) || !directorySegments.every(isSafePathSegment)) {
       throw new TypeError(`Invalid directory configuration for ${datasetType} datasets.`);
@@ -186,6 +218,36 @@ export class DataLoader {
 
     return filePath;
   }
+
+  /**
+   * @param {string} datasetType Dataset category.
+   * @returns {boolean} Whether the type is registered.
+   * @private
+   */
+  #hasDataset(datasetType) {
+    return Object.hasOwn(this.#datasets, datasetType);
+  }
+
+  /**
+   * @param {string} datasetType Dataset category.
+   * @returns {readonly string[]} Directory segments for the dataset.
+   * @private
+   */
+  #datasetPath(datasetType) {
+    return this.#datasets[datasetType].path;
+  }
+
+  /**
+   * @param {string} datasetType Dataset category.
+   * @returns {{expectedType: 'object' | 'array', requiredFields: readonly string[]}} Validation contract.
+   * @private
+   */
+  #datasetValidation(datasetType) {
+    return this.#datasets[datasetType].validation;
+  }
+
+  /** @type {Record<string, {path: readonly string[], validation: {expectedType: 'object' | 'array', requiredFields: readonly string[]}}>} */
+  #datasets = {};
 }
 
 /**
@@ -201,6 +263,81 @@ export function createDataLoader(options) {
 /**
  * @typedef {{expectedType?: 'object' | 'array', requiredFields?: readonly string[]}} DatasetLoadOptions
  */
+
+/**
+ * Builds the merged dataset registry: built-in defaults overlaid with caller
+ * `options.datasets` registrations and `options.datasetPaths` overrides.
+ *
+ * @param {Readonly<Record<string, readonly string[]>>} defaultPaths Built-in path segments.
+ * @param {Readonly<Record<string, {expectedType: 'object' | 'array', requiredFields: readonly string[]}>>} defaultValidation Built-in validation.
+ * @param {{datasetPaths?: Record<string, string[]>, datasets?: Record<string, {path?: string[], expectedType?: 'object' | 'array', requiredFields?: readonly string[]}>}} [options] Caller overrides.
+ * @returns {Record<string, {path: readonly string[], validation: {expectedType: 'object' | 'array', requiredFields: readonly string[]}}>} Merged registry.
+ * @private
+ */
+function mergeRegistry(defaultPaths, defaultValidation, options = {}) {
+  const registry = /* @type {Record<string, {path: readonly string[], validation: {expectedType: 'object' | 'array', requiredFields: readonly string[]}}>} */ ({});
+
+  for (const type of Object.keys(defaultPaths)) {
+    registry[type] = {
+      path: defaultPaths[type],
+      validation: defaultValidation[type],
+    };
+  }
+
+  if (options.datasetPaths) {
+    for (const [type, path] of Object.entries(options.datasetPaths)) {
+      if (path === undefined) {
+        continue;
+      }
+
+      registry[type] = {
+        path,
+        validation: registry[type]?.validation ?? { expectedType: 'object', requiredFields: [] },
+      };
+    }
+  }
+
+  if (options.datasets) {
+    for (const [type, spec] of Object.entries(options.datasets)) {
+      if (spec === undefined) {
+        continue;
+      }
+
+      registry[type] = {
+        path: spec.path ?? registry[type]?.path ?? [],
+        validation: {
+          expectedType: spec.expectedType ?? registry[type]?.validation.expectedType ?? 'object',
+          requiredFields: spec.requiredFields ?? registry[type]?.validation.requiredFields ?? [],
+        },
+      };
+    }
+  }
+
+  return Object.freeze(registry);
+}
+
+/**
+ * Returns a path-only map from a `datasets` registry, for the legacy
+ * `datasetPaths` field kept on the instance for backward compatibility.
+ *
+ * @param {Record<string, {path?: string[]}> | undefined} datasets Caller `datasets` option.
+ * @returns {Record<string, string[]>} Path-only map.
+ * @private
+ */
+function pluckPaths(datasets) {
+  const paths = /* @type {Record<string, string[]>} */ ({});
+  if (!datasets) {
+    return paths;
+  }
+
+  for (const [type, spec] of Object.entries(datasets)) {
+    if (spec?.path !== undefined) {
+      paths[type] = spec.path;
+    }
+  }
+
+  return paths;
+}
 
 /**
  * Reads and parses one UTF-8 JSON file.

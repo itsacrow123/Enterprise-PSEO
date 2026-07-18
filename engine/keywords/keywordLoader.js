@@ -84,12 +84,14 @@ export async function loadKeywordBundle(scope) {
   const present = [];
 
   // Walk highest priority to lowest, but only collect; merge lowest-first so
-  // higher priority overrides.
+  // higher priority overrides. Each file lives directly under
+  // `data/keywords/<service>/` (default and state) or under `.../cities/`
+  // (city), so the subpath names only directories, not the file stem.
   const cityBundle =
-    city === undefined ? undefined : await tryLoadKeyword(service, ['cities', city], city);
+    city === undefined ? undefined : await tryLoadKeyword(service, ['cities'], city);
   const stateBundle =
-    state === undefined ? undefined : await tryLoadKeyword(service, [state], state);
-  const defaultBundle = await tryLoadKeyword(service, ['default'], 'default');
+    state === undefined ? undefined : await tryLoadKeyword(service, [], state);
+  const defaultBundle = await tryLoadKeyword(service, [], 'default');
 
   if (cityBundle) {
     present.push({ priority: 'city', bundle: cityBundle });

@@ -3,11 +3,29 @@
  * Purpose: Translate human-readable location identifiers into stable slugs and back to records.
  * Responsibilities: Normalize free-form state, city, and county names; resolve slugs to entities; and detect missing inputs.
  * Dependencies: None beyond the data it is given. Pure and dependency-free so it can be imported by all Location Engine loaders without cycles.
+ *
+ * EPIC-11 Phase 2 — the state name -> code mapping is now *derivable from identity
+ * records* (`{ code, slug, name }` on each state dataset) rather than being only the
+ * hand-maintained `STATE_CODE_BY_NAME` table below. To stay pure and dependency-free
+ * (this module is imported by every location loader; it must not import a loader or the
+ * cycle closes), the derivation is *injected*: a caller that has loaded the datasets
+ * builds a lookup with `buildStateIdentityLookup` and supplies it via `registerStateIdentity`
+ * (runtime registry) or `resolveStateSlug(input, { lookup })` (per-call override). The
+ * hard-coded `STATE_CODE_BY_NAME` table remains the fallback when no identity-derived
+ * lookup is registered — which is exactly the legacy-shape reality on disk today, where
+ * state datasets carry no `identity` record. The public `resolveStateSlug(input)` zero-arg
+ * behavior is therefore byte-identical to Phase 1A until identity records are present and
+ * registered; backward compatibility is preserved.
  */
 
 /**
- * Maps common U.S. state names (and a few common variants) to their canonical lowercase two-letter codes.
- * Abbreviations normalize to their lowercase form. Unknown inputs fall through to a slugified best guess.
+ * Canonical U.S. state name -> lowercase two-letter code table.
+ *
+ * This is the **fallback** single source of truth for state-code resolution. EPIC-11
+ * Phase 1A mirrored it inline in the one-time migration script (`scripts/migrate-state
+ * -identity.mjs :: STATE_CODE_BY_NAME`) because it was not exported; Phase 2 now exports
+ * it so the script and registrants can align against this same canonical source, retiring
+ * the inline mirror's drift risk.
  *
  * @type {Record<string, string>}
  */

@@ -13,7 +13,8 @@
     "clean": "node --input-type=module -e \"import { rmSync } from 'node:fs'; rmSync('output', { recursive: true, force: true });\"",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "test": "node --test"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.6",

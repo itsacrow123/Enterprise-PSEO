@@ -3,84 +3,83 @@
  * Purpose: Translate human-readable location identifiers into stable slugs and back to records.
  * Responsibilities: Normalize free-form state, city, and county names; resolve slugs to entities; and detect missing inputs.
  * Dependencies: None beyond the data it is given. Pure and dependency-free so it can be imported by all Location Engine loaders without cycles.
- *
- * EPIC-11 Phase 2 — the state name -> code mapping is now *derivable from identity
- * records* (`{ code, slug, name }` on each state dataset) rather than being only the
- * hand-maintained `STATE_CODE_BY_NAME` table below. To stay pure and dependency-free
- * (this module is imported by every location loader; it must not import a loader or the
- * cycle closes), the derivation is *injected*: a caller that has loaded the datasets
- * builds a lookup with `buildStateIdentityLookup` and supplies it via `registerStateIdentity`
- * (runtime registry) or `resolveStateSlug(input, { lookup })` (per-call override). The
- * hard-coded `STATE_CODE_BY_NAME` table remains the fallback when no identity-derived
- * lookup is registered — which is exactly the legacy-shape reality on disk today, where
- * state datasets carry no `identity` record. The public `resolveStateSlug(input)` zero-arg
- * behavior is therefore byte-identical to Phase 1A until identity records are present and
- * registered; backward compatibility is preserved.
  */
 
 /**
- * Canonical U.S. state name -> lowercase two-letter code table.
+ * Identity records for the 50 U.S. states — the single source of truth for the state
+ * code <-> name mapping (EPIC-11 Phase 2). Each record is `{ code, name }` where `code`
+ * is the lowercase two-letter USPS code and `name` is the canonical lowercase state name.
  *
- * This is the **fallback** single source of truth for state-code resolution. EPIC-11
- * Phase 1A mirrored it inline in the one-time migration script (`scripts/migrate-state
- * -identity.mjs :: STATE_CODE_BY_NAME`) because it was not exported; Phase 2 now exports
- * it so the script and registrants can align against this same canonical source, retiring
- * the inline mirror's drift risk.
+ * The lookup tables that `resolveStateSlug` consults (`STATE_CODE_BY_NAME` and its inverse)
+ * are **derived** from this record list rather than hand-maintained, so the name -> code
+ * mapping no longer has a duplicate copy to keep in sync (the Phase 1A migration script
+ * mirrored the old literal here; with the mapping now derived from one record list, the
+ * engine and the migration script's self-check align against a single maintained source).
  *
- * @type {Record<string, string>}
+ * @type {ReadonlyArray<{code: string, name: string}>}
  */
-const STATE_CODE_BY_NAME = Object.freeze({
-  alabama: 'al',
-  alaska: 'ak',
-  arizona: 'az',
-  arkansas: 'ar',
-  california: 'ca',
-  colorado: 'co',
-  connecticut: 'ct',
-  delaware: 'de',
-  florida: 'fl',
-  georgia: 'ga',
-  hawaii: 'hi',
-  idaho: 'id',
-  illinois: 'il',
-  indiana: 'in',
-  iowa: 'ia',
-  kansas: 'ks',
-  kentucky: 'ky',
-  louisiana: 'la',
-  maine: 'me',
-  maryland: 'md',
-  massachusetts: 'ma',
-  michigan: 'mi',
-  minnesota: 'mn',
-  mississippi: 'ms',
-  missouri: 'mo',
-  montana: 'mt',
-  nebraska: 'ne',
-  nevada: 'nv',
-  'new hampshire': 'nh',
-  'new jersey': 'nj',
-  'new mexico': 'nm',
-  'new york': 'ny',
-  'north carolina': 'nc',
-  'north dakota': 'nd',
-  ohio: 'oh',
-  oklahoma: 'ok',
-  oregon: 'or',
-  pennsylvania: 'pa',
-  'rhode island': 'ri',
-  'south carolina': 'sc',
-  'south dakota': 'sd',
-  tennessee: 'tn',
-  texas: 'tx',
-  utah: 'ut',
-  vermont: 'vt',
-  virginia: 'va',
-  washington: 'wa',
-  'west virginia': 'wv',
-  wisconsin: 'wi',
-  wyoming: 'wy',
-});
+const STATE_IDENTITY = Object.freeze([
+  { code: 'al', name: 'alabama' },
+  { code: 'ak', name: 'alaska' },
+  { code: 'az', name: 'arizona' },
+  { code: 'ar', name: 'arkansas' },
+  { code: 'ca', name: 'california' },
+  { code: 'co', name: 'colorado' },
+  { code: 'ct', name: 'connecticut' },
+  { code: 'de', name: 'delaware' },
+  { code: 'fl', name: 'florida' },
+  { code: 'ga', name: 'georgia' },
+  { code: 'hi', name: 'hawaii' },
+  { code: 'id', name: 'idaho' },
+  { code: 'il', name: 'illinois' },
+  { code: 'in', name: 'indiana' },
+  { code: 'ia', name: 'iowa' },
+  { code: 'ks', name: 'kansas' },
+  { code: 'ky', name: 'kentucky' },
+  { code: 'la', name: 'louisiana' },
+  { code: 'me', name: 'maine' },
+  { code: 'md', name: 'maryland' },
+  { code: 'ma', name: 'massachusetts' },
+  { code: 'mi', name: 'michigan' },
+  { code: 'mn', name: 'minnesota' },
+  { code: 'ms', name: 'mississippi' },
+  { code: 'mo', name: 'missouri' },
+  { code: 'mt', name: 'montana' },
+  { code: 'ne', name: 'nebraska' },
+  { code: 'nv', name: 'nevada' },
+  { code: 'nh', name: 'new hampshire' },
+  { code: 'nj', name: 'new jersey' },
+  { code: 'nm', name: 'new mexico' },
+  { code: 'ny', name: 'new york' },
+  { code: 'nc', name: 'north carolina' },
+  { code: 'nd', name: 'north dakota' },
+  { code: 'oh', name: 'ohio' },
+  { code: 'ok', name: 'oklahoma' },
+  { code: 'or', name: 'oregon' },
+  { code: 'pa', name: 'pennsylvania' },
+  { code: 'ri', name: 'rhode island' },
+  { code: 'sc', name: 'south carolina' },
+  { code: 'sd', name: 'south dakota' },
+  { code: 'tn', name: 'tennessee' },
+  { code: 'tx', name: 'texas' },
+  { code: 'ut', name: 'utah' },
+  { code: 'vt', name: 'vermont' },
+  { code: 'va', name: 'virginia' },
+  { code: 'wa', name: 'washington' },
+  { code: 'wv', name: 'west virginia' },
+  { code: 'wi', name: 'wisconsin' },
+  { code: 'wy', name: 'wyoming' },
+]);
+
+/**
+ * State name -> lowercase two-letter code map, **derived** from `STATE_IDENTITY` so the
+ * mapping has a single maintained source rather than a literal that must be kept in sync.
+ *
+ * @type {Readonly<Record<string, string>>}
+ */
+const STATE_CODE_BY_NAME = Object.freeze(
+  Object.fromEntries(STATE_IDENTITY.map(({ code, name }) => [name, code])),
+);
 
 /**
  * Normalizes a free-form string into a lowercase, hyphen-separated slug.

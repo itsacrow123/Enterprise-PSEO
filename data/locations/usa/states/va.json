@@ -1,653 +1,543 @@
 {
-"Accomack County": {
-  "description": "Accomack County supports a diversified economy based on agriculture, tourism, healthcare services, aquaculture, transportation, and local commerce. Coastal industries and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "33400"
-},
-
-"Albemarle County": {
-  "description": "Albemarle County is one of Virginia's strongest economic centers, supported by higher education, healthcare services, technology, professional services, tourism, research-related industries, and residential growth. Its diversified economy contributes substantially to workforce development and business investment.",
-  "population": "115900"
-},
-
-"Alleghany County": {
-  "description": "Alleghany County benefits from manufacturing, healthcare services, forestry-related industries, tourism, transportation, and local business development. Its diversified economy contributes significantly to regional employment and economic growth.",
-  "population": "14800"
-},
-
-"Amelia County": {
-  "description": "Amelia County supports a diversified economy based on agriculture, healthcare services, transportation, small business development, manufacturing, and local commerce. Its strategic location contributes to workforce opportunities and economic activity.",
-  "population": "13400"
-},
-
-"Amherst County": {
-  "description": "Amherst County benefits from manufacturing, healthcare services, agriculture, transportation, tourism, and professional services. Regional employers and farming operations contribute significantly to economic development throughout the county.",
-  "population": "31600"
-},
-
-"Appomattox County": {
-  "description": "Appomattox County supports an economy driven by tourism, healthcare services, agriculture, manufacturing, transportation, and local business activity. Historic attractions and diversified industries contribute substantially to workforce opportunities and economic growth.",
-  "population": "16400"
-},
-
-"Arlington County": {
-  "description": "Arlington County is one of the nation's leading economic centers, driven by technology, government-related industries, defense contracting, healthcare services, finance, professional services, and corporate headquarters. Its highly diversified economy supports substantial employment, innovation, and business investment.",
-  "population": "242300"
-},
-
-"Augusta County": {
-  "description": "Augusta County is an important economic center in western Virginia, supported by manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce growth and regional business activity.",
-  "population": "78900"
-},
-
-"Bath County": {
-  "description": "Bath County benefits from tourism, hospitality, healthcare services, agriculture, transportation, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
-  "population": "4200"
-},
-
-"Bedford County": {
-  "description": "Bedford County is one of central Virginia's fastest-growing economic centers, supported by healthcare services, manufacturing, logistics, professional services, retail development, and residential expansion. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "81600"
-},
-"Bland County": {
-  "description": "Bland County supports a rural economy based on agriculture, healthcare services, tourism, transportation, forestry-related industries, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "6200"
-},
-
-"Botetourt County": {
-  "description": "Botetourt County is one of western Virginia's growing economic centers, supported by manufacturing, healthcare services, logistics, professional services, tourism, and residential development. Its strategic location contributes substantially to workforce growth and business investment.",
-  "population": "35000"
-},
-
-"Brunswick County": {
-  "description": "Brunswick County benefits from agriculture, manufacturing, healthcare services, transportation, forestry-related industries, and local business development. Its diversified economy contributes significantly to regional employment and economic growth.",
-  "population": "15900"
-},
-
-"Buchanan County": {
-  "description": "Buchanan County supports an economy driven by energy-related industries, healthcare services, transportation, manufacturing, tourism, and local commerce. Natural resources and regional employers contribute substantially to workforce opportunities and economic activity.",
-  "population": "19800"
-},
-
-"Buckingham County": {
-  "description": "Buckingham County combines agriculture, forestry-related industries, healthcare services, transportation, manufacturing, and local business activity. Farming operations and regional employers contribute significantly to economic development throughout the county.",
-  "population": "17000"
-},
-
-"Campbell County": {
-  "description": "Campbell County is one of central Virginia's strongest economic centers, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential growth. Its diversified economy contributes substantially to workforce expansion and business investment.",
-  "population": "55700"
-},
-
-"Caroline County": {
-  "description": "Caroline County benefits from logistics, manufacturing, healthcare services, transportation, retail development, and residential expansion. Its location between Richmond and Washington corridors contributes significantly to economic growth and workforce opportunities.",
-  "population": "32600"
-},
-
-"Carroll County": {
-  "description": "Carroll County supports a diversified economy based on manufacturing, healthcare services, agriculture, tourism, transportation, and local commerce. Regional employers and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "29400"
-},
-
-"Charles City County": {
-  "description": "Charles City County benefits from agriculture, tourism, healthcare services, transportation, manufacturing, and local business development. Historic attractions and farming operations contribute substantially to workforce opportunities and economic growth.",
-  "population": "6900"
-},
-
-"Charlotte County": {
-  "description": "Charlotte County supports an economy driven by agriculture, forestry-related industries, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic development throughout the county.",
-  "population": "12000"
-},
-"Chesterfield County": {
-  "description": "Chesterfield County is one of Virginia's fastest-growing economic centers, supported by healthcare services, finance, logistics, technology, professional services, manufacturing, retail development, and residential expansion. Its location within the Richmond metropolitan area drives substantial workforce growth and business investment.",
-  "population": "381000"
-},
-
-"Clarke County": {
-  "description": "Clarke County supports a diversified economy based on agriculture, tourism, healthcare services, professional services, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "15400"
-},
-
-"Craig County": {
-  "description": "Craig County benefits from tourism, agriculture, healthcare services, forestry-related industries, transportation, and local business development. Natural resources and visitor spending contribute substantially to economic growth throughout the county.",
-  "population": "4900"
-},
-
-"Culpeper County": {
-  "description": "Culpeper County is a growing economic center in northern Virginia, supported by healthcare services, logistics, manufacturing, professional services, retail development, and residential growth. Its strategic location contributes significantly to workforce opportunities and business investment.",
-  "population": "54800"
-},
-
-"Cumberland County": {
-  "description": "Cumberland County supports an economy driven by agriculture, forestry-related industries, healthcare services, transportation, manufacturing, and local commerce. Farming operations and regional employers contribute significantly to economic development throughout the county.",
-  "population": "10200"
-},
-
-"Dickenson County": {
-  "description": "Dickenson County benefits from energy-related industries, healthcare services, tourism, transportation, manufacturing, and local business activity. Natural resources and regional employers contribute substantially to workforce opportunities and economic growth.",
-  "population": "13800"
-},
-
-"Dinwiddie County": {
-  "description": "Dinwiddie County supports a diversified economy based on manufacturing, logistics, healthcare services, transportation, professional services, and local commerce. Its strategic location contributes significantly to regional employment and economic development.",
-  "population": "28500"
-},
-
-"Essex County": {
-  "description": "Essex County benefits from healthcare services, tourism, agriculture, transportation, retail activity, and local business development. Waterfront resources and diversified employers contribute significantly to economic activity throughout the county.",
-  "population": "10800"
-},
-
-"Fairfax County": {
-  "description": "Fairfax County is one of the largest and most affluent economic centers in the United States, driven by technology, defense contracting, government services, finance, healthcare, professional services, cybersecurity, and corporate headquarters. Its highly diversified economy supports substantial innovation, employment, and business investment.",
-  "population": "1154000"
-},
-
-"Fauquier County": {
-  "description": "Fauquier County is a growing economic center in northern Virginia, supported by healthcare services, professional services, tourism, agriculture, technology-related businesses, and residential development. Its proximity to the Washington metropolitan area contributes substantially to workforce growth and economic investment.",
-  "population": "76500"
-},
-"Floyd County": {
-  "description": "Floyd County supports a diversified economy based on tourism, agriculture, healthcare services, arts-related businesses, transportation, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "15700"
-},
-
-"Fluvanna County": {
-  "description": "Fluvanna County is a growing economic center in central Virginia, supported by healthcare services, professional services, tourism, construction, retail development, and residential growth. Its proximity to Charlottesville contributes substantially to workforce opportunities and economic expansion.",
-  "population": "28900"
-},
-
-"Franklin County": {
-  "description": "Franklin County is one of southwestern Virginia's strongest economic centers, driven by manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "56900"
-},
-
-"Frederick County": {
-  "description": "Frederick County is a major economic center in the Shenandoah Valley, supported by logistics, manufacturing, healthcare services, professional services, retail development, and residential expansion. Its strategic location contributes substantially to workforce growth and business investment.",
-  "population": "94000"
-},
-
-"Giles County": {
-  "description": "Giles County benefits from manufacturing, healthcare services, tourism, transportation, education-related industries, and local business development. Its diversified economy contributes significantly to workforce opportunities and economic activity.",
-  "population": "16700"
-},
-
-"Gloucester County": {
-  "description": "Gloucester County supports a diversified economy based on healthcare services, tourism, marine-related industries, professional services, retail development, and transportation. Waterfront resources contribute significantly to economic growth throughout the county.",
-  "population": "39300"
-},
-
-"Goochland County": {
-  "description": "Goochland County is one of central Virginia's fastest-growing economic centers, supported by professional services, healthcare services, technology-related businesses, logistics, retail development, and residential expansion. Its proximity to Richmond drives substantial workforce growth and investment.",
-  "population": "26300"
-},
-
-"Grayson County": {
-  "description": "Grayson County benefits from tourism, agriculture, healthcare services, forestry-related industries, transportation, and local commerce. Visitor spending and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "15100"
-},
-
-"Greene County": {
-  "description": "Greene County is a growing economic center in central Virginia, supported by healthcare services, tourism, professional services, construction, retail development, and residential growth. Its proximity to Charlottesville contributes significantly to workforce opportunities and economic development.",
-  "population": "21400"
-},
-
-"Greensville County": {
-  "description": "Greensville County supports an economy driven by manufacturing, healthcare services, transportation, logistics, agriculture, and local business activity. Regional employers contribute significantly to economic growth and workforce development throughout the county.",
-  "population": "11600"
-},
-"Halifax County": {
-  "description": "Halifax County supports a diversified economy based on manufacturing, healthcare services, agriculture, transportation, forestry-related industries, and local commerce. Regional employers and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "34100"
-},
-
-"Hanover County": {
-  "description": "Hanover County is one of central Virginia's strongest economic centers, supported by healthcare services, logistics, manufacturing, professional services, retail development, and residential expansion. Its location within the Richmond metropolitan area drives substantial workforce growth and business investment.",
-  "population": "112000"
-},
-
-"Henrico County": {
-  "description": "Henrico County is one of Virginia's largest economic centers, driven by finance, healthcare, logistics, technology, professional services, manufacturing, retail development, and corporate headquarters. Its highly diversified economy supports substantial employment, innovation, and business investment throughout the Richmond metropolitan area.",
-  "population": "338000"
-},
-
-"Henry County": {
-  "description": "Henry County benefits from manufacturing, healthcare services, transportation, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "50400"
-},
-
-"Highland County": {
-  "description": "Highland County supports a rural economy based on agriculture, tourism, forestry-related industries, healthcare services, transportation, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "2200"
-},
-
-"Isle of Wight County": {
-  "description": "Isle of Wight County is a growing economic center in southeastern Virginia, supported by manufacturing, healthcare services, logistics, agriculture, professional services, and residential development. Its proximity to the Hampton Roads region contributes substantially to workforce growth and business investment.",
-  "population": "40200"
-},
-
-"James City County": {
-  "description": "James City County is one of eastern Virginia's strongest tourism and service economies, supported by tourism, healthcare services, education, professional services, retail development, hospitality, and residential growth. Its diversified economy contributes significantly to employment and business activity.",
-  "population": "78300"
-},
-
-"King and Queen County": {
-  "description": "King and Queen County supports an economy driven by agriculture, forestry-related industries, healthcare services, transportation, tourism, and local commerce. Farming operations and natural resources contribute substantially to economic development throughout the county.",
-  "population": "6900"
-},
-
-"King George County": {
-  "description": "King George County benefits from defense-related industries, healthcare services, professional services, transportation, retail development, and residential expansion. Government-related employment contributes significantly to workforce opportunities and economic growth.",
-  "population": "27200"
-},
-
-"King William County": {
-  "description": "King William County supports a diversified economy based on agriculture, healthcare services, transportation, professional services, tourism, and local business development. Its strategic location contributes significantly to economic activity and workforce growth.",
-  "population": "18200"
-},
-"Lancaster County": {
-  "description": "Lancaster County supports a diversified economy based on tourism, healthcare services, marine-related industries, professional services, retail activity, and local commerce. Waterfront resources and visitor spending contribute significantly to economic growth throughout the county.",
-  "population": "10600"
-},
-
-"Lee County": {
-  "description": "Lee County benefits from healthcare services, tourism, manufacturing, transportation, forestry-related industries, and local business development. Natural resources and regional employers contribute substantially to workforce opportunities and economic activity.",
-  "population": "22300"
-},
-
-"Loudoun County": {
-  "description": "Loudoun County is one of the wealthiest and fastest-growing economic centers in the United States, driven by technology, data centers, cybersecurity, finance, healthcare, professional services, logistics, and corporate investment. Its highly diversified economy supports substantial innovation, employment, and business growth.",
-  "population": "438000"
-},
-
-"Louisa County": {
-  "description": "Louisa County is a growing economic center in central Virginia, supported by healthcare services, manufacturing, logistics, professional services, retail development, and residential expansion. Its strategic location contributes significantly to workforce growth and economic investment.",
-  "population": "40000"
-},
-
-"Lunenburg County": {
-  "description": "Lunenburg County supports an economy driven by agriculture, forestry-related industries, healthcare services, transportation, manufacturing, and local commerce. Farming operations and regional employers contribute significantly to economic development throughout the county.",
-  "population": "12100"
-},
-
-"Madison County": {
-  "description": "Madison County benefits from tourism, agriculture, healthcare services, professional services, transportation, and local business development. Visitor spending and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "13800"
-},
-
-"Mathews County": {
-  "description": "Mathews County supports a diversified economy based on tourism, marine-related industries, healthcare services, transportation, hospitality, and local commerce. Waterfront businesses contribute significantly to workforce opportunities and economic growth.",
-  "population": "8600"
-},
-
-"Mecklenburg County": {
-  "description": "Mecklenburg County is an important economic center in southern Virginia, supported by manufacturing, healthcare services, tourism, transportation, energy-related industries, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "30300"
-},
-
-"Middlesex County": {
-  "description": "Middlesex County benefits from tourism, healthcare services, marine-related industries, transportation, retail development, and local business activity. Waterfront resources and visitor spending contribute substantially to economic development throughout the county.",
-  "population": "10700"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County is one of Virginia's leading education and innovation economies, anchored by higher education, technology, healthcare services, research-related industries, professional services, manufacturing, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "100000"
-},
-"Nelson County": {
-  "description": "Nelson County supports a diversified economy based on tourism, agriculture, hospitality, healthcare services, professional services, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "15100"
-},
-
-"New Kent County": {
-  "description": "New Kent County is one of eastern Virginia's fastest-growing economic centers, supported by tourism, logistics, healthcare services, professional services, retail development, and residential expansion. Its strategic location between Richmond and Hampton Roads contributes substantially to workforce growth and business investment.",
-  "population": "25500"
-},
-
-"Northampton County": {
-  "description": "Northampton County benefits from agriculture, tourism, healthcare services, aquaculture, transportation, and local business development. Coastal industries and farming operations contribute significantly to economic growth throughout the county.",
-  "population": "12000"
-},
-
-"Northumberland County": {
-  "description": "Northumberland County supports an economy driven by tourism, marine-related industries, healthcare services, transportation, hospitality, and local commerce. Waterfront resources contribute substantially to workforce opportunities and economic activity.",
-  "population": "12300"
-},
-
-"Nottoway County": {
-  "description": "Nottoway County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, forestry-related industries, and local commerce. Regional employers contribute significantly to economic development throughout the county.",
-  "population": "15000"
-},
-
-"Orange County": {
-  "description": "Orange County is a growing economic center in central Virginia, supported by healthcare services, tourism, professional services, manufacturing, retail development, and residential growth. Its strategic location contributes significantly to workforce opportunities and business investment.",
-  "population": "38000"
-},
-
-"Page County": {
-  "description": "Page County benefits from tourism, healthcare services, manufacturing, transportation, agriculture, and local business development. Visitor-related industries and diversified employers contribute substantially to economic activity throughout the county.",
-  "population": "23500"
-},
-
-"Patrick County": {
-  "description": "Patrick County supports an economy driven by tourism, agriculture, manufacturing, healthcare services, transportation, and forestry-related industries. Natural resources and regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "17700"
-},
-
-"Pittsylvania County": {
-  "description": "Pittsylvania County is one of southern Virginia's largest economic centers, supported by manufacturing, healthcare services, logistics, agriculture, professional services, energy-related industries, and retail development. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "60300"
-},
-
-"Powhatan County": {
-  "description": "Powhatan County is a growing economic center in the Richmond region, supported by healthcare services, professional services, retail development, construction, tourism, and residential expansion. Its proximity to Richmond contributes significantly to workforce growth and economic development.",
-  "population": "31000"
-},
-"Prince Edward County": {
-  "description": "Prince Edward County supports a diversified economy based on higher education, healthcare services, manufacturing, agriculture, tourism, and professional services. Educational institutions and regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "23000"
-},
-
-"Prince George County": {
-  "description": "Prince George County is an important logistics and economic center in central Virginia, supported by transportation, manufacturing, healthcare services, professional services, retail development, and government-related employment. Its strategic location contributes substantially to business investment and workforce growth.",
-  "population": "43000"
-},
-
-"Prince William County": {
-  "description": "Prince William County is one of Virginia's largest and fastest-growing economic centers, driven by technology, defense contracting, healthcare services, logistics, professional services, retail development, and residential expansion. Its location within the Washington metropolitan area supports substantial employment and business investment.",
-  "population": "500000"
-},
-
-"Pulaski County": {
-  "description": "Pulaski County benefits from manufacturing, healthcare services, logistics, transportation, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "34000"
-},
-
-"Rappahannock County": {
-  "description": "Rappahannock County supports an economy driven by tourism, agriculture, healthcare services, hospitality, professional services, and local commerce. Visitor spending and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "7300"
-},
-
-"Richmond County": {
-  "description": "Richmond County benefits from tourism, healthcare services, marine-related industries, agriculture, transportation, and local business development. Waterfront resources and farming operations contribute significantly to economic growth throughout the county.",
-  "population": "8900"
-},
-
-"Roanoke County": {
-  "description": "Roanoke County is one of western Virginia's strongest economic centers, supported by healthcare services, logistics, manufacturing, professional services, retail development, technology-related industries, and residential growth. Its diversified economy contributes substantially to workforce expansion and business investment.",
-  "population": "96000"
-},
-
-"Rockbridge County": {
-  "description": "Rockbridge County supports a diversified economy based on higher education, tourism, healthcare services, agriculture, manufacturing, and professional services. Educational institutions and visitor-related industries contribute significantly to economic development throughout the county.",
-  "population": "22500"
-},
-
-"Rockingham County": {
-  "description": "Rockingham County is one of Virginia's strongest agricultural and manufacturing economies, supported by healthcare services, higher education, logistics, professional services, food processing, and retail development. Its diversified economy contributes significantly to employment and business growth.",
-  "population": "84000"
-},
-
-"Russell County": {
-  "description": "Russell County supports an economy driven by manufacturing, healthcare services, energy-related industries, transportation, tourism, and local commerce. Regional employers contribute substantially to workforce opportunities and economic activity throughout the county.",
-  "population": "26000"
-},
-"Scott County": {
-  "description": "Scott County supports a diversified economy based on healthcare services, manufacturing, tourism, transportation, forestry-related industries, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "21400"
-},
-
-"Shenandoah County": {
-  "description": "Shenandoah County is an important economic center in the Shenandoah Valley, supported by tourism, manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "45600"
-},
-
-"Smyth County": {
-  "description": "Smyth County benefits from manufacturing, healthcare services, logistics, tourism, transportation, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
-  "population": "30100"
-},
-
-"Southampton County": {
-  "description": "Southampton County supports an economy driven by agriculture, manufacturing, healthcare services, forestry-related industries, transportation, and local business development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "17500"
-},
-
-"Spotsylvania County": {
-  "description": "Spotsylvania County is one of Virginia's fastest-growing economic centers, supported by healthcare services, logistics, professional services, retail development, technology-related businesses, and residential expansion. Its strategic location contributes substantially to workforce growth and business investment.",
-  "population": "145000"
-},
-
-"Stafford County": {
-  "description": "Stafford County is one of Northern Virginia's strongest economic centers, driven by defense-related industries, technology, healthcare services, professional services, logistics, retail development, and residential growth. Its proximity to Washington contributes significantly to employment and business investment.",
-  "population": "161000"
-},
-
-"Surry County": {
-  "description": "Surry County benefits from agriculture, tourism, healthcare services, transportation, manufacturing, and local commerce. Historic attractions and farming operations contribute substantially to economic development throughout the county.",
-  "population": "6600"
-},
-
-"Sussex County": {
-  "description": "Sussex County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, forestry-related industries, and local business activity. Regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "10900"
-},
-
-"Tazewell County": {
-  "description": "Tazewell County is one of southwestern Virginia's strongest economic centers, supported by manufacturing, healthcare services, energy-related industries, logistics, tourism, and professional services. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "40500"
-},
-
-"Warren County": {
-  "description": "Warren County supports an economy driven by tourism, healthcare services, manufacturing, transportation, professional services, retail development, and residential growth. Its strategic location contributes significantly to workforce opportunities and economic activity throughout the county.",
-  "population": "40800"
-},
-"Washington County": {
-  "description": "Washington County is one of southwestern Virginia's strongest economic centers, supported by healthcare services, manufacturing, logistics, higher education, professional services, retail development, and transportation. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "54800"
-},
-
-"Westmoreland County": {
-  "description": "Westmoreland County benefits from tourism, healthcare services, agriculture, marine-related industries, transportation, and local business development. Historic attractions and waterfront resources contribute substantially to economic activity throughout the county.",
-  "population": "18600"
-},
-
-"Wise County": {
-  "description": "Wise County is an important economic center in far southwestern Virginia, driven by healthcare services, higher education, manufacturing, energy-related industries, tourism, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "36400"
-},
-
-"Wythe County": {
-  "description": "Wythe County supports a diversified economy based on manufacturing, logistics, healthcare services, transportation, tourism, professional services, and retail development. Its strategic interstate location contributes substantially to workforce opportunities and economic growth.",
-  "population": "28700"
-},
-
-"York County": {
-  "description": "York County is one of eastern Virginia's strongest economic centers, supported by defense-related industries, healthcare services, professional services, retail development, tourism, and residential growth. Its location within the Hampton Roads region contributes significantly to employment and business investment.",
-  "population": "70800"
-},
-
-"Alexandria City": {
-  "description": "Alexandria City is one of Northern Virginia's premier economic centers, driven by technology, government-related industries, professional services, healthcare, finance, tourism, and corporate investment. Its proximity to Washington, D.C. supports substantial employment and business growth.",
-  "population": "160000"
-},
-
-"Bristol City": {
-  "description": "Bristol City supports an economy driven by healthcare services, tourism, entertainment, manufacturing, transportation, and professional services. Its regional role as a commercial and cultural hub contributes significantly to workforce opportunities and economic development.",
-  "population": "17000"
-},
-
-"Buena Vista City": {
-  "description": "Buena Vista City benefits from manufacturing, healthcare services, education, transportation, tourism, and local business development. Regional employers contribute substantially to economic activity and workforce growth throughout the city.",
-  "population": "6500"
-},
-
-"Charlottesville City": {
-  "description": "Charlottesville City is one of Virginia's leading education and innovation economies, anchored by higher education, healthcare services, technology, research-related industries, professional services, tourism, and retail development. Its diversified economy supports substantial employment and business investment.",
-  "population": "47000"
-},
-
-"Chesapeake City": {
-  "description": "Chesapeake City is one of Virginia's largest economic centers, supported by logistics, defense-related industries, healthcare services, manufacturing, professional services, retail development, and residential growth. Its strategic location within Hampton Roads drives substantial workforce expansion and business investment.",
-  "population": "255000"
-},
-"Colonial Heights City": {
-  "description": "Colonial Heights City supports a diversified economy based on healthcare services, retail development, logistics, professional services, manufacturing, and transportation. Its strategic location contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "18000"
-},
-
-"Covington City": {
-  "description": "Covington City benefits from manufacturing, healthcare services, forestry-related industries, transportation, tourism, and local business development. Regional employers contribute substantially to economic activity and workforce growth throughout the city.",
-  "population": "5600"
-},
-
-"Danville City": {
-  "description": "Danville City is one of southern Virginia's strongest economic centers, driven by manufacturing, healthcare services, technology-related industries, logistics, higher education, professional services, and retail development. Its diversified economy contributes significantly to employment and business investment.",
-  "population": "42000"
-},
-
-"Emporia City": {
-  "description": "Emporia City supports an economy driven by transportation, logistics, healthcare services, retail development, professional services, and hospitality. Its strategic interstate location contributes substantially to economic activity and workforce opportunities.",
-  "population": "5300"
-},
-
-"Fairfax City": {
-  "description": "Fairfax City is an important economic center in Northern Virginia, supported by technology, healthcare services, professional services, higher education, finance, and retail development. Its location within the Washington metropolitan area drives substantial business investment and employment growth.",
-  "population": "25000"
-},
-
-"Falls Church City": {
-  "description": "Falls Church City benefits from professional services, healthcare, technology-related businesses, finance, retail development, and residential growth. Its highly educated workforce and proximity to Washington contribute significantly to economic development.",
-  "population": "15000"
-},
-
-"Franklin City": {
-  "description": "Franklin City supports a diversified economy based on manufacturing, healthcare services, transportation, agriculture-related industries, professional services, and local commerce. Regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "7900"
-},
-
-"Fredericksburg City": {
-  "description": "Fredericksburg City is one of Virginia's fastest-growing economic centers, supported by healthcare services, tourism, professional services, technology-related businesses, retail development, and education. Its strategic location contributes substantially to employment and business investment.",
-  "population": "29000"
-},
-
-"Galax City": {
-  "description": "Galax City benefits from manufacturing, healthcare services, tourism, transportation, professional services, and local business development. Cultural attractions and regional employers contribute significantly to economic activity throughout the city.",
-  "population": "6400"
-},
-
-"Hampton City": {
-  "description": "Hampton City is one of the major economic centers in the Hampton Roads region, driven by defense-related industries, aerospace, healthcare services, tourism, professional services, education, and logistics. Its diversified economy supports substantial employment and business growth.",
-  "population": "137000"
-},
-"Harrisonburg City": {
-  "description": "Harrisonburg City is one of Virginia's leading education and healthcare economies, supported by higher education, healthcare services, manufacturing, professional services, technology-related businesses, tourism, and retail development. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "54000"
-},
-
-"Hopewell City": {
-  "description": "Hopewell City supports a diversified economy based on manufacturing, logistics, healthcare services, professional services, transportation, and retail development. Industrial employers contribute substantially to workforce opportunities and economic growth throughout the city.",
-  "population": "23000"
-},
-
-"Lexington City": {
-  "description": "Lexington City benefits from higher education, tourism, healthcare services, professional services, hospitality, and local commerce. Educational institutions and visitor-related industries contribute significantly to economic activity throughout the city.",
-  "population": "7300"
-},
-
-"Lynchburg City": {
-  "description": "Lynchburg City is one of central Virginia's strongest economic centers, driven by healthcare services, higher education, manufacturing, technology-related industries, professional services, logistics, and retail development. Its diversified economy supports substantial employment and business investment.",
-  "population": "82000"
-},
-
-"Manassas City": {
-  "description": "Manassas City is an important economic center in Northern Virginia, supported by technology, healthcare services, logistics, professional services, retail development, and residential growth. Its location within the Washington metropolitan area contributes significantly to workforce opportunities and economic expansion.",
-  "population": "44000"
-},
-
-"Manassas Park City": {
-  "description": "Manassas Park City benefits from healthcare services, professional services, retail development, logistics, construction, and residential growth. Its strategic location contributes substantially to economic activity and workforce development.",
-  "population": "19000"
-},
-
-"Martinsville City": {
-  "description": "Martinsville City supports an economy driven by manufacturing, healthcare services, logistics, professional services, tourism, and retail development. Regional employers contribute significantly to workforce opportunities and economic growth throughout the city.",
-  "population": "13000"
-},
-
-"Newport News City": {
-  "description": "Newport News City is one of Virginia's largest economic centers, driven by shipbuilding, defense-related industries, healthcare services, aerospace, professional services, logistics, and higher education. Its diversified economy supports substantial employment and business investment.",
-  "population": "185000"
-},
-
-"Norfolk City": {
-  "description": "Norfolk City is one of Virginia's premier economic centers, supported by defense-related industries, maritime commerce, healthcare services, higher education, logistics, finance, tourism, and professional services. Its strategic port location contributes substantially to workforce growth and business development.",
-  "population": "238000"
-},
-
-"Norton City": {
-  "description": "Norton City benefits from healthcare services, tourism, education-related industries, transportation, professional services, and local commerce. Regional employers contribute significantly to economic activity and workforce opportunities throughout the city.",
-  "population": "3700"
-},
-"Petersburg City": {
-  "description": "Petersburg City is an important economic center in central Virginia, supported by healthcare services, logistics, manufacturing, professional services, higher education, and retail development. Its strategic location contributes significantly to workforce opportunities and business investment.",
-  "population": "33500"
-},
-
-"Poquoson City": {
-  "description": "Poquoson City benefits from marine-related industries, healthcare services, tourism, professional services, retail activity, and residential growth. Waterfront resources contribute substantially to economic activity and workforce development throughout the city.",
-  "population": "12300"
-},
-
-"Portsmouth City": {
-  "description": "Portsmouth City is a major economic center in the Hampton Roads region, driven by maritime commerce, defense-related industries, healthcare services, logistics, professional services, manufacturing, and retail development. Its diversified economy supports substantial employment and business growth.",
-  "population": "98000"
-},
-
-"Radford City": {
-  "description": "Radford City supports an economy anchored by higher education, healthcare services, technology-related industries, professional services, retail development, and local commerce. Educational institutions contribute significantly to workforce opportunities and economic activity.",
-  "population": "16800"
-},
-
-"Richmond City": {
-  "description": "Richmond City is one of the largest economic centers in the Mid-Atlantic region, driven by finance, healthcare, government, law, logistics, technology, professional services, and corporate headquarters. Its highly diversified economy supports substantial employment, innovation, and business investment.",
-  "population": "231000"
-},
-
-"Roanoke City": {
-  "description": "Roanoke City is one of western Virginia's strongest economic centers, supported by healthcare services, transportation, logistics, technology-related industries, professional services, higher education, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "101000"
-},
-
-"Salem City": {
-  "description": "Salem City benefits from healthcare services, higher education, manufacturing, professional services, tourism, and retail development. Regional employers and educational institutions contribute significantly to economic activity throughout the city.",
-  "population": "25700"
-},
-
-"Staunton City": {
-  "description": "Staunton City supports a diversified economy based on tourism, healthcare services, manufacturing, professional services, transportation, and retail development. Historic attractions and regional employers contribute substantially to workforce opportunities and economic growth.",
-  "population": "25400"
-},
-
-"Suffolk City": {
-  "description": "Suffolk City is one of Virginia's fastest-growing economic centers, driven by logistics, manufacturing, healthcare services, defense-related industries, professional services, retail development, and residential expansion. Its strategic location within Hampton Roads supports substantial business investment and workforce growth.",
-  "population": "102000"
-},
-
-"Virginia Beach City": {
-  "description": "Virginia Beach City is Virginia's largest city and one of the state's strongest economic centers, supported by tourism, defense-related industries, healthcare services, professional services, logistics, technology-related businesses, and retail development. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "459000"
-},
-"Waynesboro City": {
-  "description": "Waynesboro City is an important economic center in the Shenandoah Valley, supported by manufacturing, healthcare services, logistics, professional services, tourism, and retail development. Its diversified economy contributes significantly to workforce opportunities and regional business growth.",
-  "population": "22900"
-},
-
-"Williamsburg City": {
-  "description": "Williamsburg City is one of Virginia's premier tourism and education economies, driven by tourism, hospitality, higher education, healthcare services, professional services, retail development, and cultural attractions. Visitor spending contributes substantially to employment and business investment.",
-  "population": "15500"
-},
-
-"Winchester City": {
-  "description": "Winchester City is a major economic center in the northern Shenandoah Valley, supported by healthcare services, logistics, manufacturing, professional services, retail development, technology-related industries, and tourism. Its strategic location contributes significantly to workforce growth and economic development.",
-  "population": "28600"
-}
+  "identity": {
+    "code": "va",
+    "slug": "virginia",
+    "name": "Virginia",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Accomack County": {
+      "description": "Accomack County supports a diversified economy based on agriculture, tourism, healthcare services, aquaculture, transportation, and local commerce. Coastal industries and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "33400"
+    },
+    "Albemarle County": {
+      "description": "Albemarle County is one of Virginia's strongest economic centers, supported by higher education, healthcare services, technology, professional services, tourism, research-related industries, and residential growth. Its diversified economy contributes substantially to workforce development and business investment.",
+      "population": "115900"
+    },
+    "Alleghany County": {
+      "description": "Alleghany County benefits from manufacturing, healthcare services, forestry-related industries, tourism, transportation, and local business development. Its diversified economy contributes significantly to regional employment and economic growth.",
+      "population": "14800"
+    },
+    "Amelia County": {
+      "description": "Amelia County supports a diversified economy based on agriculture, healthcare services, transportation, small business development, manufacturing, and local commerce. Its strategic location contributes to workforce opportunities and economic activity.",
+      "population": "13400"
+    },
+    "Amherst County": {
+      "description": "Amherst County benefits from manufacturing, healthcare services, agriculture, transportation, tourism, and professional services. Regional employers and farming operations contribute significantly to economic development throughout the county.",
+      "population": "31600"
+    },
+    "Appomattox County": {
+      "description": "Appomattox County supports an economy driven by tourism, healthcare services, agriculture, manufacturing, transportation, and local business activity. Historic attractions and diversified industries contribute substantially to workforce opportunities and economic growth.",
+      "population": "16400"
+    },
+    "Arlington County": {
+      "description": "Arlington County is one of the nation's leading economic centers, driven by technology, government-related industries, defense contracting, healthcare services, finance, professional services, and corporate headquarters. Its highly diversified economy supports substantial employment, innovation, and business investment.",
+      "population": "242300"
+    },
+    "Augusta County": {
+      "description": "Augusta County is an important economic center in western Virginia, supported by manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce growth and regional business activity.",
+      "population": "78900"
+    },
+    "Bath County": {
+      "description": "Bath County benefits from tourism, hospitality, healthcare services, agriculture, transportation, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
+      "population": "4200"
+    },
+    "Bedford County": {
+      "description": "Bedford County is one of central Virginia's fastest-growing economic centers, supported by healthcare services, manufacturing, logistics, professional services, retail development, and residential expansion. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "81600"
+    },
+    "Bland County": {
+      "description": "Bland County supports a rural economy based on agriculture, healthcare services, tourism, transportation, forestry-related industries, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "6200"
+    },
+    "Botetourt County": {
+      "description": "Botetourt County is one of western Virginia's growing economic centers, supported by manufacturing, healthcare services, logistics, professional services, tourism, and residential development. Its strategic location contributes substantially to workforce growth and business investment.",
+      "population": "35000"
+    },
+    "Brunswick County": {
+      "description": "Brunswick County benefits from agriculture, manufacturing, healthcare services, transportation, forestry-related industries, and local business development. Its diversified economy contributes significantly to regional employment and economic growth.",
+      "population": "15900"
+    },
+    "Buchanan County": {
+      "description": "Buchanan County supports an economy driven by energy-related industries, healthcare services, transportation, manufacturing, tourism, and local commerce. Natural resources and regional employers contribute substantially to workforce opportunities and economic activity.",
+      "population": "19800"
+    },
+    "Buckingham County": {
+      "description": "Buckingham County combines agriculture, forestry-related industries, healthcare services, transportation, manufacturing, and local business activity. Farming operations and regional employers contribute significantly to economic development throughout the county.",
+      "population": "17000"
+    },
+    "Campbell County": {
+      "description": "Campbell County is one of central Virginia's strongest economic centers, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential growth. Its diversified economy contributes substantially to workforce expansion and business investment.",
+      "population": "55700"
+    },
+    "Caroline County": {
+      "description": "Caroline County benefits from logistics, manufacturing, healthcare services, transportation, retail development, and residential expansion. Its location between Richmond and Washington corridors contributes significantly to economic growth and workforce opportunities.",
+      "population": "32600"
+    },
+    "Carroll County": {
+      "description": "Carroll County supports a diversified economy based on manufacturing, healthcare services, agriculture, tourism, transportation, and local commerce. Regional employers and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "29400"
+    },
+    "Charles City County": {
+      "description": "Charles City County benefits from agriculture, tourism, healthcare services, transportation, manufacturing, and local business development. Historic attractions and farming operations contribute substantially to workforce opportunities and economic growth.",
+      "population": "6900"
+    },
+    "Charlotte County": {
+      "description": "Charlotte County supports an economy driven by agriculture, forestry-related industries, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic development throughout the county.",
+      "population": "12000"
+    },
+    "Chesterfield County": {
+      "description": "Chesterfield County is one of Virginia's fastest-growing economic centers, supported by healthcare services, finance, logistics, technology, professional services, manufacturing, retail development, and residential expansion. Its location within the Richmond metropolitan area drives substantial workforce growth and business investment.",
+      "population": "381000"
+    },
+    "Clarke County": {
+      "description": "Clarke County supports a diversified economy based on agriculture, tourism, healthcare services, professional services, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "15400"
+    },
+    "Craig County": {
+      "description": "Craig County benefits from tourism, agriculture, healthcare services, forestry-related industries, transportation, and local business development. Natural resources and visitor spending contribute substantially to economic growth throughout the county.",
+      "population": "4900"
+    },
+    "Culpeper County": {
+      "description": "Culpeper County is a growing economic center in northern Virginia, supported by healthcare services, logistics, manufacturing, professional services, retail development, and residential growth. Its strategic location contributes significantly to workforce opportunities and business investment.",
+      "population": "54800"
+    },
+    "Cumberland County": {
+      "description": "Cumberland County supports an economy driven by agriculture, forestry-related industries, healthcare services, transportation, manufacturing, and local commerce. Farming operations and regional employers contribute significantly to economic development throughout the county.",
+      "population": "10200"
+    },
+    "Dickenson County": {
+      "description": "Dickenson County benefits from energy-related industries, healthcare services, tourism, transportation, manufacturing, and local business activity. Natural resources and regional employers contribute substantially to workforce opportunities and economic growth.",
+      "population": "13800"
+    },
+    "Dinwiddie County": {
+      "description": "Dinwiddie County supports a diversified economy based on manufacturing, logistics, healthcare services, transportation, professional services, and local commerce. Its strategic location contributes significantly to regional employment and economic development.",
+      "population": "28500"
+    },
+    "Essex County": {
+      "description": "Essex County benefits from healthcare services, tourism, agriculture, transportation, retail activity, and local business development. Waterfront resources and diversified employers contribute significantly to economic activity throughout the county.",
+      "population": "10800"
+    },
+    "Fairfax County": {
+      "description": "Fairfax County is one of the largest and most affluent economic centers in the United States, driven by technology, defense contracting, government services, finance, healthcare, professional services, cybersecurity, and corporate headquarters. Its highly diversified economy supports substantial innovation, employment, and business investment.",
+      "population": "1154000"
+    },
+    "Fauquier County": {
+      "description": "Fauquier County is a growing economic center in northern Virginia, supported by healthcare services, professional services, tourism, agriculture, technology-related businesses, and residential development. Its proximity to the Washington metropolitan area contributes substantially to workforce growth and economic investment.",
+      "population": "76500"
+    },
+    "Floyd County": {
+      "description": "Floyd County supports a diversified economy based on tourism, agriculture, healthcare services, arts-related businesses, transportation, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "15700"
+    },
+    "Fluvanna County": {
+      "description": "Fluvanna County is a growing economic center in central Virginia, supported by healthcare services, professional services, tourism, construction, retail development, and residential growth. Its proximity to Charlottesville contributes substantially to workforce opportunities and economic expansion.",
+      "population": "28900"
+    },
+    "Franklin County": {
+      "description": "Franklin County is one of southwestern Virginia's strongest economic centers, driven by manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "56900"
+    },
+    "Frederick County": {
+      "description": "Frederick County is a major economic center in the Shenandoah Valley, supported by logistics, manufacturing, healthcare services, professional services, retail development, and residential expansion. Its strategic location contributes substantially to workforce growth and business investment.",
+      "population": "94000"
+    },
+    "Giles County": {
+      "description": "Giles County benefits from manufacturing, healthcare services, tourism, transportation, education-related industries, and local business development. Its diversified economy contributes significantly to workforce opportunities and economic activity.",
+      "population": "16700"
+    },
+    "Gloucester County": {
+      "description": "Gloucester County supports a diversified economy based on healthcare services, tourism, marine-related industries, professional services, retail development, and transportation. Waterfront resources contribute significantly to economic growth throughout the county.",
+      "population": "39300"
+    },
+    "Goochland County": {
+      "description": "Goochland County is one of central Virginia's fastest-growing economic centers, supported by professional services, healthcare services, technology-related businesses, logistics, retail development, and residential expansion. Its proximity to Richmond drives substantial workforce growth and investment.",
+      "population": "26300"
+    },
+    "Grayson County": {
+      "description": "Grayson County benefits from tourism, agriculture, healthcare services, forestry-related industries, transportation, and local commerce. Visitor spending and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "15100"
+    },
+    "Greene County": {
+      "description": "Greene County is a growing economic center in central Virginia, supported by healthcare services, tourism, professional services, construction, retail development, and residential growth. Its proximity to Charlottesville contributes significantly to workforce opportunities and economic development.",
+      "population": "21400"
+    },
+    "Greensville County": {
+      "description": "Greensville County supports an economy driven by manufacturing, healthcare services, transportation, logistics, agriculture, and local business activity. Regional employers contribute significantly to economic growth and workforce development throughout the county.",
+      "population": "11600"
+    },
+    "Halifax County": {
+      "description": "Halifax County supports a diversified economy based on manufacturing, healthcare services, agriculture, transportation, forestry-related industries, and local commerce. Regional employers and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "34100"
+    },
+    "Hanover County": {
+      "description": "Hanover County is one of central Virginia's strongest economic centers, supported by healthcare services, logistics, manufacturing, professional services, retail development, and residential expansion. Its location within the Richmond metropolitan area drives substantial workforce growth and business investment.",
+      "population": "112000"
+    },
+    "Henrico County": {
+      "description": "Henrico County is one of Virginia's largest economic centers, driven by finance, healthcare, logistics, technology, professional services, manufacturing, retail development, and corporate headquarters. Its highly diversified economy supports substantial employment, innovation, and business investment throughout the Richmond metropolitan area.",
+      "population": "338000"
+    },
+    "Henry County": {
+      "description": "Henry County benefits from manufacturing, healthcare services, transportation, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "50400"
+    },
+    "Highland County": {
+      "description": "Highland County supports a rural economy based on agriculture, tourism, forestry-related industries, healthcare services, transportation, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "2200"
+    },
+    "Isle of Wight County": {
+      "description": "Isle of Wight County is a growing economic center in southeastern Virginia, supported by manufacturing, healthcare services, logistics, agriculture, professional services, and residential development. Its proximity to the Hampton Roads region contributes substantially to workforce growth and business investment.",
+      "population": "40200"
+    },
+    "James City County": {
+      "description": "James City County is one of eastern Virginia's strongest tourism and service economies, supported by tourism, healthcare services, education, professional services, retail development, hospitality, and residential growth. Its diversified economy contributes significantly to employment and business activity.",
+      "population": "78300"
+    },
+    "King and Queen County": {
+      "description": "King and Queen County supports an economy driven by agriculture, forestry-related industries, healthcare services, transportation, tourism, and local commerce. Farming operations and natural resources contribute substantially to economic development throughout the county.",
+      "population": "6900"
+    },
+    "King George County": {
+      "description": "King George County benefits from defense-related industries, healthcare services, professional services, transportation, retail development, and residential expansion. Government-related employment contributes significantly to workforce opportunities and economic growth.",
+      "population": "27200"
+    },
+    "King William County": {
+      "description": "King William County supports a diversified economy based on agriculture, healthcare services, transportation, professional services, tourism, and local business development. Its strategic location contributes significantly to economic activity and workforce growth.",
+      "population": "18200"
+    },
+    "Lancaster County": {
+      "description": "Lancaster County supports a diversified economy based on tourism, healthcare services, marine-related industries, professional services, retail activity, and local commerce. Waterfront resources and visitor spending contribute significantly to economic growth throughout the county.",
+      "population": "10600"
+    },
+    "Lee County": {
+      "description": "Lee County benefits from healthcare services, tourism, manufacturing, transportation, forestry-related industries, and local business development. Natural resources and regional employers contribute substantially to workforce opportunities and economic activity.",
+      "population": "22300"
+    },
+    "Loudoun County": {
+      "description": "Loudoun County is one of the wealthiest and fastest-growing economic centers in the United States, driven by technology, data centers, cybersecurity, finance, healthcare, professional services, logistics, and corporate investment. Its highly diversified economy supports substantial innovation, employment, and business growth.",
+      "population": "438000"
+    },
+    "Louisa County": {
+      "description": "Louisa County is a growing economic center in central Virginia, supported by healthcare services, manufacturing, logistics, professional services, retail development, and residential expansion. Its strategic location contributes significantly to workforce growth and economic investment.",
+      "population": "40000"
+    },
+    "Lunenburg County": {
+      "description": "Lunenburg County supports an economy driven by agriculture, forestry-related industries, healthcare services, transportation, manufacturing, and local commerce. Farming operations and regional employers contribute significantly to economic development throughout the county.",
+      "population": "12100"
+    },
+    "Madison County": {
+      "description": "Madison County benefits from tourism, agriculture, healthcare services, professional services, transportation, and local business development. Visitor spending and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "13800"
+    },
+    "Mathews County": {
+      "description": "Mathews County supports a diversified economy based on tourism, marine-related industries, healthcare services, transportation, hospitality, and local commerce. Waterfront businesses contribute significantly to workforce opportunities and economic growth.",
+      "population": "8600"
+    },
+    "Mecklenburg County": {
+      "description": "Mecklenburg County is an important economic center in southern Virginia, supported by manufacturing, healthcare services, tourism, transportation, energy-related industries, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "30300"
+    },
+    "Middlesex County": {
+      "description": "Middlesex County benefits from tourism, healthcare services, marine-related industries, transportation, retail development, and local business activity. Waterfront resources and visitor spending contribute substantially to economic development throughout the county.",
+      "population": "10700"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County is one of Virginia's leading education and innovation economies, anchored by higher education, technology, healthcare services, research-related industries, professional services, manufacturing, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "100000"
+    },
+    "Nelson County": {
+      "description": "Nelson County supports a diversified economy based on tourism, agriculture, hospitality, healthcare services, professional services, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "15100"
+    },
+    "New Kent County": {
+      "description": "New Kent County is one of eastern Virginia's fastest-growing economic centers, supported by tourism, logistics, healthcare services, professional services, retail development, and residential expansion. Its strategic location between Richmond and Hampton Roads contributes substantially to workforce growth and business investment.",
+      "population": "25500"
+    },
+    "Northampton County": {
+      "description": "Northampton County benefits from agriculture, tourism, healthcare services, aquaculture, transportation, and local business development. Coastal industries and farming operations contribute significantly to economic growth throughout the county.",
+      "population": "12000"
+    },
+    "Northumberland County": {
+      "description": "Northumberland County supports an economy driven by tourism, marine-related industries, healthcare services, transportation, hospitality, and local commerce. Waterfront resources contribute substantially to workforce opportunities and economic activity.",
+      "population": "12300"
+    },
+    "Nottoway County": {
+      "description": "Nottoway County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, forestry-related industries, and local commerce. Regional employers contribute significantly to economic development throughout the county.",
+      "population": "15000"
+    },
+    "Orange County": {
+      "description": "Orange County is a growing economic center in central Virginia, supported by healthcare services, tourism, professional services, manufacturing, retail development, and residential growth. Its strategic location contributes significantly to workforce opportunities and business investment.",
+      "population": "38000"
+    },
+    "Page County": {
+      "description": "Page County benefits from tourism, healthcare services, manufacturing, transportation, agriculture, and local business development. Visitor-related industries and diversified employers contribute substantially to economic activity throughout the county.",
+      "population": "23500"
+    },
+    "Patrick County": {
+      "description": "Patrick County supports an economy driven by tourism, agriculture, manufacturing, healthcare services, transportation, and forestry-related industries. Natural resources and regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "17700"
+    },
+    "Pittsylvania County": {
+      "description": "Pittsylvania County is one of southern Virginia's largest economic centers, supported by manufacturing, healthcare services, logistics, agriculture, professional services, energy-related industries, and retail development. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "60300"
+    },
+    "Powhatan County": {
+      "description": "Powhatan County is a growing economic center in the Richmond region, supported by healthcare services, professional services, retail development, construction, tourism, and residential expansion. Its proximity to Richmond contributes significantly to workforce growth and economic development.",
+      "population": "31000"
+    },
+    "Prince Edward County": {
+      "description": "Prince Edward County supports a diversified economy based on higher education, healthcare services, manufacturing, agriculture, tourism, and professional services. Educational institutions and regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "23000"
+    },
+    "Prince George County": {
+      "description": "Prince George County is an important logistics and economic center in central Virginia, supported by transportation, manufacturing, healthcare services, professional services, retail development, and government-related employment. Its strategic location contributes substantially to business investment and workforce growth.",
+      "population": "43000"
+    },
+    "Prince William County": {
+      "description": "Prince William County is one of Virginia's largest and fastest-growing economic centers, driven by technology, defense contracting, healthcare services, logistics, professional services, retail development, and residential expansion. Its location within the Washington metropolitan area supports substantial employment and business investment.",
+      "population": "500000"
+    },
+    "Pulaski County": {
+      "description": "Pulaski County benefits from manufacturing, healthcare services, logistics, transportation, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "34000"
+    },
+    "Rappahannock County": {
+      "description": "Rappahannock County supports an economy driven by tourism, agriculture, healthcare services, hospitality, professional services, and local commerce. Visitor spending and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "7300"
+    },
+    "Richmond County": {
+      "description": "Richmond County benefits from tourism, healthcare services, marine-related industries, agriculture, transportation, and local business development. Waterfront resources and farming operations contribute significantly to economic growth throughout the county.",
+      "population": "8900"
+    },
+    "Roanoke County": {
+      "description": "Roanoke County is one of western Virginia's strongest economic centers, supported by healthcare services, logistics, manufacturing, professional services, retail development, technology-related industries, and residential growth. Its diversified economy contributes substantially to workforce expansion and business investment.",
+      "population": "96000"
+    },
+    "Rockbridge County": {
+      "description": "Rockbridge County supports a diversified economy based on higher education, tourism, healthcare services, agriculture, manufacturing, and professional services. Educational institutions and visitor-related industries contribute significantly to economic development throughout the county.",
+      "population": "22500"
+    },
+    "Rockingham County": {
+      "description": "Rockingham County is one of Virginia's strongest agricultural and manufacturing economies, supported by healthcare services, higher education, logistics, professional services, food processing, and retail development. Its diversified economy contributes significantly to employment and business growth.",
+      "population": "84000"
+    },
+    "Russell County": {
+      "description": "Russell County supports an economy driven by manufacturing, healthcare services, energy-related industries, transportation, tourism, and local commerce. Regional employers contribute substantially to workforce opportunities and economic activity throughout the county.",
+      "population": "26000"
+    },
+    "Scott County": {
+      "description": "Scott County supports a diversified economy based on healthcare services, manufacturing, tourism, transportation, forestry-related industries, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "21400"
+    },
+    "Shenandoah County": {
+      "description": "Shenandoah County is an important economic center in the Shenandoah Valley, supported by tourism, manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "45600"
+    },
+    "Smyth County": {
+      "description": "Smyth County benefits from manufacturing, healthcare services, logistics, tourism, transportation, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
+      "population": "30100"
+    },
+    "Southampton County": {
+      "description": "Southampton County supports an economy driven by agriculture, manufacturing, healthcare services, forestry-related industries, transportation, and local business development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "17500"
+    },
+    "Spotsylvania County": {
+      "description": "Spotsylvania County is one of Virginia's fastest-growing economic centers, supported by healthcare services, logistics, professional services, retail development, technology-related businesses, and residential expansion. Its strategic location contributes substantially to workforce growth and business investment.",
+      "population": "145000"
+    },
+    "Stafford County": {
+      "description": "Stafford County is one of Northern Virginia's strongest economic centers, driven by defense-related industries, technology, healthcare services, professional services, logistics, retail development, and residential growth. Its proximity to Washington contributes significantly to employment and business investment.",
+      "population": "161000"
+    },
+    "Surry County": {
+      "description": "Surry County benefits from agriculture, tourism, healthcare services, transportation, manufacturing, and local commerce. Historic attractions and farming operations contribute substantially to economic development throughout the county.",
+      "population": "6600"
+    },
+    "Sussex County": {
+      "description": "Sussex County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, forestry-related industries, and local business activity. Regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "10900"
+    },
+    "Tazewell County": {
+      "description": "Tazewell County is one of southwestern Virginia's strongest economic centers, supported by manufacturing, healthcare services, energy-related industries, logistics, tourism, and professional services. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "40500"
+    },
+    "Warren County": {
+      "description": "Warren County supports an economy driven by tourism, healthcare services, manufacturing, transportation, professional services, retail development, and residential growth. Its strategic location contributes significantly to workforce opportunities and economic activity throughout the county.",
+      "population": "40800"
+    },
+    "Washington County": {
+      "description": "Washington County is one of southwestern Virginia's strongest economic centers, supported by healthcare services, manufacturing, logistics, higher education, professional services, retail development, and transportation. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "54800"
+    },
+    "Westmoreland County": {
+      "description": "Westmoreland County benefits from tourism, healthcare services, agriculture, marine-related industries, transportation, and local business development. Historic attractions and waterfront resources contribute substantially to economic activity throughout the county.",
+      "population": "18600"
+    },
+    "Wise County": {
+      "description": "Wise County is an important economic center in far southwestern Virginia, driven by healthcare services, higher education, manufacturing, energy-related industries, tourism, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "36400"
+    },
+    "Wythe County": {
+      "description": "Wythe County supports a diversified economy based on manufacturing, logistics, healthcare services, transportation, tourism, professional services, and retail development. Its strategic interstate location contributes substantially to workforce opportunities and economic growth.",
+      "population": "28700"
+    },
+    "York County": {
+      "description": "York County is one of eastern Virginia's strongest economic centers, supported by defense-related industries, healthcare services, professional services, retail development, tourism, and residential growth. Its location within the Hampton Roads region contributes significantly to employment and business investment.",
+      "population": "70800"
+    },
+    "Alexandria City": {
+      "description": "Alexandria City is one of Northern Virginia's premier economic centers, driven by technology, government-related industries, professional services, healthcare, finance, tourism, and corporate investment. Its proximity to Washington, D.C. supports substantial employment and business growth.",
+      "population": "160000"
+    },
+    "Bristol City": {
+      "description": "Bristol City supports an economy driven by healthcare services, tourism, entertainment, manufacturing, transportation, and professional services. Its regional role as a commercial and cultural hub contributes significantly to workforce opportunities and economic development.",
+      "population": "17000"
+    },
+    "Buena Vista City": {
+      "description": "Buena Vista City benefits from manufacturing, healthcare services, education, transportation, tourism, and local business development. Regional employers contribute substantially to economic activity and workforce growth throughout the city.",
+      "population": "6500"
+    },
+    "Charlottesville City": {
+      "description": "Charlottesville City is one of Virginia's leading education and innovation economies, anchored by higher education, healthcare services, technology, research-related industries, professional services, tourism, and retail development. Its diversified economy supports substantial employment and business investment.",
+      "population": "47000"
+    },
+    "Chesapeake City": {
+      "description": "Chesapeake City is one of Virginia's largest economic centers, supported by logistics, defense-related industries, healthcare services, manufacturing, professional services, retail development, and residential growth. Its strategic location within Hampton Roads drives substantial workforce expansion and business investment.",
+      "population": "255000"
+    },
+    "Colonial Heights City": {
+      "description": "Colonial Heights City supports a diversified economy based on healthcare services, retail development, logistics, professional services, manufacturing, and transportation. Its strategic location contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "18000"
+    },
+    "Covington City": {
+      "description": "Covington City benefits from manufacturing, healthcare services, forestry-related industries, transportation, tourism, and local business development. Regional employers contribute substantially to economic activity and workforce growth throughout the city.",
+      "population": "5600"
+    },
+    "Danville City": {
+      "description": "Danville City is one of southern Virginia's strongest economic centers, driven by manufacturing, healthcare services, technology-related industries, logistics, higher education, professional services, and retail development. Its diversified economy contributes significantly to employment and business investment.",
+      "population": "42000"
+    },
+    "Emporia City": {
+      "description": "Emporia City supports an economy driven by transportation, logistics, healthcare services, retail development, professional services, and hospitality. Its strategic interstate location contributes substantially to economic activity and workforce opportunities.",
+      "population": "5300"
+    },
+    "Fairfax City": {
+      "description": "Fairfax City is an important economic center in Northern Virginia, supported by technology, healthcare services, professional services, higher education, finance, and retail development. Its location within the Washington metropolitan area drives substantial business investment and employment growth.",
+      "population": "25000"
+    },
+    "Falls Church City": {
+      "description": "Falls Church City benefits from professional services, healthcare, technology-related businesses, finance, retail development, and residential growth. Its highly educated workforce and proximity to Washington contribute significantly to economic development.",
+      "population": "15000"
+    },
+    "Franklin City": {
+      "description": "Franklin City supports a diversified economy based on manufacturing, healthcare services, transportation, agriculture-related industries, professional services, and local commerce. Regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "7900"
+    },
+    "Fredericksburg City": {
+      "description": "Fredericksburg City is one of Virginia's fastest-growing economic centers, supported by healthcare services, tourism, professional services, technology-related businesses, retail development, and education. Its strategic location contributes substantially to employment and business investment.",
+      "population": "29000"
+    },
+    "Galax City": {
+      "description": "Galax City benefits from manufacturing, healthcare services, tourism, transportation, professional services, and local business development. Cultural attractions and regional employers contribute significantly to economic activity throughout the city.",
+      "population": "6400"
+    },
+    "Hampton City": {
+      "description": "Hampton City is one of the major economic centers in the Hampton Roads region, driven by defense-related industries, aerospace, healthcare services, tourism, professional services, education, and logistics. Its diversified economy supports substantial employment and business growth.",
+      "population": "137000"
+    },
+    "Harrisonburg City": {
+      "description": "Harrisonburg City is one of Virginia's leading education and healthcare economies, supported by higher education, healthcare services, manufacturing, professional services, technology-related businesses, tourism, and retail development. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "54000"
+    },
+    "Hopewell City": {
+      "description": "Hopewell City supports a diversified economy based on manufacturing, logistics, healthcare services, professional services, transportation, and retail development. Industrial employers contribute substantially to workforce opportunities and economic growth throughout the city.",
+      "population": "23000"
+    },
+    "Lexington City": {
+      "description": "Lexington City benefits from higher education, tourism, healthcare services, professional services, hospitality, and local commerce. Educational institutions and visitor-related industries contribute significantly to economic activity throughout the city.",
+      "population": "7300"
+    },
+    "Lynchburg City": {
+      "description": "Lynchburg City is one of central Virginia's strongest economic centers, driven by healthcare services, higher education, manufacturing, technology-related industries, professional services, logistics, and retail development. Its diversified economy supports substantial employment and business investment.",
+      "population": "82000"
+    },
+    "Manassas City": {
+      "description": "Manassas City is an important economic center in Northern Virginia, supported by technology, healthcare services, logistics, professional services, retail development, and residential growth. Its location within the Washington metropolitan area contributes significantly to workforce opportunities and economic expansion.",
+      "population": "44000"
+    },
+    "Manassas Park City": {
+      "description": "Manassas Park City benefits from healthcare services, professional services, retail development, logistics, construction, and residential growth. Its strategic location contributes substantially to economic activity and workforce development.",
+      "population": "19000"
+    },
+    "Martinsville City": {
+      "description": "Martinsville City supports an economy driven by manufacturing, healthcare services, logistics, professional services, tourism, and retail development. Regional employers contribute significantly to workforce opportunities and economic growth throughout the city.",
+      "population": "13000"
+    },
+    "Newport News City": {
+      "description": "Newport News City is one of Virginia's largest economic centers, driven by shipbuilding, defense-related industries, healthcare services, aerospace, professional services, logistics, and higher education. Its diversified economy supports substantial employment and business investment.",
+      "population": "185000"
+    },
+    "Norfolk City": {
+      "description": "Norfolk City is one of Virginia's premier economic centers, supported by defense-related industries, maritime commerce, healthcare services, higher education, logistics, finance, tourism, and professional services. Its strategic port location contributes substantially to workforce growth and business development.",
+      "population": "238000"
+    },
+    "Norton City": {
+      "description": "Norton City benefits from healthcare services, tourism, education-related industries, transportation, professional services, and local commerce. Regional employers contribute significantly to economic activity and workforce opportunities throughout the city.",
+      "population": "3700"
+    },
+    "Petersburg City": {
+      "description": "Petersburg City is an important economic center in central Virginia, supported by healthcare services, logistics, manufacturing, professional services, higher education, and retail development. Its strategic location contributes significantly to workforce opportunities and business investment.",
+      "population": "33500"
+    },
+    "Poquoson City": {
+      "description": "Poquoson City benefits from marine-related industries, healthcare services, tourism, professional services, retail activity, and residential growth. Waterfront resources contribute substantially to economic activity and workforce development throughout the city.",
+      "population": "12300"
+    },
+    "Portsmouth City": {
+      "description": "Portsmouth City is a major economic center in the Hampton Roads region, driven by maritime commerce, defense-related industries, healthcare services, logistics, professional services, manufacturing, and retail development. Its diversified economy supports substantial employment and business growth.",
+      "population": "98000"
+    },
+    "Radford City": {
+      "description": "Radford City supports an economy anchored by higher education, healthcare services, technology-related industries, professional services, retail development, and local commerce. Educational institutions contribute significantly to workforce opportunities and economic activity.",
+      "population": "16800"
+    },
+    "Richmond City": {
+      "description": "Richmond City is one of the largest economic centers in the Mid-Atlantic region, driven by finance, healthcare, government, law, logistics, technology, professional services, and corporate headquarters. Its highly diversified economy supports substantial employment, innovation, and business investment.",
+      "population": "231000"
+    },
+    "Roanoke City": {
+      "description": "Roanoke City is one of western Virginia's strongest economic centers, supported by healthcare services, transportation, logistics, technology-related industries, professional services, higher education, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "101000"
+    },
+    "Salem City": {
+      "description": "Salem City benefits from healthcare services, higher education, manufacturing, professional services, tourism, and retail development. Regional employers and educational institutions contribute significantly to economic activity throughout the city.",
+      "population": "25700"
+    },
+    "Staunton City": {
+      "description": "Staunton City supports a diversified economy based on tourism, healthcare services, manufacturing, professional services, transportation, and retail development. Historic attractions and regional employers contribute substantially to workforce opportunities and economic growth.",
+      "population": "25400"
+    },
+    "Suffolk City": {
+      "description": "Suffolk City is one of Virginia's fastest-growing economic centers, driven by logistics, manufacturing, healthcare services, defense-related industries, professional services, retail development, and residential expansion. Its strategic location within Hampton Roads supports substantial business investment and workforce growth.",
+      "population": "102000"
+    },
+    "Virginia Beach City": {
+      "description": "Virginia Beach City is Virginia's largest city and one of the state's strongest economic centers, supported by tourism, defense-related industries, healthcare services, professional services, logistics, technology-related businesses, and retail development. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "459000"
+    },
+    "Waynesboro City": {
+      "description": "Waynesboro City is an important economic center in the Shenandoah Valley, supported by manufacturing, healthcare services, logistics, professional services, tourism, and retail development. Its diversified economy contributes significantly to workforce opportunities and regional business growth.",
+      "population": "22900"
+    },
+    "Williamsburg City": {
+      "description": "Williamsburg City is one of Virginia's premier tourism and education economies, driven by tourism, hospitality, higher education, healthcare services, professional services, retail development, and cultural attractions. Visitor spending contributes substantially to employment and business investment.",
+      "population": "15500"
+    },
+    "Winchester City": {
+      "description": "Winchester City is a major economic center in the northern Shenandoah Valley, supported by healthcare services, logistics, manufacturing, professional services, retail development, technology-related industries, and tourism. Its strategic location contributes significantly to workforce growth and economic development.",
+      "population": "28600"
+    }
+  }
 }

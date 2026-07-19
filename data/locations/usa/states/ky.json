@@ -1,590 +1,491 @@
 {
-"Adair County": {
-  "description": "Adair County supports a diversified rural economy based on agriculture, healthcare services, manufacturing, education, and local commerce. Farming operations and community-focused businesses contribute significantly to economic activity throughout the county.",
-  "population": "19225"
-},
-
-"Allen County": {
-  "description": "Allen County combines agriculture, manufacturing, healthcare services, logistics, and retail development within south-central Kentucky. Its strong workforce and growing business community support continued economic expansion.",
-  "population": "21412"
-},
-
-"Anderson County": {
-  "description": "Anderson County benefits from manufacturing, agriculture, tourism, healthcare services, and local business activity. Its strategic location near central Kentucky employment centers contributes to steady economic growth.",
-  "population": "23940"
-},
-
-"Ballard County": {
-  "description": "Ballard County maintains a rural economy centered on agriculture, river-related commerce, transportation services, healthcare, and local businesses. Farming remains the primary economic driver throughout the county.",
-  "population": "7838"
-},
-
-"Barren County": {
-  "description": "Barren County serves as a regional economic center in south-central Kentucky, supporting healthcare, manufacturing, education, agriculture, retail activity, and professional services. Its diversified economy contributes significantly to regional employment.",
-  "population": "44858"
-},
-
-"Bath County": {
-  "description": "Bath County supports an economy based on agriculture, tourism, healthcare services, forestry, and community-focused businesses. Natural resources and farming operations continue to contribute to economic stability throughout the county.",
-  "population": "12917"
-},
-
-"Bell County": {
-  "description": "Bell County combines healthcare, education, tourism, outdoor recreation, manufacturing, and local commerce within southeastern Kentucky. Its regional institutions and natural attractions support ongoing economic activity.",
-  "population": "26699"
-},
-
-"Boone County": {
-  "description": "Boone County is one of Kentucky's fastest-growing counties, benefiting from logistics, healthcare, manufacturing, professional services, retail development, and its connection to the Cincinnati metropolitan area. Continued investment supports strong economic growth.",
-  "population": "141759"
-},
-
-"Bourbon County": {
-  "description": "Bourbon County is known for agriculture, equine industries, tourism, manufacturing, healthcare services, and local commerce. Its historic significance and diverse economy contribute to long-term business development.",
-  "population": "20748"
-},
-
-"Boyd County": {
-  "description": "Boyd County serves as a major economic center in northeastern Kentucky, supported by healthcare, education, manufacturing, transportation, retail activity, and professional services. Its regional influence contributes significantly to economic growth and workforce development.",
-  "population": "47564"
-},
-"Boyle County": {
-  "description": "Boyle County serves as an important educational, healthcare, and commercial center in central Kentucky. Higher education, healthcare services, manufacturing, tourism, and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "31208"
-},
-
-"Bracken County": {
-  "description": "Bracken County maintains a rural economy centered on agriculture, livestock production, healthcare services, tourism, and local commerce. Farming operations remain the primary driver of economic activity across the county.",
-  "population": "8474"
-},
-
-"Breathitt County": {
-  "description": "Breathitt County supports an economy based on healthcare, education, tourism, forestry, local commerce, and public services. Community institutions and small businesses continue to contribute to regional economic stability.",
-  "population": "12392"
-},
-
-"Breckinridge County": {
-  "description": "Breckinridge County combines agriculture, manufacturing, energy production, healthcare services, and transportation-related industries. Its diversified economy supports long-term employment opportunities and business growth.",
-  "population": "20432"
-},
-
-"Bullitt County": {
-  "description": "Bullitt County is one of Kentucky's fastest-growing counties, benefiting from logistics, manufacturing, healthcare, retail development, professional services, and residential expansion. Its proximity to Louisville drives substantial economic investment and workforce growth.",
-  "population": "84631"
-},
-
-"Butler County": {
-  "description": "Butler County supports a rural economy driven by agriculture, manufacturing, healthcare services, forestry, and local business activity. Farming operations and industrial employers contribute significantly to economic development.",
-  "population": "12859"
-},
-
-"Caldwell County": {
-  "description": "Caldwell County combines agriculture, manufacturing, healthcare services, education, and local commerce within western Kentucky. Community-focused industries and farming operations continue to support economic activity throughout the county.",
-  "population": "12564"
-},
-
-"Calloway County": {
-  "description": "Calloway County serves as a regional center for higher education, healthcare, tourism, agriculture, retail activity, and professional services. Its educational institutions and growing business community contribute to a diversified local economy.",
-  "population": "39689"
-},
-
-"Campbell County": {
-  "description": "Campbell County is a major economic center within the Cincinnati metropolitan area, driven by healthcare, finance, logistics, education, professional services, and commercial development. Its strategic location supports strong regional business activity.",
-  "population": "93768"
-},
-
-"Carlisle County": {
-  "description": "Carlisle County maintains a rural economy centered on agriculture, transportation, healthcare services, tourism, and local commerce. Farming operations continue to provide the foundation for economic activity throughout the county.",
-  "population": "4652"
-},
-"Carroll County": {
-  "description": "Carroll County benefits from manufacturing, logistics, agriculture, healthcare services, and river-related commerce. Its strategic location along major transportation corridors supports continued business investment and economic growth.",
-  "population": "10958"
-},
-
-"Carter County": {
-  "description": "Carter County supports an economy based on healthcare, tourism, agriculture, forestry, outdoor recreation, and local commerce. Natural attractions and community-focused businesses contribute significantly to economic activity throughout the county.",
-  "population": "26761"
-},
-
-"Casey County": {
-  "description": "Casey County maintains a rural economy centered on agriculture, livestock production, healthcare services, forestry, and local business development. Farming operations remain a key driver of economic stability throughout the county.",
-  "population": "15888"
-},
-
-"Christian County": {
-  "description": "Christian County is one of western Kentucky's largest economic centers, supported by military-related employment, manufacturing, healthcare, agriculture, education, and professional services. Its diversified economy contributes substantially to regional growth and workforce development.",
-  "population": "72265"
-},
-
-"Clark County": {
-  "description": "Clark County benefits from manufacturing, healthcare, education, logistics, retail development, and residential growth. Its location within the Lexington metropolitan region supports continued economic expansion and business investment.",
-  "population": "37284"
-},
-
-"Clay County": {
-  "description": "Clay County supports an economy based on healthcare, education, agriculture, forestry, tourism, and local commerce. Community institutions and small businesses continue to play important roles in economic activity throughout the county.",
-  "population": "19628"
-},
-
-"Clinton County": {
-  "description": "Clinton County combines agriculture, tourism, healthcare services, manufacturing, and local commerce within south-central Kentucky. Farming operations and visitor-related businesses contribute significantly to economic growth.",
-  "population": "10219"
-},
-
-"Crittenden County": {
-  "description": "Crittenden County maintains a rural economy driven by agriculture, manufacturing, healthcare services, transportation, and local business activity. Its diversified economic base supports stable employment opportunities throughout the county.",
-  "population": "8752"
-},
-
-"Cumberland County": {
-  "description": "Cumberland County supports an economy centered on agriculture, tourism, outdoor recreation, healthcare services, and community-focused businesses. Farming and visitor-related industries remain important contributors to economic activity.",
-  "population": "6618"
-},
-
-"Daviess County": {
-  "description": "Daviess County is one of Kentucky's strongest regional economies, driven by healthcare, manufacturing, education, agriculture, logistics, retail development, and professional services. Its diversified business environment supports substantial employment and commercial growth.",
-  "population": "103668"
-},
-"Edmonson County": {
-  "description": "Edmonson County is known for tourism, outdoor recreation, agriculture, forestry, healthcare services, and local commerce. Visitor spending associated with natural attractions contributes significantly to economic activity throughout the county.",
-  "population": "12554"
-},
-
-"Elliott County": {
-  "description": "Elliott County supports a rural economy based on healthcare, education, agriculture, forestry, local commerce, and public services. Community-focused businesses and institutions play important roles in economic stability.",
-  "population": "7511"
-},
-
-"Estill County": {
-  "description": "Estill County combines manufacturing, healthcare, tourism, agriculture, forestry, and local business development within east-central Kentucky. Its diversified economy supports workforce opportunities and community growth.",
-  "population": "14167"
-},
-
-"Fayette County": {
-  "description": "Fayette County is home to Lexington and serves as one of Kentucky's largest economic centers. Healthcare, higher education, technology, finance, equine industries, professional services, and advanced manufacturing drive a highly diversified and growing economy.",
-  "population": "323152"
-},
-
-"Fleming County": {
-  "description": "Fleming County maintains a strong agricultural economy supported by livestock production, healthcare services, manufacturing, tourism, and local commerce. Farming operations remain central to economic activity throughout the county.",
-  "population": "14852"
-},
-
-"Floyd County": {
-  "description": "Floyd County serves as a regional center for healthcare, education, retail activity, tourism, and professional services in eastern Kentucky. Its diversified economy supports long-term business development and workforce growth.",
-  "population": "35042"
-},
-
-"Franklin County": {
-  "description": "Franklin County is home to Kentucky's capital city and benefits from government services, healthcare, manufacturing, education, finance, and professional industries. Its strong public-sector presence supports substantial economic activity and employment.",
-  "population": "51682"
-},
-
-"Fulton County": {
-  "description": "Fulton County supports an economy based on agriculture, transportation, manufacturing, healthcare services, and local commerce. Farming operations and industrial employers continue to contribute significantly to economic stability.",
-  "population": "7488"
-},
-
-"Gallatin County": {
-  "description": "Gallatin County benefits from manufacturing, logistics, agriculture, healthcare services, and residential growth. Its location within the Cincinnati metropolitan region contributes to ongoing economic development and business investment.",
-  "population": "8903"
-},
-
-"Garrard County": {
-  "description": "Garrard County combines agriculture, manufacturing, healthcare services, tourism, and local commerce within central Kentucky. Farming operations and community-focused businesses continue to support economic activity throughout the county.",
-  "population": "17787"
-},
-"Grant County": {
-  "description": "Grant County is one of northern Kentucky's growing counties, supported by manufacturing, logistics, healthcare services, agriculture, retail development, and residential expansion. Its proximity to the Cincinnati metropolitan area contributes to continued economic growth.",
-  "population": "25544"
-},
-
-"Graves County": {
-  "description": "Graves County serves as an important economic center in western Kentucky, driven by manufacturing, agriculture, healthcare, transportation, retail activity, and professional services. Its diversified economy supports strong regional employment.",
-  "population": "37121"
-},
-
-"Grayson County": {
-  "description": "Grayson County combines manufacturing, tourism, healthcare services, agriculture, forestry, and local commerce. Visitor attractions and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "26920"
-},
-
-"Green County": {
-  "description": "Green County maintains a rural economy centered on agriculture, livestock production, healthcare services, manufacturing, and local business activity. Farming operations remain a primary contributor to economic stability throughout the county.",
-  "population": "11287"
-},
-
-"Greenup County": {
-  "description": "Greenup County benefits from healthcare, manufacturing, transportation, energy-related industries, retail development, and local commerce. Its strategic location in northeastern Kentucky supports continued business investment and workforce growth.",
-  "population": "35098"
-},
-
-"Hancock County": {
-  "description": "Hancock County supports a diversified economy based on manufacturing, agriculture, energy production, healthcare services, and local commerce. Industrial employers and farming operations contribute significantly to economic development.",
-  "population": "9273"
-},
-
-"Hardin County": {
-  "description": "Hardin County is one of Kentucky's largest economic centers, supported by military-related employment, healthcare, manufacturing, logistics, retail development, education, and professional services. Its growing population and strategic location drive substantial economic expansion.",
-  "population": "112879"
-},
-
-"Harlan County": {
-  "description": "Harlan County combines healthcare, education, tourism, outdoor recreation, local commerce, and energy-related industries within southeastern Kentucky. Natural attractions and community institutions continue to support economic activity throughout the county.",
-  "population": "25587"
-},
-
-"Harrison County": {
-  "description": "Harrison County benefits from agriculture, manufacturing, healthcare services, tourism, equine-related industries, and local business development. Its diversified economy supports stable employment and long-term growth.",
-  "population": "19110"
-},
-
-"Hart County": {
-  "description": "Hart County supports an economy driven by agriculture, tourism, manufacturing, healthcare services, and transportation-related industries. Its strategic location and visitor attractions contribute significantly to regional economic activity.",
-  "population": "19789"
-},
-"Henderson County": {
-  "description": "Henderson County serves as a major economic center in western Kentucky, supported by manufacturing, healthcare, agriculture, transportation, education, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "45767"
-},
-
-"Henry County": {
-  "description": "Henry County combines agriculture, manufacturing, healthcare services, logistics, tourism, and local commerce. Farming operations and industrial employers continue to support long-term economic development throughout the county.",
-  "population": "16345"
-},
-
-"Hickman County": {
-  "description": "Hickman County maintains a rural economy centered on agriculture, river-related commerce, transportation, healthcare services, and local businesses. Farming remains the primary driver of economic activity across the county.",
-  "population": "4492"
-},
-
-"Hopkins County": {
-  "description": "Hopkins County supports a diversified economy based on manufacturing, healthcare, education, energy-related industries, retail activity, and professional services. Its strong business environment contributes to regional economic expansion.",
-  "population": "44458"
-},
-
-"Jackson County": {
-  "description": "Jackson County benefits from healthcare, education, agriculture, forestry, tourism, and local commerce. Community-focused businesses and public institutions play important roles in supporting economic stability throughout the county.",
-  "population": "13308"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is Kentucky's largest economic center and home to Louisville. Healthcare, logistics, manufacturing, finance, technology, education, professional services, and tourism drive one of the most diversified economies in the Midwest.",
-  "population": "782969"
-},
-
-"Jessamine County": {
-  "description": "Jessamine County is one of central Kentucky's fastest-growing counties, supported by healthcare, education, equine industries, professional services, retail development, and residential expansion. Its proximity to Lexington fuels continued economic growth.",
-  "population": "55996"
-},
-
-"Johnson County": {
-  "description": "Johnson County supports an economy based on healthcare, education, retail activity, tourism, local commerce, and energy-related industries. Community institutions and business development contribute to economic activity throughout the county.",
-  "population": "21903"
-},
-
-"Kenton County": {
-  "description": "Kenton County is a major economic hub within the Cincinnati metropolitan area, driven by healthcare, finance, logistics, education, technology, professional services, and commercial development. Its strategic location supports substantial regional business activity.",
-  "population": "171759"
-},
-
-"Knott County": {
-  "description": "Knott County combines healthcare, education, tourism, forestry, local commerce, and community services within eastern Kentucky. Small businesses and public institutions continue to support economic stability throughout the county.",
-  "population": "14377"
-},
-"Knox County": {
-  "description": "Knox County serves as an important economic center in southeastern Kentucky, supported by healthcare, education, manufacturing, retail activity, tourism, and professional services. Its regional institutions contribute significantly to workforce development and economic growth.",
-  "population": "30444"
-},
-
-"Larue County": {
-  "description": "Larue County combines agriculture, tourism, manufacturing, healthcare services, and local commerce within central Kentucky. Visitor attractions and farming operations continue to support economic activity throughout the county.",
-  "population": "14799"
-},
-
-"Laurel County": {
-  "description": "Laurel County is one of southeastern Kentucky's largest economic centers, driven by healthcare, retail development, manufacturing, tourism, logistics, and professional services. Its growing business community supports substantial regional employment.",
-  "population": "63202"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County benefits from healthcare, education, manufacturing, retail activity, tourism, and local commerce. Community institutions and business investment contribute to economic stability and long-term growth.",
-  "population": "15861"
-},
-
-"Lee County": {
-  "description": "Lee County supports a rural economy based on tourism, healthcare services, agriculture, forestry, outdoor recreation, and local businesses. Natural attractions contribute significantly to visitor spending and economic activity.",
-  "population": "7234"
-},
-
-"Leslie County": {
-  "description": "Leslie County combines healthcare, education, forestry, tourism, local commerce, and community services within eastern Kentucky. Small businesses and public-sector employment continue to support economic activity throughout the county.",
-  "population": "10327"
-},
-
-"Letcher County": {
-  "description": "Letcher County supports an economy driven by healthcare, education, tourism, local commerce, renewable energy initiatives, and community-focused development. Economic diversification continues to create new opportunities throughout the county.",
-  "population": "21548"
-},
-
-"Lewis County": {
-  "description": "Lewis County maintains a rural economy centered on agriculture, healthcare services, tourism, forestry, and local business activity. Farming operations and community institutions contribute significantly to economic stability.",
-  "population": "13680"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County combines agriculture, manufacturing, healthcare services, retail development, and local commerce within central Kentucky. Its diversified economy supports stable employment and business growth.",
-  "population": "25112"
-},
-
-"Livingston County": {
-  "description": "Livingston County benefits from agriculture, transportation, river-related commerce, healthcare services, tourism, and local businesses. Its strategic location supports economic activity and regional connectivity.",
-  "population": "9191"
-},
-"Logan County": {
-  "description": "Logan County serves as an important economic center in south-central Kentucky, supported by agriculture, manufacturing, healthcare services, education, retail activity, and professional industries. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "27289"
-},
-
-"Lyon County": {
-  "description": "Lyon County benefits from tourism, outdoor recreation, agriculture, healthcare services, transportation, and local commerce. Visitor spending and natural attractions play significant roles in supporting economic activity throughout the county.",
-  "population": "8238"
-},
-
-"McCracken County": {
-  "description": "McCracken County is one of western Kentucky's largest economic centers and home to Paducah. Healthcare, transportation, manufacturing, education, logistics, tourism, and professional services drive a diverse and growing regional economy.",
-  "population": "65418"
-},
-
-"McCreary County": {
-  "description": "McCreary County supports an economy based on tourism, outdoor recreation, healthcare services, forestry, local commerce, and community-focused businesses. Natural resources and visitor-related industries contribute significantly to economic activity.",
-  "population": "17367"
-},
-
-"McLean County": {
-  "description": "McLean County maintains a strong agricultural economy centered on farming, livestock production, healthcare services, manufacturing, and local business development. Agriculture remains the primary driver of economic activity throughout the county.",
-  "population": "9220"
-},
-
-"Madison County": {
-  "description": "Madison County is one of Kentucky's fastest-growing counties, supported by higher education, healthcare, manufacturing, logistics, retail development, and professional services. Its expanding population continues to fuel strong economic growth and investment.",
-  "population": "100620"
-},
-
-"Magoffin County": {
-  "description": "Magoffin County combines healthcare, education, tourism, forestry, local commerce, and community services within eastern Kentucky. Public institutions and small businesses continue to support economic stability and workforce opportunities.",
-  "population": "11847"
-},
-
-"Marion County": {
-  "description": "Marion County supports a diversified economy based on manufacturing, agriculture, healthcare services, tourism, and local commerce. Industrial employers and farming operations contribute significantly to regional economic activity.",
-  "population": "19814"
-},
-
-"Marshall County": {
-  "description": "Marshall County benefits from manufacturing, healthcare, tourism, transportation, energy-related industries, and retail development. Its strategic location in western Kentucky supports continued business investment and economic expansion.",
-  "population": "31541"
-},
-
-"Martin County": {
-  "description": "Martin County supports an economy driven by healthcare, education, local commerce, tourism, community services, and economic diversification initiatives. Public institutions and small businesses remain important contributors to economic activity.",
-  "population": "11587"
-},
-"Mason County": {
-  "description": "Mason County combines agriculture, healthcare services, manufacturing, tourism, retail activity, and local commerce within northeastern Kentucky. Its historic communities and diversified economy support continued business development and workforce growth.",
-  "population": "17120"
-},
-
-"Meade County": {
-  "description": "Meade County is one of Kentucky's growing counties, benefiting from military-related employment, manufacturing, healthcare services, logistics, retail development, and residential expansion. Its proximity to major economic centers supports ongoing investment.",
-  "population": "30989"
-},
-
-"Menifee County": {
-  "description": "Menifee County supports a rural economy based on tourism, outdoor recreation, agriculture, healthcare services, forestry, and local commerce. Natural attractions and community-focused businesses contribute significantly to economic activity.",
-  "population": "6220"
-},
-
-"Mercer County": {
-  "description": "Mercer County serves as a regional center for healthcare, manufacturing, agriculture, education, tourism, and professional services. Its diversified economy supports stable employment opportunities and long-term economic growth.",
-  "population": "22784"
-},
-
-"Metcalfe County": {
-  "description": "Metcalfe County maintains a strong agricultural economy supported by farming, livestock production, healthcare services, manufacturing, and local business activity. Agriculture remains the foundation of economic activity throughout the county.",
-  "population": "10086"
-},
-
-"Monroe County": {
-  "description": "Monroe County combines agriculture, tourism, healthcare services, manufacturing, and local commerce within south-central Kentucky. Farming operations and visitor-related industries continue to support economic development.",
-  "population": "11034"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County benefits from manufacturing, healthcare, education, retail development, tourism, and professional services. Its strategic location supports continued business investment and workforce growth throughout the region.",
-  "population": "28987"
-},
-
-"Morgan County": {
-  "description": "Morgan County supports an economy based on healthcare, education, tourism, forestry, local commerce, and community services. Public institutions and small businesses continue to play important roles in economic stability.",
-  "population": "13237"
-},
-
-"Muhlenberg County": {
-  "description": "Muhlenberg County serves as an important economic center in western Kentucky, driven by manufacturing, healthcare, energy production, agriculture, transportation, and retail activity. Its diversified economy supports substantial regional employment.",
-  "population": "30758"
-},
-
-"Nelson County": {
-  "description": "Nelson County is internationally recognized for tourism, bourbon production, agriculture, manufacturing, healthcare services, and hospitality industries. Visitor spending and industrial investment contribute significantly to economic growth throughout the county.",
-  "population": "46999"
-},
-"Nicholas County": {
-  "description": "Nicholas County supports a rural economy centered on agriculture, livestock production, healthcare services, tourism, and local commerce. Farming operations and community-focused businesses contribute significantly to economic activity throughout the county.",
-  "population": "7130"
-},
-
-"Ohio County": {
-  "description": "Ohio County serves as a regional center for manufacturing, healthcare, agriculture, retail development, transportation, and professional services. Its diversified economy supports stable employment and continued business growth.",
-  "population": "23954"
-},
-
-"Oldham County": {
-  "description": "Oldham County is one of Kentucky's most affluent and fastest-growing counties, supported by healthcare, professional services, education, logistics, retail development, and residential expansion. Its proximity to Louisville contributes to strong economic investment and workforce growth.",
-  "population": "70008"
-},
-
-"Owen County": {
-  "description": "Owen County combines agriculture, manufacturing, healthcare services, tourism, and local business activity within northern Kentucky. Farming operations and small businesses continue to support economic stability and development.",
-  "population": "11356"
-},
-
-"Owsley County": {
-  "description": "Owsley County maintains a rural economy based on healthcare, education, forestry, tourism, local commerce, and community services. Public institutions and small businesses remain important contributors to economic activity throughout the county.",
-  "population": "4205"
-},
-
-"Pendleton County": {
-  "description": "Pendleton County benefits from agriculture, manufacturing, healthcare services, tourism, and residential growth. Its location within the northern Kentucky region supports continued economic development and business investment.",
-  "population": "14810"
-},
-
-"Perry County": {
-  "description": "Perry County serves as an important economic center in eastern Kentucky, supported by healthcare, education, tourism, retail activity, professional services, and local commerce. Its regional institutions contribute significantly to workforce development and economic growth.",
-  "population": "27042"
-},
-
-"Pike County": {
-  "description": "Pike County is the largest county in eastern Kentucky and a major regional economic hub. Healthcare, education, energy-related industries, tourism, retail development, and professional services drive a diversified economy that supports substantial employment and business activity.",
-  "population": "58409"
-},
-
-"Powell County": {
-  "description": "Powell County supports an economy based on tourism, outdoor recreation, healthcare services, agriculture, forestry, and local commerce. Visitor attractions and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "12337"
-},
-
-"Pulaski County": {
-  "description": "Pulaski County is one of south-central Kentucky's leading economic centers, driven by tourism, healthcare, manufacturing, retail development, transportation, and professional services. Its growing business community supports strong regional economic growth.",
-  "population": "65357"
-},
-"Robertson County": {
-  "description": "Robertson County is Kentucky's least populous county and supports a rural economy centered on agriculture, livestock production, healthcare services, forestry, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "2193"
-},
-
-"Rockcastle County": {
-  "description": "Rockcastle County combines agriculture, manufacturing, healthcare services, tourism, transportation, and local business activity within south-central Kentucky. Its diversified economy contributes to stable employment and community growth.",
-  "population": "16615"
-},
-
-"Rowan County": {
-  "description": "Rowan County serves as an important educational and healthcare center in eastern Kentucky, supported by higher education, healthcare services, retail activity, tourism, and professional industries. Its growing economy contributes significantly to regional development.",
-  "population": "24713"
-},
-
-"Russell County": {
-  "description": "Russell County benefits from tourism, outdoor recreation, agriculture, healthcare services, manufacturing, and local commerce. Visitor spending and farming operations continue to support economic activity throughout the county.",
-  "population": "18058"
-},
-
-"Scott County": {
-  "description": "Scott County is one of Kentucky's fastest-growing counties, driven by manufacturing, healthcare, logistics, education, professional services, and residential expansion. Its location within the Lexington metropolitan region supports strong economic growth and investment.",
-  "population": "59053"
-},
-
-"Shelby County": {
-  "description": "Shelby County combines manufacturing, agriculture, healthcare services, logistics, tourism, and residential development. Its strategic location between Louisville and Lexington contributes to continued business expansion and workforce growth.",
-  "population": "50183"
-},
-
-"Simpson County": {
-  "description": "Simpson County supports a diversified economy based on manufacturing, agriculture, healthcare services, transportation, retail activity, and local commerce. Industrial employers and farming operations contribute significantly to economic development.",
-  "population": "19354"
-},
-
-"Spencer County": {
-  "description": "Spencer County is one of Kentucky's growing counties, benefiting from healthcare, manufacturing, agriculture, tourism, professional services, and residential development. Its proximity to Louisville supports continued economic investment.",
-  "population": "19490"
-},
-
-"Taylor County": {
-  "description": "Taylor County serves as a regional center for healthcare, manufacturing, agriculture, education, retail development, and professional services. Its diversified economy supports long-term employment opportunities and business growth.",
-  "population": "26934"
-},
-
-"Todd County": {
-  "description": "Todd County maintains a strong agricultural economy supported by farming, livestock production, manufacturing, healthcare services, and local commerce. Agriculture remains the primary driver of economic activity throughout the county.",
-  "population": "12384"
-},
-"Trigg County": {
-  "description": "Trigg County benefits from tourism, outdoor recreation, agriculture, healthcare services, hospitality industries, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
-  "population": "14339"
-},
-
-"Trimble County": {
-  "description": "Trimble County supports a diversified economy based on manufacturing, agriculture, energy production, healthcare services, and local business development. Its strategic location along the Ohio River contributes to continued economic growth.",
-  "population": "8709"
-},
-
-"Union County": {
-  "description": "Union County combines agriculture, energy production, manufacturing, healthcare services, transportation, and local commerce. Its diversified industrial base supports stable employment and regional economic development.",
-  "population": "15037"
-},
-
-"Warren County": {
-  "description": "Warren County is one of Kentucky's largest economic centers and home to Bowling Green. Manufacturing, healthcare, education, logistics, technology, retail development, and professional services drive a highly diversified and rapidly growing economy.",
-  "population": "140782"
-},
-
-"Washington County": {
-  "description": "Washington County maintains a balanced economy supported by agriculture, manufacturing, healthcare services, tourism, and local commerce. Farming operations and community-focused businesses contribute significantly to economic activity.",
-  "population": "12452"
-},
-
-"Wayne County": {
-  "description": "Wayne County benefits from tourism, outdoor recreation, agriculture, healthcare services, manufacturing, and local business activity. Visitor-related industries and farming operations continue to support economic growth throughout the county.",
-  "population": "20989"
-},
-
-"Webster County": {
-  "description": "Webster County supports an economy driven by agriculture, energy production, manufacturing, healthcare services, and transportation-related industries. Its diversified economy contributes to stable employment opportunities and business development.",
-  "population": "13017"
-},
-
-"Whitley County": {
-  "description": "Whitley County serves as an important economic center in southeastern Kentucky, supported by healthcare, education, manufacturing, tourism, retail activity, and professional services. Its regional institutions contribute significantly to workforce development and economic growth.",
-  "population": "37283"
-},
-
-"Wolfe County": {
-  "description": "Wolfe County is known for tourism, outdoor recreation, forestry, healthcare services, local commerce, and community-focused businesses. Natural attractions and visitor spending play important roles in supporting economic activity throughout the county.",
-  "population": "7156"
-},
-
-"Woodford County": {
-  "description": "Woodford County is nationally recognized for its equine industry, tourism, agriculture, healthcare services, and professional businesses. Its strong economy and proximity to Lexington support continued investment and economic expansion.",
-  "population": "27010"
-}
+  "identity": {
+    "code": "ky",
+    "slug": "kentucky",
+    "name": "Kentucky",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adair County": {
+      "description": "Adair County supports a diversified rural economy based on agriculture, healthcare services, manufacturing, education, and local commerce. Farming operations and community-focused businesses contribute significantly to economic activity throughout the county.",
+      "population": "19225"
+    },
+    "Allen County": {
+      "description": "Allen County combines agriculture, manufacturing, healthcare services, logistics, and retail development within south-central Kentucky. Its strong workforce and growing business community support continued economic expansion.",
+      "population": "21412"
+    },
+    "Anderson County": {
+      "description": "Anderson County benefits from manufacturing, agriculture, tourism, healthcare services, and local business activity. Its strategic location near central Kentucky employment centers contributes to steady economic growth.",
+      "population": "23940"
+    },
+    "Ballard County": {
+      "description": "Ballard County maintains a rural economy centered on agriculture, river-related commerce, transportation services, healthcare, and local businesses. Farming remains the primary economic driver throughout the county.",
+      "population": "7838"
+    },
+    "Barren County": {
+      "description": "Barren County serves as a regional economic center in south-central Kentucky, supporting healthcare, manufacturing, education, agriculture, retail activity, and professional services. Its diversified economy contributes significantly to regional employment.",
+      "population": "44858"
+    },
+    "Bath County": {
+      "description": "Bath County supports an economy based on agriculture, tourism, healthcare services, forestry, and community-focused businesses. Natural resources and farming operations continue to contribute to economic stability throughout the county.",
+      "population": "12917"
+    },
+    "Bell County": {
+      "description": "Bell County combines healthcare, education, tourism, outdoor recreation, manufacturing, and local commerce within southeastern Kentucky. Its regional institutions and natural attractions support ongoing economic activity.",
+      "population": "26699"
+    },
+    "Boone County": {
+      "description": "Boone County is one of Kentucky's fastest-growing counties, benefiting from logistics, healthcare, manufacturing, professional services, retail development, and its connection to the Cincinnati metropolitan area. Continued investment supports strong economic growth.",
+      "population": "141759"
+    },
+    "Bourbon County": {
+      "description": "Bourbon County is known for agriculture, equine industries, tourism, manufacturing, healthcare services, and local commerce. Its historic significance and diverse economy contribute to long-term business development.",
+      "population": "20748"
+    },
+    "Boyd County": {
+      "description": "Boyd County serves as a major economic center in northeastern Kentucky, supported by healthcare, education, manufacturing, transportation, retail activity, and professional services. Its regional influence contributes significantly to economic growth and workforce development.",
+      "population": "47564"
+    },
+    "Boyle County": {
+      "description": "Boyle County serves as an important educational, healthcare, and commercial center in central Kentucky. Higher education, healthcare services, manufacturing, tourism, and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "31208"
+    },
+    "Bracken County": {
+      "description": "Bracken County maintains a rural economy centered on agriculture, livestock production, healthcare services, tourism, and local commerce. Farming operations remain the primary driver of economic activity across the county.",
+      "population": "8474"
+    },
+    "Breathitt County": {
+      "description": "Breathitt County supports an economy based on healthcare, education, tourism, forestry, local commerce, and public services. Community institutions and small businesses continue to contribute to regional economic stability.",
+      "population": "12392"
+    },
+    "Breckinridge County": {
+      "description": "Breckinridge County combines agriculture, manufacturing, energy production, healthcare services, and transportation-related industries. Its diversified economy supports long-term employment opportunities and business growth.",
+      "population": "20432"
+    },
+    "Bullitt County": {
+      "description": "Bullitt County is one of Kentucky's fastest-growing counties, benefiting from logistics, manufacturing, healthcare, retail development, professional services, and residential expansion. Its proximity to Louisville drives substantial economic investment and workforce growth.",
+      "population": "84631"
+    },
+    "Butler County": {
+      "description": "Butler County supports a rural economy driven by agriculture, manufacturing, healthcare services, forestry, and local business activity. Farming operations and industrial employers contribute significantly to economic development.",
+      "population": "12859"
+    },
+    "Caldwell County": {
+      "description": "Caldwell County combines agriculture, manufacturing, healthcare services, education, and local commerce within western Kentucky. Community-focused industries and farming operations continue to support economic activity throughout the county.",
+      "population": "12564"
+    },
+    "Calloway County": {
+      "description": "Calloway County serves as a regional center for higher education, healthcare, tourism, agriculture, retail activity, and professional services. Its educational institutions and growing business community contribute to a diversified local economy.",
+      "population": "39689"
+    },
+    "Campbell County": {
+      "description": "Campbell County is a major economic center within the Cincinnati metropolitan area, driven by healthcare, finance, logistics, education, professional services, and commercial development. Its strategic location supports strong regional business activity.",
+      "population": "93768"
+    },
+    "Carlisle County": {
+      "description": "Carlisle County maintains a rural economy centered on agriculture, transportation, healthcare services, tourism, and local commerce. Farming operations continue to provide the foundation for economic activity throughout the county.",
+      "population": "4652"
+    },
+    "Carroll County": {
+      "description": "Carroll County benefits from manufacturing, logistics, agriculture, healthcare services, and river-related commerce. Its strategic location along major transportation corridors supports continued business investment and economic growth.",
+      "population": "10958"
+    },
+    "Carter County": {
+      "description": "Carter County supports an economy based on healthcare, tourism, agriculture, forestry, outdoor recreation, and local commerce. Natural attractions and community-focused businesses contribute significantly to economic activity throughout the county.",
+      "population": "26761"
+    },
+    "Casey County": {
+      "description": "Casey County maintains a rural economy centered on agriculture, livestock production, healthcare services, forestry, and local business development. Farming operations remain a key driver of economic stability throughout the county.",
+      "population": "15888"
+    },
+    "Christian County": {
+      "description": "Christian County is one of western Kentucky's largest economic centers, supported by military-related employment, manufacturing, healthcare, agriculture, education, and professional services. Its diversified economy contributes substantially to regional growth and workforce development.",
+      "population": "72265"
+    },
+    "Clark County": {
+      "description": "Clark County benefits from manufacturing, healthcare, education, logistics, retail development, and residential growth. Its location within the Lexington metropolitan region supports continued economic expansion and business investment.",
+      "population": "37284"
+    },
+    "Clay County": {
+      "description": "Clay County supports an economy based on healthcare, education, agriculture, forestry, tourism, and local commerce. Community institutions and small businesses continue to play important roles in economic activity throughout the county.",
+      "population": "19628"
+    },
+    "Clinton County": {
+      "description": "Clinton County combines agriculture, tourism, healthcare services, manufacturing, and local commerce within south-central Kentucky. Farming operations and visitor-related businesses contribute significantly to economic growth.",
+      "population": "10219"
+    },
+    "Crittenden County": {
+      "description": "Crittenden County maintains a rural economy driven by agriculture, manufacturing, healthcare services, transportation, and local business activity. Its diversified economic base supports stable employment opportunities throughout the county.",
+      "population": "8752"
+    },
+    "Cumberland County": {
+      "description": "Cumberland County supports an economy centered on agriculture, tourism, outdoor recreation, healthcare services, and community-focused businesses. Farming and visitor-related industries remain important contributors to economic activity.",
+      "population": "6618"
+    },
+    "Daviess County": {
+      "description": "Daviess County is one of Kentucky's strongest regional economies, driven by healthcare, manufacturing, education, agriculture, logistics, retail development, and professional services. Its diversified business environment supports substantial employment and commercial growth.",
+      "population": "103668"
+    },
+    "Edmonson County": {
+      "description": "Edmonson County is known for tourism, outdoor recreation, agriculture, forestry, healthcare services, and local commerce. Visitor spending associated with natural attractions contributes significantly to economic activity throughout the county.",
+      "population": "12554"
+    },
+    "Elliott County": {
+      "description": "Elliott County supports a rural economy based on healthcare, education, agriculture, forestry, local commerce, and public services. Community-focused businesses and institutions play important roles in economic stability.",
+      "population": "7511"
+    },
+    "Estill County": {
+      "description": "Estill County combines manufacturing, healthcare, tourism, agriculture, forestry, and local business development within east-central Kentucky. Its diversified economy supports workforce opportunities and community growth.",
+      "population": "14167"
+    },
+    "Fayette County": {
+      "description": "Fayette County is home to Lexington and serves as one of Kentucky's largest economic centers. Healthcare, higher education, technology, finance, equine industries, professional services, and advanced manufacturing drive a highly diversified and growing economy.",
+      "population": "323152"
+    },
+    "Fleming County": {
+      "description": "Fleming County maintains a strong agricultural economy supported by livestock production, healthcare services, manufacturing, tourism, and local commerce. Farming operations remain central to economic activity throughout the county.",
+      "population": "14852"
+    },
+    "Floyd County": {
+      "description": "Floyd County serves as a regional center for healthcare, education, retail activity, tourism, and professional services in eastern Kentucky. Its diversified economy supports long-term business development and workforce growth.",
+      "population": "35042"
+    },
+    "Franklin County": {
+      "description": "Franklin County is home to Kentucky's capital city and benefits from government services, healthcare, manufacturing, education, finance, and professional industries. Its strong public-sector presence supports substantial economic activity and employment.",
+      "population": "51682"
+    },
+    "Fulton County": {
+      "description": "Fulton County supports an economy based on agriculture, transportation, manufacturing, healthcare services, and local commerce. Farming operations and industrial employers continue to contribute significantly to economic stability.",
+      "population": "7488"
+    },
+    "Gallatin County": {
+      "description": "Gallatin County benefits from manufacturing, logistics, agriculture, healthcare services, and residential growth. Its location within the Cincinnati metropolitan region contributes to ongoing economic development and business investment.",
+      "population": "8903"
+    },
+    "Garrard County": {
+      "description": "Garrard County combines agriculture, manufacturing, healthcare services, tourism, and local commerce within central Kentucky. Farming operations and community-focused businesses continue to support economic activity throughout the county.",
+      "population": "17787"
+    },
+    "Grant County": {
+      "description": "Grant County is one of northern Kentucky's growing counties, supported by manufacturing, logistics, healthcare services, agriculture, retail development, and residential expansion. Its proximity to the Cincinnati metropolitan area contributes to continued economic growth.",
+      "population": "25544"
+    },
+    "Graves County": {
+      "description": "Graves County serves as an important economic center in western Kentucky, driven by manufacturing, agriculture, healthcare, transportation, retail activity, and professional services. Its diversified economy supports strong regional employment.",
+      "population": "37121"
+    },
+    "Grayson County": {
+      "description": "Grayson County combines manufacturing, tourism, healthcare services, agriculture, forestry, and local commerce. Visitor attractions and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "26920"
+    },
+    "Green County": {
+      "description": "Green County maintains a rural economy centered on agriculture, livestock production, healthcare services, manufacturing, and local business activity. Farming operations remain a primary contributor to economic stability throughout the county.",
+      "population": "11287"
+    },
+    "Greenup County": {
+      "description": "Greenup County benefits from healthcare, manufacturing, transportation, energy-related industries, retail development, and local commerce. Its strategic location in northeastern Kentucky supports continued business investment and workforce growth.",
+      "population": "35098"
+    },
+    "Hancock County": {
+      "description": "Hancock County supports a diversified economy based on manufacturing, agriculture, energy production, healthcare services, and local commerce. Industrial employers and farming operations contribute significantly to economic development.",
+      "population": "9273"
+    },
+    "Hardin County": {
+      "description": "Hardin County is one of Kentucky's largest economic centers, supported by military-related employment, healthcare, manufacturing, logistics, retail development, education, and professional services. Its growing population and strategic location drive substantial economic expansion.",
+      "population": "112879"
+    },
+    "Harlan County": {
+      "description": "Harlan County combines healthcare, education, tourism, outdoor recreation, local commerce, and energy-related industries within southeastern Kentucky. Natural attractions and community institutions continue to support economic activity throughout the county.",
+      "population": "25587"
+    },
+    "Harrison County": {
+      "description": "Harrison County benefits from agriculture, manufacturing, healthcare services, tourism, equine-related industries, and local business development. Its diversified economy supports stable employment and long-term growth.",
+      "population": "19110"
+    },
+    "Hart County": {
+      "description": "Hart County supports an economy driven by agriculture, tourism, manufacturing, healthcare services, and transportation-related industries. Its strategic location and visitor attractions contribute significantly to regional economic activity.",
+      "population": "19789"
+    },
+    "Henderson County": {
+      "description": "Henderson County serves as a major economic center in western Kentucky, supported by manufacturing, healthcare, agriculture, transportation, education, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "45767"
+    },
+    "Henry County": {
+      "description": "Henry County combines agriculture, manufacturing, healthcare services, logistics, tourism, and local commerce. Farming operations and industrial employers continue to support long-term economic development throughout the county.",
+      "population": "16345"
+    },
+    "Hickman County": {
+      "description": "Hickman County maintains a rural economy centered on agriculture, river-related commerce, transportation, healthcare services, and local businesses. Farming remains the primary driver of economic activity across the county.",
+      "population": "4492"
+    },
+    "Hopkins County": {
+      "description": "Hopkins County supports a diversified economy based on manufacturing, healthcare, education, energy-related industries, retail activity, and professional services. Its strong business environment contributes to regional economic expansion.",
+      "population": "44458"
+    },
+    "Jackson County": {
+      "description": "Jackson County benefits from healthcare, education, agriculture, forestry, tourism, and local commerce. Community-focused businesses and public institutions play important roles in supporting economic stability throughout the county.",
+      "population": "13308"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is Kentucky's largest economic center and home to Louisville. Healthcare, logistics, manufacturing, finance, technology, education, professional services, and tourism drive one of the most diversified economies in the Midwest.",
+      "population": "782969"
+    },
+    "Jessamine County": {
+      "description": "Jessamine County is one of central Kentucky's fastest-growing counties, supported by healthcare, education, equine industries, professional services, retail development, and residential expansion. Its proximity to Lexington fuels continued economic growth.",
+      "population": "55996"
+    },
+    "Johnson County": {
+      "description": "Johnson County supports an economy based on healthcare, education, retail activity, tourism, local commerce, and energy-related industries. Community institutions and business development contribute to economic activity throughout the county.",
+      "population": "21903"
+    },
+    "Kenton County": {
+      "description": "Kenton County is a major economic hub within the Cincinnati metropolitan area, driven by healthcare, finance, logistics, education, technology, professional services, and commercial development. Its strategic location supports substantial regional business activity.",
+      "population": "171759"
+    },
+    "Knott County": {
+      "description": "Knott County combines healthcare, education, tourism, forestry, local commerce, and community services within eastern Kentucky. Small businesses and public institutions continue to support economic stability throughout the county.",
+      "population": "14377"
+    },
+    "Knox County": {
+      "description": "Knox County serves as an important economic center in southeastern Kentucky, supported by healthcare, education, manufacturing, retail activity, tourism, and professional services. Its regional institutions contribute significantly to workforce development and economic growth.",
+      "population": "30444"
+    },
+    "Larue County": {
+      "description": "Larue County combines agriculture, tourism, manufacturing, healthcare services, and local commerce within central Kentucky. Visitor attractions and farming operations continue to support economic activity throughout the county.",
+      "population": "14799"
+    },
+    "Laurel County": {
+      "description": "Laurel County is one of southeastern Kentucky's largest economic centers, driven by healthcare, retail development, manufacturing, tourism, logistics, and professional services. Its growing business community supports substantial regional employment.",
+      "population": "63202"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County benefits from healthcare, education, manufacturing, retail activity, tourism, and local commerce. Community institutions and business investment contribute to economic stability and long-term growth.",
+      "population": "15861"
+    },
+    "Lee County": {
+      "description": "Lee County supports a rural economy based on tourism, healthcare services, agriculture, forestry, outdoor recreation, and local businesses. Natural attractions contribute significantly to visitor spending and economic activity.",
+      "population": "7234"
+    },
+    "Leslie County": {
+      "description": "Leslie County combines healthcare, education, forestry, tourism, local commerce, and community services within eastern Kentucky. Small businesses and public-sector employment continue to support economic activity throughout the county.",
+      "population": "10327"
+    },
+    "Letcher County": {
+      "description": "Letcher County supports an economy driven by healthcare, education, tourism, local commerce, renewable energy initiatives, and community-focused development. Economic diversification continues to create new opportunities throughout the county.",
+      "population": "21548"
+    },
+    "Lewis County": {
+      "description": "Lewis County maintains a rural economy centered on agriculture, healthcare services, tourism, forestry, and local business activity. Farming operations and community institutions contribute significantly to economic stability.",
+      "population": "13680"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County combines agriculture, manufacturing, healthcare services, retail development, and local commerce within central Kentucky. Its diversified economy supports stable employment and business growth.",
+      "population": "25112"
+    },
+    "Livingston County": {
+      "description": "Livingston County benefits from agriculture, transportation, river-related commerce, healthcare services, tourism, and local businesses. Its strategic location supports economic activity and regional connectivity.",
+      "population": "9191"
+    },
+    "Logan County": {
+      "description": "Logan County serves as an important economic center in south-central Kentucky, supported by agriculture, manufacturing, healthcare services, education, retail activity, and professional industries. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "27289"
+    },
+    "Lyon County": {
+      "description": "Lyon County benefits from tourism, outdoor recreation, agriculture, healthcare services, transportation, and local commerce. Visitor spending and natural attractions play significant roles in supporting economic activity throughout the county.",
+      "population": "8238"
+    },
+    "McCracken County": {
+      "description": "McCracken County is one of western Kentucky's largest economic centers and home to Paducah. Healthcare, transportation, manufacturing, education, logistics, tourism, and professional services drive a diverse and growing regional economy.",
+      "population": "65418"
+    },
+    "McCreary County": {
+      "description": "McCreary County supports an economy based on tourism, outdoor recreation, healthcare services, forestry, local commerce, and community-focused businesses. Natural resources and visitor-related industries contribute significantly to economic activity.",
+      "population": "17367"
+    },
+    "McLean County": {
+      "description": "McLean County maintains a strong agricultural economy centered on farming, livestock production, healthcare services, manufacturing, and local business development. Agriculture remains the primary driver of economic activity throughout the county.",
+      "population": "9220"
+    },
+    "Madison County": {
+      "description": "Madison County is one of Kentucky's fastest-growing counties, supported by higher education, healthcare, manufacturing, logistics, retail development, and professional services. Its expanding population continues to fuel strong economic growth and investment.",
+      "population": "100620"
+    },
+    "Magoffin County": {
+      "description": "Magoffin County combines healthcare, education, tourism, forestry, local commerce, and community services within eastern Kentucky. Public institutions and small businesses continue to support economic stability and workforce opportunities.",
+      "population": "11847"
+    },
+    "Marion County": {
+      "description": "Marion County supports a diversified economy based on manufacturing, agriculture, healthcare services, tourism, and local commerce. Industrial employers and farming operations contribute significantly to regional economic activity.",
+      "population": "19814"
+    },
+    "Marshall County": {
+      "description": "Marshall County benefits from manufacturing, healthcare, tourism, transportation, energy-related industries, and retail development. Its strategic location in western Kentucky supports continued business investment and economic expansion.",
+      "population": "31541"
+    },
+    "Martin County": {
+      "description": "Martin County supports an economy driven by healthcare, education, local commerce, tourism, community services, and economic diversification initiatives. Public institutions and small businesses remain important contributors to economic activity.",
+      "population": "11587"
+    },
+    "Mason County": {
+      "description": "Mason County combines agriculture, healthcare services, manufacturing, tourism, retail activity, and local commerce within northeastern Kentucky. Its historic communities and diversified economy support continued business development and workforce growth.",
+      "population": "17120"
+    },
+    "Meade County": {
+      "description": "Meade County is one of Kentucky's growing counties, benefiting from military-related employment, manufacturing, healthcare services, logistics, retail development, and residential expansion. Its proximity to major economic centers supports ongoing investment.",
+      "population": "30989"
+    },
+    "Menifee County": {
+      "description": "Menifee County supports a rural economy based on tourism, outdoor recreation, agriculture, healthcare services, forestry, and local commerce. Natural attractions and community-focused businesses contribute significantly to economic activity.",
+      "population": "6220"
+    },
+    "Mercer County": {
+      "description": "Mercer County serves as a regional center for healthcare, manufacturing, agriculture, education, tourism, and professional services. Its diversified economy supports stable employment opportunities and long-term economic growth.",
+      "population": "22784"
+    },
+    "Metcalfe County": {
+      "description": "Metcalfe County maintains a strong agricultural economy supported by farming, livestock production, healthcare services, manufacturing, and local business activity. Agriculture remains the foundation of economic activity throughout the county.",
+      "population": "10086"
+    },
+    "Monroe County": {
+      "description": "Monroe County combines agriculture, tourism, healthcare services, manufacturing, and local commerce within south-central Kentucky. Farming operations and visitor-related industries continue to support economic development.",
+      "population": "11034"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County benefits from manufacturing, healthcare, education, retail development, tourism, and professional services. Its strategic location supports continued business investment and workforce growth throughout the region.",
+      "population": "28987"
+    },
+    "Morgan County": {
+      "description": "Morgan County supports an economy based on healthcare, education, tourism, forestry, local commerce, and community services. Public institutions and small businesses continue to play important roles in economic stability.",
+      "population": "13237"
+    },
+    "Muhlenberg County": {
+      "description": "Muhlenberg County serves as an important economic center in western Kentucky, driven by manufacturing, healthcare, energy production, agriculture, transportation, and retail activity. Its diversified economy supports substantial regional employment.",
+      "population": "30758"
+    },
+    "Nelson County": {
+      "description": "Nelson County is internationally recognized for tourism, bourbon production, agriculture, manufacturing, healthcare services, and hospitality industries. Visitor spending and industrial investment contribute significantly to economic growth throughout the county.",
+      "population": "46999"
+    },
+    "Nicholas County": {
+      "description": "Nicholas County supports a rural economy centered on agriculture, livestock production, healthcare services, tourism, and local commerce. Farming operations and community-focused businesses contribute significantly to economic activity throughout the county.",
+      "population": "7130"
+    },
+    "Ohio County": {
+      "description": "Ohio County serves as a regional center for manufacturing, healthcare, agriculture, retail development, transportation, and professional services. Its diversified economy supports stable employment and continued business growth.",
+      "population": "23954"
+    },
+    "Oldham County": {
+      "description": "Oldham County is one of Kentucky's most affluent and fastest-growing counties, supported by healthcare, professional services, education, logistics, retail development, and residential expansion. Its proximity to Louisville contributes to strong economic investment and workforce growth.",
+      "population": "70008"
+    },
+    "Owen County": {
+      "description": "Owen County combines agriculture, manufacturing, healthcare services, tourism, and local business activity within northern Kentucky. Farming operations and small businesses continue to support economic stability and development.",
+      "population": "11356"
+    },
+    "Owsley County": {
+      "description": "Owsley County maintains a rural economy based on healthcare, education, forestry, tourism, local commerce, and community services. Public institutions and small businesses remain important contributors to economic activity throughout the county.",
+      "population": "4205"
+    },
+    "Pendleton County": {
+      "description": "Pendleton County benefits from agriculture, manufacturing, healthcare services, tourism, and residential growth. Its location within the northern Kentucky region supports continued economic development and business investment.",
+      "population": "14810"
+    },
+    "Perry County": {
+      "description": "Perry County serves as an important economic center in eastern Kentucky, supported by healthcare, education, tourism, retail activity, professional services, and local commerce. Its regional institutions contribute significantly to workforce development and economic growth.",
+      "population": "27042"
+    },
+    "Pike County": {
+      "description": "Pike County is the largest county in eastern Kentucky and a major regional economic hub. Healthcare, education, energy-related industries, tourism, retail development, and professional services drive a diversified economy that supports substantial employment and business activity.",
+      "population": "58409"
+    },
+    "Powell County": {
+      "description": "Powell County supports an economy based on tourism, outdoor recreation, healthcare services, agriculture, forestry, and local commerce. Visitor attractions and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "12337"
+    },
+    "Pulaski County": {
+      "description": "Pulaski County is one of south-central Kentucky's leading economic centers, driven by tourism, healthcare, manufacturing, retail development, transportation, and professional services. Its growing business community supports strong regional economic growth.",
+      "population": "65357"
+    },
+    "Robertson County": {
+      "description": "Robertson County is Kentucky's least populous county and supports a rural economy centered on agriculture, livestock production, healthcare services, forestry, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "2193"
+    },
+    "Rockcastle County": {
+      "description": "Rockcastle County combines agriculture, manufacturing, healthcare services, tourism, transportation, and local business activity within south-central Kentucky. Its diversified economy contributes to stable employment and community growth.",
+      "population": "16615"
+    },
+    "Rowan County": {
+      "description": "Rowan County serves as an important educational and healthcare center in eastern Kentucky, supported by higher education, healthcare services, retail activity, tourism, and professional industries. Its growing economy contributes significantly to regional development.",
+      "population": "24713"
+    },
+    "Russell County": {
+      "description": "Russell County benefits from tourism, outdoor recreation, agriculture, healthcare services, manufacturing, and local commerce. Visitor spending and farming operations continue to support economic activity throughout the county.",
+      "population": "18058"
+    },
+    "Scott County": {
+      "description": "Scott County is one of Kentucky's fastest-growing counties, driven by manufacturing, healthcare, logistics, education, professional services, and residential expansion. Its location within the Lexington metropolitan region supports strong economic growth and investment.",
+      "population": "59053"
+    },
+    "Shelby County": {
+      "description": "Shelby County combines manufacturing, agriculture, healthcare services, logistics, tourism, and residential development. Its strategic location between Louisville and Lexington contributes to continued business expansion and workforce growth.",
+      "population": "50183"
+    },
+    "Simpson County": {
+      "description": "Simpson County supports a diversified economy based on manufacturing, agriculture, healthcare services, transportation, retail activity, and local commerce. Industrial employers and farming operations contribute significantly to economic development.",
+      "population": "19354"
+    },
+    "Spencer County": {
+      "description": "Spencer County is one of Kentucky's growing counties, benefiting from healthcare, manufacturing, agriculture, tourism, professional services, and residential development. Its proximity to Louisville supports continued economic investment.",
+      "population": "19490"
+    },
+    "Taylor County": {
+      "description": "Taylor County serves as a regional center for healthcare, manufacturing, agriculture, education, retail development, and professional services. Its diversified economy supports long-term employment opportunities and business growth.",
+      "population": "26934"
+    },
+    "Todd County": {
+      "description": "Todd County maintains a strong agricultural economy supported by farming, livestock production, manufacturing, healthcare services, and local commerce. Agriculture remains the primary driver of economic activity throughout the county.",
+      "population": "12384"
+    },
+    "Trigg County": {
+      "description": "Trigg County benefits from tourism, outdoor recreation, agriculture, healthcare services, hospitality industries, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
+      "population": "14339"
+    },
+    "Trimble County": {
+      "description": "Trimble County supports a diversified economy based on manufacturing, agriculture, energy production, healthcare services, and local business development. Its strategic location along the Ohio River contributes to continued economic growth.",
+      "population": "8709"
+    },
+    "Union County": {
+      "description": "Union County combines agriculture, energy production, manufacturing, healthcare services, transportation, and local commerce. Its diversified industrial base supports stable employment and regional economic development.",
+      "population": "15037"
+    },
+    "Warren County": {
+      "description": "Warren County is one of Kentucky's largest economic centers and home to Bowling Green. Manufacturing, healthcare, education, logistics, technology, retail development, and professional services drive a highly diversified and rapidly growing economy.",
+      "population": "140782"
+    },
+    "Washington County": {
+      "description": "Washington County maintains a balanced economy supported by agriculture, manufacturing, healthcare services, tourism, and local commerce. Farming operations and community-focused businesses contribute significantly to economic activity.",
+      "population": "12452"
+    },
+    "Wayne County": {
+      "description": "Wayne County benefits from tourism, outdoor recreation, agriculture, healthcare services, manufacturing, and local business activity. Visitor-related industries and farming operations continue to support economic growth throughout the county.",
+      "population": "20989"
+    },
+    "Webster County": {
+      "description": "Webster County supports an economy driven by agriculture, energy production, manufacturing, healthcare services, and transportation-related industries. Its diversified economy contributes to stable employment opportunities and business development.",
+      "population": "13017"
+    },
+    "Whitley County": {
+      "description": "Whitley County serves as an important economic center in southeastern Kentucky, supported by healthcare, education, manufacturing, tourism, retail activity, and professional services. Its regional institutions contribute significantly to workforce development and economic growth.",
+      "population": "37283"
+    },
+    "Wolfe County": {
+      "description": "Wolfe County is known for tourism, outdoor recreation, forestry, healthcare services, local commerce, and community-focused businesses. Natural attractions and visitor spending play important roles in supporting economic activity throughout the county.",
+      "population": "7156"
+    },
+    "Woodford County": {
+      "description": "Woodford County is nationally recognized for its equine industry, tourism, agriculture, healthcare services, and professional businesses. Its strong economy and proximity to Lexington support continued investment and economic expansion.",
+      "population": "27010"
+    }
+  }
 }

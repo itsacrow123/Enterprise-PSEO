@@ -1,403 +1,339 @@
 {
-"Adams County": {
-  "description": "Adams County serves as an important economic center in southwest Mississippi, supported by tourism, healthcare services, manufacturing, education, retail activity, and professional services. Its historic attractions and diversified economy contribute significantly to regional growth.",
-  "population": "29254"
-},
-
-"Alcorn County": {
-  "description": "Alcorn County benefits from manufacturing, healthcare services, education, retail development, logistics, and professional industries. Its strong business environment supports stable employment opportunities and continued economic expansion.",
-  "population": "34461"
-},
-
-"Amite County": {
-  "description": "Amite County maintains a rural economy centered on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations remain key contributors to economic activity throughout the county.",
-  "population": "12147"
-},
-
-"Attala County": {
-  "description": "Attala County supports a diversified economy based on manufacturing, agriculture, healthcare services, transportation, retail activity, and local business development. Its economy contributes to stable employment and long-term community growth.",
-  "population": "17340"
-},
-
-"Benton County": {
-  "description": "Benton County supports an economy driven by agriculture, forestry, healthcare services, manufacturing, logistics, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
-  "population": "8066"
-},
-
-"Bolivar County": {
-  "description": "Bolivar County serves as a major agricultural and educational center in the Mississippi Delta, supported by healthcare, higher education, agribusiness, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to regional employment.",
-  "population": "30239"
-},
-
-"Calhoun County": {
-  "description": "Calhoun County combines agriculture, manufacturing, healthcare services, forestry, transportation, and local commerce. Its diversified business base supports stable workforce opportunities and economic development.",
-  "population": "14112"
-},
-
-"Carroll County": {
-  "description": "Carroll County maintains a rural economy centered on agriculture, forestry, healthcare services, manufacturing, agribusiness, and local business activity. Farming remains a primary contributor to economic stability throughout the county.",
-  "population": "9862"
-},
-
-"Chickasaw County": {
-  "description": "Chickasaw County benefits from manufacturing, agriculture, healthcare services, logistics, retail activity, and local commerce. Industrial employers and farming operations contribute significantly to regional economic growth.",
-  "population": "17011"
-},
-
-"Choctaw County": {
-  "description": "Choctaw County supports an economy based on agriculture, forestry, healthcare services, manufacturing, transportation, and local business development. Natural resources and farming operations remain important contributors to economic activity.",
-  "population": "8188"
-},
-"Claiborne County": {
-  "description": "Claiborne County supports a diversified economy based on healthcare services, agriculture, energy-related industries, transportation, retail activity, and local commerce. Community institutions and business development contribute significantly to economic activity throughout the county.",
-  "population": "8960"
-},
-
-"Clarke County": {
-  "description": "Clarke County benefits from manufacturing, forestry, agriculture, healthcare services, logistics, and local business development. Natural resources and industrial employers contribute substantially to regional economic growth.",
-  "population": "15522"
-},
-
-"Clay County": {
-  "description": "Clay County serves as an important manufacturing and agricultural center in northeast Mississippi, supported by healthcare services, transportation, logistics, retail activity, and professional industries. Its diversified economy supports stable employment opportunities.",
-  "population": "19386"
-},
-
-"Coahoma County": {
-  "description": "Coahoma County is a significant economic center in the Mississippi Delta, driven by agriculture, healthcare, education, tourism, manufacturing, and retail development. Its diversified economy contributes substantially to regional workforce development.",
-  "population": "21258"
-},
-
-"Copiah County": {
-  "description": "Copiah County combines agriculture, manufacturing, healthcare services, education, transportation, and local commerce. Farming operations and industrial employers continue to support economic growth throughout the county.",
-  "population": "27809"
-},
-
-"Covington County": {
-  "description": "Covington County supports an economy driven by manufacturing, forestry, healthcare services, agriculture, retail activity, and local business development. Its diversified economy contributes to stable employment and community growth.",
-  "population": "18387"
-},
-
-"DeSoto County": {
-  "description": "DeSoto County is Mississippi's fastest-growing and most populous county, supported by logistics, healthcare, finance, technology, retail development, professional services, and residential expansion. Its location within the Memphis metropolitan area drives substantial economic investment and workforce growth.",
-  "population": "193813"
-},
-
-"Forrest County": {
-  "description": "Forrest County is one of south Mississippi's leading economic centers, anchored by healthcare, higher education, manufacturing, finance, logistics, retail development, and professional services. Its diversified economy supports substantial regional employment and business activity.",
-  "population": "78831"
-},
-
-"Franklin County": {
-  "description": "Franklin County maintains a rural economy centered on forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "7645"
-},
-
-"George County": {
-  "description": "George County benefits from agriculture, forestry, manufacturing, healthcare services, retail activity, and local business development. Its growing economy supports stable workforce opportunities and continued economic expansion.",
-  "population": "24879"
-},
-"Greene County": {
-  "description": "Greene County supports a diversified economy based on forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "13623"
-},
-
-"Grenada County": {
-  "description": "Grenada County serves as an important regional economic center, supported by manufacturing, healthcare services, agriculture, logistics, retail activity, and professional services. Its diversified economy contributes to stable employment and business growth.",
-  "population": "21210"
-},
-
-"Hancock County": {
-  "description": "Hancock County benefits from tourism, maritime industries, healthcare services, manufacturing, logistics, and professional services. Its Gulf Coast location supports substantial business activity, visitor spending, and economic development.",
-  "population": "49911"
-},
-
-"Harrison County": {
-  "description": "Harrison County is one of Mississippi's largest economic centers, driven by tourism, gaming, healthcare, military-related industries, logistics, manufacturing, and professional services. Its Gulf Coast economy contributes significantly to statewide employment and investment.",
-  "population": "208621"
-},
-
-"Hinds County": {
-  "description": "Hinds County is home to Mississippi's capital city and serves as one of the state's most important economic centers. Government services, healthcare, higher education, finance, transportation, retail development, and professional industries drive a highly diversified economy.",
-  "population": "216768"
-},
-
-"Holmes County": {
-  "description": "Holmes County maintains a rural economy centered on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "16947"
-},
-
-"Humphreys County": {
-  "description": "Humphreys County supports an economy based on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local business activity. Farming continues to play a central role in economic stability and employment.",
-  "population": "7825"
-},
-
-"Issaquena County": {
-  "description": "Issaquena County maintains a rural economy driven by agriculture, forestry, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "1338"
-},
-
-"Itawamba County": {
-  "description": "Itawamba County benefits from manufacturing, agriculture, healthcare services, education, transportation, and local commerce. Industrial employers and farming operations contribute significantly to regional economic growth.",
-  "population": "23280"
-},
-
-"Jackson County": {
-  "description": "Jackson County is one of Mississippi's strongest economic centers, supported by shipbuilding, aerospace, healthcare, logistics, manufacturing, tourism, and professional services. Its Gulf Coast location drives substantial business investment and workforce development.",
-  "population": "143252"
-},
-"Jasper County": {
-  "description": "Jasper County supports a diversified economy based on forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resource industries and community-focused businesses contribute significantly to economic activity throughout the county.",
-  "population": "16052"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County maintains a rural economy centered on agriculture, forestry, healthcare services, transportation, agribusiness, and local business development. Farming operations remain important contributors to economic stability throughout the county.",
-  "population": "7113"
-},
-
-"Jefferson Davis County": {
-  "description": "Jefferson Davis County benefits from agriculture, manufacturing, healthcare services, forestry, transportation, and local commerce. Its diversified economy supports stable employment opportunities and continued community growth.",
-  "population": "11183"
-},
-
-"Jones County": {
-  "description": "Jones County serves as one of southeast Mississippi's leading economic centers, supported by healthcare, manufacturing, education, retail development, logistics, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "67983"
-},
-
-"Kemper County": {
-  "description": "Kemper County supports an economy driven by agriculture, forestry, healthcare services, energy-related industries, manufacturing, and local commerce. Natural resources and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "9292"
-},
-
-"Lafayette County": {
-  "description": "Lafayette County is a major educational and economic center in north Mississippi, anchored by higher education, healthcare, tourism, technology, retail activity, finance, and professional services. Its innovation-focused economy supports substantial business growth and workforce development.",
-  "population": "58432"
-},
-
-"Lamar County": {
-  "description": "Lamar County is one of Mississippi's fastest-growing counties, driven by healthcare, education, retail development, professional services, manufacturing, and residential expansion. Its proximity to Hattiesburg contributes significantly to economic growth and investment.",
-  "population": "68836"
-},
-
-"Lauderdale County": {
-  "description": "Lauderdale County serves as a major economic hub in eastern Mississippi, supported by healthcare, manufacturing, logistics, education, military-related industries, retail activity, and professional services. Its diversified economy contributes substantially to regional employment.",
-  "population": "74425"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County combines agriculture, forestry, healthcare services, manufacturing, transportation, and local business activity. Natural resources and farming operations contribute significantly to economic development throughout the county.",
-  "population": "12379"
-},
-
-"Leake County": {
-  "description": "Leake County supports a diversified economy based on agriculture, healthcare services, manufacturing, forestry, transportation, and local commerce. Community-focused industries contribute to stable employment and long-term growth.",
-  "population": "21730"
-},
-"Lee County": {
-  "description": "Lee County is one of northeast Mississippi's strongest economic centers, supported by healthcare, manufacturing, logistics, retail development, higher education, finance, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "85754"
-},
-
-"Leflore County": {
-  "description": "Leflore County serves as an important economic center in the Mississippi Delta, driven by agriculture, healthcare services, manufacturing, education, transportation, and local commerce. Its diversified economy supports stable workforce opportunities and continued development.",
-  "population": "28009"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County benefits from healthcare, higher education, manufacturing, agriculture, retail activity, and professional services. Educational institutions and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "35111"
-},
-
-"Lowndes County": {
-  "description": "Lowndes County is a major economic hub in eastern Mississippi, supported by manufacturing, aerospace industries, healthcare, education, logistics, retail development, and professional services. Its diversified economy drives substantial regional employment and investment.",
-  "population": "58679"
-},
-
-"Madison County": {
-  "description": "Madison County is one of Mississippi's most affluent and fastest-growing counties, driven by healthcare, finance, technology, professional services, retail development, education, and residential expansion. Its location within the Jackson metropolitan area supports significant economic investment and workforce growth.",
-  "population": "110993"
-},
-
-"Marion County": {
-  "description": "Marion County supports a diversified economy based on healthcare services, manufacturing, forestry, agriculture, retail activity, and local commerce. Its strong business community contributes to stable employment and economic growth.",
-  "population": "24241"
-},
-
-"Marshall County": {
-  "description": "Marshall County benefits from manufacturing, logistics, agriculture, healthcare services, transportation, and retail development. Its strategic location near major transportation corridors supports continued economic expansion and business investment.",
-  "population": "35917"
-},
-
-"Monroe County": {
-  "description": "Monroe County combines manufacturing, agriculture, healthcare services, education, logistics, and local business activity. Industrial employers and farming operations contribute significantly to economic development throughout the county.",
-  "population": "34843"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County maintains a rural economy centered on agriculture, healthcare services, forestry, manufacturing, transportation, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
-  "population": "9828"
-},
-
-"Neshoba County": {
-  "description": "Neshoba County supports an economy driven by healthcare services, manufacturing, tourism, agriculture, retail activity, and professional services. Its diversified economy contributes to stable employment opportunities and continued growth.",
-  "population": "29287"
-},
-"Newton County": {
-  "description": "Newton County supports a diversified economy based on manufacturing, agriculture, healthcare services, forestry, transportation, and local commerce. Industrial employers and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "21291"
-},
-
-"Noxubee County": {
-  "description": "Noxubee County maintains a rural economy centered on agriculture, forestry, healthcare services, agribusiness, transportation, and local business development. Natural resources and farming operations remain key contributors to economic stability.",
-  "population": "10143"
-},
-
-"Oktibbeha County": {
-  "description": "Oktibbeha County is a major educational and economic center in Mississippi, supported by higher education, healthcare, research, technology, retail development, hospitality, and professional services. Its innovation-focused economy contributes substantially to regional growth and workforce development.",
-  "population": "51688"
-},
-
-"Panola County": {
-  "description": "Panola County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and local commerce. Its strategic location in north Mississippi supports continued economic development and business investment.",
-  "population": "33322"
-},
-
-"Pearl River County": {
-  "description": "Pearl River County is one of south Mississippi's fastest-growing counties, driven by healthcare, retail development, manufacturing, professional services, transportation, and residential expansion. Its growing economy supports strong workforce opportunities and investment.",
-  "population": "55834"
-},
-
-"Perry County": {
-  "description": "Perry County supports an economy based on forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and community-focused industries contribute significantly to economic activity throughout the county.",
-  "population": "11967"
-},
-
-"Pike County": {
-  "description": "Pike County serves as an important regional economic center, supported by healthcare, education, manufacturing, agriculture, retail activity, and professional services. Its diversified economy contributes substantially to employment and business growth.",
-  "population": "39321"
-},
-
-"Pontotoc County": {
-  "description": "Pontotoc County benefits from manufacturing, healthcare services, agriculture, transportation, retail development, and local business activity. Industrial employers and farming operations contribute significantly to regional economic development.",
-  "population": "32119"
-},
-
-"Prentiss County": {
-  "description": "Prentiss County combines manufacturing, agriculture, healthcare services, logistics, retail activity, and local commerce. Its diversified economy supports stable employment opportunities and continued business growth.",
-  "population": "25114"
-},
-
-"Quitman County": {
-  "description": "Quitman County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "6600"
-},
-"Rankin County": {
-  "description": "Rankin County is one of Mississippi's fastest-growing economic centers, supported by healthcare, logistics, retail development, finance, manufacturing, professional services, and residential expansion. Its location within the Jackson metropolitan area drives substantial business investment and workforce growth.",
-  "population": "157031"
-},
-
-"Scott County": {
-  "description": "Scott County benefits from manufacturing, agriculture, healthcare services, transportation, retail activity, and local business development. Its diversified economy contributes significantly to regional employment and economic growth.",
-  "population": "27990"
-},
-
-"Sharkey County": {
-  "description": "Sharkey County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, forestry, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "3704"
-},
-
-"Simpson County": {
-  "description": "Simpson County supports a diversified economy based on healthcare services, manufacturing, agriculture, transportation, retail activity, and professional services. Its strong business environment contributes to stable employment and continued growth.",
-  "population": "26953"
-},
-
-"Smith County": {
-  "description": "Smith County combines forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "14760"
-},
-
-"Stone County": {
-  "description": "Stone County benefits from healthcare services, forestry, manufacturing, agriculture, retail development, and residential growth. Its expanding economy supports workforce opportunities and long-term business investment.",
-  "population": "18873"
-},
-
-"Sunflower County": {
-  "description": "Sunflower County serves as an important economic center in the Mississippi Delta, supported by agriculture, healthcare services, education, manufacturing, transportation, and local commerce. Its diversified economy contributes substantially to regional employment.",
-  "population": "24835"
-},
-
-"Tallahatchie County": {
-  "description": "Tallahatchie County supports a rural economy driven by agriculture, agribusiness, healthcare services, manufacturing, transportation, and local business activity. Farming remains a primary contributor to economic stability throughout the county.",
-  "population": "13352"
-},
-
-"Tate County": {
-  "description": "Tate County is a growing economic center in north Mississippi, supported by manufacturing, logistics, healthcare services, agriculture, retail development, and professional industries. Its proximity to the Memphis region contributes significantly to business growth and investment.",
-  "population": "28990"
-},
-
-"Tippah County": {
-  "description": "Tippah County benefits from manufacturing, agriculture, healthcare services, transportation, retail activity, and local commerce. Its diversified economy supports stable employment opportunities and continued economic development.",
-  "population": "21620"
-},
-"Tishomingo County": {
-  "description": "Tishomingo County supports a diversified economy based on manufacturing, agriculture, healthcare services, tourism, transportation, and local commerce. Industrial employers and natural attractions contribute significantly to economic activity throughout the county.",
-  "population": "18412"
-},
-
-"Tunica County": {
-  "description": "Tunica County is a major tourism and gaming destination in Mississippi, driven by hospitality, entertainment, healthcare services, transportation, retail activity, and professional services. Visitor spending plays a significant role in supporting regional economic growth.",
-  "population": "9185"
-},
-
-"Union County": {
-  "description": "Union County benefits from manufacturing, healthcare services, agriculture, transportation, retail development, and local business activity. Its diversified economy supports stable employment opportunities and continued growth.",
-  "population": "28915"
-},
-
-"Walthall County": {
-  "description": "Walthall County maintains a rural economy centered on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity.",
-  "population": "14284"
-},
-
-"Warren County": {
-  "description": "Warren County serves as an important economic center along the Mississippi River, supported by healthcare, manufacturing, transportation, tourism, education, and professional services. Its diversified economy contributes substantially to regional employment and business development.",
-  "population": "44401"
-},
-
-"Washington County": {
-  "description": "Washington County is one of the Mississippi Delta's largest economic centers, driven by agriculture, healthcare services, manufacturing, transportation, education, and professional industries. Its diversified economy supports substantial regional workforce opportunities.",
-  "population": "44192"
-},
-
-"Wayne County": {
-  "description": "Wayne County supports an economy based on forestry, agriculture, healthcare services, manufacturing, transportation, and local business development. Natural resources and industrial employers contribute significantly to economic growth throughout the county.",
-  "population": "19900"
-},
-
-"Webster County": {
-  "description": "Webster County combines agriculture, healthcare services, manufacturing, forestry, transportation, and local commerce. Its diversified economy contributes to stable employment opportunities and community growth.",
-  "population": "9142"
-},
-
-"Wilkinson County": {
-  "description": "Wilkinson County maintains a rural economy centered on agriculture, forestry, healthcare services, transportation, agribusiness, and local business activity. Farming operations remain important contributors to economic stability throughout the county.",
-  "population": "8297"
-},
-
-"Winston County": {
-  "description": "Winston County benefits from manufacturing, forestry, agriculture, healthcare services, transportation, and local commerce. Its diversified economy supports continued business development and workforce opportunities.",
-  "population": "17371"
-},
-"Yalobusha County": {
-  "description": "Yalobusha County supports a diversified economy based on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
-  "population": "11854"
-},
-
-"Yazoo County": {
-  "description": "Yazoo County is one of central Mississippi's largest agricultural and industrial economies, supported by agriculture, manufacturing, healthcare services, transportation, forestry, retail activity, and professional services. Its diversified economy contributes substantially to regional employment and business development.",
-  "population": "27593"
-}
+  "identity": {
+    "code": "ms",
+    "slug": "mississippi",
+    "name": "Mississippi",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County serves as an important economic center in southwest Mississippi, supported by tourism, healthcare services, manufacturing, education, retail activity, and professional services. Its historic attractions and diversified economy contribute significantly to regional growth.",
+      "population": "29254"
+    },
+    "Alcorn County": {
+      "description": "Alcorn County benefits from manufacturing, healthcare services, education, retail development, logistics, and professional industries. Its strong business environment supports stable employment opportunities and continued economic expansion.",
+      "population": "34461"
+    },
+    "Amite County": {
+      "description": "Amite County maintains a rural economy centered on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations remain key contributors to economic activity throughout the county.",
+      "population": "12147"
+    },
+    "Attala County": {
+      "description": "Attala County supports a diversified economy based on manufacturing, agriculture, healthcare services, transportation, retail activity, and local business development. Its economy contributes to stable employment and long-term community growth.",
+      "population": "17340"
+    },
+    "Benton County": {
+      "description": "Benton County supports an economy driven by agriculture, forestry, healthcare services, manufacturing, logistics, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
+      "population": "8066"
+    },
+    "Bolivar County": {
+      "description": "Bolivar County serves as a major agricultural and educational center in the Mississippi Delta, supported by healthcare, higher education, agribusiness, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to regional employment.",
+      "population": "30239"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County combines agriculture, manufacturing, healthcare services, forestry, transportation, and local commerce. Its diversified business base supports stable workforce opportunities and economic development.",
+      "population": "14112"
+    },
+    "Carroll County": {
+      "description": "Carroll County maintains a rural economy centered on agriculture, forestry, healthcare services, manufacturing, agribusiness, and local business activity. Farming remains a primary contributor to economic stability throughout the county.",
+      "population": "9862"
+    },
+    "Chickasaw County": {
+      "description": "Chickasaw County benefits from manufacturing, agriculture, healthcare services, logistics, retail activity, and local commerce. Industrial employers and farming operations contribute significantly to regional economic growth.",
+      "population": "17011"
+    },
+    "Choctaw County": {
+      "description": "Choctaw County supports an economy based on agriculture, forestry, healthcare services, manufacturing, transportation, and local business development. Natural resources and farming operations remain important contributors to economic activity.",
+      "population": "8188"
+    },
+    "Claiborne County": {
+      "description": "Claiborne County supports a diversified economy based on healthcare services, agriculture, energy-related industries, transportation, retail activity, and local commerce. Community institutions and business development contribute significantly to economic activity throughout the county.",
+      "population": "8960"
+    },
+    "Clarke County": {
+      "description": "Clarke County benefits from manufacturing, forestry, agriculture, healthcare services, logistics, and local business development. Natural resources and industrial employers contribute substantially to regional economic growth.",
+      "population": "15522"
+    },
+    "Clay County": {
+      "description": "Clay County serves as an important manufacturing and agricultural center in northeast Mississippi, supported by healthcare services, transportation, logistics, retail activity, and professional industries. Its diversified economy supports stable employment opportunities.",
+      "population": "19386"
+    },
+    "Coahoma County": {
+      "description": "Coahoma County is a significant economic center in the Mississippi Delta, driven by agriculture, healthcare, education, tourism, manufacturing, and retail development. Its diversified economy contributes substantially to regional workforce development.",
+      "population": "21258"
+    },
+    "Copiah County": {
+      "description": "Copiah County combines agriculture, manufacturing, healthcare services, education, transportation, and local commerce. Farming operations and industrial employers continue to support economic growth throughout the county.",
+      "population": "27809"
+    },
+    "Covington County": {
+      "description": "Covington County supports an economy driven by manufacturing, forestry, healthcare services, agriculture, retail activity, and local business development. Its diversified economy contributes to stable employment and community growth.",
+      "population": "18387"
+    },
+    "DeSoto County": {
+      "description": "DeSoto County is Mississippi's fastest-growing and most populous county, supported by logistics, healthcare, finance, technology, retail development, professional services, and residential expansion. Its location within the Memphis metropolitan area drives substantial economic investment and workforce growth.",
+      "population": "193813"
+    },
+    "Forrest County": {
+      "description": "Forrest County is one of south Mississippi's leading economic centers, anchored by healthcare, higher education, manufacturing, finance, logistics, retail development, and professional services. Its diversified economy supports substantial regional employment and business activity.",
+      "population": "78831"
+    },
+    "Franklin County": {
+      "description": "Franklin County maintains a rural economy centered on forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "7645"
+    },
+    "George County": {
+      "description": "George County benefits from agriculture, forestry, manufacturing, healthcare services, retail activity, and local business development. Its growing economy supports stable workforce opportunities and continued economic expansion.",
+      "population": "24879"
+    },
+    "Greene County": {
+      "description": "Greene County supports a diversified economy based on forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "13623"
+    },
+    "Grenada County": {
+      "description": "Grenada County serves as an important regional economic center, supported by manufacturing, healthcare services, agriculture, logistics, retail activity, and professional services. Its diversified economy contributes to stable employment and business growth.",
+      "population": "21210"
+    },
+    "Hancock County": {
+      "description": "Hancock County benefits from tourism, maritime industries, healthcare services, manufacturing, logistics, and professional services. Its Gulf Coast location supports substantial business activity, visitor spending, and economic development.",
+      "population": "49911"
+    },
+    "Harrison County": {
+      "description": "Harrison County is one of Mississippi's largest economic centers, driven by tourism, gaming, healthcare, military-related industries, logistics, manufacturing, and professional services. Its Gulf Coast economy contributes significantly to statewide employment and investment.",
+      "population": "208621"
+    },
+    "Hinds County": {
+      "description": "Hinds County is home to Mississippi's capital city and serves as one of the state's most important economic centers. Government services, healthcare, higher education, finance, transportation, retail development, and professional industries drive a highly diversified economy.",
+      "population": "216768"
+    },
+    "Holmes County": {
+      "description": "Holmes County maintains a rural economy centered on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "16947"
+    },
+    "Humphreys County": {
+      "description": "Humphreys County supports an economy based on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local business activity. Farming continues to play a central role in economic stability and employment.",
+      "population": "7825"
+    },
+    "Issaquena County": {
+      "description": "Issaquena County maintains a rural economy driven by agriculture, forestry, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "1338"
+    },
+    "Itawamba County": {
+      "description": "Itawamba County benefits from manufacturing, agriculture, healthcare services, education, transportation, and local commerce. Industrial employers and farming operations contribute significantly to regional economic growth.",
+      "population": "23280"
+    },
+    "Jackson County": {
+      "description": "Jackson County is one of Mississippi's strongest economic centers, supported by shipbuilding, aerospace, healthcare, logistics, manufacturing, tourism, and professional services. Its Gulf Coast location drives substantial business investment and workforce development.",
+      "population": "143252"
+    },
+    "Jasper County": {
+      "description": "Jasper County supports a diversified economy based on forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resource industries and community-focused businesses contribute significantly to economic activity throughout the county.",
+      "population": "16052"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County maintains a rural economy centered on agriculture, forestry, healthcare services, transportation, agribusiness, and local business development. Farming operations remain important contributors to economic stability throughout the county.",
+      "population": "7113"
+    },
+    "Jefferson Davis County": {
+      "description": "Jefferson Davis County benefits from agriculture, manufacturing, healthcare services, forestry, transportation, and local commerce. Its diversified economy supports stable employment opportunities and continued community growth.",
+      "population": "11183"
+    },
+    "Jones County": {
+      "description": "Jones County serves as one of southeast Mississippi's leading economic centers, supported by healthcare, manufacturing, education, retail development, logistics, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "67983"
+    },
+    "Kemper County": {
+      "description": "Kemper County supports an economy driven by agriculture, forestry, healthcare services, energy-related industries, manufacturing, and local commerce. Natural resources and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "9292"
+    },
+    "Lafayette County": {
+      "description": "Lafayette County is a major educational and economic center in north Mississippi, anchored by higher education, healthcare, tourism, technology, retail activity, finance, and professional services. Its innovation-focused economy supports substantial business growth and workforce development.",
+      "population": "58432"
+    },
+    "Lamar County": {
+      "description": "Lamar County is one of Mississippi's fastest-growing counties, driven by healthcare, education, retail development, professional services, manufacturing, and residential expansion. Its proximity to Hattiesburg contributes significantly to economic growth and investment.",
+      "population": "68836"
+    },
+    "Lauderdale County": {
+      "description": "Lauderdale County serves as a major economic hub in eastern Mississippi, supported by healthcare, manufacturing, logistics, education, military-related industries, retail activity, and professional services. Its diversified economy contributes substantially to regional employment.",
+      "population": "74425"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County combines agriculture, forestry, healthcare services, manufacturing, transportation, and local business activity. Natural resources and farming operations contribute significantly to economic development throughout the county.",
+      "population": "12379"
+    },
+    "Leake County": {
+      "description": "Leake County supports a diversified economy based on agriculture, healthcare services, manufacturing, forestry, transportation, and local commerce. Community-focused industries contribute to stable employment and long-term growth.",
+      "population": "21730"
+    },
+    "Lee County": {
+      "description": "Lee County is one of northeast Mississippi's strongest economic centers, supported by healthcare, manufacturing, logistics, retail development, higher education, finance, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "85754"
+    },
+    "Leflore County": {
+      "description": "Leflore County serves as an important economic center in the Mississippi Delta, driven by agriculture, healthcare services, manufacturing, education, transportation, and local commerce. Its diversified economy supports stable workforce opportunities and continued development.",
+      "population": "28009"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County benefits from healthcare, higher education, manufacturing, agriculture, retail activity, and professional services. Educational institutions and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "35111"
+    },
+    "Lowndes County": {
+      "description": "Lowndes County is a major economic hub in eastern Mississippi, supported by manufacturing, aerospace industries, healthcare, education, logistics, retail development, and professional services. Its diversified economy drives substantial regional employment and investment.",
+      "population": "58679"
+    },
+    "Madison County": {
+      "description": "Madison County is one of Mississippi's most affluent and fastest-growing counties, driven by healthcare, finance, technology, professional services, retail development, education, and residential expansion. Its location within the Jackson metropolitan area supports significant economic investment and workforce growth.",
+      "population": "110993"
+    },
+    "Marion County": {
+      "description": "Marion County supports a diversified economy based on healthcare services, manufacturing, forestry, agriculture, retail activity, and local commerce. Its strong business community contributes to stable employment and economic growth.",
+      "population": "24241"
+    },
+    "Marshall County": {
+      "description": "Marshall County benefits from manufacturing, logistics, agriculture, healthcare services, transportation, and retail development. Its strategic location near major transportation corridors supports continued economic expansion and business investment.",
+      "population": "35917"
+    },
+    "Monroe County": {
+      "description": "Monroe County combines manufacturing, agriculture, healthcare services, education, logistics, and local business activity. Industrial employers and farming operations contribute significantly to economic development throughout the county.",
+      "population": "34843"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County maintains a rural economy centered on agriculture, healthcare services, forestry, manufacturing, transportation, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
+      "population": "9828"
+    },
+    "Neshoba County": {
+      "description": "Neshoba County supports an economy driven by healthcare services, manufacturing, tourism, agriculture, retail activity, and professional services. Its diversified economy contributes to stable employment opportunities and continued growth.",
+      "population": "29287"
+    },
+    "Newton County": {
+      "description": "Newton County supports a diversified economy based on manufacturing, agriculture, healthcare services, forestry, transportation, and local commerce. Industrial employers and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "21291"
+    },
+    "Noxubee County": {
+      "description": "Noxubee County maintains a rural economy centered on agriculture, forestry, healthcare services, agribusiness, transportation, and local business development. Natural resources and farming operations remain key contributors to economic stability.",
+      "population": "10143"
+    },
+    "Oktibbeha County": {
+      "description": "Oktibbeha County is a major educational and economic center in Mississippi, supported by higher education, healthcare, research, technology, retail development, hospitality, and professional services. Its innovation-focused economy contributes substantially to regional growth and workforce development.",
+      "population": "51688"
+    },
+    "Panola County": {
+      "description": "Panola County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and local commerce. Its strategic location in north Mississippi supports continued economic development and business investment.",
+      "population": "33322"
+    },
+    "Pearl River County": {
+      "description": "Pearl River County is one of south Mississippi's fastest-growing counties, driven by healthcare, retail development, manufacturing, professional services, transportation, and residential expansion. Its growing economy supports strong workforce opportunities and investment.",
+      "population": "55834"
+    },
+    "Perry County": {
+      "description": "Perry County supports an economy based on forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and community-focused industries contribute significantly to economic activity throughout the county.",
+      "population": "11967"
+    },
+    "Pike County": {
+      "description": "Pike County serves as an important regional economic center, supported by healthcare, education, manufacturing, agriculture, retail activity, and professional services. Its diversified economy contributes substantially to employment and business growth.",
+      "population": "39321"
+    },
+    "Pontotoc County": {
+      "description": "Pontotoc County benefits from manufacturing, healthcare services, agriculture, transportation, retail development, and local business activity. Industrial employers and farming operations contribute significantly to regional economic development.",
+      "population": "32119"
+    },
+    "Prentiss County": {
+      "description": "Prentiss County combines manufacturing, agriculture, healthcare services, logistics, retail activity, and local commerce. Its diversified economy supports stable employment opportunities and continued business growth.",
+      "population": "25114"
+    },
+    "Quitman County": {
+      "description": "Quitman County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "6600"
+    },
+    "Rankin County": {
+      "description": "Rankin County is one of Mississippi's fastest-growing economic centers, supported by healthcare, logistics, retail development, finance, manufacturing, professional services, and residential expansion. Its location within the Jackson metropolitan area drives substantial business investment and workforce growth.",
+      "population": "157031"
+    },
+    "Scott County": {
+      "description": "Scott County benefits from manufacturing, agriculture, healthcare services, transportation, retail activity, and local business development. Its diversified economy contributes significantly to regional employment and economic growth.",
+      "population": "27990"
+    },
+    "Sharkey County": {
+      "description": "Sharkey County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, forestry, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "3704"
+    },
+    "Simpson County": {
+      "description": "Simpson County supports a diversified economy based on healthcare services, manufacturing, agriculture, transportation, retail activity, and professional services. Its strong business environment contributes to stable employment and continued growth.",
+      "population": "26953"
+    },
+    "Smith County": {
+      "description": "Smith County combines forestry, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "14760"
+    },
+    "Stone County": {
+      "description": "Stone County benefits from healthcare services, forestry, manufacturing, agriculture, retail development, and residential growth. Its expanding economy supports workforce opportunities and long-term business investment.",
+      "population": "18873"
+    },
+    "Sunflower County": {
+      "description": "Sunflower County serves as an important economic center in the Mississippi Delta, supported by agriculture, healthcare services, education, manufacturing, transportation, and local commerce. Its diversified economy contributes substantially to regional employment.",
+      "population": "24835"
+    },
+    "Tallahatchie County": {
+      "description": "Tallahatchie County supports a rural economy driven by agriculture, agribusiness, healthcare services, manufacturing, transportation, and local business activity. Farming remains a primary contributor to economic stability throughout the county.",
+      "population": "13352"
+    },
+    "Tate County": {
+      "description": "Tate County is a growing economic center in north Mississippi, supported by manufacturing, logistics, healthcare services, agriculture, retail development, and professional industries. Its proximity to the Memphis region contributes significantly to business growth and investment.",
+      "population": "28990"
+    },
+    "Tippah County": {
+      "description": "Tippah County benefits from manufacturing, agriculture, healthcare services, transportation, retail activity, and local commerce. Its diversified economy supports stable employment opportunities and continued economic development.",
+      "population": "21620"
+    },
+    "Tishomingo County": {
+      "description": "Tishomingo County supports a diversified economy based on manufacturing, agriculture, healthcare services, tourism, transportation, and local commerce. Industrial employers and natural attractions contribute significantly to economic activity throughout the county.",
+      "population": "18412"
+    },
+    "Tunica County": {
+      "description": "Tunica County is a major tourism and gaming destination in Mississippi, driven by hospitality, entertainment, healthcare services, transportation, retail activity, and professional services. Visitor spending plays a significant role in supporting regional economic growth.",
+      "population": "9185"
+    },
+    "Union County": {
+      "description": "Union County benefits from manufacturing, healthcare services, agriculture, transportation, retail development, and local business activity. Its diversified economy supports stable employment opportunities and continued growth.",
+      "population": "28915"
+    },
+    "Walthall County": {
+      "description": "Walthall County maintains a rural economy centered on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity.",
+      "population": "14284"
+    },
+    "Warren County": {
+      "description": "Warren County serves as an important economic center along the Mississippi River, supported by healthcare, manufacturing, transportation, tourism, education, and professional services. Its diversified economy contributes substantially to regional employment and business development.",
+      "population": "44401"
+    },
+    "Washington County": {
+      "description": "Washington County is one of the Mississippi Delta's largest economic centers, driven by agriculture, healthcare services, manufacturing, transportation, education, and professional industries. Its diversified economy supports substantial regional workforce opportunities.",
+      "population": "44192"
+    },
+    "Wayne County": {
+      "description": "Wayne County supports an economy based on forestry, agriculture, healthcare services, manufacturing, transportation, and local business development. Natural resources and industrial employers contribute significantly to economic growth throughout the county.",
+      "population": "19900"
+    },
+    "Webster County": {
+      "description": "Webster County combines agriculture, healthcare services, manufacturing, forestry, transportation, and local commerce. Its diversified economy contributes to stable employment opportunities and community growth.",
+      "population": "9142"
+    },
+    "Wilkinson County": {
+      "description": "Wilkinson County maintains a rural economy centered on agriculture, forestry, healthcare services, transportation, agribusiness, and local business activity. Farming operations remain important contributors to economic stability throughout the county.",
+      "population": "8297"
+    },
+    "Winston County": {
+      "description": "Winston County benefits from manufacturing, forestry, agriculture, healthcare services, transportation, and local commerce. Its diversified economy supports continued business development and workforce opportunities.",
+      "population": "17371"
+    },
+    "Yalobusha County": {
+      "description": "Yalobusha County supports a diversified economy based on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
+      "population": "11854"
+    },
+    "Yazoo County": {
+      "description": "Yazoo County is one of central Mississippi's largest agricultural and industrial economies, supported by agriculture, manufacturing, healthcare services, transportation, forestry, retail activity, and professional services. Its diversified economy contributes substantially to regional employment and business development.",
+      "population": "27593"
+    }
+  }
 }

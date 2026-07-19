@@ -1,492 +1,411 @@
 {
-"Alamance County": {
-  "description": "Alamance County is a growing economic center in central North Carolina, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its strategic location along the Interstate 40/85 corridor contributes significantly to regional business growth.",
-  "population": "178105"
-},
-
-"Alexander County": {
-  "description": "Alexander County supports a diversified economy based on manufacturing, healthcare services, agriculture, logistics, retail activity, and local commerce. Its business-friendly environment contributes to stable employment and economic development.",
-  "population": "36912"
-},
-
-"Alleghany County": {
-  "description": "Alleghany County benefits from agriculture, tourism, healthcare services, forestry, outdoor recreation, and local business activity. Natural attractions and farming operations contribute significantly to economic growth throughout the county.",
-  "population": "11117"
-},
-
-"Anson County": {
-  "description": "Anson County maintains a diversified economy centered on manufacturing, agriculture, healthcare services, energy development, transportation, and local commerce. Industrial employers and farming operations support long-term economic stability.",
-  "population": "22509"
-},
-
-"Ashe County": {
-  "description": "Ashe County supports an economy driven by tourism, agriculture, healthcare services, manufacturing, outdoor recreation, and local commerce. Visitor spending and agricultural production contribute significantly to economic activity throughout the county.",
-  "population": "27156"
-},
-
-"Avery County": {
-  "description": "Avery County benefits from tourism, hospitality, healthcare services, outdoor recreation, construction, and local business development. Its mountain attractions play a major role in supporting regional economic growth.",
-  "population": "17806"
-},
-
-"Beaufort County": {
-  "description": "Beaufort County combines healthcare, tourism, maritime industries, agriculture, manufacturing, and professional services. Its coastal location contributes significantly to visitor spending and business activity.",
-  "population": "47946"
-},
-
-"Bertie County": {
-  "description": "Bertie County supports a rural economy based on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
-  "population": "17640"
-},
-
-"Bladen County": {
-  "description": "Bladen County benefits from agriculture, manufacturing, healthcare services, forestry, energy-related industries, and local business development. Its diversified economy supports stable workforce opportunities and continued growth.",
-  "population": "29508"
-},
-
-"Brunswick County": {
-  "description": "Brunswick County is one of North Carolina's fastest-growing counties, driven by tourism, healthcare, construction, real estate development, retail activity, and professional services. Its coastal economy supports substantial business investment and population growth.",
-  "population": "175905"
-},
-"Buncombe County": {
-  "description": "Buncombe County is one of western North Carolina's leading economic centers, driven by tourism, healthcare, higher education, technology, professional services, hospitality, and retail development. Its vibrant economy contributes substantially to regional employment and business growth.",
-  "population": "279916"
-},
-
-"Burke County": {
-  "description": "Burke County supports a diversified economy based on manufacturing, healthcare services, logistics, tourism, retail activity, and local commerce. Industrial employers and outdoor recreation contribute significantly to economic development throughout the county.",
-  "population": "87570"
-},
-
-"Cabarrus County": {
-  "description": "Cabarrus County is one of North Carolina's fastest-growing counties, supported by healthcare, logistics, motorsports, manufacturing, retail development, professional services, and residential expansion. Its location within the Charlotte metropolitan area drives substantial economic investment.",
-  "population": "244544"
-},
-
-"Caldwell County": {
-  "description": "Caldwell County benefits from manufacturing, healthcare services, education, tourism, logistics, and local business activity. Its diversified economy supports stable employment opportunities and long-term growth.",
-  "population": "81198"
-},
-
-"Camden County": {
-  "description": "Camden County maintains a growing economy centered on healthcare services, education, retail activity, tourism, residential development, and local commerce. Its strategic location near the Hampton Roads region supports continued economic growth.",
-  "population": "11003"
-},
-
-"Carteret County": {
-  "description": "Carteret County supports an economy driven by tourism, healthcare services, maritime industries, hospitality, retail development, and professional services. Its coastal attractions contribute significantly to visitor spending and economic activity.",
-  "population": "70075"
-},
-
-"Caswell County": {
-  "description": "Caswell County combines agriculture, healthcare services, manufacturing, transportation, retail activity, and local commerce. Farming operations and industrial employers contribute significantly to regional economic development.",
-  "population": "22736"
-},
-
-"Catawba County": {
-  "description": "Catawba County is a major manufacturing and healthcare center in western North Carolina, supported by advanced manufacturing, logistics, healthcare services, technology, retail activity, and professional industries. Its diversified economy contributes substantially to employment and investment.",
-  "population": "164835"
-},
-
-"Chatham County": {
-  "description": "Chatham County is one of North Carolina's fastest-growing economic centers, driven by technology, healthcare, advanced manufacturing, education, professional services, and residential development. Its location within the Research Triangle region fuels substantial business growth and innovation.",
-  "population": "82969"
-},
-
-"Cherokee County": {
-  "description": "Cherokee County benefits from tourism, healthcare services, gaming-related industries, outdoor recreation, retail activity, and local business development. Visitor spending and natural attractions play important roles in supporting economic growth.",
-  "population": "30164"
-},
-"Chowan County": {
-  "description": "Chowan County supports a diversified economy based on tourism, healthcare services, education, maritime industries, retail activity, and local commerce. Its historic attractions and waterfront location contribute significantly to economic growth throughout the county.",
-  "population": "13943"
-},
-
-"Clay County": {
-  "description": "Clay County benefits from tourism, healthcare services, outdoor recreation, agriculture, construction, and local business development. Visitor spending and natural attractions play important roles in supporting economic activity.",
-  "population": "11322"
-},
-
-"Cleveland County": {
-  "description": "Cleveland County serves as an important economic center in western North Carolina, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "100359"
-},
-
-"Columbus County": {
-  "description": "Columbus County supports an economy driven by agriculture, manufacturing, healthcare services, forestry, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "50278"
-},
-
-"Craven County": {
-  "description": "Craven County is a major economic hub in eastern North Carolina, anchored by healthcare, military-related industries, aerospace, manufacturing, tourism, retail development, and professional services. Its diversified economy supports strong workforce growth and investment.",
-  "population": "103505"
-},
-
-"Cumberland County": {
-  "description": "Cumberland County is one of North Carolina's largest economic centers, driven by military-related industries, healthcare, education, logistics, retail development, professional services, and technology. Its diversified economy contributes significantly to statewide employment and business activity.",
-  "population": "338615"
-},
-
-"Currituck County": {
-  "description": "Currituck County benefits from tourism, real estate development, healthcare services, hospitality, construction, and local commerce. Its coastal location supports substantial visitor spending and residential growth.",
-  "population": "29550"
-},
-
-"Dare County": {
-  "description": "Dare County is one of North Carolina's leading tourism economies, supported by hospitality, healthcare services, maritime industries, construction, retail activity, and professional services. Visitor spending remains a major driver of economic activity throughout the county.",
-  "population": "37872"
-},
-
-"Davidson County": {
-  "description": "Davidson County serves as a major manufacturing and logistics center in central North Carolina, supported by healthcare, education, retail development, transportation, and professional services. Its diversified economy contributes substantially to regional growth.",
-  "population": "173667"
-},
-
-"Davie County": {
-  "description": "Davie County supports a growing economy based on healthcare services, manufacturing, logistics, retail activity, agriculture, and professional services. Its strategic location contributes to continued business investment and workforce opportunities.",
-  "population": "43533"
-},
-"Duplin County": {
-  "description": "Duplin County supports a strong agricultural economy complemented by food processing, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "49325"
-},
-
-"Durham County": {
-  "description": "Durham County is one of North Carolina's most important economic centers, driven by healthcare, biotechnology, higher education, technology, finance, professional services, and research industries. Its innovation-focused economy contributes substantially to regional and national growth.",
-  "population": "336436"
-},
-
-"Edgecombe County": {
-  "description": "Edgecombe County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strategic location supports continued economic development and workforce opportunities.",
-  "population": "48372"
-},
-
-"Forsyth County": {
-  "description": "Forsyth County is one of North Carolina's largest economic centers, anchored by healthcare, finance, technology, manufacturing, higher education, logistics, and professional services. Its diversified economy supports substantial employment and business investment.",
-  "population": "392428"
-},
-
-"Franklin County": {
-  "description": "Franklin County is a rapidly growing county supported by healthcare, manufacturing, logistics, retail activity, professional services, and residential expansion. Its proximity to the Research Triangle region contributes significantly to economic growth and development.",
-  "population": "79092"
-},
-
-"Gaston County": {
-  "description": "Gaston County is a major economic center within the Charlotte metropolitan area, driven by manufacturing, healthcare, logistics, finance, retail development, professional services, and residential growth. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "236961"
-},
-
-"Gates County": {
-  "description": "Gates County maintains a rural economy centered on agriculture, forestry, healthcare services, transportation, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "10931"
-},
-
-"Graham County": {
-  "description": "Graham County benefits from tourism, healthcare services, outdoor recreation, forestry, construction, and local business development. Natural attractions and visitor spending play important roles in supporting economic growth.",
-  "population": "8131"
-},
-
-"Granville County": {
-  "description": "Granville County supports a diversified economy based on manufacturing, healthcare services, agriculture, logistics, retail development, and professional services. Its strategic location contributes to stable employment and continued business growth.",
-  "population": "62803"
-},
-
-"Greene County": {
-  "description": "Greene County combines agriculture, healthcare services, manufacturing, transportation, retail activity, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "20566"
-},
-"Guilford County": {
-  "description": "Guilford County is one of North Carolina's largest economic centers, driven by healthcare, logistics, advanced manufacturing, higher education, finance, technology, and professional services. Its diversified economy supports substantial employment, business investment, and regional growth.",
-  "population": "546543"
-},
-
-"Halifax County": {
-  "description": "Halifax County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, retail activity, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "48084"
-},
-
-"Harnett County": {
-  "description": "Harnett County is one of North Carolina's fastest-growing counties, supported by healthcare, logistics, manufacturing, retail development, professional services, and residential expansion. Its strategic location between Raleigh and Fayetteville drives continued economic growth.",
-  "population": "142937"
-},
-
-"Haywood County": {
-  "description": "Haywood County benefits from tourism, healthcare services, manufacturing, outdoor recreation, hospitality, and local business development. Visitor spending and mountain attractions contribute significantly to economic activity throughout the county.",
-  "population": "63569"
-},
-
-"Henderson County": {
-  "description": "Henderson County serves as a major economic center in western North Carolina, supported by healthcare, tourism, manufacturing, professional services, retail development, and construction. Its growing economy contributes substantially to regional employment and investment.",
-  "population": "123128"
-},
-
-"Hertford County": {
-  "description": "Hertford County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, education, and local commerce. Farming operations and industrial employers remain important contributors to economic stability.",
-  "population": "20982"
-},
-
-"Hoke County": {
-  "description": "Hoke County benefits from military-related employment, healthcare services, retail development, logistics, construction, and residential growth. Its proximity to the Fayetteville region supports continued economic expansion and workforce opportunities.",
-  "population": "54742"
-},
-
-"Hyde County": {
-  "description": "Hyde County maintains a rural economy centered on tourism, fisheries, agriculture, healthcare services, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "4937"
-},
-
-"Iredell County": {
-  "description": "Iredell County is one of North Carolina's strongest economic centers, driven by manufacturing, healthcare, logistics, technology, finance, professional services, and residential development. Its location within the Charlotte metropolitan region supports substantial business investment and workforce growth.",
-  "population": "203992"
-},
-
-"Jackson County": {
-  "description": "Jackson County supports a diversified economy based on higher education, tourism, healthcare services, outdoor recreation, hospitality, and professional services. Educational institutions and visitor spending contribute significantly to regional economic growth.",
-  "population": "45714"
-},
-"Johnston County": {
-  "description": "Johnston County is one of North Carolina's fastest-growing economic centers, supported by healthcare, manufacturing, logistics, biotechnology, retail development, professional services, and residential expansion. Its location within the Raleigh metropolitan region drives substantial business investment and workforce growth.",
-  "population": "245223"
-},
-
-"Jones County": {
-  "description": "Jones County maintains a rural economy centered on agriculture, forestry, healthcare services, transportation, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "9439"
-},
-
-"Lee County": {
-  "description": "Lee County serves as an important economic hub in central North Carolina, driven by manufacturing, healthcare, logistics, education, retail activity, and professional services. Its diversified economy supports stable employment opportunities and continued growth.",
-  "population": "64884"
-},
-
-"Lenoir County": {
-  "description": "Lenoir County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Industrial employers and farming operations contribute significantly to regional economic growth.",
-  "population": "55461"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County is a growing economic center within the Charlotte metropolitan area, supported by manufacturing, healthcare, logistics, retail development, professional services, and residential growth. Its strategic location contributes substantially to business expansion and workforce opportunities.",
-  "population": "98117"
-},
-
-"McDowell County": {
-  "description": "McDowell County supports a diversified economy based on manufacturing, healthcare services, tourism, outdoor recreation, logistics, and local commerce. Natural attractions and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "45086"
-},
-
-"Macon County": {
-  "description": "Macon County benefits from tourism, healthcare services, hospitality, construction, outdoor recreation, and local business development. Visitor spending and mountain attractions play major roles in supporting regional economic growth.",
-  "population": "38931"
-},
-
-"Madison County": {
-  "description": "Madison County combines tourism, agriculture, healthcare services, outdoor recreation, construction, and local commerce. Natural attractions and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "22261"
-},
-
-"Martin County": {
-  "description": "Martin County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, education, and local business activity. Its diversified economy contributes to stable employment and long-term economic development.",
-  "population": "22803"
-},
-
-"Mecklenburg County": {
-  "description": "Mecklenburg County is North Carolina's largest economic center and home to Charlotte. Finance, healthcare, technology, logistics, professional services, manufacturing, higher education, and corporate headquarters drive one of the fastest-growing and most diversified economies in the United States.",
-  "population": "1190390"
-},
-"Mitchell County": {
-  "description": "Mitchell County supports a diversified economy based on manufacturing, healthcare services, tourism, outdoor recreation, agriculture, and local commerce. Natural attractions and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "14902"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its diversified economy supports stable employment opportunities and continued economic growth.",
-  "population": "26873"
-},
-
-"Moore County": {
-  "description": "Moore County is one of North Carolina's strongest tourism and service economies, supported by healthcare, hospitality, real estate development, professional services, retail activity, and recreation-related industries. Its growing population contributes substantially to regional economic development.",
-  "population": "108103"
-},
-
-"Nash County": {
-  "description": "Nash County serves as an important economic center in eastern North Carolina, driven by healthcare, manufacturing, logistics, retail development, education, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "95451"
-},
-
-"New Hanover County": {
-  "description": "New Hanover County is one of North Carolina's fastest-growing economic centers, anchored by healthcare, tourism, logistics, finance, technology, higher education, professional services, and real estate development. Its coastal location supports substantial business investment and workforce growth.",
-  "population": "239317"
-},
-
-"Northampton County": {
-  "description": "Northampton County maintains a rural economy centered on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
-  "population": "17631"
-},
-
-"Onslow County": {
-  "description": "Onslow County is a major economic center in coastal North Carolina, supported by military-related industries, healthcare, retail development, logistics, professional services, construction, and residential growth. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "213522"
-},
-
-"Orange County": {
-  "description": "Orange County is one of North Carolina's leading innovation and education centers, driven by higher education, healthcare, biotechnology, technology, finance, professional services, and research industries. Its highly skilled workforce supports substantial economic growth and investment.",
-  "population": "154751"
-},
-
-"Pamlico County": {
-  "description": "Pamlico County supports an economy based on tourism, healthcare services, maritime industries, fisheries, hospitality, and local commerce. Its coastal location contributes significantly to visitor spending and economic activity.",
-  "population": "12935"
-},
-
-"Pasquotank County": {
-  "description": "Pasquotank County serves as a regional economic hub in northeastern North Carolina, supported by healthcare, education, manufacturing, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional business development.",
-  "population": "41217"
-},
-"Pender County": {
-  "description": "Pender County is one of North Carolina's fastest-growing counties, supported by healthcare, tourism, construction, retail development, logistics, professional services, and residential expansion. Its proximity to the Wilmington region drives substantial economic investment and workforce growth.",
-  "population": "68931"
-},
-
-"Perquimans County": {
-  "description": "Perquimans County supports a diversified economy based on agriculture, healthcare services, tourism, maritime industries, retail activity, and local commerce. Farming operations and waterfront attractions contribute significantly to economic activity throughout the county.",
-  "population": "13588"
-},
-
-"Person County": {
-  "description": "Person County benefits from manufacturing, healthcare services, energy-related industries, agriculture, logistics, and professional services. Its diversified economy supports stable employment opportunities and continued business development.",
-  "population": "40456"
-},
-
-"Pitt County": {
-  "description": "Pitt County is one of eastern North Carolina's largest economic centers, anchored by healthcare, higher education, biotechnology, manufacturing, finance, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "176975"
-},
-
-"Polk County": {
-  "description": "Polk County supports an economy driven by tourism, healthcare services, agriculture, equestrian industries, construction, and local commerce. Visitor spending and outdoor recreation contribute significantly to economic growth throughout the county.",
-  "population": "21622"
-},
-
-"Randolph County": {
-  "description": "Randolph County serves as a major manufacturing and logistics center in central North Carolina, supported by healthcare, retail development, professional services, transportation, and advanced industry. Its diversified economy contributes significantly to regional business growth.",
-  "population": "148696"
-},
-
-"Richmond County": {
-  "description": "Richmond County benefits from manufacturing, healthcare services, logistics, agriculture, retail activity, and professional industries. Its strategic location supports continued economic development and workforce opportunities.",
-  "population": "42061"
-},
-
-"Robeson County": {
-  "description": "Robeson County is one of North Carolina's largest counties by population, supported by healthcare, manufacturing, agriculture, education, logistics, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business activity.",
-  "population": "116530"
-},
-
-"Rockingham County": {
-  "description": "Rockingham County supports a diversified economy based on manufacturing, healthcare services, logistics, agriculture, retail development, and professional services. Industrial employers and transportation networks contribute significantly to economic growth throughout the county.",
-  "population": "91708"
-},
-
-"Rowan County": {
-  "description": "Rowan County is an important economic center in the Charlotte–Piedmont region, driven by healthcare, manufacturing, logistics, education, retail activity, and professional services. Its diversified economy supports substantial employment and continued business investment.",
-  "population": "153533"
-},
-"Rutherford County": {
-  "description": "Rutherford County supports a diversified economy based on healthcare services, manufacturing, tourism, agriculture, retail activity, and professional services. Outdoor recreation and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "67015"
-},
-
-"Sampson County": {
-  "description": "Sampson County is one of North Carolina's leading agricultural economies, supported by agribusiness, food processing, healthcare services, manufacturing, transportation, and local commerce. Farming operations contribute substantially to regional economic growth.",
-  "population": "59245"
-},
-
-"Scotland County": {
-  "description": "Scotland County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its diversified economy supports stable employment opportunities and continued business development.",
-  "population": "34401"
-},
-
-"Stanly County": {
-  "description": "Stanly County serves as an important manufacturing and logistics center in central North Carolina, supported by healthcare, retail activity, professional services, agriculture, and industrial development. Its diversified economy contributes significantly to regional employment.",
-  "population": "65568"
-},
-
-"Stokes County": {
-  "description": "Stokes County supports an economy driven by manufacturing, agriculture, healthcare services, tourism, outdoor recreation, and local commerce. Natural attractions and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "44490"
-},
-
-"Surry County": {
-  "description": "Surry County is a major economic center in northwestern North Carolina, anchored by healthcare, manufacturing, agriculture, tourism, logistics, retail development, and professional services. Its diversified economy supports substantial business growth and workforce opportunities.",
-  "population": "71971"
-},
-
-"Swain County": {
-  "description": "Swain County benefits from tourism, hospitality, healthcare services, outdoor recreation, gaming-related industries, and local commerce. Visitor spending and natural attractions play major roles in supporting economic growth throughout the county.",
-  "population": "14411"
-},
-
-"Transylvania County": {
-  "description": "Transylvania County supports a tourism-driven economy complemented by healthcare services, outdoor recreation, manufacturing, hospitality, and professional services. Its natural attractions contribute significantly to visitor spending and economic activity.",
-  "population": "34914"
-},
-
-"Tyrrell County": {
-  "description": "Tyrrell County maintains a rural economy centered on agriculture, fisheries, tourism, healthcare services, forestry, and local commerce. Natural resources and visitor-related industries contribute significantly to economic development throughout the county.",
-  "population": "3229"
-},
-
-"Union County": {
-  "description": "Union County is one of North Carolina's fastest-growing and most affluent counties, driven by healthcare, finance, technology, logistics, professional services, retail development, and residential expansion. Its location within the Charlotte metropolitan area supports substantial economic investment and workforce growth.",
-  "population": "259080"
-},
-"Vance County": {
-  "description": "Vance County supports a diversified economy based on healthcare services, manufacturing, logistics, retail activity, agriculture, and professional services. Its strategic location contributes significantly to regional business development and workforce opportunities.",
-  "population": "42634"
-},
-
-"Wake County": {
-  "description": "Wake County is one of the fastest-growing and most economically dynamic counties in the United States, anchored by technology, healthcare, biotechnology, finance, higher education, professional services, and research industries. Its innovation-driven economy supports substantial business investment, job creation, and workforce growth.",
-  "population": "1198222"
-},
-
-"Warren County": {
-  "description": "Warren County maintains a rural economy centered on agriculture, healthcare services, manufacturing, forestry, transportation, and local commerce. Farming operations and community-focused industries contribute significantly to economic activity throughout the county.",
-  "population": "18642"
-},
-
-"Washington County": {
-  "description": "Washington County supports an economy driven by agriculture, healthcare services, manufacturing, forestry, tourism, and local business activity. Natural resources and farming operations remain important contributors to economic development throughout the county.",
-  "population": "11524"
-},
-
-"Watauga County": {
-  "description": "Watauga County is a major educational and tourism center in western North Carolina, supported by higher education, healthcare, hospitality, outdoor recreation, retail development, and professional services. Its diversified economy contributes substantially to regional growth and employment.",
-  "population": "56971"
-},
-
-"Wayne County": {
-  "description": "Wayne County serves as an important economic hub in eastern North Carolina, driven by military-related industries, healthcare, manufacturing, logistics, retail activity, and professional services. Its diversified economy supports substantial workforce opportunities and business investment.",
-  "population": "117333"
-},
-
-"Wilkes County": {
-  "description": "Wilkes County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strong business community contributes significantly to economic activity and long-term regional growth.",
-  "population": "65549"
-},
-
-"Wilson County": {
-  "description": "Wilson County is a major economic center in eastern North Carolina, supported by healthcare, manufacturing, logistics, technology, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "78173"
-},
-
-"Yadkin County": {
-  "description": "Yadkin County supports an economy based on agriculture, manufacturing, healthcare services, viticulture, tourism, and local commerce. Farming operations and growing visitor-related industries contribute significantly to economic development throughout the county.",
-  "population": "37720"
-},
-
-"Yancey County": {
-  "description": "Yancey County benefits from tourism, healthcare services, outdoor recreation, agriculture, arts-related industries, and local business development. Natural attractions and visitor spending play important roles in supporting economic growth throughout the county.",
-  "population": "18934"
-}
+  "identity": {
+    "code": "nc",
+    "slug": "north-carolina",
+    "name": "North Carolina",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Alamance County": {
+      "description": "Alamance County is a growing economic center in central North Carolina, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its strategic location along the Interstate 40/85 corridor contributes significantly to regional business growth.",
+      "population": "178105"
+    },
+    "Alexander County": {
+      "description": "Alexander County supports a diversified economy based on manufacturing, healthcare services, agriculture, logistics, retail activity, and local commerce. Its business-friendly environment contributes to stable employment and economic development.",
+      "population": "36912"
+    },
+    "Alleghany County": {
+      "description": "Alleghany County benefits from agriculture, tourism, healthcare services, forestry, outdoor recreation, and local business activity. Natural attractions and farming operations contribute significantly to economic growth throughout the county.",
+      "population": "11117"
+    },
+    "Anson County": {
+      "description": "Anson County maintains a diversified economy centered on manufacturing, agriculture, healthcare services, energy development, transportation, and local commerce. Industrial employers and farming operations support long-term economic stability.",
+      "population": "22509"
+    },
+    "Ashe County": {
+      "description": "Ashe County supports an economy driven by tourism, agriculture, healthcare services, manufacturing, outdoor recreation, and local commerce. Visitor spending and agricultural production contribute significantly to economic activity throughout the county.",
+      "population": "27156"
+    },
+    "Avery County": {
+      "description": "Avery County benefits from tourism, hospitality, healthcare services, outdoor recreation, construction, and local business development. Its mountain attractions play a major role in supporting regional economic growth.",
+      "population": "17806"
+    },
+    "Beaufort County": {
+      "description": "Beaufort County combines healthcare, tourism, maritime industries, agriculture, manufacturing, and professional services. Its coastal location contributes significantly to visitor spending and business activity.",
+      "population": "47946"
+    },
+    "Bertie County": {
+      "description": "Bertie County supports a rural economy based on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
+      "population": "17640"
+    },
+    "Bladen County": {
+      "description": "Bladen County benefits from agriculture, manufacturing, healthcare services, forestry, energy-related industries, and local business development. Its diversified economy supports stable workforce opportunities and continued growth.",
+      "population": "29508"
+    },
+    "Brunswick County": {
+      "description": "Brunswick County is one of North Carolina's fastest-growing counties, driven by tourism, healthcare, construction, real estate development, retail activity, and professional services. Its coastal economy supports substantial business investment and population growth.",
+      "population": "175905"
+    },
+    "Buncombe County": {
+      "description": "Buncombe County is one of western North Carolina's leading economic centers, driven by tourism, healthcare, higher education, technology, professional services, hospitality, and retail development. Its vibrant economy contributes substantially to regional employment and business growth.",
+      "population": "279916"
+    },
+    "Burke County": {
+      "description": "Burke County supports a diversified economy based on manufacturing, healthcare services, logistics, tourism, retail activity, and local commerce. Industrial employers and outdoor recreation contribute significantly to economic development throughout the county.",
+      "population": "87570"
+    },
+    "Cabarrus County": {
+      "description": "Cabarrus County is one of North Carolina's fastest-growing counties, supported by healthcare, logistics, motorsports, manufacturing, retail development, professional services, and residential expansion. Its location within the Charlotte metropolitan area drives substantial economic investment.",
+      "population": "244544"
+    },
+    "Caldwell County": {
+      "description": "Caldwell County benefits from manufacturing, healthcare services, education, tourism, logistics, and local business activity. Its diversified economy supports stable employment opportunities and long-term growth.",
+      "population": "81198"
+    },
+    "Camden County": {
+      "description": "Camden County maintains a growing economy centered on healthcare services, education, retail activity, tourism, residential development, and local commerce. Its strategic location near the Hampton Roads region supports continued economic growth.",
+      "population": "11003"
+    },
+    "Carteret County": {
+      "description": "Carteret County supports an economy driven by tourism, healthcare services, maritime industries, hospitality, retail development, and professional services. Its coastal attractions contribute significantly to visitor spending and economic activity.",
+      "population": "70075"
+    },
+    "Caswell County": {
+      "description": "Caswell County combines agriculture, healthcare services, manufacturing, transportation, retail activity, and local commerce. Farming operations and industrial employers contribute significantly to regional economic development.",
+      "population": "22736"
+    },
+    "Catawba County": {
+      "description": "Catawba County is a major manufacturing and healthcare center in western North Carolina, supported by advanced manufacturing, logistics, healthcare services, technology, retail activity, and professional industries. Its diversified economy contributes substantially to employment and investment.",
+      "population": "164835"
+    },
+    "Chatham County": {
+      "description": "Chatham County is one of North Carolina's fastest-growing economic centers, driven by technology, healthcare, advanced manufacturing, education, professional services, and residential development. Its location within the Research Triangle region fuels substantial business growth and innovation.",
+      "population": "82969"
+    },
+    "Cherokee County": {
+      "description": "Cherokee County benefits from tourism, healthcare services, gaming-related industries, outdoor recreation, retail activity, and local business development. Visitor spending and natural attractions play important roles in supporting economic growth.",
+      "population": "30164"
+    },
+    "Chowan County": {
+      "description": "Chowan County supports a diversified economy based on tourism, healthcare services, education, maritime industries, retail activity, and local commerce. Its historic attractions and waterfront location contribute significantly to economic growth throughout the county.",
+      "population": "13943"
+    },
+    "Clay County": {
+      "description": "Clay County benefits from tourism, healthcare services, outdoor recreation, agriculture, construction, and local business development. Visitor spending and natural attractions play important roles in supporting economic activity.",
+      "population": "11322"
+    },
+    "Cleveland County": {
+      "description": "Cleveland County serves as an important economic center in western North Carolina, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "100359"
+    },
+    "Columbus County": {
+      "description": "Columbus County supports an economy driven by agriculture, manufacturing, healthcare services, forestry, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "50278"
+    },
+    "Craven County": {
+      "description": "Craven County is a major economic hub in eastern North Carolina, anchored by healthcare, military-related industries, aerospace, manufacturing, tourism, retail development, and professional services. Its diversified economy supports strong workforce growth and investment.",
+      "population": "103505"
+    },
+    "Cumberland County": {
+      "description": "Cumberland County is one of North Carolina's largest economic centers, driven by military-related industries, healthcare, education, logistics, retail development, professional services, and technology. Its diversified economy contributes significantly to statewide employment and business activity.",
+      "population": "338615"
+    },
+    "Currituck County": {
+      "description": "Currituck County benefits from tourism, real estate development, healthcare services, hospitality, construction, and local commerce. Its coastal location supports substantial visitor spending and residential growth.",
+      "population": "29550"
+    },
+    "Dare County": {
+      "description": "Dare County is one of North Carolina's leading tourism economies, supported by hospitality, healthcare services, maritime industries, construction, retail activity, and professional services. Visitor spending remains a major driver of economic activity throughout the county.",
+      "population": "37872"
+    },
+    "Davidson County": {
+      "description": "Davidson County serves as a major manufacturing and logistics center in central North Carolina, supported by healthcare, education, retail development, transportation, and professional services. Its diversified economy contributes substantially to regional growth.",
+      "population": "173667"
+    },
+    "Davie County": {
+      "description": "Davie County supports a growing economy based on healthcare services, manufacturing, logistics, retail activity, agriculture, and professional services. Its strategic location contributes to continued business investment and workforce opportunities.",
+      "population": "43533"
+    },
+    "Duplin County": {
+      "description": "Duplin County supports a strong agricultural economy complemented by food processing, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "49325"
+    },
+    "Durham County": {
+      "description": "Durham County is one of North Carolina's most important economic centers, driven by healthcare, biotechnology, higher education, technology, finance, professional services, and research industries. Its innovation-focused economy contributes substantially to regional and national growth.",
+      "population": "336436"
+    },
+    "Edgecombe County": {
+      "description": "Edgecombe County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strategic location supports continued economic development and workforce opportunities.",
+      "population": "48372"
+    },
+    "Forsyth County": {
+      "description": "Forsyth County is one of North Carolina's largest economic centers, anchored by healthcare, finance, technology, manufacturing, higher education, logistics, and professional services. Its diversified economy supports substantial employment and business investment.",
+      "population": "392428"
+    },
+    "Franklin County": {
+      "description": "Franklin County is a rapidly growing county supported by healthcare, manufacturing, logistics, retail activity, professional services, and residential expansion. Its proximity to the Research Triangle region contributes significantly to economic growth and development.",
+      "population": "79092"
+    },
+    "Gaston County": {
+      "description": "Gaston County is a major economic center within the Charlotte metropolitan area, driven by manufacturing, healthcare, logistics, finance, retail development, professional services, and residential growth. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "236961"
+    },
+    "Gates County": {
+      "description": "Gates County maintains a rural economy centered on agriculture, forestry, healthcare services, transportation, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "10931"
+    },
+    "Graham County": {
+      "description": "Graham County benefits from tourism, healthcare services, outdoor recreation, forestry, construction, and local business development. Natural attractions and visitor spending play important roles in supporting economic growth.",
+      "population": "8131"
+    },
+    "Granville County": {
+      "description": "Granville County supports a diversified economy based on manufacturing, healthcare services, agriculture, logistics, retail development, and professional services. Its strategic location contributes to stable employment and continued business growth.",
+      "population": "62803"
+    },
+    "Greene County": {
+      "description": "Greene County combines agriculture, healthcare services, manufacturing, transportation, retail activity, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "20566"
+    },
+    "Guilford County": {
+      "description": "Guilford County is one of North Carolina's largest economic centers, driven by healthcare, logistics, advanced manufacturing, higher education, finance, technology, and professional services. Its diversified economy supports substantial employment, business investment, and regional growth.",
+      "population": "546543"
+    },
+    "Halifax County": {
+      "description": "Halifax County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, retail activity, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "48084"
+    },
+    "Harnett County": {
+      "description": "Harnett County is one of North Carolina's fastest-growing counties, supported by healthcare, logistics, manufacturing, retail development, professional services, and residential expansion. Its strategic location between Raleigh and Fayetteville drives continued economic growth.",
+      "population": "142937"
+    },
+    "Haywood County": {
+      "description": "Haywood County benefits from tourism, healthcare services, manufacturing, outdoor recreation, hospitality, and local business development. Visitor spending and mountain attractions contribute significantly to economic activity throughout the county.",
+      "population": "63569"
+    },
+    "Henderson County": {
+      "description": "Henderson County serves as a major economic center in western North Carolina, supported by healthcare, tourism, manufacturing, professional services, retail development, and construction. Its growing economy contributes substantially to regional employment and investment.",
+      "population": "123128"
+    },
+    "Hertford County": {
+      "description": "Hertford County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, education, and local commerce. Farming operations and industrial employers remain important contributors to economic stability.",
+      "population": "20982"
+    },
+    "Hoke County": {
+      "description": "Hoke County benefits from military-related employment, healthcare services, retail development, logistics, construction, and residential growth. Its proximity to the Fayetteville region supports continued economic expansion and workforce opportunities.",
+      "population": "54742"
+    },
+    "Hyde County": {
+      "description": "Hyde County maintains a rural economy centered on tourism, fisheries, agriculture, healthcare services, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "4937"
+    },
+    "Iredell County": {
+      "description": "Iredell County is one of North Carolina's strongest economic centers, driven by manufacturing, healthcare, logistics, technology, finance, professional services, and residential development. Its location within the Charlotte metropolitan region supports substantial business investment and workforce growth.",
+      "population": "203992"
+    },
+    "Jackson County": {
+      "description": "Jackson County supports a diversified economy based on higher education, tourism, healthcare services, outdoor recreation, hospitality, and professional services. Educational institutions and visitor spending contribute significantly to regional economic growth.",
+      "population": "45714"
+    },
+    "Johnston County": {
+      "description": "Johnston County is one of North Carolina's fastest-growing economic centers, supported by healthcare, manufacturing, logistics, biotechnology, retail development, professional services, and residential expansion. Its location within the Raleigh metropolitan region drives substantial business investment and workforce growth.",
+      "population": "245223"
+    },
+    "Jones County": {
+      "description": "Jones County maintains a rural economy centered on agriculture, forestry, healthcare services, transportation, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "9439"
+    },
+    "Lee County": {
+      "description": "Lee County serves as an important economic hub in central North Carolina, driven by manufacturing, healthcare, logistics, education, retail activity, and professional services. Its diversified economy supports stable employment opportunities and continued growth.",
+      "population": "64884"
+    },
+    "Lenoir County": {
+      "description": "Lenoir County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Industrial employers and farming operations contribute significantly to regional economic growth.",
+      "population": "55461"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County is a growing economic center within the Charlotte metropolitan area, supported by manufacturing, healthcare, logistics, retail development, professional services, and residential growth. Its strategic location contributes substantially to business expansion and workforce opportunities.",
+      "population": "98117"
+    },
+    "McDowell County": {
+      "description": "McDowell County supports a diversified economy based on manufacturing, healthcare services, tourism, outdoor recreation, logistics, and local commerce. Natural attractions and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "45086"
+    },
+    "Macon County": {
+      "description": "Macon County benefits from tourism, healthcare services, hospitality, construction, outdoor recreation, and local business development. Visitor spending and mountain attractions play major roles in supporting regional economic growth.",
+      "population": "38931"
+    },
+    "Madison County": {
+      "description": "Madison County combines tourism, agriculture, healthcare services, outdoor recreation, construction, and local commerce. Natural attractions and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "22261"
+    },
+    "Martin County": {
+      "description": "Martin County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, education, and local business activity. Its diversified economy contributes to stable employment and long-term economic development.",
+      "population": "22803"
+    },
+    "Mecklenburg County": {
+      "description": "Mecklenburg County is North Carolina's largest economic center and home to Charlotte. Finance, healthcare, technology, logistics, professional services, manufacturing, higher education, and corporate headquarters drive one of the fastest-growing and most diversified economies in the United States.",
+      "population": "1190390"
+    },
+    "Mitchell County": {
+      "description": "Mitchell County supports a diversified economy based on manufacturing, healthcare services, tourism, outdoor recreation, agriculture, and local commerce. Natural attractions and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "14902"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its diversified economy supports stable employment opportunities and continued economic growth.",
+      "population": "26873"
+    },
+    "Moore County": {
+      "description": "Moore County is one of North Carolina's strongest tourism and service economies, supported by healthcare, hospitality, real estate development, professional services, retail activity, and recreation-related industries. Its growing population contributes substantially to regional economic development.",
+      "population": "108103"
+    },
+    "Nash County": {
+      "description": "Nash County serves as an important economic center in eastern North Carolina, driven by healthcare, manufacturing, logistics, retail development, education, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "95451"
+    },
+    "New Hanover County": {
+      "description": "New Hanover County is one of North Carolina's fastest-growing economic centers, anchored by healthcare, tourism, logistics, finance, technology, higher education, professional services, and real estate development. Its coastal location supports substantial business investment and workforce growth.",
+      "population": "239317"
+    },
+    "Northampton County": {
+      "description": "Northampton County maintains a rural economy centered on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
+      "population": "17631"
+    },
+    "Onslow County": {
+      "description": "Onslow County is a major economic center in coastal North Carolina, supported by military-related industries, healthcare, retail development, logistics, professional services, construction, and residential growth. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "213522"
+    },
+    "Orange County": {
+      "description": "Orange County is one of North Carolina's leading innovation and education centers, driven by higher education, healthcare, biotechnology, technology, finance, professional services, and research industries. Its highly skilled workforce supports substantial economic growth and investment.",
+      "population": "154751"
+    },
+    "Pamlico County": {
+      "description": "Pamlico County supports an economy based on tourism, healthcare services, maritime industries, fisheries, hospitality, and local commerce. Its coastal location contributes significantly to visitor spending and economic activity.",
+      "population": "12935"
+    },
+    "Pasquotank County": {
+      "description": "Pasquotank County serves as a regional economic hub in northeastern North Carolina, supported by healthcare, education, manufacturing, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional business development.",
+      "population": "41217"
+    },
+    "Pender County": {
+      "description": "Pender County is one of North Carolina's fastest-growing counties, supported by healthcare, tourism, construction, retail development, logistics, professional services, and residential expansion. Its proximity to the Wilmington region drives substantial economic investment and workforce growth.",
+      "population": "68931"
+    },
+    "Perquimans County": {
+      "description": "Perquimans County supports a diversified economy based on agriculture, healthcare services, tourism, maritime industries, retail activity, and local commerce. Farming operations and waterfront attractions contribute significantly to economic activity throughout the county.",
+      "population": "13588"
+    },
+    "Person County": {
+      "description": "Person County benefits from manufacturing, healthcare services, energy-related industries, agriculture, logistics, and professional services. Its diversified economy supports stable employment opportunities and continued business development.",
+      "population": "40456"
+    },
+    "Pitt County": {
+      "description": "Pitt County is one of eastern North Carolina's largest economic centers, anchored by healthcare, higher education, biotechnology, manufacturing, finance, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "176975"
+    },
+    "Polk County": {
+      "description": "Polk County supports an economy driven by tourism, healthcare services, agriculture, equestrian industries, construction, and local commerce. Visitor spending and outdoor recreation contribute significantly to economic growth throughout the county.",
+      "population": "21622"
+    },
+    "Randolph County": {
+      "description": "Randolph County serves as a major manufacturing and logistics center in central North Carolina, supported by healthcare, retail development, professional services, transportation, and advanced industry. Its diversified economy contributes significantly to regional business growth.",
+      "population": "148696"
+    },
+    "Richmond County": {
+      "description": "Richmond County benefits from manufacturing, healthcare services, logistics, agriculture, retail activity, and professional industries. Its strategic location supports continued economic development and workforce opportunities.",
+      "population": "42061"
+    },
+    "Robeson County": {
+      "description": "Robeson County is one of North Carolina's largest counties by population, supported by healthcare, manufacturing, agriculture, education, logistics, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business activity.",
+      "population": "116530"
+    },
+    "Rockingham County": {
+      "description": "Rockingham County supports a diversified economy based on manufacturing, healthcare services, logistics, agriculture, retail development, and professional services. Industrial employers and transportation networks contribute significantly to economic growth throughout the county.",
+      "population": "91708"
+    },
+    "Rowan County": {
+      "description": "Rowan County is an important economic center in the Charlotte–Piedmont region, driven by healthcare, manufacturing, logistics, education, retail activity, and professional services. Its diversified economy supports substantial employment and continued business investment.",
+      "population": "153533"
+    },
+    "Rutherford County": {
+      "description": "Rutherford County supports a diversified economy based on healthcare services, manufacturing, tourism, agriculture, retail activity, and professional services. Outdoor recreation and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "67015"
+    },
+    "Sampson County": {
+      "description": "Sampson County is one of North Carolina's leading agricultural economies, supported by agribusiness, food processing, healthcare services, manufacturing, transportation, and local commerce. Farming operations contribute substantially to regional economic growth.",
+      "population": "59245"
+    },
+    "Scotland County": {
+      "description": "Scotland County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its diversified economy supports stable employment opportunities and continued business development.",
+      "population": "34401"
+    },
+    "Stanly County": {
+      "description": "Stanly County serves as an important manufacturing and logistics center in central North Carolina, supported by healthcare, retail activity, professional services, agriculture, and industrial development. Its diversified economy contributes significantly to regional employment.",
+      "population": "65568"
+    },
+    "Stokes County": {
+      "description": "Stokes County supports an economy driven by manufacturing, agriculture, healthcare services, tourism, outdoor recreation, and local commerce. Natural attractions and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "44490"
+    },
+    "Surry County": {
+      "description": "Surry County is a major economic center in northwestern North Carolina, anchored by healthcare, manufacturing, agriculture, tourism, logistics, retail development, and professional services. Its diversified economy supports substantial business growth and workforce opportunities.",
+      "population": "71971"
+    },
+    "Swain County": {
+      "description": "Swain County benefits from tourism, hospitality, healthcare services, outdoor recreation, gaming-related industries, and local commerce. Visitor spending and natural attractions play major roles in supporting economic growth throughout the county.",
+      "population": "14411"
+    },
+    "Transylvania County": {
+      "description": "Transylvania County supports a tourism-driven economy complemented by healthcare services, outdoor recreation, manufacturing, hospitality, and professional services. Its natural attractions contribute significantly to visitor spending and economic activity.",
+      "population": "34914"
+    },
+    "Tyrrell County": {
+      "description": "Tyrrell County maintains a rural economy centered on agriculture, fisheries, tourism, healthcare services, forestry, and local commerce. Natural resources and visitor-related industries contribute significantly to economic development throughout the county.",
+      "population": "3229"
+    },
+    "Union County": {
+      "description": "Union County is one of North Carolina's fastest-growing and most affluent counties, driven by healthcare, finance, technology, logistics, professional services, retail development, and residential expansion. Its location within the Charlotte metropolitan area supports substantial economic investment and workforce growth.",
+      "population": "259080"
+    },
+    "Vance County": {
+      "description": "Vance County supports a diversified economy based on healthcare services, manufacturing, logistics, retail activity, agriculture, and professional services. Its strategic location contributes significantly to regional business development and workforce opportunities.",
+      "population": "42634"
+    },
+    "Wake County": {
+      "description": "Wake County is one of the fastest-growing and most economically dynamic counties in the United States, anchored by technology, healthcare, biotechnology, finance, higher education, professional services, and research industries. Its innovation-driven economy supports substantial business investment, job creation, and workforce growth.",
+      "population": "1198222"
+    },
+    "Warren County": {
+      "description": "Warren County maintains a rural economy centered on agriculture, healthcare services, manufacturing, forestry, transportation, and local commerce. Farming operations and community-focused industries contribute significantly to economic activity throughout the county.",
+      "population": "18642"
+    },
+    "Washington County": {
+      "description": "Washington County supports an economy driven by agriculture, healthcare services, manufacturing, forestry, tourism, and local business activity. Natural resources and farming operations remain important contributors to economic development throughout the county.",
+      "population": "11524"
+    },
+    "Watauga County": {
+      "description": "Watauga County is a major educational and tourism center in western North Carolina, supported by higher education, healthcare, hospitality, outdoor recreation, retail development, and professional services. Its diversified economy contributes substantially to regional growth and employment.",
+      "population": "56971"
+    },
+    "Wayne County": {
+      "description": "Wayne County serves as an important economic hub in eastern North Carolina, driven by military-related industries, healthcare, manufacturing, logistics, retail activity, and professional services. Its diversified economy supports substantial workforce opportunities and business investment.",
+      "population": "117333"
+    },
+    "Wilkes County": {
+      "description": "Wilkes County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strong business community contributes significantly to economic activity and long-term regional growth.",
+      "population": "65549"
+    },
+    "Wilson County": {
+      "description": "Wilson County is a major economic center in eastern North Carolina, supported by healthcare, manufacturing, logistics, technology, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "78173"
+    },
+    "Yadkin County": {
+      "description": "Yadkin County supports an economy based on agriculture, manufacturing, healthcare services, viticulture, tourism, and local commerce. Farming operations and growing visitor-related industries contribute significantly to economic development throughout the county.",
+      "population": "37720"
+    },
+    "Yancey County": {
+      "description": "Yancey County benefits from tourism, healthcare services, outdoor recreation, agriculture, arts-related industries, and local business development. Natural attractions and visitor spending play important roles in supporting economic growth throughout the county.",
+      "population": "18934"
+    }
+  }
 }

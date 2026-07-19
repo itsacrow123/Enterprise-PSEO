@@ -1,782 +1,647 @@
 {
-	
-"Appling County": {
-  "description": "Appling County is located in southeastern Georgia and supports a strong agricultural economy centered on farming, timber production, and agribusiness. Local businesses, transportation services, and natural resource industries contribute to economic activity throughout the county.",
-  "population": "18507"
-},
-
-"Atkinson County": {
-  "description": "Atkinson County is a rural South Georgia county known for its forestry resources, agricultural production, and close-knit communities. Farming, timber operations, and local commerce continue to serve as important economic drivers.",
-  "population": "8331"
-},
-
-"Bacon County": {
-  "description": "Bacon County combines agricultural traditions, forestry resources, and small-town communities within southeastern Georgia. Farming, timber production, and local businesses contribute to a stable and resilient local economy.",
-  "population": "11792"
-},
-
-"Baker County": {
-  "description": "Baker County is characterized by productive farmland, agricultural operations, and a strong rural heritage. Farming, agribusiness, and public sector employment remain central to economic activity throughout the county.",
-  "population": "2876"
-},
-
-"Baldwin County": {
-  "description": "Baldwin County serves as an educational, healthcare, and commercial center in central Georgia. Higher education institutions, healthcare providers, government services, and retail businesses support a diverse local economy.",
-  "population": "45166"
-},
-
-"Banks County": {
-  "description": "Banks County has experienced steady growth due to its strategic location along major transportation corridors and proximity to Northeast Georgia employment centers. Manufacturing, logistics, retail, and residential development contribute to economic expansion.",
-  "population": "19673"
-},
-
-"Barrow County": {
-  "description": "Barrow County is one of Georgia's growing suburban counties, benefiting from residential development, logistics operations, healthcare services, and commercial investment. Its location within the Atlanta metropolitan region supports continued economic growth.",
-  "population": "92011"
-},
-
-"Bartow County": {
-  "description": "Bartow County supports a diverse economy driven by manufacturing, logistics, healthcare, construction, and retail industries. Its strategic location near Atlanta and strong transportation infrastructure attract ongoing business investment.",
-  "population": "113273"
-},
-
-"Ben Hill County": {
-  "description": "Ben Hill County serves as a regional center for agriculture, healthcare, education, and commerce in South Georgia. Farming operations, healthcare providers, and local businesses contribute significantly to the county's economy.",
-  "population": "17156"
-},
-
-"Berrien County": {
-  "description": "Berrien County is known for its agricultural production, forestry resources, and community-focused economy. Farming, agribusiness, timber operations, and local commerce remain important contributors to economic activity throughout the county.",
-  "population": "19512"
-},
-"Bibb County": {
-  "description": "Bibb County serves as a major economic, healthcare, and educational center in central Georgia. Anchored by Macon, the county supports healthcare systems, logistics operations, higher education institutions, manufacturing facilities, and a growing professional services sector.",
-  "population": "157346"
-},
-
-"Bleckley County": {
-  "description": "Bleckley County combines agricultural production, healthcare services, and local commerce within a growing central Georgia economy. Farming, transportation, and community-focused businesses contribute to stable economic activity throughout the county.",
-  "population": "12873"
-},
-
-"Brantley County": {
-  "description": "Brantley County is characterized by forestry resources, agricultural operations, and rural communities in southeastern Georgia. Timber production, farming, and local businesses remain key components of the county's economy.",
-  "population": "19312"
-},
-
-"Brooks County": {
-  "description": "Brooks County supports a diverse agricultural economy based on farming, livestock production, forestry, and agribusiness. Its rural communities and strong agricultural heritage continue to shape local economic activity.",
-  "population": "15684"
-},
-
-"Bryan County": {
-  "description": "Bryan County is one of Georgia's fastest-growing counties, benefiting from residential development, logistics operations, manufacturing investment, and proximity to the Savannah metropolitan area. Continued growth has strengthened its economic outlook.",
-  "population": "47883"
-},
-
-"Bulloch County": {
-  "description": "Bulloch County is a regional center for higher education, healthcare, agriculture, and commercial activity. Population growth, educational institutions, and expanding business development continue to drive economic expansion throughout the county.",
-  "population": "85634"
-},
-
-"Burke County": {
-  "description": "Burke County combines agriculture, energy production, manufacturing, and transportation-related industries within a diverse regional economy. Farming and industrial development continue to support employment and economic growth.",
-  "population": "24763"
-},
-
-"Butts County": {
-  "description": "Butts County benefits from its location between Atlanta and Macon, supporting logistics, manufacturing, tourism, and residential development. Its transportation access and growing communities contribute to economic activity across the county.",
-  "population": "26948"
-},
-
-"Calhoun County": {
-  "description": "Calhoun County is a rural southwest Georgia county supported by agriculture, forestry, and local commerce. Farming operations and agribusiness remain central to economic activity throughout the region.",
-  "population": "5627"
-},
-
-"Camden County": {
-  "description": "Camden County is a major coastal Georgia county known for military-related employment, tourism, logistics, and residential growth. Its strategic location near Florida and access to transportation infrastructure support continued economic development.",
-  "population": "61218"
-},
-"Candler County": {
-  "description": "Candler County supports a rural economy based on agriculture, manufacturing, forestry, and local commerce. Its strategic location in southeast Georgia provides access to regional transportation corridors and business opportunities.",
-  "population": "11189"
-},
-
-"Carroll County": {
-  "description": "Carroll County is a growing economic center in west Georgia, supported by higher education, healthcare, manufacturing, logistics, and retail industries. Continued residential and commercial development contributes to strong economic growth.",
-  "population": "124589"
-},
-
-"Catoosa County": {
-  "description": "Catoosa County benefits from its location within the Chattanooga metropolitan area and supports a diverse economy driven by manufacturing, healthcare, logistics, tourism, and retail activity.",
-  "population": "69137"
-},
-
-"Charlton County": {
-  "description": "Charlton County is known for its natural resources, outdoor recreation opportunities, forestry industry, and proximity to major transportation routes. Tourism, timber production, and local businesses contribute to economic activity throughout the county.",
-  "population": "13515"
-},
-
-"Chatham County": {
-  "description": "Chatham County is home to Savannah and serves as one of Georgia's most important economic centers. International trade, logistics, tourism, healthcare, manufacturing, and professional services drive a highly diversified regional economy.",
-  "population": "295291"
-},
-
-"Chattahoochee County": {
-  "description": "Chattahoochee County's economy is heavily influenced by military operations, government services, and related support industries. Public sector employment plays a central role in economic activity throughout the county.",
-  "population": "9416"
-},
-
-"Chattooga County": {
-  "description": "Chattooga County combines manufacturing, agriculture, healthcare, and outdoor recreation opportunities within northwest Georgia. Local businesses and industrial employers continue to support the county's economy.",
-  "population": "24811"
-},
-
-"Cherokee County": {
-  "description": "Cherokee County is one of the fastest-growing counties in the Atlanta metropolitan area, supporting technology, healthcare, professional services, construction, and retail industries. Strong residential growth continues to drive economic expansion.",
-  "population": "286108"
-},
-
-"Clarke County": {
-  "description": "Clarke County is home to Athens and serves as a major center for higher education, healthcare, research, technology, and cultural activity. Educational institutions and professional services contribute significantly to the local economy.",
-  "population": "129180"
-},
-
-"Clay County": {
-  "description": "Clay County is a small southwest Georgia county supported by agriculture, forestry, government services, and local commerce. Farming operations and natural resource industries remain important contributors to economic activity.",
-  "population": "2898"
-},
-"Clayton County": {
-  "description": "Clayton County is a key component of the Atlanta metropolitan area and benefits from major transportation infrastructure, logistics operations, healthcare services, and commercial development. Its proximity to Atlanta continues to drive economic growth and investment.",
-  "population": "297595"
-},
-
-"Clinch County": {
-  "description": "Clinch County is known for its forestry resources, agricultural operations, outdoor recreation opportunities, and rural communities. Timber production, farming, and local businesses remain central to economic activity throughout the county.",
-  "population": "6749"
-},
-
-"Cobb County": {
-  "description": "Cobb County is one of Georgia's largest and most affluent counties, supporting technology, healthcare, finance, education, professional services, and corporate headquarters. Its strong economy and highly developed infrastructure make it a major business center within the Atlanta region.",
-  "population": "780688"
-},
-
-"Coffee County": {
-  "description": "Coffee County serves as an important commercial and healthcare hub in South Georgia. Agriculture, manufacturing, education, healthcare services, and local businesses contribute to a diverse and stable economy.",
-  "population": "43852"
-},
-
-"Colquitt County": {
-  "description": "Colquitt County is a leading agricultural county known for farming, food production, agribusiness, and manufacturing. Its strong agricultural foundation continues to support economic activity and employment throughout the region.",
-  "population": "45739"
-},
-
-"Columbia County": {
-  "description": "Columbia County is one of Georgia's fastest-growing counties and a major part of the Augusta metropolitan area. Healthcare, education, professional services, retail development, and residential growth contribute to a strong local economy.",
-  "population": "163883"
-},
-
-"Cook County": {
-  "description": "Cook County combines agriculture, manufacturing, healthcare, and transportation access within a growing South Georgia economy. Farming and local industry continue to provide stable employment opportunities throughout the county.",
-  "population": "18211"
-},
-
-"Coweta County": {
-  "description": "Coweta County is a rapidly growing county south of Atlanta, supported by healthcare, logistics, manufacturing, professional services, and residential development. Continued business investment has strengthened the county's economic outlook.",
-  "population": "155593"
-},
-
-"Crawford County": {
-  "description": "Crawford County features a mix of agriculture, rural communities, local businesses, and growing residential development. Its location in central Georgia supports access to regional employment and economic opportunities.",
-  "population": "12334"
-},
-
-"Crisp County": {
-  "description": "Crisp County serves as a regional center for healthcare, education, agriculture, and commerce in South Georgia. Transportation access, local businesses, and community institutions contribute significantly to the county's economy.",
-  "population": "20559"
-},
-"Dade County": {
-  "description": "Dade County is located in the scenic northwest corner of Georgia and is known for its mountain landscapes, outdoor recreation opportunities, and growing residential communities. Tourism, healthcare, construction, and local businesses contribute to economic activity throughout the county.",
-  "population": "16745"
-},
-
-"Dawson County": {
-  "description": "Dawson County is one of North Georgia's fastest-growing counties, benefiting from residential development, tourism, healthcare services, and proximity to the Atlanta metropolitan area. Continued population growth supports expanding business investment.",
-  "population": "29213"
-},
-
-"Decatur County": {
-  "description": "Decatur County serves as an important agricultural, manufacturing, and transportation center in southwest Georgia. Farming, agribusiness, healthcare, and industrial development contribute significantly to the county's economy.",
-  "population": "29276"
-},
-
-"DeKalb County": {
-  "description": "DeKalb County is a major economic engine within the Atlanta metropolitan region, supporting healthcare, education, technology, government services, logistics, and professional industries. Its diverse economy and large population make it one of Georgia's most influential counties.",
-  "population": "769152"
-},
-
-"Dodge County": {
-  "description": "Dodge County combines agriculture, forestry, manufacturing, and transportation-related industries within a stable central Georgia economy. Farming operations and local businesses continue to support employment and economic growth.",
-  "population": "19812"
-},
-
-"Dooly County": {
-  "description": "Dooly County is known for its strong agricultural heritage, productive farmland, and agribusiness operations. Farming, food production, and local commerce remain central to economic activity throughout the county.",
-  "population": "11034"
-},
-
-"Dougherty County": {
-  "description": "Dougherty County is home to Albany and serves as a regional center for healthcare, education, government services, manufacturing, and commerce. Its diverse economy supports both local residents and surrounding communities.",
-  "population": "85790"
-},
-
-"Douglas County": {
-  "description": "Douglas County is one of the fastest-growing counties in the Atlanta metropolitan area, benefiting from logistics, healthcare, retail development, professional services, and residential expansion. Continued investment supports strong economic growth.",
-  "population": "149815"
-},
-
-"Early County": {
-  "description": "Early County supports a rural economy centered on agriculture, agribusiness, forestry, and local commerce. Farming operations and natural resource industries remain important contributors to economic activity throughout the county.",
-  "population": "10012"
-},
-
-"Echols County": {
-  "description": "Echols County is Georgia's southernmost county and is characterized by forestry resources, agriculture, outdoor recreation, and rural communities. Timber production, farming, and local businesses support the county's economy.",
-  "population": "3956"
-},
-"Effingham County": {
-  "description": "Effingham County is one of Georgia's fastest-growing counties, benefiting from residential expansion, logistics operations, manufacturing investment, and proximity to the Savannah metropolitan area. Continued development has strengthened the county's economic position.",
-  "population": "71380"
-},
-
-"Elbert County": {
-  "description": "Elbert County is known for its granite industry, agricultural production, and historic communities in northeast Georgia. Manufacturing, farming, healthcare, and local businesses contribute to a diverse and stable economy.",
-  "population": "19461"
-},
-
-"Emanuel County": {
-  "description": "Emanuel County supports a regional economy driven by agriculture, forestry, manufacturing, healthcare, and transportation services. Its strategic location in central Georgia contributes to ongoing business and industrial activity.",
-  "population": "22891"
-},
-
-"Evans County": {
-  "description": "Evans County combines agriculture, manufacturing, healthcare services, and local commerce within a growing southeast Georgia economy. Farming and industrial development continue to support employment throughout the county.",
-  "population": "10931"
-},
-
-"Fannin County": {
-  "description": "Fannin County is one of North Georgia's premier mountain destinations, known for tourism, outdoor recreation, hospitality, and real estate development. Visitor spending plays a major role in supporting the county's economy.",
-  "population": "27194"
-},
-
-"Fayette County": {
-  "description": "Fayette County is one of the most affluent counties in the Atlanta metropolitan area, supporting healthcare, professional services, technology, retail, and residential development. Its strong business environment and quality of life continue to attract investment.",
-  "population": "122517"
-},
-
-"Floyd County": {
-  "description": "Floyd County serves as a major healthcare, education, and manufacturing center in northwest Georgia. Its regional influence, skilled workforce, and commercial development contribute to a diversified local economy.",
-  "population": "98983"
-},
-
-"Forsyth County": {
-  "description": "Forsyth County is one of Georgia's fastest-growing and most affluent counties, driven by technology, healthcare, professional services, retail development, and residential growth. Its proximity to Atlanta supports strong economic expansion.",
-  "population": "273033"
-},
-
-"Franklin County": {
-  "description": "Franklin County combines agriculture, manufacturing, healthcare, and local commerce within northeast Georgia. Farming operations, industrial employers, and small businesses contribute to a stable regional economy.",
-  "population": "23768"
-},
-
-"Fulton County": {
-  "description": "Fulton County is Georgia's most influential economic center and home to much of metropolitan Atlanta. Finance, technology, healthcare, logistics, media, professional services, and corporate headquarters drive one of the largest and most diverse economies in the southeastern United States.",
-  "population": "1103284"
-},
-"Gilmer County": {
-  "description": "Gilmer County is known for its mountain scenery, apple orchards, tourism industry, and outdoor recreation opportunities. Hospitality, healthcare, construction, and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "33708"
-},
-
-"Glascock County": {
-  "description": "Glascock County is one of Georgia's smallest counties and supports a rural economy centered on agriculture, forestry, and local commerce. Farming operations and community-based businesses remain important contributors to economic stability.",
-  "population": "3025"
-},
-
-"Glynn County": {
-  "description": "Glynn County is a major coastal Georgia destination known for tourism, maritime industries, healthcare services, hospitality, and real estate development. Its coastal communities and transportation infrastructure support a diverse regional economy.",
-  "population": "86032"
-},
-
-"Gordon County": {
-  "description": "Gordon County supports a strong manufacturing base alongside healthcare, logistics, retail, and residential development. Its strategic location along major transportation corridors contributes to continued economic growth.",
-  "population": "58943"
-},
-
-"Grady County": {
-  "description": "Grady County combines agriculture, healthcare, manufacturing, and local commerce within a stable southwest Georgia economy. Farming and agribusiness continue to play important roles in supporting employment throughout the county.",
-  "population": "26671"
-},
-
-"Greene County": {
-  "description": "Greene County is recognized for its recreational amenities, residential growth, tourism activity, and expanding service sector. Hospitality, healthcare, real estate, and local businesses contribute significantly to economic development.",
-  "population": "20284"
-},
-
-"Gwinnett County": {
-  "description": "Gwinnett County is one of Georgia's largest and fastest-growing counties, supporting technology, healthcare, logistics, education, finance, and professional services. Its highly diverse economy and strategic location within metro Atlanta drive substantial business investment.",
-  "population": "983314"
-},
-
-"Habersham County": {
-  "description": "Habersham County combines mountain tourism, healthcare services, manufacturing, agriculture, and residential growth. Outdoor recreation and expanding commercial activity contribute to a balanced and growing economy.",
-  "population": "46891"
-},
-
-"Hall County": {
-  "description": "Hall County is a major economic center in northeast Georgia, known for manufacturing, healthcare, logistics, agriculture, and tourism. Strong business development and population growth continue to support long-term economic expansion.",
-  "population": "215148"
-},
-
-"Hancock County": {
-  "description": "Hancock County supports a rural economy based on agriculture, forestry, government services, and local commerce. Farming operations and community institutions remain central to economic activity throughout the county.",
-  "population": "8257"
-},
-"Haralson County": {
-  "description": "Haralson County combines manufacturing, logistics, agriculture, and residential development within west Georgia. Its location near major transportation corridors supports business growth and economic activity throughout the county.",
-  "population": "30679"
-},
-
-"Harris County": {
-  "description": "Harris County is one of west Georgia's fastest-growing counties, benefiting from residential expansion, tourism, healthcare services, and proximity to the Columbus metropolitan area. Its strong quality of life continues to attract families and businesses.",
-  "population": "37329"
-},
-
-"Hart County": {
-  "description": "Hart County supports a diverse economy driven by manufacturing, agriculture, tourism, and healthcare. Recreational amenities and business development contribute to steady economic growth throughout the county.",
-  "population": "26424"
-},
-
-"Heard County": {
-  "description": "Heard County is characterized by rural landscapes, agricultural production, forestry resources, and growing residential communities. Farming, timber operations, and local businesses remain important contributors to the county's economy.",
-  "population": "11923"
-},
-
-"Henry County": {
-  "description": "Henry County is one of the fastest-growing counties in the Atlanta metropolitan area, supported by logistics, healthcare, retail, professional services, and residential development. Continued population growth fuels strong economic expansion and business investment.",
-  "population": "254003"
-},
-
-"Houston County": {
-  "description": "Houston County serves as a major economic center in central Georgia, anchored by healthcare, aerospace, defense-related employment, education, and retail activity. Its diverse economy and growing population support long-term regional growth.",
-  "population": "174063"
-},
-
-"Irwin County": {
-  "description": "Irwin County maintains a strong agricultural economy supported by farming, agribusiness, forestry, and local commerce. Rural communities and natural resource industries continue to shape economic activity throughout the county.",
-  "population": "9354"
-},
-
-"Jackson County": {
-  "description": "Jackson County is one of northeast Georgia's fastest-growing counties, benefiting from manufacturing, logistics, healthcare, education, and residential development. Its strategic location along major transportation routes supports continued economic growth.",
-  "population": "87540"
-},
-
-"Jasper County": {
-  "description": "Jasper County combines rural charm with growing residential development, agriculture, tourism, and local commerce. Its proximity to major Georgia markets contributes to increasing economic activity and investment.",
-  "population": "15165"
-},
-
-"Jeff Davis County": {
-  "description": "Jeff Davis County supports an economy based on agriculture, forestry, manufacturing, healthcare, and local businesses. Farming operations and industrial employers remain important drivers of economic activity throughout the county.",
-  "population": "14891"
-},
-"Jefferson County": {
-  "description": "Jefferson County supports a diverse economy based on agriculture, manufacturing, healthcare, forestry, and local commerce. Its strategic location in east-central Georgia contributes to regional business activity and employment opportunities.",
-  "population": "14608"
-},
-
-"Jenkins County": {
-  "description": "Jenkins County is known for its agricultural production, forestry resources, and strong rural communities. Farming, timber operations, healthcare services, and local businesses contribute to economic stability throughout the county.",
-  "population": "8401"
-},
-
-"Johnson County": {
-  "description": "Johnson County combines agriculture, forestry, manufacturing, and local commerce within a growing central Georgia economy. Its business community and farming heritage continue to support long-term economic activity.",
-  "population": "9648"
-},
-
-"Jones County": {
-  "description": "Jones County benefits from residential growth, agriculture, healthcare services, and proximity to the Macon metropolitan area. Continued development and local business investment contribute to a stable and expanding economy.",
-  "population": "29248"
-},
-
-"Lamar County": {
-  "description": "Lamar County is one of Georgia's growing counties, supported by logistics, manufacturing, agriculture, retail development, and residential expansion. Its location along major transportation corridors strengthens economic opportunities throughout the region.",
-  "population": "19483"
-},
-
-"Lanier County": {
-  "description": "Lanier County supports a rural economy centered on agriculture, forestry, healthcare services, and local commerce. Farming operations and natural resource industries remain important contributors to economic activity.",
-  "population": "10948"
-},
-
-"Laurens County": {
-  "description": "Laurens County serves as a major economic center in central Georgia, supporting manufacturing, healthcare, logistics, agriculture, and retail industries. Its diverse economy continues to attract business investment and workforce growth.",
-  "population": "50198"
-},
-
-"Lee County": {
-  "description": "Lee County is one of southwest Georgia's fastest-growing counties, benefiting from healthcare, education, professional services, retail development, and residential growth. Strong population growth continues to support economic expansion.",
-  "population": "33552"
-},
-
-"Liberty County": {
-  "description": "Liberty County's economy is driven by military operations, logistics, healthcare, tourism, and residential development. Its strategic coastal location and expanding communities contribute to strong regional economic activity.",
-  "population": "66608"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County combines outdoor recreation, tourism, agriculture, and local commerce within a scenic east Georgia setting. Visitor spending and farming operations continue to support economic activity throughout the county.",
-  "population": "7765"
-},
-"Long County": {
-  "description": "Long County is one of Georgia's growing coastal-region counties, supported by residential development, military-related employment, healthcare services, and local commerce. Continued population growth contributes to expanding economic opportunities throughout the county.",
-  "population": "21458"
-},
-
-"Lowndes County": {
-  "description": "Lowndes County serves as a major economic center in South Georgia, anchored by healthcare, education, manufacturing, logistics, retail, and military-related industries. Its strong regional influence continues to attract businesses and residents.",
-  "population": "121231"
-},
-
-"Lumpkin County": {
-  "description": "Lumpkin County is known for its mountain landscapes, tourism industry, higher education presence, and outdoor recreation opportunities. Hospitality, healthcare, retail, and visitor services contribute significantly to the county's economy.",
-  "population": "35241"
-},
-
-"McDuffie County": {
-  "description": "McDuffie County supports manufacturing, logistics, healthcare, agriculture, and commercial development within east-central Georgia. Its transportation infrastructure and industrial activity contribute to economic growth throughout the region.",
-  "population": "21984"
-},
-
-"McIntosh County": {
-  "description": "McIntosh County combines coastal tourism, fishing, hospitality, natural resources, and outdoor recreation within a unique coastal Georgia economy. Visitor spending and marine-related industries remain important economic drivers.",
-  "population": "11354"
-},
-
-"Macon County": {
-  "description": "Macon County is supported by agriculture, agribusiness, manufacturing, healthcare services, and local commerce. Farming operations and community-based businesses continue to play key roles in the county's economy.",
-  "population": "12543"
-},
-
-"Madison County": {
-  "description": "Madison County benefits from residential growth, agriculture, manufacturing, healthcare services, and proximity to the Athens region. Continued development and business investment support a growing local economy.",
-  "population": "30908"
-},
-
-"Marion County": {
-  "description": "Marion County combines agriculture, forestry, outdoor recreation, and small-town communities within west-central Georgia. Farming operations and natural resource industries continue to support economic activity throughout the county.",
-  "population": "7825"
-},
-
-"Meriwether County": {
-  "description": "Meriwether County supports a diverse economy based on healthcare, agriculture, manufacturing, tourism, and local commerce. Historic attractions and expanding residential development contribute to economic growth across the county.",
-  "population": "20724"
-},
-
-"Miller County": {
-  "description": "Miller County is a rural southwest Georgia county known for its agricultural production, forestry resources, and strong farming heritage. Agribusiness, local commerce, and community institutions support economic stability throughout the county.",
-  "population": "5561"
-},
-"Mitchell County": {
-  "description": "Mitchell County is a leading agricultural county in southwest Georgia, supporting farming, food processing, agribusiness, healthcare, and local commerce. Its productive farmland and agricultural infrastructure contribute significantly to regional economic activity.",
-  "population": "21812"
-},
-
-"Monroe County": {
-  "description": "Monroe County benefits from residential growth, tourism, healthcare services, agriculture, and its strategic location between Atlanta and Macon. Continued development and business investment support a stable and expanding local economy.",
-  "population": "28473"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County supports a rural economy based on agriculture, forestry, manufacturing, healthcare, and local businesses. Farming operations and industrial employers remain important contributors to economic activity throughout the county.",
-  "population": "8685"
-},
-
-"Morgan County": {
-  "description": "Morgan County combines historic communities, residential growth, healthcare services, tourism, and agriculture within a thriving central Georgia economy. Its quality of life and business environment continue to attract residents and investment.",
-  "population": "20314"
-},
-
-"Murray County": {
-  "description": "Murray County supports manufacturing, agriculture, healthcare, tourism, and outdoor recreation opportunities in northwest Georgia. Industrial employers and local businesses contribute to a diversified economic base.",
-  "population": "40989"
-},
-
-"Muscogee County": {
-  "description": "Muscogee County is home to Columbus and serves as a major economic center in west Georgia. Defense-related employment, healthcare, education, logistics, manufacturing, and professional services drive substantial economic activity throughout the county.",
-  "population": "206922"
-},
-
-"Newton County": {
-  "description": "Newton County is one of metro Atlanta's growing counties, benefiting from healthcare, manufacturing, logistics, retail development, and residential expansion. Continued population growth supports strong business investment and economic development.",
-  "population": "119148"
-},
-
-"Oconee County": {
-  "description": "Oconee County is one of Georgia's most affluent counties, supported by healthcare, education, professional services, retail development, and residential growth. Its proximity to Athens contributes to a highly desirable business and residential environment.",
-  "population": "43471"
-},
-
-"Oglethorpe County": {
-  "description": "Oglethorpe County combines agriculture, forestry, tourism, and growing residential communities within northeast Georgia. Farming operations and local businesses continue to support economic activity throughout the county.",
-  "population": "15794"
-},
-
-"Paulding County": {
-  "description": "Paulding County is one of the fastest-growing counties in the Atlanta metropolitan area, driven by residential development, healthcare, logistics, retail, and professional services. Strong population growth continues to fuel economic expansion.",
-  "population": "191806"
-},
-"Peach County": {
-  "description": "Peach County is a growing central Georgia county known for agriculture, logistics, manufacturing, healthcare, and commercial development. Its strategic transportation access and business-friendly environment contribute to continued economic expansion.",
-  "population": "28984"
-},
-
-"Pickens County": {
-  "description": "Pickens County combines mountain scenery, tourism, healthcare services, construction, and residential growth within North Georgia. Outdoor recreation and expanding communities continue to support economic activity throughout the county.",
-  "population": "33978"
-},
-
-"Pierce County": {
-  "description": "Pierce County supports a rural economy driven by agriculture, forestry, healthcare, manufacturing, and local commerce. Timber production and farming operations remain important contributors to economic stability.",
-  "population": "20142"
-},
-
-"Pike County": {
-  "description": "Pike County is one of west-central Georgia's growing counties, benefiting from residential development, agriculture, healthcare, and small business growth. Its proximity to metropolitan employment centers supports continued expansion.",
-  "population": "19607"
-},
-
-"Polk County": {
-  "description": "Polk County maintains a diversified economy supported by manufacturing, healthcare, retail, logistics, and agriculture. Industrial employers and commercial development continue to contribute to regional economic growth.",
-  "population": "43386"
-},
-
-"Pulaski County": {
-  "description": "Pulaski County combines agriculture, manufacturing, healthcare services, and local commerce within a stable central Georgia economy. Farming and community-based businesses remain important economic drivers throughout the county.",
-  "population": "9584"
-},
-
-"Putnam County": {
-  "description": "Putnam County is known for tourism, recreational amenities, healthcare services, residential growth, and local commerce. Visitor spending and real estate development continue to support economic activity throughout the county.",
-  "population": "23587"
-},
-
-"Quitman County": {
-  "description": "Quitman County is a rural southwest Georgia county supported by agriculture, forestry, hunting tourism, and local commerce. Farming operations and natural resource industries remain central to economic activity.",
-  "population": "2258"
-},
-
-"Rabun County": {
-  "description": "Rabun County is one of North Georgia's premier mountain destinations, known for tourism, hospitality, outdoor recreation, and real estate development. Visitor-related industries play a significant role in the county's economy.",
-  "population": "17491"
-},
-
-"Randolph County": {
-  "description": "Randolph County supports a rural economy based on agriculture, forestry, healthcare services, and local businesses. Farming operations and agribusiness remain important contributors to economic stability throughout the county.",
-  "population": "6486"
-},
-"Richmond County": {
-  "description": "Richmond County is home to Augusta and serves as one of Georgia's most important economic centers. Healthcare, cybersecurity, military-related employment, education, manufacturing, and professional services contribute to a highly diversified and growing economy.",
-  "population": "206607"
-},
-
-"Rockdale County": {
-  "description": "Rockdale County is a rapidly developing part of the Atlanta metropolitan area, supported by healthcare, logistics, retail, education, and residential growth. Continued business investment and population expansion contribute to strong economic activity.",
-  "population": "95324"
-},
-
-"Schley County": {
-  "description": "Schley County maintains a rural economy based on agriculture, forestry, healthcare services, and local commerce. Farming operations and community-focused businesses remain central to economic activity throughout the county.",
-  "population": "5308"
-},
-
-"Screven County": {
-  "description": "Screven County supports an economy driven by agriculture, timber production, manufacturing, healthcare, and local businesses. Forestry and farming continue to provide a strong foundation for regional economic stability.",
-  "population": "14098"
-},
-
-"Seminole County": {
-  "description": "Seminole County is known for agricultural production, agribusiness, outdoor recreation, and local commerce. Farming operations and natural resource industries continue to support economic activity throughout southwest Georgia.",
-  "population": "8716"
-},
-
-"Spalding County": {
-  "description": "Spalding County serves as a regional center for healthcare, manufacturing, logistics, retail, and professional services. Its growing population and strategic location south of Atlanta contribute to ongoing economic development.",
-  "population": "68742"
-},
-
-"Stephens County": {
-  "description": "Stephens County combines manufacturing, healthcare, tourism, education, and outdoor recreation opportunities in northeast Georgia. Industrial employers and visitor-related businesses contribute to a diversified local economy.",
-  "population": "26784"
-},
-
-"Stewart County": {
-  "description": "Stewart County supports a rural economy based on agriculture, forestry, tourism, hunting-related recreation, and local commerce. Natural resources and outdoor destinations contribute significantly to economic activity.",
-  "population": "5213"
-},
-
-"Sumter County": {
-  "description": "Sumter County serves as an educational, healthcare, and agricultural center in southwest Georgia. Higher education institutions, healthcare providers, agribusiness, and local businesses support a stable and growing economy.",
-  "population": "29521"
-},
-
-"Talbot County": {
-  "description": "Talbot County combines agriculture, forestry, tourism, and rural community development within west-central Georgia. Farming operations and local businesses continue to support economic activity throughout the county.",
-  "population": "6102"
-},
-"Taliaferro County": {
-  "description": "Taliaferro County is one of Georgia's smallest counties and supports a rural economy centered on agriculture, forestry, local commerce, and community services. Farming operations and natural resource industries remain important contributors to economic activity throughout the county.",
-  "population": "1559"
-},
-
-"Tattnall County": {
-  "description": "Tattnall County combines agriculture, manufacturing, healthcare services, forestry, and local businesses within southeast Georgia. Its diverse economic base supports employment opportunities across both rural and commercial sectors.",
-  "population": "25217"
-},
-
-"Taylor County": {
-  "description": "Taylor County supports a stable rural economy driven by agriculture, timber production, healthcare, and local commerce. Farming and forestry operations continue to serve as key pillars of economic activity throughout the county.",
-  "population": "7856"
-},
-
-"Telfair County": {
-  "description": "Telfair County is known for agriculture, forestry resources, outdoor recreation, and community-focused businesses. Natural resource industries and local commerce contribute significantly to economic stability across the county.",
-  "population": "11618"
-},
-
-"Terrell County": {
-  "description": "Terrell County maintains a strong agricultural economy supported by farming, agribusiness, forestry, and local services. Productive farmland and agricultural enterprises continue to drive economic activity throughout the region.",
-  "population": "8654"
-},
-
-"Thomas County": {
-  "description": "Thomas County serves as a major economic center in southwest Georgia, supporting healthcare, manufacturing, agriculture, tourism, and professional services. Its growing business community contributes to a diversified and resilient local economy.",
-  "population": "45788"
-},
-
-"Tift County": {
-  "description": "Tift County is a regional hub for agriculture, education, healthcare, retail, and commercial activity in South Georgia. Strong transportation access and business development continue to support economic growth throughout the county.",
-  "population": "41554"
-},
-
-"Toombs County": {
-  "description": "Toombs County combines manufacturing, agriculture, healthcare services, transportation, and retail industries within a diverse southeast Georgia economy. Continued investment supports long-term business and workforce growth.",
-  "population": "26718"
-},
-
-"Towns County": {
-  "description": "Towns County is one of North Georgia's premier mountain destinations, known for tourism, outdoor recreation, hospitality, and retirement-oriented residential growth. Visitor spending plays a major role in supporting the county's economy.",
-  "population": "12985"
-},
-
-"Treutlen County": {
-  "description": "Treutlen County supports an economy based on agriculture, manufacturing, forestry, healthcare services, and local commerce. Rural industries and community businesses remain important contributors to economic activity throughout the county.",
-  "population": "6690"
-},
-"Troup County": {
-  "description": "Troup County serves as a major economic center in west Georgia, supported by manufacturing, healthcare, logistics, education, and professional services. Its strategic location along Interstate 85 contributes to strong business activity and regional growth.",
-  "population": "70493"
-},
-
-"Turner County": {
-  "description": "Turner County maintains a rural economy centered on agriculture, agribusiness, forestry, and local commerce. Farming operations and natural resource industries continue to provide economic stability throughout the county.",
-  "population": "8930"
-},
-
-"Twiggs County": {
-  "description": "Twiggs County combines manufacturing, agriculture, logistics, healthcare services, and local business activity within central Georgia. Industrial development and transportation access contribute to economic opportunities across the county.",
-  "population": "8057"
-},
-
-"Union County": {
-  "description": "Union County is known for its mountain landscapes, tourism industry, outdoor recreation opportunities, and growing residential communities. Hospitality, healthcare, construction, and visitor-related services play major roles in the local economy.",
-  "population": "26963"
-},
-
-"Upson County": {
-  "description": "Upson County supports a diversified economy driven by manufacturing, healthcare, education, agriculture, and retail development. Its established business community contributes to long-term economic growth and workforce opportunities.",
-  "population": "27498"
-},
-
-"Walker County": {
-  "description": "Walker County benefits from manufacturing, logistics, healthcare, tourism, and commercial development within northwest Georgia. Its proximity to the Chattanooga metropolitan area supports continued economic expansion and investment.",
-  "population": "70021"
-},
-
-"Walton County": {
-  "description": "Walton County is one of the fastest-growing counties in the Atlanta region, supported by logistics, manufacturing, healthcare, retail development, and residential growth. Strong business investment continues to drive economic expansion throughout the county.",
-  "population": "104039"
-},
-
-"Ware County": {
-  "description": "Ware County serves as a regional center for healthcare, manufacturing, transportation, forestry, and retail activity in southeast Georgia. Its diversified economy supports both local employment and regional commerce.",
-  "population": "36449"
-},
-
-"Warren County": {
-  "description": "Warren County supports a rural economy based on agriculture, forestry, local commerce, and community services. Farming operations and natural resource industries remain important contributors to economic activity throughout the county.",
-  "population": "5318"
-},
-
-"Washington County": {
-  "description": "Washington County combines manufacturing, agriculture, healthcare, education, and local commerce within a diverse central Georgia economy. Continued investment and workforce development contribute to long-term economic stability.",
-  "population": "20709"
-},
-"Wayne County": {
-  "description": "Wayne County serves as an important economic center in southeast Georgia, supported by manufacturing, healthcare, logistics, forestry, and retail industries. Its strategic transportation connections contribute to continued business growth and regional commerce.",
-  "population": "30803"
-},
-
-"Webster County": {
-  "description": "Webster County maintains a rural economy centered on agriculture, forestry, local commerce, and community services. Farming operations and agribusiness remain the primary drivers of economic activity throughout the county.",
-  "population": "2304"
-},
-
-"Wheeler County": {
-  "description": "Wheeler County supports a stable economy based on agriculture, forestry, healthcare services, and local businesses. Natural resource industries and community-focused commerce continue to play important roles in economic development.",
-  "population": "7468"
-},
-
-"White County": {
-  "description": "White County is one of North Georgia's leading tourism destinations, known for mountain scenery, outdoor recreation, hospitality, and residential growth. Visitor spending and service-based businesses contribute significantly to the county's economy.",
-  "population": "32412"
-},
-
-"Whitfield County": {
-  "description": "Whitfield County is a major manufacturing and logistics hub in northwest Georgia, internationally recognized for its flooring industry. Industrial production, healthcare, transportation, and professional services drive a diverse and robust local economy.",
-  "population": "103432"
-},
-
-"Wilcox County": {
-  "description": "Wilcox County supports a rural economy driven by agriculture, timber production, agribusiness, and local commerce. Farming and forestry operations remain essential contributors to economic activity throughout the county.",
-  "population": "8766"
-},
-
-"Wilkes County": {
-  "description": "Wilkes County combines agriculture, tourism, healthcare services, forestry, and local business activity within a historic northeast Georgia setting. Community institutions and natural resource industries support economic stability.",
-  "population": "9827"
-},
-
-"Wilkinson County": {
-  "description": "Wilkinson County benefits from manufacturing, forestry, agriculture, mining activities, and local commerce. Its diverse economic base provides employment opportunities across multiple sectors throughout the county.",
-  "population": "8665"
-},
-
-"Worth County": {
-  "description": "Worth County is a productive agricultural county known for farming, agribusiness, forestry resources, and food production. Agriculture remains the foundation of economic activity, supported by local businesses and community services.",
-  "population": "20524"
-}
+  "identity": {
+    "code": "ga",
+    "slug": "georgia",
+    "name": "Georgia",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Appling County": {
+      "description": "Appling County is located in southeastern Georgia and supports a strong agricultural economy centered on farming, timber production, and agribusiness. Local businesses, transportation services, and natural resource industries contribute to economic activity throughout the county.",
+      "population": "18507"
+    },
+    "Atkinson County": {
+      "description": "Atkinson County is a rural South Georgia county known for its forestry resources, agricultural production, and close-knit communities. Farming, timber operations, and local commerce continue to serve as important economic drivers.",
+      "population": "8331"
+    },
+    "Bacon County": {
+      "description": "Bacon County combines agricultural traditions, forestry resources, and small-town communities within southeastern Georgia. Farming, timber production, and local businesses contribute to a stable and resilient local economy.",
+      "population": "11792"
+    },
+    "Baker County": {
+      "description": "Baker County is characterized by productive farmland, agricultural operations, and a strong rural heritage. Farming, agribusiness, and public sector employment remain central to economic activity throughout the county.",
+      "population": "2876"
+    },
+    "Baldwin County": {
+      "description": "Baldwin County serves as an educational, healthcare, and commercial center in central Georgia. Higher education institutions, healthcare providers, government services, and retail businesses support a diverse local economy.",
+      "population": "45166"
+    },
+    "Banks County": {
+      "description": "Banks County has experienced steady growth due to its strategic location along major transportation corridors and proximity to Northeast Georgia employment centers. Manufacturing, logistics, retail, and residential development contribute to economic expansion.",
+      "population": "19673"
+    },
+    "Barrow County": {
+      "description": "Barrow County is one of Georgia's growing suburban counties, benefiting from residential development, logistics operations, healthcare services, and commercial investment. Its location within the Atlanta metropolitan region supports continued economic growth.",
+      "population": "92011"
+    },
+    "Bartow County": {
+      "description": "Bartow County supports a diverse economy driven by manufacturing, logistics, healthcare, construction, and retail industries. Its strategic location near Atlanta and strong transportation infrastructure attract ongoing business investment.",
+      "population": "113273"
+    },
+    "Ben Hill County": {
+      "description": "Ben Hill County serves as a regional center for agriculture, healthcare, education, and commerce in South Georgia. Farming operations, healthcare providers, and local businesses contribute significantly to the county's economy.",
+      "population": "17156"
+    },
+    "Berrien County": {
+      "description": "Berrien County is known for its agricultural production, forestry resources, and community-focused economy. Farming, agribusiness, timber operations, and local commerce remain important contributors to economic activity throughout the county.",
+      "population": "19512"
+    },
+    "Bibb County": {
+      "description": "Bibb County serves as a major economic, healthcare, and educational center in central Georgia. Anchored by Macon, the county supports healthcare systems, logistics operations, higher education institutions, manufacturing facilities, and a growing professional services sector.",
+      "population": "157346"
+    },
+    "Bleckley County": {
+      "description": "Bleckley County combines agricultural production, healthcare services, and local commerce within a growing central Georgia economy. Farming, transportation, and community-focused businesses contribute to stable economic activity throughout the county.",
+      "population": "12873"
+    },
+    "Brantley County": {
+      "description": "Brantley County is characterized by forestry resources, agricultural operations, and rural communities in southeastern Georgia. Timber production, farming, and local businesses remain key components of the county's economy.",
+      "population": "19312"
+    },
+    "Brooks County": {
+      "description": "Brooks County supports a diverse agricultural economy based on farming, livestock production, forestry, and agribusiness. Its rural communities and strong agricultural heritage continue to shape local economic activity.",
+      "population": "15684"
+    },
+    "Bryan County": {
+      "description": "Bryan County is one of Georgia's fastest-growing counties, benefiting from residential development, logistics operations, manufacturing investment, and proximity to the Savannah metropolitan area. Continued growth has strengthened its economic outlook.",
+      "population": "47883"
+    },
+    "Bulloch County": {
+      "description": "Bulloch County is a regional center for higher education, healthcare, agriculture, and commercial activity. Population growth, educational institutions, and expanding business development continue to drive economic expansion throughout the county.",
+      "population": "85634"
+    },
+    "Burke County": {
+      "description": "Burke County combines agriculture, energy production, manufacturing, and transportation-related industries within a diverse regional economy. Farming and industrial development continue to support employment and economic growth.",
+      "population": "24763"
+    },
+    "Butts County": {
+      "description": "Butts County benefits from its location between Atlanta and Macon, supporting logistics, manufacturing, tourism, and residential development. Its transportation access and growing communities contribute to economic activity across the county.",
+      "population": "26948"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County is a rural southwest Georgia county supported by agriculture, forestry, and local commerce. Farming operations and agribusiness remain central to economic activity throughout the region.",
+      "population": "5627"
+    },
+    "Camden County": {
+      "description": "Camden County is a major coastal Georgia county known for military-related employment, tourism, logistics, and residential growth. Its strategic location near Florida and access to transportation infrastructure support continued economic development.",
+      "population": "61218"
+    },
+    "Candler County": {
+      "description": "Candler County supports a rural economy based on agriculture, manufacturing, forestry, and local commerce. Its strategic location in southeast Georgia provides access to regional transportation corridors and business opportunities.",
+      "population": "11189"
+    },
+    "Carroll County": {
+      "description": "Carroll County is a growing economic center in west Georgia, supported by higher education, healthcare, manufacturing, logistics, and retail industries. Continued residential and commercial development contributes to strong economic growth.",
+      "population": "124589"
+    },
+    "Catoosa County": {
+      "description": "Catoosa County benefits from its location within the Chattanooga metropolitan area and supports a diverse economy driven by manufacturing, healthcare, logistics, tourism, and retail activity.",
+      "population": "69137"
+    },
+    "Charlton County": {
+      "description": "Charlton County is known for its natural resources, outdoor recreation opportunities, forestry industry, and proximity to major transportation routes. Tourism, timber production, and local businesses contribute to economic activity throughout the county.",
+      "population": "13515"
+    },
+    "Chatham County": {
+      "description": "Chatham County is home to Savannah and serves as one of Georgia's most important economic centers. International trade, logistics, tourism, healthcare, manufacturing, and professional services drive a highly diversified regional economy.",
+      "population": "295291"
+    },
+    "Chattahoochee County": {
+      "description": "Chattahoochee County's economy is heavily influenced by military operations, government services, and related support industries. Public sector employment plays a central role in economic activity throughout the county.",
+      "population": "9416"
+    },
+    "Chattooga County": {
+      "description": "Chattooga County combines manufacturing, agriculture, healthcare, and outdoor recreation opportunities within northwest Georgia. Local businesses and industrial employers continue to support the county's economy.",
+      "population": "24811"
+    },
+    "Cherokee County": {
+      "description": "Cherokee County is one of the fastest-growing counties in the Atlanta metropolitan area, supporting technology, healthcare, professional services, construction, and retail industries. Strong residential growth continues to drive economic expansion.",
+      "population": "286108"
+    },
+    "Clarke County": {
+      "description": "Clarke County is home to Athens and serves as a major center for higher education, healthcare, research, technology, and cultural activity. Educational institutions and professional services contribute significantly to the local economy.",
+      "population": "129180"
+    },
+    "Clay County": {
+      "description": "Clay County is a small southwest Georgia county supported by agriculture, forestry, government services, and local commerce. Farming operations and natural resource industries remain important contributors to economic activity.",
+      "population": "2898"
+    },
+    "Clayton County": {
+      "description": "Clayton County is a key component of the Atlanta metropolitan area and benefits from major transportation infrastructure, logistics operations, healthcare services, and commercial development. Its proximity to Atlanta continues to drive economic growth and investment.",
+      "population": "297595"
+    },
+    "Clinch County": {
+      "description": "Clinch County is known for its forestry resources, agricultural operations, outdoor recreation opportunities, and rural communities. Timber production, farming, and local businesses remain central to economic activity throughout the county.",
+      "population": "6749"
+    },
+    "Cobb County": {
+      "description": "Cobb County is one of Georgia's largest and most affluent counties, supporting technology, healthcare, finance, education, professional services, and corporate headquarters. Its strong economy and highly developed infrastructure make it a major business center within the Atlanta region.",
+      "population": "780688"
+    },
+    "Coffee County": {
+      "description": "Coffee County serves as an important commercial and healthcare hub in South Georgia. Agriculture, manufacturing, education, healthcare services, and local businesses contribute to a diverse and stable economy.",
+      "population": "43852"
+    },
+    "Colquitt County": {
+      "description": "Colquitt County is a leading agricultural county known for farming, food production, agribusiness, and manufacturing. Its strong agricultural foundation continues to support economic activity and employment throughout the region.",
+      "population": "45739"
+    },
+    "Columbia County": {
+      "description": "Columbia County is one of Georgia's fastest-growing counties and a major part of the Augusta metropolitan area. Healthcare, education, professional services, retail development, and residential growth contribute to a strong local economy.",
+      "population": "163883"
+    },
+    "Cook County": {
+      "description": "Cook County combines agriculture, manufacturing, healthcare, and transportation access within a growing South Georgia economy. Farming and local industry continue to provide stable employment opportunities throughout the county.",
+      "population": "18211"
+    },
+    "Coweta County": {
+      "description": "Coweta County is a rapidly growing county south of Atlanta, supported by healthcare, logistics, manufacturing, professional services, and residential development. Continued business investment has strengthened the county's economic outlook.",
+      "population": "155593"
+    },
+    "Crawford County": {
+      "description": "Crawford County features a mix of agriculture, rural communities, local businesses, and growing residential development. Its location in central Georgia supports access to regional employment and economic opportunities.",
+      "population": "12334"
+    },
+    "Crisp County": {
+      "description": "Crisp County serves as a regional center for healthcare, education, agriculture, and commerce in South Georgia. Transportation access, local businesses, and community institutions contribute significantly to the county's economy.",
+      "population": "20559"
+    },
+    "Dade County": {
+      "description": "Dade County is located in the scenic northwest corner of Georgia and is known for its mountain landscapes, outdoor recreation opportunities, and growing residential communities. Tourism, healthcare, construction, and local businesses contribute to economic activity throughout the county.",
+      "population": "16745"
+    },
+    "Dawson County": {
+      "description": "Dawson County is one of North Georgia's fastest-growing counties, benefiting from residential development, tourism, healthcare services, and proximity to the Atlanta metropolitan area. Continued population growth supports expanding business investment.",
+      "population": "29213"
+    },
+    "Decatur County": {
+      "description": "Decatur County serves as an important agricultural, manufacturing, and transportation center in southwest Georgia. Farming, agribusiness, healthcare, and industrial development contribute significantly to the county's economy.",
+      "population": "29276"
+    },
+    "DeKalb County": {
+      "description": "DeKalb County is a major economic engine within the Atlanta metropolitan region, supporting healthcare, education, technology, government services, logistics, and professional industries. Its diverse economy and large population make it one of Georgia's most influential counties.",
+      "population": "769152"
+    },
+    "Dodge County": {
+      "description": "Dodge County combines agriculture, forestry, manufacturing, and transportation-related industries within a stable central Georgia economy. Farming operations and local businesses continue to support employment and economic growth.",
+      "population": "19812"
+    },
+    "Dooly County": {
+      "description": "Dooly County is known for its strong agricultural heritage, productive farmland, and agribusiness operations. Farming, food production, and local commerce remain central to economic activity throughout the county.",
+      "population": "11034"
+    },
+    "Dougherty County": {
+      "description": "Dougherty County is home to Albany and serves as a regional center for healthcare, education, government services, manufacturing, and commerce. Its diverse economy supports both local residents and surrounding communities.",
+      "population": "85790"
+    },
+    "Douglas County": {
+      "description": "Douglas County is one of the fastest-growing counties in the Atlanta metropolitan area, benefiting from logistics, healthcare, retail development, professional services, and residential expansion. Continued investment supports strong economic growth.",
+      "population": "149815"
+    },
+    "Early County": {
+      "description": "Early County supports a rural economy centered on agriculture, agribusiness, forestry, and local commerce. Farming operations and natural resource industries remain important contributors to economic activity throughout the county.",
+      "population": "10012"
+    },
+    "Echols County": {
+      "description": "Echols County is Georgia's southernmost county and is characterized by forestry resources, agriculture, outdoor recreation, and rural communities. Timber production, farming, and local businesses support the county's economy.",
+      "population": "3956"
+    },
+    "Effingham County": {
+      "description": "Effingham County is one of Georgia's fastest-growing counties, benefiting from residential expansion, logistics operations, manufacturing investment, and proximity to the Savannah metropolitan area. Continued development has strengthened the county's economic position.",
+      "population": "71380"
+    },
+    "Elbert County": {
+      "description": "Elbert County is known for its granite industry, agricultural production, and historic communities in northeast Georgia. Manufacturing, farming, healthcare, and local businesses contribute to a diverse and stable economy.",
+      "population": "19461"
+    },
+    "Emanuel County": {
+      "description": "Emanuel County supports a regional economy driven by agriculture, forestry, manufacturing, healthcare, and transportation services. Its strategic location in central Georgia contributes to ongoing business and industrial activity.",
+      "population": "22891"
+    },
+    "Evans County": {
+      "description": "Evans County combines agriculture, manufacturing, healthcare services, and local commerce within a growing southeast Georgia economy. Farming and industrial development continue to support employment throughout the county.",
+      "population": "10931"
+    },
+    "Fannin County": {
+      "description": "Fannin County is one of North Georgia's premier mountain destinations, known for tourism, outdoor recreation, hospitality, and real estate development. Visitor spending plays a major role in supporting the county's economy.",
+      "population": "27194"
+    },
+    "Fayette County": {
+      "description": "Fayette County is one of the most affluent counties in the Atlanta metropolitan area, supporting healthcare, professional services, technology, retail, and residential development. Its strong business environment and quality of life continue to attract investment.",
+      "population": "122517"
+    },
+    "Floyd County": {
+      "description": "Floyd County serves as a major healthcare, education, and manufacturing center in northwest Georgia. Its regional influence, skilled workforce, and commercial development contribute to a diversified local economy.",
+      "population": "98983"
+    },
+    "Forsyth County": {
+      "description": "Forsyth County is one of Georgia's fastest-growing and most affluent counties, driven by technology, healthcare, professional services, retail development, and residential growth. Its proximity to Atlanta supports strong economic expansion.",
+      "population": "273033"
+    },
+    "Franklin County": {
+      "description": "Franklin County combines agriculture, manufacturing, healthcare, and local commerce within northeast Georgia. Farming operations, industrial employers, and small businesses contribute to a stable regional economy.",
+      "population": "23768"
+    },
+    "Fulton County": {
+      "description": "Fulton County is Georgia's most influential economic center and home to much of metropolitan Atlanta. Finance, technology, healthcare, logistics, media, professional services, and corporate headquarters drive one of the largest and most diverse economies in the southeastern United States.",
+      "population": "1103284"
+    },
+    "Gilmer County": {
+      "description": "Gilmer County is known for its mountain scenery, apple orchards, tourism industry, and outdoor recreation opportunities. Hospitality, healthcare, construction, and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "33708"
+    },
+    "Glascock County": {
+      "description": "Glascock County is one of Georgia's smallest counties and supports a rural economy centered on agriculture, forestry, and local commerce. Farming operations and community-based businesses remain important contributors to economic stability.",
+      "population": "3025"
+    },
+    "Glynn County": {
+      "description": "Glynn County is a major coastal Georgia destination known for tourism, maritime industries, healthcare services, hospitality, and real estate development. Its coastal communities and transportation infrastructure support a diverse regional economy.",
+      "population": "86032"
+    },
+    "Gordon County": {
+      "description": "Gordon County supports a strong manufacturing base alongside healthcare, logistics, retail, and residential development. Its strategic location along major transportation corridors contributes to continued economic growth.",
+      "population": "58943"
+    },
+    "Grady County": {
+      "description": "Grady County combines agriculture, healthcare, manufacturing, and local commerce within a stable southwest Georgia economy. Farming and agribusiness continue to play important roles in supporting employment throughout the county.",
+      "population": "26671"
+    },
+    "Greene County": {
+      "description": "Greene County is recognized for its recreational amenities, residential growth, tourism activity, and expanding service sector. Hospitality, healthcare, real estate, and local businesses contribute significantly to economic development.",
+      "population": "20284"
+    },
+    "Gwinnett County": {
+      "description": "Gwinnett County is one of Georgia's largest and fastest-growing counties, supporting technology, healthcare, logistics, education, finance, and professional services. Its highly diverse economy and strategic location within metro Atlanta drive substantial business investment.",
+      "population": "983314"
+    },
+    "Habersham County": {
+      "description": "Habersham County combines mountain tourism, healthcare services, manufacturing, agriculture, and residential growth. Outdoor recreation and expanding commercial activity contribute to a balanced and growing economy.",
+      "population": "46891"
+    },
+    "Hall County": {
+      "description": "Hall County is a major economic center in northeast Georgia, known for manufacturing, healthcare, logistics, agriculture, and tourism. Strong business development and population growth continue to support long-term economic expansion.",
+      "population": "215148"
+    },
+    "Hancock County": {
+      "description": "Hancock County supports a rural economy based on agriculture, forestry, government services, and local commerce. Farming operations and community institutions remain central to economic activity throughout the county.",
+      "population": "8257"
+    },
+    "Haralson County": {
+      "description": "Haralson County combines manufacturing, logistics, agriculture, and residential development within west Georgia. Its location near major transportation corridors supports business growth and economic activity throughout the county.",
+      "population": "30679"
+    },
+    "Harris County": {
+      "description": "Harris County is one of west Georgia's fastest-growing counties, benefiting from residential expansion, tourism, healthcare services, and proximity to the Columbus metropolitan area. Its strong quality of life continues to attract families and businesses.",
+      "population": "37329"
+    },
+    "Hart County": {
+      "description": "Hart County supports a diverse economy driven by manufacturing, agriculture, tourism, and healthcare. Recreational amenities and business development contribute to steady economic growth throughout the county.",
+      "population": "26424"
+    },
+    "Heard County": {
+      "description": "Heard County is characterized by rural landscapes, agricultural production, forestry resources, and growing residential communities. Farming, timber operations, and local businesses remain important contributors to the county's economy.",
+      "population": "11923"
+    },
+    "Henry County": {
+      "description": "Henry County is one of the fastest-growing counties in the Atlanta metropolitan area, supported by logistics, healthcare, retail, professional services, and residential development. Continued population growth fuels strong economic expansion and business investment.",
+      "population": "254003"
+    },
+    "Houston County": {
+      "description": "Houston County serves as a major economic center in central Georgia, anchored by healthcare, aerospace, defense-related employment, education, and retail activity. Its diverse economy and growing population support long-term regional growth.",
+      "population": "174063"
+    },
+    "Irwin County": {
+      "description": "Irwin County maintains a strong agricultural economy supported by farming, agribusiness, forestry, and local commerce. Rural communities and natural resource industries continue to shape economic activity throughout the county.",
+      "population": "9354"
+    },
+    "Jackson County": {
+      "description": "Jackson County is one of northeast Georgia's fastest-growing counties, benefiting from manufacturing, logistics, healthcare, education, and residential development. Its strategic location along major transportation routes supports continued economic growth.",
+      "population": "87540"
+    },
+    "Jasper County": {
+      "description": "Jasper County combines rural charm with growing residential development, agriculture, tourism, and local commerce. Its proximity to major Georgia markets contributes to increasing economic activity and investment.",
+      "population": "15165"
+    },
+    "Jeff Davis County": {
+      "description": "Jeff Davis County supports an economy based on agriculture, forestry, manufacturing, healthcare, and local businesses. Farming operations and industrial employers remain important drivers of economic activity throughout the county.",
+      "population": "14891"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County supports a diverse economy based on agriculture, manufacturing, healthcare, forestry, and local commerce. Its strategic location in east-central Georgia contributes to regional business activity and employment opportunities.",
+      "population": "14608"
+    },
+    "Jenkins County": {
+      "description": "Jenkins County is known for its agricultural production, forestry resources, and strong rural communities. Farming, timber operations, healthcare services, and local businesses contribute to economic stability throughout the county.",
+      "population": "8401"
+    },
+    "Johnson County": {
+      "description": "Johnson County combines agriculture, forestry, manufacturing, and local commerce within a growing central Georgia economy. Its business community and farming heritage continue to support long-term economic activity.",
+      "population": "9648"
+    },
+    "Jones County": {
+      "description": "Jones County benefits from residential growth, agriculture, healthcare services, and proximity to the Macon metropolitan area. Continued development and local business investment contribute to a stable and expanding economy.",
+      "population": "29248"
+    },
+    "Lamar County": {
+      "description": "Lamar County is one of Georgia's growing counties, supported by logistics, manufacturing, agriculture, retail development, and residential expansion. Its location along major transportation corridors strengthens economic opportunities throughout the region.",
+      "population": "19483"
+    },
+    "Lanier County": {
+      "description": "Lanier County supports a rural economy centered on agriculture, forestry, healthcare services, and local commerce. Farming operations and natural resource industries remain important contributors to economic activity.",
+      "population": "10948"
+    },
+    "Laurens County": {
+      "description": "Laurens County serves as a major economic center in central Georgia, supporting manufacturing, healthcare, logistics, agriculture, and retail industries. Its diverse economy continues to attract business investment and workforce growth.",
+      "population": "50198"
+    },
+    "Lee County": {
+      "description": "Lee County is one of southwest Georgia's fastest-growing counties, benefiting from healthcare, education, professional services, retail development, and residential growth. Strong population growth continues to support economic expansion.",
+      "population": "33552"
+    },
+    "Liberty County": {
+      "description": "Liberty County's economy is driven by military operations, logistics, healthcare, tourism, and residential development. Its strategic coastal location and expanding communities contribute to strong regional economic activity.",
+      "population": "66608"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County combines outdoor recreation, tourism, agriculture, and local commerce within a scenic east Georgia setting. Visitor spending and farming operations continue to support economic activity throughout the county.",
+      "population": "7765"
+    },
+    "Long County": {
+      "description": "Long County is one of Georgia's growing coastal-region counties, supported by residential development, military-related employment, healthcare services, and local commerce. Continued population growth contributes to expanding economic opportunities throughout the county.",
+      "population": "21458"
+    },
+    "Lowndes County": {
+      "description": "Lowndes County serves as a major economic center in South Georgia, anchored by healthcare, education, manufacturing, logistics, retail, and military-related industries. Its strong regional influence continues to attract businesses and residents.",
+      "population": "121231"
+    },
+    "Lumpkin County": {
+      "description": "Lumpkin County is known for its mountain landscapes, tourism industry, higher education presence, and outdoor recreation opportunities. Hospitality, healthcare, retail, and visitor services contribute significantly to the county's economy.",
+      "population": "35241"
+    },
+    "McDuffie County": {
+      "description": "McDuffie County supports manufacturing, logistics, healthcare, agriculture, and commercial development within east-central Georgia. Its transportation infrastructure and industrial activity contribute to economic growth throughout the region.",
+      "population": "21984"
+    },
+    "McIntosh County": {
+      "description": "McIntosh County combines coastal tourism, fishing, hospitality, natural resources, and outdoor recreation within a unique coastal Georgia economy. Visitor spending and marine-related industries remain important economic drivers.",
+      "population": "11354"
+    },
+    "Macon County": {
+      "description": "Macon County is supported by agriculture, agribusiness, manufacturing, healthcare services, and local commerce. Farming operations and community-based businesses continue to play key roles in the county's economy.",
+      "population": "12543"
+    },
+    "Madison County": {
+      "description": "Madison County benefits from residential growth, agriculture, manufacturing, healthcare services, and proximity to the Athens region. Continued development and business investment support a growing local economy.",
+      "population": "30908"
+    },
+    "Marion County": {
+      "description": "Marion County combines agriculture, forestry, outdoor recreation, and small-town communities within west-central Georgia. Farming operations and natural resource industries continue to support economic activity throughout the county.",
+      "population": "7825"
+    },
+    "Meriwether County": {
+      "description": "Meriwether County supports a diverse economy based on healthcare, agriculture, manufacturing, tourism, and local commerce. Historic attractions and expanding residential development contribute to economic growth across the county.",
+      "population": "20724"
+    },
+    "Miller County": {
+      "description": "Miller County is a rural southwest Georgia county known for its agricultural production, forestry resources, and strong farming heritage. Agribusiness, local commerce, and community institutions support economic stability throughout the county.",
+      "population": "5561"
+    },
+    "Mitchell County": {
+      "description": "Mitchell County is a leading agricultural county in southwest Georgia, supporting farming, food processing, agribusiness, healthcare, and local commerce. Its productive farmland and agricultural infrastructure contribute significantly to regional economic activity.",
+      "population": "21812"
+    },
+    "Monroe County": {
+      "description": "Monroe County benefits from residential growth, tourism, healthcare services, agriculture, and its strategic location between Atlanta and Macon. Continued development and business investment support a stable and expanding local economy.",
+      "population": "28473"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County supports a rural economy based on agriculture, forestry, manufacturing, healthcare, and local businesses. Farming operations and industrial employers remain important contributors to economic activity throughout the county.",
+      "population": "8685"
+    },
+    "Morgan County": {
+      "description": "Morgan County combines historic communities, residential growth, healthcare services, tourism, and agriculture within a thriving central Georgia economy. Its quality of life and business environment continue to attract residents and investment.",
+      "population": "20314"
+    },
+    "Murray County": {
+      "description": "Murray County supports manufacturing, agriculture, healthcare, tourism, and outdoor recreation opportunities in northwest Georgia. Industrial employers and local businesses contribute to a diversified economic base.",
+      "population": "40989"
+    },
+    "Muscogee County": {
+      "description": "Muscogee County is home to Columbus and serves as a major economic center in west Georgia. Defense-related employment, healthcare, education, logistics, manufacturing, and professional services drive substantial economic activity throughout the county.",
+      "population": "206922"
+    },
+    "Newton County": {
+      "description": "Newton County is one of metro Atlanta's growing counties, benefiting from healthcare, manufacturing, logistics, retail development, and residential expansion. Continued population growth supports strong business investment and economic development.",
+      "population": "119148"
+    },
+    "Oconee County": {
+      "description": "Oconee County is one of Georgia's most affluent counties, supported by healthcare, education, professional services, retail development, and residential growth. Its proximity to Athens contributes to a highly desirable business and residential environment.",
+      "population": "43471"
+    },
+    "Oglethorpe County": {
+      "description": "Oglethorpe County combines agriculture, forestry, tourism, and growing residential communities within northeast Georgia. Farming operations and local businesses continue to support economic activity throughout the county.",
+      "population": "15794"
+    },
+    "Paulding County": {
+      "description": "Paulding County is one of the fastest-growing counties in the Atlanta metropolitan area, driven by residential development, healthcare, logistics, retail, and professional services. Strong population growth continues to fuel economic expansion.",
+      "population": "191806"
+    },
+    "Peach County": {
+      "description": "Peach County is a growing central Georgia county known for agriculture, logistics, manufacturing, healthcare, and commercial development. Its strategic transportation access and business-friendly environment contribute to continued economic expansion.",
+      "population": "28984"
+    },
+    "Pickens County": {
+      "description": "Pickens County combines mountain scenery, tourism, healthcare services, construction, and residential growth within North Georgia. Outdoor recreation and expanding communities continue to support economic activity throughout the county.",
+      "population": "33978"
+    },
+    "Pierce County": {
+      "description": "Pierce County supports a rural economy driven by agriculture, forestry, healthcare, manufacturing, and local commerce. Timber production and farming operations remain important contributors to economic stability.",
+      "population": "20142"
+    },
+    "Pike County": {
+      "description": "Pike County is one of west-central Georgia's growing counties, benefiting from residential development, agriculture, healthcare, and small business growth. Its proximity to metropolitan employment centers supports continued expansion.",
+      "population": "19607"
+    },
+    "Polk County": {
+      "description": "Polk County maintains a diversified economy supported by manufacturing, healthcare, retail, logistics, and agriculture. Industrial employers and commercial development continue to contribute to regional economic growth.",
+      "population": "43386"
+    },
+    "Pulaski County": {
+      "description": "Pulaski County combines agriculture, manufacturing, healthcare services, and local commerce within a stable central Georgia economy. Farming and community-based businesses remain important economic drivers throughout the county.",
+      "population": "9584"
+    },
+    "Putnam County": {
+      "description": "Putnam County is known for tourism, recreational amenities, healthcare services, residential growth, and local commerce. Visitor spending and real estate development continue to support economic activity throughout the county.",
+      "population": "23587"
+    },
+    "Quitman County": {
+      "description": "Quitman County is a rural southwest Georgia county supported by agriculture, forestry, hunting tourism, and local commerce. Farming operations and natural resource industries remain central to economic activity.",
+      "population": "2258"
+    },
+    "Rabun County": {
+      "description": "Rabun County is one of North Georgia's premier mountain destinations, known for tourism, hospitality, outdoor recreation, and real estate development. Visitor-related industries play a significant role in the county's economy.",
+      "population": "17491"
+    },
+    "Randolph County": {
+      "description": "Randolph County supports a rural economy based on agriculture, forestry, healthcare services, and local businesses. Farming operations and agribusiness remain important contributors to economic stability throughout the county.",
+      "population": "6486"
+    },
+    "Richmond County": {
+      "description": "Richmond County is home to Augusta and serves as one of Georgia's most important economic centers. Healthcare, cybersecurity, military-related employment, education, manufacturing, and professional services contribute to a highly diversified and growing economy.",
+      "population": "206607"
+    },
+    "Rockdale County": {
+      "description": "Rockdale County is a rapidly developing part of the Atlanta metropolitan area, supported by healthcare, logistics, retail, education, and residential growth. Continued business investment and population expansion contribute to strong economic activity.",
+      "population": "95324"
+    },
+    "Schley County": {
+      "description": "Schley County maintains a rural economy based on agriculture, forestry, healthcare services, and local commerce. Farming operations and community-focused businesses remain central to economic activity throughout the county.",
+      "population": "5308"
+    },
+    "Screven County": {
+      "description": "Screven County supports an economy driven by agriculture, timber production, manufacturing, healthcare, and local businesses. Forestry and farming continue to provide a strong foundation for regional economic stability.",
+      "population": "14098"
+    },
+    "Seminole County": {
+      "description": "Seminole County is known for agricultural production, agribusiness, outdoor recreation, and local commerce. Farming operations and natural resource industries continue to support economic activity throughout southwest Georgia.",
+      "population": "8716"
+    },
+    "Spalding County": {
+      "description": "Spalding County serves as a regional center for healthcare, manufacturing, logistics, retail, and professional services. Its growing population and strategic location south of Atlanta contribute to ongoing economic development.",
+      "population": "68742"
+    },
+    "Stephens County": {
+      "description": "Stephens County combines manufacturing, healthcare, tourism, education, and outdoor recreation opportunities in northeast Georgia. Industrial employers and visitor-related businesses contribute to a diversified local economy.",
+      "population": "26784"
+    },
+    "Stewart County": {
+      "description": "Stewart County supports a rural economy based on agriculture, forestry, tourism, hunting-related recreation, and local commerce. Natural resources and outdoor destinations contribute significantly to economic activity.",
+      "population": "5213"
+    },
+    "Sumter County": {
+      "description": "Sumter County serves as an educational, healthcare, and agricultural center in southwest Georgia. Higher education institutions, healthcare providers, agribusiness, and local businesses support a stable and growing economy.",
+      "population": "29521"
+    },
+    "Talbot County": {
+      "description": "Talbot County combines agriculture, forestry, tourism, and rural community development within west-central Georgia. Farming operations and local businesses continue to support economic activity throughout the county.",
+      "population": "6102"
+    },
+    "Taliaferro County": {
+      "description": "Taliaferro County is one of Georgia's smallest counties and supports a rural economy centered on agriculture, forestry, local commerce, and community services. Farming operations and natural resource industries remain important contributors to economic activity throughout the county.",
+      "population": "1559"
+    },
+    "Tattnall County": {
+      "description": "Tattnall County combines agriculture, manufacturing, healthcare services, forestry, and local businesses within southeast Georgia. Its diverse economic base supports employment opportunities across both rural and commercial sectors.",
+      "population": "25217"
+    },
+    "Taylor County": {
+      "description": "Taylor County supports a stable rural economy driven by agriculture, timber production, healthcare, and local commerce. Farming and forestry operations continue to serve as key pillars of economic activity throughout the county.",
+      "population": "7856"
+    },
+    "Telfair County": {
+      "description": "Telfair County is known for agriculture, forestry resources, outdoor recreation, and community-focused businesses. Natural resource industries and local commerce contribute significantly to economic stability across the county.",
+      "population": "11618"
+    },
+    "Terrell County": {
+      "description": "Terrell County maintains a strong agricultural economy supported by farming, agribusiness, forestry, and local services. Productive farmland and agricultural enterprises continue to drive economic activity throughout the region.",
+      "population": "8654"
+    },
+    "Thomas County": {
+      "description": "Thomas County serves as a major economic center in southwest Georgia, supporting healthcare, manufacturing, agriculture, tourism, and professional services. Its growing business community contributes to a diversified and resilient local economy.",
+      "population": "45788"
+    },
+    "Tift County": {
+      "description": "Tift County is a regional hub for agriculture, education, healthcare, retail, and commercial activity in South Georgia. Strong transportation access and business development continue to support economic growth throughout the county.",
+      "population": "41554"
+    },
+    "Toombs County": {
+      "description": "Toombs County combines manufacturing, agriculture, healthcare services, transportation, and retail industries within a diverse southeast Georgia economy. Continued investment supports long-term business and workforce growth.",
+      "population": "26718"
+    },
+    "Towns County": {
+      "description": "Towns County is one of North Georgia's premier mountain destinations, known for tourism, outdoor recreation, hospitality, and retirement-oriented residential growth. Visitor spending plays a major role in supporting the county's economy.",
+      "population": "12985"
+    },
+    "Treutlen County": {
+      "description": "Treutlen County supports an economy based on agriculture, manufacturing, forestry, healthcare services, and local commerce. Rural industries and community businesses remain important contributors to economic activity throughout the county.",
+      "population": "6690"
+    },
+    "Troup County": {
+      "description": "Troup County serves as a major economic center in west Georgia, supported by manufacturing, healthcare, logistics, education, and professional services. Its strategic location along Interstate 85 contributes to strong business activity and regional growth.",
+      "population": "70493"
+    },
+    "Turner County": {
+      "description": "Turner County maintains a rural economy centered on agriculture, agribusiness, forestry, and local commerce. Farming operations and natural resource industries continue to provide economic stability throughout the county.",
+      "population": "8930"
+    },
+    "Twiggs County": {
+      "description": "Twiggs County combines manufacturing, agriculture, logistics, healthcare services, and local business activity within central Georgia. Industrial development and transportation access contribute to economic opportunities across the county.",
+      "population": "8057"
+    },
+    "Union County": {
+      "description": "Union County is known for its mountain landscapes, tourism industry, outdoor recreation opportunities, and growing residential communities. Hospitality, healthcare, construction, and visitor-related services play major roles in the local economy.",
+      "population": "26963"
+    },
+    "Upson County": {
+      "description": "Upson County supports a diversified economy driven by manufacturing, healthcare, education, agriculture, and retail development. Its established business community contributes to long-term economic growth and workforce opportunities.",
+      "population": "27498"
+    },
+    "Walker County": {
+      "description": "Walker County benefits from manufacturing, logistics, healthcare, tourism, and commercial development within northwest Georgia. Its proximity to the Chattanooga metropolitan area supports continued economic expansion and investment.",
+      "population": "70021"
+    },
+    "Walton County": {
+      "description": "Walton County is one of the fastest-growing counties in the Atlanta region, supported by logistics, manufacturing, healthcare, retail development, and residential growth. Strong business investment continues to drive economic expansion throughout the county.",
+      "population": "104039"
+    },
+    "Ware County": {
+      "description": "Ware County serves as a regional center for healthcare, manufacturing, transportation, forestry, and retail activity in southeast Georgia. Its diversified economy supports both local employment and regional commerce.",
+      "population": "36449"
+    },
+    "Warren County": {
+      "description": "Warren County supports a rural economy based on agriculture, forestry, local commerce, and community services. Farming operations and natural resource industries remain important contributors to economic activity throughout the county.",
+      "population": "5318"
+    },
+    "Washington County": {
+      "description": "Washington County combines manufacturing, agriculture, healthcare, education, and local commerce within a diverse central Georgia economy. Continued investment and workforce development contribute to long-term economic stability.",
+      "population": "20709"
+    },
+    "Wayne County": {
+      "description": "Wayne County serves as an important economic center in southeast Georgia, supported by manufacturing, healthcare, logistics, forestry, and retail industries. Its strategic transportation connections contribute to continued business growth and regional commerce.",
+      "population": "30803"
+    },
+    "Webster County": {
+      "description": "Webster County maintains a rural economy centered on agriculture, forestry, local commerce, and community services. Farming operations and agribusiness remain the primary drivers of economic activity throughout the county.",
+      "population": "2304"
+    },
+    "Wheeler County": {
+      "description": "Wheeler County supports a stable economy based on agriculture, forestry, healthcare services, and local businesses. Natural resource industries and community-focused commerce continue to play important roles in economic development.",
+      "population": "7468"
+    },
+    "White County": {
+      "description": "White County is one of North Georgia's leading tourism destinations, known for mountain scenery, outdoor recreation, hospitality, and residential growth. Visitor spending and service-based businesses contribute significantly to the county's economy.",
+      "population": "32412"
+    },
+    "Whitfield County": {
+      "description": "Whitfield County is a major manufacturing and logistics hub in northwest Georgia, internationally recognized for its flooring industry. Industrial production, healthcare, transportation, and professional services drive a diverse and robust local economy.",
+      "population": "103432"
+    },
+    "Wilcox County": {
+      "description": "Wilcox County supports a rural economy driven by agriculture, timber production, agribusiness, and local commerce. Farming and forestry operations remain essential contributors to economic activity throughout the county.",
+      "population": "8766"
+    },
+    "Wilkes County": {
+      "description": "Wilkes County combines agriculture, tourism, healthcare services, forestry, and local business activity within a historic northeast Georgia setting. Community institutions and natural resource industries support economic stability.",
+      "population": "9827"
+    },
+    "Wilkinson County": {
+      "description": "Wilkinson County benefits from manufacturing, forestry, agriculture, mining activities, and local commerce. Its diverse economic base provides employment opportunities across multiple sectors throughout the county.",
+      "population": "8665"
+    },
+    "Worth County": {
+      "description": "Worth County is a productive agricultural county known for farming, agribusiness, forestry resources, and food production. Agriculture remains the foundation of economic activity, supported by local businesses and community services.",
+      "population": "20524"
+    }
+  }
 }

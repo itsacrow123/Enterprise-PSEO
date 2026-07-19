@@ -1,77 +1,71 @@
 {
-	
-"Apache County": {
-  "description": "Apache County occupies Arizona's northeastern corner and is known for its vast high-desert landscapes, Native American heritage, and outdoor recreation opportunities. Tourism, government services, agriculture, and tribal enterprises contribute significantly to the county's economy.",
-  "population": "66021"
-},
-
-"Cochise County": {
-  "description": "Cochise County is located along the U.S.-Mexico border and supports a diverse economy driven by military operations, tourism, agriculture, and international trade. Historic communities and scenic mountain ranges make it a distinctive region of southeastern Arizona.",
-  "population": "126442"
-},
-
-"Coconino County": {
-  "description": "Coconino County is Arizona's largest county by land area and home to world-famous natural attractions, national forests, and outdoor recreation destinations. Tourism, education, government services, and hospitality industries play central roles in the local economy.",
-  "population": "146838"
-},
-
-"Gila County": {
-  "description": "Gila County combines mountain landscapes, historic mining communities, and recreational destinations throughout central Arizona. Tourism, healthcare, government services, and natural resource industries support economic activity across the county.",
-  "population": "54306"
-},
-
-"Graham County": {
-  "description": "Graham County is known for its agricultural production, educational institutions, and scenic desert surroundings. Farming, healthcare, education, and local businesses contribute to a stable and diversified economy.",
-  "population": "39282"
-},
-
-"Greenlee County": {
-  "description": "Greenlee County has a strong economic foundation built on mining and natural resource development. Its small communities and rugged landscapes reflect the county's long-standing connection to Arizona's copper industry.",
-  "population": "9523"
-},
-
-"La Paz County": {
-  "description": "La Paz County is situated along the Colorado River and attracts visitors seeking outdoor recreation, boating, and desert adventure. Tourism, government services, and seasonal residential activity contribute to the county's economy.",
-  "population": "16821"
-},
-
-"Maricopa County": {
-  "description": "Maricopa County is Arizona's most populous county and one of the fastest-growing regions in the United States. Anchored by Phoenix, the county supports major industries including technology, healthcare, finance, manufacturing, logistics, and residential development.",
-  "population": "4629324"
-},
-
-"Mohave County": {
-  "description": "Mohave County features expansive desert landscapes, Colorado River recreation areas, and growing residential communities. Tourism, healthcare, transportation, and retail sectors help drive economic growth throughout the county.",
-  "population": "221253"
-},
-
-"Navajo County": {
-  "description": "Navajo County combines rich Native American heritage, outdoor recreation opportunities, and natural resource industries. Tourism, government services, healthcare, and local commerce support the county's diverse economy.",
-  "population": "107449"
-},
-
-"Pima County": {
-  "description": "Pima County is home to Tucson and serves as a major center for education, aerospace, healthcare, research, and tourism. Its diverse economy and growing population make it one of Arizona's most influential counties.",
-  "population": "1080150"
-},
-
-"Pinal County": {
-  "description": "Pinal County has experienced rapid growth due to its strategic location between Phoenix and Tucson. Residential development, logistics, manufacturing, and commercial investment continue to transform the county's economic landscape.",
-  "population": "499642"
-},
-
-"Santa Cruz County": {
-  "description": "Santa Cruz County sits along the international border and benefits from cross-border trade, tourism, and agriculture. Its historic communities and strong cultural connections contribute to a unique regional identity.",
-  "population": "47542"
-},
-
-"Yavapai County": {
-  "description": "Yavapai County is known for its scenic mountain communities, outdoor recreation opportunities, and growing retirement population. Tourism, healthcare, real estate, and local businesses support economic activity across the county.",
-  "population": "249081"
-},
-
-"Yuma County": {
-  "description": "Yuma County is one of the nation's most productive agricultural regions and serves as a key transportation and military hub. Farming, logistics, defense-related activities, and tourism drive the county's economy year-round.",
-  "population": "213787"
-}
+  "identity": {
+    "code": "az",
+    "slug": "arizona",
+    "name": "Arizona",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Apache County": {
+      "description": "Apache County occupies Arizona's northeastern corner and is known for its vast high-desert landscapes, Native American heritage, and outdoor recreation opportunities. Tourism, government services, agriculture, and tribal enterprises contribute significantly to the county's economy.",
+      "population": "66021"
+    },
+    "Cochise County": {
+      "description": "Cochise County is located along the U.S.-Mexico border and supports a diverse economy driven by military operations, tourism, agriculture, and international trade. Historic communities and scenic mountain ranges make it a distinctive region of southeastern Arizona.",
+      "population": "126442"
+    },
+    "Coconino County": {
+      "description": "Coconino County is Arizona's largest county by land area and home to world-famous natural attractions, national forests, and outdoor recreation destinations. Tourism, education, government services, and hospitality industries play central roles in the local economy.",
+      "population": "146838"
+    },
+    "Gila County": {
+      "description": "Gila County combines mountain landscapes, historic mining communities, and recreational destinations throughout central Arizona. Tourism, healthcare, government services, and natural resource industries support economic activity across the county.",
+      "population": "54306"
+    },
+    "Graham County": {
+      "description": "Graham County is known for its agricultural production, educational institutions, and scenic desert surroundings. Farming, healthcare, education, and local businesses contribute to a stable and diversified economy.",
+      "population": "39282"
+    },
+    "Greenlee County": {
+      "description": "Greenlee County has a strong economic foundation built on mining and natural resource development. Its small communities and rugged landscapes reflect the county's long-standing connection to Arizona's copper industry.",
+      "population": "9523"
+    },
+    "La Paz County": {
+      "description": "La Paz County is situated along the Colorado River and attracts visitors seeking outdoor recreation, boating, and desert adventure. Tourism, government services, and seasonal residential activity contribute to the county's economy.",
+      "population": "16821"
+    },
+    "Maricopa County": {
+      "description": "Maricopa County is Arizona's most populous county and one of the fastest-growing regions in the United States. Anchored by Phoenix, the county supports major industries including technology, healthcare, finance, manufacturing, logistics, and residential development.",
+      "population": "4629324"
+    },
+    "Mohave County": {
+      "description": "Mohave County features expansive desert landscapes, Colorado River recreation areas, and growing residential communities. Tourism, healthcare, transportation, and retail sectors help drive economic growth throughout the county.",
+      "population": "221253"
+    },
+    "Navajo County": {
+      "description": "Navajo County combines rich Native American heritage, outdoor recreation opportunities, and natural resource industries. Tourism, government services, healthcare, and local commerce support the county's diverse economy.",
+      "population": "107449"
+    },
+    "Pima County": {
+      "description": "Pima County is home to Tucson and serves as a major center for education, aerospace, healthcare, research, and tourism. Its diverse economy and growing population make it one of Arizona's most influential counties.",
+      "population": "1080150"
+    },
+    "Pinal County": {
+      "description": "Pinal County has experienced rapid growth due to its strategic location between Phoenix and Tucson. Residential development, logistics, manufacturing, and commercial investment continue to transform the county's economic landscape.",
+      "population": "499642"
+    },
+    "Santa Cruz County": {
+      "description": "Santa Cruz County sits along the international border and benefits from cross-border trade, tourism, and agriculture. Its historic communities and strong cultural connections contribute to a unique regional identity.",
+      "population": "47542"
+    },
+    "Yavapai County": {
+      "description": "Yavapai County is known for its scenic mountain communities, outdoor recreation opportunities, and growing retirement population. Tourism, healthcare, real estate, and local businesses support economic activity across the county.",
+      "population": "249081"
+    },
+    "Yuma County": {
+      "description": "Yuma County is one of the nation's most productive agricultural regions and serves as a key transportation and military hub. Farming, logistics, defense-related activities, and tourism drive the county's economy year-round.",
+      "population": "213787"
+    }
+  }
 }

@@ -1,501 +1,415 @@
 {
-  "Adams County": {
-    "description": "Adams County is located in western Illinois along the Mississippi River and serves as an important regional center for agriculture, manufacturing, and commerce. The county's blend of historic communities, residential neighborhoods, and rural landscapes creates a diverse environment that supports a wide range of local services.",
-    "population": "64643"
+  "identity": {
+    "code": "il",
+    "slug": "illinois",
+    "name": "Illinois",
+    "country": null,
+    "type": "state"
   },
-
-  "Alexander County": {
-    "description": "Alexander County occupies the southernmost tip of Illinois where the Mississippi and Ohio Rivers meet. Known for its riverfront geography, agricultural land, and small communities, the county maintains a unique position within the state's transportation and natural resource network.",
-    "population": "5238"
-  },
-
-  "Bond County": {
-    "description": "Bond County is a south-central Illinois county characterized by agricultural operations, small-town communities, and a strong local heritage. Its central location and established residential areas contribute to steady demand for property-related services throughout the region.",
-    "population": "16437"
-  },
-
-  "Boone County": {
-    "description": "Boone County is situated near the Wisconsin border and benefits from its proximity to the Chicago metropolitan area. The county features growing residential developments, rural properties, and expanding commercial activity that continue to shape its local economy.",
-    "population": "53588"
-  },
-
-  "Brown County": {
-    "description": "Brown County is a rural county in western Illinois known for its farmland, outdoor recreation opportunities, and close-knit communities. Agriculture remains a key economic driver while local residents enjoy a quieter lifestyle surrounded by natural landscapes.",
-    "population": "6544"
-  },
-
-  "Bureau County": {
-    "description": "Bureau County combines productive agricultural land with established towns and transportation routes across north-central Illinois. Its economy is supported by farming, manufacturing, and local businesses serving both residents and visitors throughout the county.",
-    "population": "33470"
-  },
-
-  "Calhoun County": {
-    "description": "Calhoun County is positioned between the Illinois and Mississippi Rivers, creating a distinctive geographic setting unlike any other county in the state. Scenic river views, orchards, and rural communities define much of the county's character and economy.",
-    "population": "4577"
-  },
-
-  "Carroll County": {
-    "description": "Carroll County is located in northwestern Illinois and is recognized for its rolling terrain, agricultural production, and historic river communities. The county attracts visitors with its natural beauty while supporting a stable residential population.",
-    "population": "15092"
-  },
-
-  "Cass County": {
-    "description": "Cass County sits in central Illinois and features a combination of farmland, small communities, and local industries. Agriculture plays a significant role in the local economy while residents benefit from access to nearby regional employment centers.",
-    "population": "12949"
-  },
-
-  "Champaign County": {
-    "description": "Champaign County is home to a major university presence, innovative research institutions, and one of the strongest regional economies in central Illinois. The county combines urban development, educational resources, and thriving business districts.",
-    "population": "210593"
-  },
-
-  "Christian County": {
-    "description": "Christian County serves as an agricultural and industrial hub in central Illinois. Its mix of farming operations, manufacturing facilities, and established residential communities contributes to a balanced local economy and stable population base.",
-    "population": "33618"
-  },
-
-  "Clark County": {
-    "description": "Clark County lies along the Indiana border and is known for its agricultural roots, local businesses, and family-oriented communities. The county offers a blend of rural living and convenient access to neighboring regional markets.",
-    "population": "14982"
-  },
-
-  "Clay County": {
-    "description": "Clay County is located in southeastern Illinois and features extensive agricultural land, small communities, and a strong connection to the region's farming heritage. Local economic activity is supported by agriculture, retail, and service industries.",
-    "population": "13114"
-  },
-
-  "Clinton County": {
-    "description": "Clinton County benefits from its strategic location near the St. Louis metropolitan area while maintaining its own distinct identity. The county includes growing residential communities, productive farmland, and a variety of commercial enterprises.",
-    "population": "37762"
-  },
-
-  "Coles County": {
-    "description": "Coles County is an important educational and economic center in eastern Illinois. Home to higher education institutions, diverse employers, and established neighborhoods, the county supports both residential growth and commercial development.",
-    "population": "45582"
-  },
-
-  "Cook County": {
-    "description": "Cook County is the most populous county in Illinois and serves as the economic engine of the Midwest. Anchored by Chicago, the county includes dense urban neighborhoods, suburban communities, major transportation infrastructure, and extensive commercial activity.",
-    "population": "5200459"
-  },
-
-  "Crawford County": {
-    "description": "Crawford County is located in southeastern Illinois and features a combination of agricultural operations, manufacturing businesses, and residential communities. Its local economy benefits from a diverse mix of industries and regional connectivity.",
-    "population": "18679"
-  },
-
-  "Cumberland County": {
-    "description": "Cumberland County is a rural Illinois county known for its agricultural production, open landscapes, and close-knit communities. Residents enjoy a slower pace of life while remaining connected to nearby regional economic centers.",
-    "population": "10611"
-  },
-
-  "DeKalb County": {
-    "description": "DeKalb County is recognized for its strong agricultural sector, higher education presence, and growing suburban influence. The county combines productive farmland with expanding residential areas and a dynamic local economy.",
-    "population": "100420"
-  },
-
-  "DeWitt County": {
-    "description": "DeWitt County is situated in central Illinois and is characterized by agricultural production, historic communities, and regional transportation access. The county maintains a strong farming tradition while supporting a variety of local businesses.",
-    "population": "15417"
-  },
-
-  "Douglas County": {
-    "description": "Douglas County offers a mix of agricultural resources, residential communities, and local commerce in east-central Illinois. Its stable economy is supported by farming operations and businesses serving surrounding rural areas.",
-    "population": "19252"
-  },
-
-  "DuPage County": {
-    "description": "DuPage County is one of Illinois' most affluent and economically diverse counties. Known for its highly rated communities, corporate headquarters, business parks, and extensive residential development, it remains a major driver of regional growth.",
-    "population": "935945"
-  },
-
-  "Edgar County": {
-    "description": "Edgar County sits along the Indiana border and is known for its agricultural heritage, historic communities, and strong local traditions. Farming remains an important economic contributor alongside retail and service-based industries.",
-    "population": "16208"
-  },
-
-  "Edwards County": {
-    "description": "Edwards County is a small southeastern Illinois county with a predominantly rural landscape and strong agricultural foundation. The county's communities benefit from a close community atmosphere and longstanding farming traditions.",
-    "population": "5914"
-  },
-
-  "Effingham County": {
-    "description": "Effingham County serves as a major transportation crossroads in Illinois due to its location near key interstate highways. The county supports a thriving economy driven by logistics, manufacturing, retail, and residential growth.",
-    "population": "34063"
-  },
-  "Fayette County": {
-  "description": "Fayette County is located in south-central Illinois and is known for its agricultural productivity, transportation access, and established communities. The county supports a balanced economy through farming, manufacturing, healthcare, and local commerce.",
-  "population": "21387"
-},
-
-"Ford County": {
-  "description": "Ford County features expansive agricultural land and small-town communities that reflect the traditional character of central Illinois. Farming remains a dominant economic force, complemented by local businesses and regional service providers.",
-  "population": "12960"
-},
-
-"Franklin County": {
-  "description": "Franklin County combines a rich mining history with modern agriculture, healthcare, and commercial activity. Its communities serve as important residential and business centers for southern Illinois residents.",
-  "population": "37687"
-},
-
-"Fulton County": {
-  "description": "Fulton County is situated in western Illinois and offers a diverse landscape of farmland, river corridors, and historic communities. The county's economy is supported by agriculture, manufacturing, logistics, and local entrepreneurship.",
-  "population": "33312"
-},
-
-"Gallatin County": {
-  "description": "Gallatin County lies in southeastern Illinois and is characterized by agricultural operations, natural resources, and scenic rural landscapes. Its small communities maintain strong local traditions while supporting regional economic activity.",
-  "population": "4810"
-},
-
-"Greene County": {
-  "description": "Greene County is located along the western portion of Illinois and features fertile farmland, historic towns, and strong agricultural roots. Local businesses and farming operations play an essential role in the county's economy.",
-  "population": "11179"
-},
-
-"Grundy County": {
-  "description": "Grundy County benefits from its strategic position within the greater Chicago region while maintaining a strong local identity. The county supports industrial growth, logistics operations, and expanding residential developments.",
-  "population": "53546"
-},
-
-"Hamilton County": {
-  "description": "Hamilton County is a rural southern Illinois county known for its agricultural production, open landscapes, and community-oriented lifestyle. Farming remains a key contributor to local employment and economic stability.",
-  "population": "7814"
-},
-
-"Hancock County": {
-  "description": "Hancock County occupies a scenic section of western Illinois along the Mississippi River. The county combines agriculture, tourism, and local industry while preserving its historic communities and natural attractions.",
-  "population": "17620"
-},
-
-"Hardin County": {
-  "description": "Hardin County is one of Illinois' most scenic counties, featuring forests, riverfront areas, and outdoor recreation opportunities. Tourism, agriculture, and local businesses contribute to the county's rural economy.",
-  "population": "3590"
-},
-
-"Henderson County": {
-  "description": "Henderson County is a predominantly agricultural county in western Illinois known for its productive farmland and small communities. The county's economy is closely tied to farming, agribusiness, and regional trade.",
-  "population": "6258"
-},
-
-"Henry County": {
-  "description": "Henry County supports a diverse economy that includes agriculture, manufacturing, healthcare, and retail. Its established communities and strong transportation connections make it an important regional center in northwestern Illinois.",
-  "population": "48518"
-},
-
-"Iroquois County": {
-  "description": "Iroquois County is one of the largest counties in Illinois by land area and is widely recognized for its agricultural strength. The county's extensive farmland, local businesses, and rural communities contribute to its economic foundation.",
-  "population": "26722"
-},
-
-"Jackson County": {
-  "description": "Jackson County is home to major educational institutions, cultural attractions, and a diverse regional economy. The county blends academic influence, commercial development, and outdoor recreation opportunities throughout southern Illinois.",
-  "population": "52440"
-},
-
-"Jasper County": {
-  "description": "Jasper County is a southeastern Illinois county known for its agricultural heritage, stable residential communities, and strong local values. Farming, small businesses, and service industries continue to support the county's economy.",
-  "population": "9417"
-},
-"Jefferson County": {
-  "description": "Jefferson County serves as a commercial and transportation hub in southern Illinois, connecting residential communities with regional healthcare, retail, and industrial opportunities. Its central location supports both economic activity and population stability.",
-  "population": "37317"
-},
-
-"Jersey County": {
-  "description": "Jersey County is located near the confluence of major river systems and benefits from its proximity to the St. Louis metropolitan area. The county blends agricultural traditions with growing residential and commercial development.",
-  "population": "21665"
-},
-
-"Jo Daviess County": {
-  "description": "Jo Daviess County is renowned for its rolling hills, historic destinations, and thriving tourism industry. The county attracts visitors year-round while maintaining a strong local economy supported by agriculture, hospitality, and small businesses.",
-  "population": "22092"
-},
-
-"Johnson County": {
-  "description": "Johnson County is known for its scenic natural areas, outdoor recreation opportunities, and strong connection to southern Illinois heritage. Tourism, agriculture, and local commerce contribute to the county's economic foundation.",
-  "population": "12989"
-},
-
-"Kane County": {
-  "description": "Kane County is one of the fastest-growing counties in northern Illinois, featuring expanding suburban communities, vibrant business districts, and a diverse economy. Residential growth continues to drive demand for local services and infrastructure.",
-  "population": "528084"
-},
-
-"Kankakee County": {
-  "description": "Kankakee County combines urban centers, agricultural land, and industrial development within a strategically located region south of Chicago. Its diverse economy supports manufacturing, healthcare, logistics, and residential communities.",
-  "population": "106601"
-},
-
-"Kendall County": {
-  "description": "Kendall County has experienced significant population growth due to its attractive suburban communities and proximity to Chicago. New housing developments, expanding businesses, and family-oriented neighborhoods define much of the county's character.",
-  "population": "134587"
-},
-
-"Knox County": {
-  "description": "Knox County is a historic west-central Illinois county that supports education, healthcare, manufacturing, and agriculture. Its established communities provide a stable environment for residents and businesses alike.",
-  "population": "49371"
-},
-
-"Lake County": {
-  "description": "Lake County occupies a prime location along Lake Michigan and is one of Illinois' most economically significant counties. It features affluent suburbs, corporate headquarters, industrial centers, recreational attractions, and extensive residential development.",
-  "population": "720188"
-},
-
-"LaSalle County": {
-  "description": "LaSalle County is a major economic center in north-central Illinois, supported by manufacturing, agriculture, logistics, and tourism. Its diverse landscape includes historic towns, riverfront communities, and growing residential areas.",
-  "population": "108669"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County is located along the Indiana border and maintains a strong agricultural tradition alongside energy production and local commerce. The county's communities offer a blend of rural living and regional connectivity.",
-  "population": "15167"
-},
-
-"Lee County": {
-  "description": "Lee County combines productive farmland, historic communities, and regional business activity in northwestern Illinois. Agriculture remains central to the economy while manufacturing and service industries provide additional employment opportunities.",
-  "population": "33877"
-},
-
-"Livingston County": {
-  "description": "Livingston County is one of Illinois' leading agricultural counties, featuring expansive farmland, transportation infrastructure, and established communities. The county supports a strong rural economy while maintaining access to major regional markets.",
-  "population": "35628"
-},
-"Macon County": {
-  "description": "Macon County serves as a major economic and population center in central Illinois, anchored by manufacturing, healthcare, education, and commerce. Its urban neighborhoods, industrial districts, and residential communities create a diverse and active local economy.",
-  "population": "103436"
-},
-
-"Macoupin County": {
-  "description": "Macoupin County is known for its rich agricultural land, historic communities, and longstanding role in Illinois industry. The county balances rural traditions with modern business activity and regional transportation access.",
-  "population": "44508"
-},
-
-"Madison County": {
-  "description": "Madison County is one of the largest economic centers in southern Illinois, benefiting from its location within the Greater St. Louis region. Manufacturing, logistics, healthcare, and commercial development play major roles in the county's growth.",
-  "population": "262428"
-},
-
-"Marion County": {
-  "description": "Marion County occupies a strategic location in south-central Illinois and supports a diverse economy that includes healthcare, manufacturing, retail, and agriculture. Its communities serve as important regional service centers.",
-  "population": "37184"
-},
-
-"Marshall County": {
-  "description": "Marshall County is characterized by productive farmland, small communities, and access to central Illinois transportation corridors. Agriculture remains a cornerstone of the local economy while supporting a stable residential population.",
-  "population": "11620"
-},
-
-"Mason County": {
-  "description": "Mason County is recognized for its unique soil conditions, agricultural production, and natural resources. Farming, outdoor recreation, and local commerce continue to shape the county's economic identity.",
-  "population": "12687"
-},
-
-"Massac County": {
-  "description": "Massac County sits along the Ohio River in southern Illinois and benefits from its strategic transportation location. The county supports a mix of residential communities, tourism activity, and regional commerce.",
-  "population": "14220"
-},
-
-"McDonough County": {
-  "description": "McDonough County is home to educational institutions, agricultural enterprises, and historic communities. The county's economy benefits from higher education, local businesses, and a strong connection to western Illinois agriculture.",
-  "population": "27569"
-},
-
-"McHenry County": {
-  "description": "McHenry County is one of the fastest-growing counties in northern Illinois, offering a blend of suburban neighborhoods, rural landscapes, and expanding business districts. Continued development has strengthened its role within the Chicago metropolitan area.",
-  "population": "310229"
-},
-
-"McLean County": {
-  "description": "McLean County is the largest county in Illinois by land area and serves as a major center for insurance, education, agriculture, and technology. Its thriving economy and growing population make it one of the state's most influential counties.",
-  "population": "170954"
-},
-
-"Menard County": {
-  "description": "Menard County combines historic significance, agricultural productivity, and small-town charm in central Illinois. The county maintains a stable economy supported by farming, local businesses, and regional employment opportunities.",
-  "population": "11906"
-},
-
-"Mercer County": {
-  "description": "Mercer County is located along the Mississippi River and is known for its agricultural strength, scenic landscapes, and close-knit communities. Farming and local commerce continue to drive economic activity throughout the county.",
-  "population": "14863"
-},
-
-"Monroe County": {
-  "description": "Monroe County benefits from its proximity to St. Louis while preserving a strong rural and residential character. The county's growing communities, quality schools, and expanding housing developments attract families and businesses alike.",
-  "population": "35268"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County features a mix of agriculture, manufacturing, and transportation-related industries. Its central location and established communities support a diverse local economy and stable residential base.",
-  "population": "27535"
-},
-
-"Morgan County": {
-  "description": "Morgan County serves as a regional center for education, healthcare, agriculture, and business activity in west-central Illinois. Historic communities and a diverse economic base contribute to the county's long-term stability.",
-  "population": "30697"
-},
-"Moultrie County": {
-  "description": "Moultrie County is a predominantly agricultural county in central Illinois known for its productive farmland, small communities, and strong local traditions. Farming and agribusiness continue to play a central role in the county's economy.",
-  "population": "14405"
-},
-
-"Ogle County": {
-  "description": "Ogle County combines scenic rural landscapes with growing residential communities and a diverse agricultural economy. Its strategic location in northern Illinois supports both local businesses and regional commerce.",
-  "population": "50759"
-},
-
-"Peoria County": {
-  "description": "Peoria County is a major economic hub in central Illinois, recognized for its healthcare systems, manufacturing sector, educational institutions, and vibrant business community. The county serves as a regional center for employment and commerce.",
-  "population": "179432"
-},
-
-"Perry County": {
-  "description": "Perry County has a rich history rooted in coal mining, agriculture, and industrial development. Today, its communities support a balanced economy that includes manufacturing, local businesses, and agricultural production.",
-  "population": "20664"
-},
-
-"Piatt County": {
-  "description": "Piatt County is known for its fertile farmland, well-maintained communities, and strong agricultural heritage. The county offers a stable rural environment while maintaining convenient access to larger economic centers in central Illinois.",
-  "population": "16217"
-},
-
-"Pike County": {
-  "description": "Pike County is located along the Mississippi River and is widely recognized for its outdoor recreation opportunities, agricultural production, and scenic countryside. Tourism and farming remain important contributors to the local economy.",
-  "population": "15196"
-},
-
-"Pope County": {
-  "description": "Pope County is home to some of Illinois' most notable natural attractions, including forests, recreational areas, and outdoor destinations. Tourism, conservation, and agriculture all contribute to the county's unique economic profile.",
-  "population": "3948"
-},
-
-"Pulaski County": {
-  "description": "Pulaski County occupies a strategic location in southern Illinois near major river systems and transportation routes. Agriculture, logistics, and local commerce support the county's economy and residential communities.",
-  "population": "5091"
-},
-
-"Putnam County": {
-  "description": "Putnam County is the smallest county in Illinois by population and is characterized by its rural landscapes, agricultural operations, and close-knit communities. Residents benefit from a peaceful environment and strong local connections.",
-  "population": "5578"
-},
-
-"Randolph County": {
-  "description": "Randolph County is one of Illinois' oldest counties and features a blend of agriculture, manufacturing, and historic river communities. Its diverse economy and rich heritage continue to support long-term regional growth.",
-  "population": "30163"
-},
-
-"Richland County": {
-  "description": "Richland County supports a combination of agriculture, energy production, healthcare, and local commerce. Its established communities and strong regional connections contribute to a stable and diverse economy.",
-  "population": "15417"
-},
-
-"Rock Island County": {
-  "description": "Rock Island County forms part of the Quad Cities metropolitan area and serves as a major center for manufacturing, logistics, healthcare, and commerce. Its urban and suburban communities drive significant economic activity in western Illinois.",
-  "population": "142082"
-},
-
-"St. Clair County": {
-  "description": "St. Clair County is one of the most populous counties in southern Illinois and plays a critical role in the Greater St. Louis economy. Transportation, healthcare, military operations, and business development contribute to its regional importance.",
-  "population": "254674"
-},
-
-"Saline County": {
-  "description": "Saline County combines a strong agricultural tradition with healthcare, retail, and industrial activity. Its communities serve as important residential and commercial centers within southeastern Illinois.",
-  "population": "23273"
-},
-
-"Sangamon County": {
-  "description": "Sangamon County is home to Illinois' state capital and serves as a major government, healthcare, and business center. The county's economy is strengthened by public administration, education, healthcare, and commercial development.",
-  "population": "194870"
-},
-"Schuyler County": {
-  "description": "Schuyler County is a rural western Illinois county known for its productive farmland, scenic river valleys, and strong agricultural heritage. Farming and small local businesses continue to serve as the foundation of the county's economy.",
-  "population": "6757"
-},
-
-"Scott County": {
-  "description": "Scott County is characterized by rolling farmland, historic communities, and a close connection to central Illinois agriculture. Its rural setting and stable population support a strong sense of community and local economic activity.",
-  "population": "4872"
-},
-
-"Shelby County": {
-  "description": "Shelby County features a diverse agricultural economy, established communities, and a strategic location in central Illinois. Farming, manufacturing, and local commerce contribute to the county's economic stability and growth.",
-  "population": "20862"
-},
-
-"Stark County": {
-  "description": "Stark County is a small north-central Illinois county recognized for its agricultural productivity, rural character, and community-focused lifestyle. Local farms and small businesses remain central to the county's identity.",
-  "population": "5148"
-},
-
-"Stephenson County": {
-  "description": "Stephenson County serves as a regional center in northwestern Illinois, supporting manufacturing, agriculture, healthcare, and tourism. Its historic communities and diverse economy make it an important contributor to the region.",
-  "population": "44176"
-},
-
-"Tazewell County": {
-  "description": "Tazewell County combines suburban growth, industrial development, and agricultural production within a rapidly evolving regional economy. Its proximity to major employment centers supports continued residential and commercial expansion.",
-  "population": "131400"
-},
-
-"Union County": {
-  "description": "Union County is known for its scenic landscapes, outdoor recreation opportunities, and strong agricultural traditions. Tourism, farming, and local commerce play significant roles in supporting the county's economy.",
-  "population": "16622"
-},
-
-"Vermilion County": {
-  "description": "Vermilion County is one of eastern Illinois' largest counties and supports a diverse economy that includes manufacturing, healthcare, education, and agriculture. Its communities serve as important residential and commercial centers.",
-  "population": "73090"
-},
-
-"Wabash County": {
-  "description": "Wabash County is located along the Indiana border and is known for its agricultural heritage, local industries, and strong community values. The county offers a blend of rural living and regional accessibility.",
-  "population": "11113"
-},
-
-"Warren County": {
-  "description": "Warren County supports a balanced economy driven by agriculture, education, and local businesses. Its historic communities and productive farmland contribute to a stable and welcoming environment for residents and visitors.",
-  "population": "16792"
-},
-
-"Washington County": {
-  "description": "Washington County is a southern Illinois county with a strong agricultural base, expanding local businesses, and a rich community heritage. Farming and related industries continue to support long-term economic activity.",
-  "population": "13318"
-},
-
-"Wayne County": {
-  "description": "Wayne County features extensive agricultural operations, natural resources, and established residential communities. The county's economy is supported by farming, energy-related industries, and local commerce.",
-  "population": "16039"
-},
-
-"White County": {
-  "description": "White County is located in southeastern Illinois and benefits from a combination of agriculture, energy production, and local business activity. Its rural character and economic diversity contribute to long-term stability.",
-  "population": "13599"
-},
-
-"Whiteside County": {
-  "description": "Whiteside County is an important manufacturing and agricultural center in northwestern Illinois. Its riverfront communities, industrial facilities, and productive farmland support a diverse and resilient economy.",
-  "population": "54808"
-},
-
-"Will County": {
-  "description": "Will County is one of the fastest-growing counties in Illinois, driven by suburban expansion, logistics operations, industrial development, and residential construction. Its strategic location within the Chicago metropolitan area fuels continued economic growth.",
-  "population": "715526"
-},
-
-"Williamson County": {
-  "description": "Williamson County is a major commercial and retail destination in southern Illinois, offering strong healthcare, education, and business sectors. Rapid development and population growth have strengthened its regional influence.",
-  "population": "67320"
-},
-
-"Winnebago County": {
-  "description": "Winnebago County is anchored by one of northern Illinois' largest urban centers and supports a diverse economy that includes aerospace, healthcare, manufacturing, logistics, and technology industries.",
-  "population": "280178"
-},
-
-"Woodford County": {
-  "description": "Woodford County combines highly productive farmland with growing residential communities and strong regional connectivity. Its economy benefits from agriculture, local businesses, and access to nearby metropolitan employment centers.",
-  "population": "38948"
-}
+  "counties": {
+    "Adams County": {
+      "description": "Adams County is located in western Illinois along the Mississippi River and serves as an important regional center for agriculture, manufacturing, and commerce. The county's blend of historic communities, residential neighborhoods, and rural landscapes creates a diverse environment that supports a wide range of local services.",
+      "population": "64643"
+    },
+    "Alexander County": {
+      "description": "Alexander County occupies the southernmost tip of Illinois where the Mississippi and Ohio Rivers meet. Known for its riverfront geography, agricultural land, and small communities, the county maintains a unique position within the state's transportation and natural resource network.",
+      "population": "5238"
+    },
+    "Bond County": {
+      "description": "Bond County is a south-central Illinois county characterized by agricultural operations, small-town communities, and a strong local heritage. Its central location and established residential areas contribute to steady demand for property-related services throughout the region.",
+      "population": "16437"
+    },
+    "Boone County": {
+      "description": "Boone County is situated near the Wisconsin border and benefits from its proximity to the Chicago metropolitan area. The county features growing residential developments, rural properties, and expanding commercial activity that continue to shape its local economy.",
+      "population": "53588"
+    },
+    "Brown County": {
+      "description": "Brown County is a rural county in western Illinois known for its farmland, outdoor recreation opportunities, and close-knit communities. Agriculture remains a key economic driver while local residents enjoy a quieter lifestyle surrounded by natural landscapes.",
+      "population": "6544"
+    },
+    "Bureau County": {
+      "description": "Bureau County combines productive agricultural land with established towns and transportation routes across north-central Illinois. Its economy is supported by farming, manufacturing, and local businesses serving both residents and visitors throughout the county.",
+      "population": "33470"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County is positioned between the Illinois and Mississippi Rivers, creating a distinctive geographic setting unlike any other county in the state. Scenic river views, orchards, and rural communities define much of the county's character and economy.",
+      "population": "4577"
+    },
+    "Carroll County": {
+      "description": "Carroll County is located in northwestern Illinois and is recognized for its rolling terrain, agricultural production, and historic river communities. The county attracts visitors with its natural beauty while supporting a stable residential population.",
+      "population": "15092"
+    },
+    "Cass County": {
+      "description": "Cass County sits in central Illinois and features a combination of farmland, small communities, and local industries. Agriculture plays a significant role in the local economy while residents benefit from access to nearby regional employment centers.",
+      "population": "12949"
+    },
+    "Champaign County": {
+      "description": "Champaign County is home to a major university presence, innovative research institutions, and one of the strongest regional economies in central Illinois. The county combines urban development, educational resources, and thriving business districts.",
+      "population": "210593"
+    },
+    "Christian County": {
+      "description": "Christian County serves as an agricultural and industrial hub in central Illinois. Its mix of farming operations, manufacturing facilities, and established residential communities contributes to a balanced local economy and stable population base.",
+      "population": "33618"
+    },
+    "Clark County": {
+      "description": "Clark County lies along the Indiana border and is known for its agricultural roots, local businesses, and family-oriented communities. The county offers a blend of rural living and convenient access to neighboring regional markets.",
+      "population": "14982"
+    },
+    "Clay County": {
+      "description": "Clay County is located in southeastern Illinois and features extensive agricultural land, small communities, and a strong connection to the region's farming heritage. Local economic activity is supported by agriculture, retail, and service industries.",
+      "population": "13114"
+    },
+    "Clinton County": {
+      "description": "Clinton County benefits from its strategic location near the St. Louis metropolitan area while maintaining its own distinct identity. The county includes growing residential communities, productive farmland, and a variety of commercial enterprises.",
+      "population": "37762"
+    },
+    "Coles County": {
+      "description": "Coles County is an important educational and economic center in eastern Illinois. Home to higher education institutions, diverse employers, and established neighborhoods, the county supports both residential growth and commercial development.",
+      "population": "45582"
+    },
+    "Cook County": {
+      "description": "Cook County is the most populous county in Illinois and serves as the economic engine of the Midwest. Anchored by Chicago, the county includes dense urban neighborhoods, suburban communities, major transportation infrastructure, and extensive commercial activity.",
+      "population": "5200459"
+    },
+    "Crawford County": {
+      "description": "Crawford County is located in southeastern Illinois and features a combination of agricultural operations, manufacturing businesses, and residential communities. Its local economy benefits from a diverse mix of industries and regional connectivity.",
+      "population": "18679"
+    },
+    "Cumberland County": {
+      "description": "Cumberland County is a rural Illinois county known for its agricultural production, open landscapes, and close-knit communities. Residents enjoy a slower pace of life while remaining connected to nearby regional economic centers.",
+      "population": "10611"
+    },
+    "DeKalb County": {
+      "description": "DeKalb County is recognized for its strong agricultural sector, higher education presence, and growing suburban influence. The county combines productive farmland with expanding residential areas and a dynamic local economy.",
+      "population": "100420"
+    },
+    "DeWitt County": {
+      "description": "DeWitt County is situated in central Illinois and is characterized by agricultural production, historic communities, and regional transportation access. The county maintains a strong farming tradition while supporting a variety of local businesses.",
+      "population": "15417"
+    },
+    "Douglas County": {
+      "description": "Douglas County offers a mix of agricultural resources, residential communities, and local commerce in east-central Illinois. Its stable economy is supported by farming operations and businesses serving surrounding rural areas.",
+      "population": "19252"
+    },
+    "DuPage County": {
+      "description": "DuPage County is one of Illinois' most affluent and economically diverse counties. Known for its highly rated communities, corporate headquarters, business parks, and extensive residential development, it remains a major driver of regional growth.",
+      "population": "935945"
+    },
+    "Edgar County": {
+      "description": "Edgar County sits along the Indiana border and is known for its agricultural heritage, historic communities, and strong local traditions. Farming remains an important economic contributor alongside retail and service-based industries.",
+      "population": "16208"
+    },
+    "Edwards County": {
+      "description": "Edwards County is a small southeastern Illinois county with a predominantly rural landscape and strong agricultural foundation. The county's communities benefit from a close community atmosphere and longstanding farming traditions.",
+      "population": "5914"
+    },
+    "Effingham County": {
+      "description": "Effingham County serves as a major transportation crossroads in Illinois due to its location near key interstate highways. The county supports a thriving economy driven by logistics, manufacturing, retail, and residential growth.",
+      "population": "34063"
+    },
+    "Fayette County": {
+      "description": "Fayette County is located in south-central Illinois and is known for its agricultural productivity, transportation access, and established communities. The county supports a balanced economy through farming, manufacturing, healthcare, and local commerce.",
+      "population": "21387"
+    },
+    "Ford County": {
+      "description": "Ford County features expansive agricultural land and small-town communities that reflect the traditional character of central Illinois. Farming remains a dominant economic force, complemented by local businesses and regional service providers.",
+      "population": "12960"
+    },
+    "Franklin County": {
+      "description": "Franklin County combines a rich mining history with modern agriculture, healthcare, and commercial activity. Its communities serve as important residential and business centers for southern Illinois residents.",
+      "population": "37687"
+    },
+    "Fulton County": {
+      "description": "Fulton County is situated in western Illinois and offers a diverse landscape of farmland, river corridors, and historic communities. The county's economy is supported by agriculture, manufacturing, logistics, and local entrepreneurship.",
+      "population": "33312"
+    },
+    "Gallatin County": {
+      "description": "Gallatin County lies in southeastern Illinois and is characterized by agricultural operations, natural resources, and scenic rural landscapes. Its small communities maintain strong local traditions while supporting regional economic activity.",
+      "population": "4810"
+    },
+    "Greene County": {
+      "description": "Greene County is located along the western portion of Illinois and features fertile farmland, historic towns, and strong agricultural roots. Local businesses and farming operations play an essential role in the county's economy.",
+      "population": "11179"
+    },
+    "Grundy County": {
+      "description": "Grundy County benefits from its strategic position within the greater Chicago region while maintaining a strong local identity. The county supports industrial growth, logistics operations, and expanding residential developments.",
+      "population": "53546"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County is a rural southern Illinois county known for its agricultural production, open landscapes, and community-oriented lifestyle. Farming remains a key contributor to local employment and economic stability.",
+      "population": "7814"
+    },
+    "Hancock County": {
+      "description": "Hancock County occupies a scenic section of western Illinois along the Mississippi River. The county combines agriculture, tourism, and local industry while preserving its historic communities and natural attractions.",
+      "population": "17620"
+    },
+    "Hardin County": {
+      "description": "Hardin County is one of Illinois' most scenic counties, featuring forests, riverfront areas, and outdoor recreation opportunities. Tourism, agriculture, and local businesses contribute to the county's rural economy.",
+      "population": "3590"
+    },
+    "Henderson County": {
+      "description": "Henderson County is a predominantly agricultural county in western Illinois known for its productive farmland and small communities. The county's economy is closely tied to farming, agribusiness, and regional trade.",
+      "population": "6258"
+    },
+    "Henry County": {
+      "description": "Henry County supports a diverse economy that includes agriculture, manufacturing, healthcare, and retail. Its established communities and strong transportation connections make it an important regional center in northwestern Illinois.",
+      "population": "48518"
+    },
+    "Iroquois County": {
+      "description": "Iroquois County is one of the largest counties in Illinois by land area and is widely recognized for its agricultural strength. The county's extensive farmland, local businesses, and rural communities contribute to its economic foundation.",
+      "population": "26722"
+    },
+    "Jackson County": {
+      "description": "Jackson County is home to major educational institutions, cultural attractions, and a diverse regional economy. The county blends academic influence, commercial development, and outdoor recreation opportunities throughout southern Illinois.",
+      "population": "52440"
+    },
+    "Jasper County": {
+      "description": "Jasper County is a southeastern Illinois county known for its agricultural heritage, stable residential communities, and strong local values. Farming, small businesses, and service industries continue to support the county's economy.",
+      "population": "9417"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County serves as a commercial and transportation hub in southern Illinois, connecting residential communities with regional healthcare, retail, and industrial opportunities. Its central location supports both economic activity and population stability.",
+      "population": "37317"
+    },
+    "Jersey County": {
+      "description": "Jersey County is located near the confluence of major river systems and benefits from its proximity to the St. Louis metropolitan area. The county blends agricultural traditions with growing residential and commercial development.",
+      "population": "21665"
+    },
+    "Jo Daviess County": {
+      "description": "Jo Daviess County is renowned for its rolling hills, historic destinations, and thriving tourism industry. The county attracts visitors year-round while maintaining a strong local economy supported by agriculture, hospitality, and small businesses.",
+      "population": "22092"
+    },
+    "Johnson County": {
+      "description": "Johnson County is known for its scenic natural areas, outdoor recreation opportunities, and strong connection to southern Illinois heritage. Tourism, agriculture, and local commerce contribute to the county's economic foundation.",
+      "population": "12989"
+    },
+    "Kane County": {
+      "description": "Kane County is one of the fastest-growing counties in northern Illinois, featuring expanding suburban communities, vibrant business districts, and a diverse economy. Residential growth continues to drive demand for local services and infrastructure.",
+      "population": "528084"
+    },
+    "Kankakee County": {
+      "description": "Kankakee County combines urban centers, agricultural land, and industrial development within a strategically located region south of Chicago. Its diverse economy supports manufacturing, healthcare, logistics, and residential communities.",
+      "population": "106601"
+    },
+    "Kendall County": {
+      "description": "Kendall County has experienced significant population growth due to its attractive suburban communities and proximity to Chicago. New housing developments, expanding businesses, and family-oriented neighborhoods define much of the county's character.",
+      "population": "134587"
+    },
+    "Knox County": {
+      "description": "Knox County is a historic west-central Illinois county that supports education, healthcare, manufacturing, and agriculture. Its established communities provide a stable environment for residents and businesses alike.",
+      "population": "49371"
+    },
+    "Lake County": {
+      "description": "Lake County occupies a prime location along Lake Michigan and is one of Illinois' most economically significant counties. It features affluent suburbs, corporate headquarters, industrial centers, recreational attractions, and extensive residential development.",
+      "population": "720188"
+    },
+    "LaSalle County": {
+      "description": "LaSalle County is a major economic center in north-central Illinois, supported by manufacturing, agriculture, logistics, and tourism. Its diverse landscape includes historic towns, riverfront communities, and growing residential areas.",
+      "population": "108669"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County is located along the Indiana border and maintains a strong agricultural tradition alongside energy production and local commerce. The county's communities offer a blend of rural living and regional connectivity.",
+      "population": "15167"
+    },
+    "Lee County": {
+      "description": "Lee County combines productive farmland, historic communities, and regional business activity in northwestern Illinois. Agriculture remains central to the economy while manufacturing and service industries provide additional employment opportunities.",
+      "population": "33877"
+    },
+    "Livingston County": {
+      "description": "Livingston County is one of Illinois' leading agricultural counties, featuring expansive farmland, transportation infrastructure, and established communities. The county supports a strong rural economy while maintaining access to major regional markets.",
+      "population": "35628"
+    },
+    "Macon County": {
+      "description": "Macon County serves as a major economic and population center in central Illinois, anchored by manufacturing, healthcare, education, and commerce. Its urban neighborhoods, industrial districts, and residential communities create a diverse and active local economy.",
+      "population": "103436"
+    },
+    "Macoupin County": {
+      "description": "Macoupin County is known for its rich agricultural land, historic communities, and longstanding role in Illinois industry. The county balances rural traditions with modern business activity and regional transportation access.",
+      "population": "44508"
+    },
+    "Madison County": {
+      "description": "Madison County is one of the largest economic centers in southern Illinois, benefiting from its location within the Greater St. Louis region. Manufacturing, logistics, healthcare, and commercial development play major roles in the county's growth.",
+      "population": "262428"
+    },
+    "Marion County": {
+      "description": "Marion County occupies a strategic location in south-central Illinois and supports a diverse economy that includes healthcare, manufacturing, retail, and agriculture. Its communities serve as important regional service centers.",
+      "population": "37184"
+    },
+    "Marshall County": {
+      "description": "Marshall County is characterized by productive farmland, small communities, and access to central Illinois transportation corridors. Agriculture remains a cornerstone of the local economy while supporting a stable residential population.",
+      "population": "11620"
+    },
+    "Mason County": {
+      "description": "Mason County is recognized for its unique soil conditions, agricultural production, and natural resources. Farming, outdoor recreation, and local commerce continue to shape the county's economic identity.",
+      "population": "12687"
+    },
+    "Massac County": {
+      "description": "Massac County sits along the Ohio River in southern Illinois and benefits from its strategic transportation location. The county supports a mix of residential communities, tourism activity, and regional commerce.",
+      "population": "14220"
+    },
+    "McDonough County": {
+      "description": "McDonough County is home to educational institutions, agricultural enterprises, and historic communities. The county's economy benefits from higher education, local businesses, and a strong connection to western Illinois agriculture.",
+      "population": "27569"
+    },
+    "McHenry County": {
+      "description": "McHenry County is one of the fastest-growing counties in northern Illinois, offering a blend of suburban neighborhoods, rural landscapes, and expanding business districts. Continued development has strengthened its role within the Chicago metropolitan area.",
+      "population": "310229"
+    },
+    "McLean County": {
+      "description": "McLean County is the largest county in Illinois by land area and serves as a major center for insurance, education, agriculture, and technology. Its thriving economy and growing population make it one of the state's most influential counties.",
+      "population": "170954"
+    },
+    "Menard County": {
+      "description": "Menard County combines historic significance, agricultural productivity, and small-town charm in central Illinois. The county maintains a stable economy supported by farming, local businesses, and regional employment opportunities.",
+      "population": "11906"
+    },
+    "Mercer County": {
+      "description": "Mercer County is located along the Mississippi River and is known for its agricultural strength, scenic landscapes, and close-knit communities. Farming and local commerce continue to drive economic activity throughout the county.",
+      "population": "14863"
+    },
+    "Monroe County": {
+      "description": "Monroe County benefits from its proximity to St. Louis while preserving a strong rural and residential character. The county's growing communities, quality schools, and expanding housing developments attract families and businesses alike.",
+      "population": "35268"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County features a mix of agriculture, manufacturing, and transportation-related industries. Its central location and established communities support a diverse local economy and stable residential base.",
+      "population": "27535"
+    },
+    "Morgan County": {
+      "description": "Morgan County serves as a regional center for education, healthcare, agriculture, and business activity in west-central Illinois. Historic communities and a diverse economic base contribute to the county's long-term stability.",
+      "population": "30697"
+    },
+    "Moultrie County": {
+      "description": "Moultrie County is a predominantly agricultural county in central Illinois known for its productive farmland, small communities, and strong local traditions. Farming and agribusiness continue to play a central role in the county's economy.",
+      "population": "14405"
+    },
+    "Ogle County": {
+      "description": "Ogle County combines scenic rural landscapes with growing residential communities and a diverse agricultural economy. Its strategic location in northern Illinois supports both local businesses and regional commerce.",
+      "population": "50759"
+    },
+    "Peoria County": {
+      "description": "Peoria County is a major economic hub in central Illinois, recognized for its healthcare systems, manufacturing sector, educational institutions, and vibrant business community. The county serves as a regional center for employment and commerce.",
+      "population": "179432"
+    },
+    "Perry County": {
+      "description": "Perry County has a rich history rooted in coal mining, agriculture, and industrial development. Today, its communities support a balanced economy that includes manufacturing, local businesses, and agricultural production.",
+      "population": "20664"
+    },
+    "Piatt County": {
+      "description": "Piatt County is known for its fertile farmland, well-maintained communities, and strong agricultural heritage. The county offers a stable rural environment while maintaining convenient access to larger economic centers in central Illinois.",
+      "population": "16217"
+    },
+    "Pike County": {
+      "description": "Pike County is located along the Mississippi River and is widely recognized for its outdoor recreation opportunities, agricultural production, and scenic countryside. Tourism and farming remain important contributors to the local economy.",
+      "population": "15196"
+    },
+    "Pope County": {
+      "description": "Pope County is home to some of Illinois' most notable natural attractions, including forests, recreational areas, and outdoor destinations. Tourism, conservation, and agriculture all contribute to the county's unique economic profile.",
+      "population": "3948"
+    },
+    "Pulaski County": {
+      "description": "Pulaski County occupies a strategic location in southern Illinois near major river systems and transportation routes. Agriculture, logistics, and local commerce support the county's economy and residential communities.",
+      "population": "5091"
+    },
+    "Putnam County": {
+      "description": "Putnam County is the smallest county in Illinois by population and is characterized by its rural landscapes, agricultural operations, and close-knit communities. Residents benefit from a peaceful environment and strong local connections.",
+      "population": "5578"
+    },
+    "Randolph County": {
+      "description": "Randolph County is one of Illinois' oldest counties and features a blend of agriculture, manufacturing, and historic river communities. Its diverse economy and rich heritage continue to support long-term regional growth.",
+      "population": "30163"
+    },
+    "Richland County": {
+      "description": "Richland County supports a combination of agriculture, energy production, healthcare, and local commerce. Its established communities and strong regional connections contribute to a stable and diverse economy.",
+      "population": "15417"
+    },
+    "Rock Island County": {
+      "description": "Rock Island County forms part of the Quad Cities metropolitan area and serves as a major center for manufacturing, logistics, healthcare, and commerce. Its urban and suburban communities drive significant economic activity in western Illinois.",
+      "population": "142082"
+    },
+    "St. Clair County": {
+      "description": "St. Clair County is one of the most populous counties in southern Illinois and plays a critical role in the Greater St. Louis economy. Transportation, healthcare, military operations, and business development contribute to its regional importance.",
+      "population": "254674"
+    },
+    "Saline County": {
+      "description": "Saline County combines a strong agricultural tradition with healthcare, retail, and industrial activity. Its communities serve as important residential and commercial centers within southeastern Illinois.",
+      "population": "23273"
+    },
+    "Sangamon County": {
+      "description": "Sangamon County is home to Illinois' state capital and serves as a major government, healthcare, and business center. The county's economy is strengthened by public administration, education, healthcare, and commercial development.",
+      "population": "194870"
+    },
+    "Schuyler County": {
+      "description": "Schuyler County is a rural western Illinois county known for its productive farmland, scenic river valleys, and strong agricultural heritage. Farming and small local businesses continue to serve as the foundation of the county's economy.",
+      "population": "6757"
+    },
+    "Scott County": {
+      "description": "Scott County is characterized by rolling farmland, historic communities, and a close connection to central Illinois agriculture. Its rural setting and stable population support a strong sense of community and local economic activity.",
+      "population": "4872"
+    },
+    "Shelby County": {
+      "description": "Shelby County features a diverse agricultural economy, established communities, and a strategic location in central Illinois. Farming, manufacturing, and local commerce contribute to the county's economic stability and growth.",
+      "population": "20862"
+    },
+    "Stark County": {
+      "description": "Stark County is a small north-central Illinois county recognized for its agricultural productivity, rural character, and community-focused lifestyle. Local farms and small businesses remain central to the county's identity.",
+      "population": "5148"
+    },
+    "Stephenson County": {
+      "description": "Stephenson County serves as a regional center in northwestern Illinois, supporting manufacturing, agriculture, healthcare, and tourism. Its historic communities and diverse economy make it an important contributor to the region.",
+      "population": "44176"
+    },
+    "Tazewell County": {
+      "description": "Tazewell County combines suburban growth, industrial development, and agricultural production within a rapidly evolving regional economy. Its proximity to major employment centers supports continued residential and commercial expansion.",
+      "population": "131400"
+    },
+    "Union County": {
+      "description": "Union County is known for its scenic landscapes, outdoor recreation opportunities, and strong agricultural traditions. Tourism, farming, and local commerce play significant roles in supporting the county's economy.",
+      "population": "16622"
+    },
+    "Vermilion County": {
+      "description": "Vermilion County is one of eastern Illinois' largest counties and supports a diverse economy that includes manufacturing, healthcare, education, and agriculture. Its communities serve as important residential and commercial centers.",
+      "population": "73090"
+    },
+    "Wabash County": {
+      "description": "Wabash County is located along the Indiana border and is known for its agricultural heritage, local industries, and strong community values. The county offers a blend of rural living and regional accessibility.",
+      "population": "11113"
+    },
+    "Warren County": {
+      "description": "Warren County supports a balanced economy driven by agriculture, education, and local businesses. Its historic communities and productive farmland contribute to a stable and welcoming environment for residents and visitors.",
+      "population": "16792"
+    },
+    "Washington County": {
+      "description": "Washington County is a southern Illinois county with a strong agricultural base, expanding local businesses, and a rich community heritage. Farming and related industries continue to support long-term economic activity.",
+      "population": "13318"
+    },
+    "Wayne County": {
+      "description": "Wayne County features extensive agricultural operations, natural resources, and established residential communities. The county's economy is supported by farming, energy-related industries, and local commerce.",
+      "population": "16039"
+    },
+    "White County": {
+      "description": "White County is located in southeastern Illinois and benefits from a combination of agriculture, energy production, and local business activity. Its rural character and economic diversity contribute to long-term stability.",
+      "population": "13599"
+    },
+    "Whiteside County": {
+      "description": "Whiteside County is an important manufacturing and agricultural center in northwestern Illinois. Its riverfront communities, industrial facilities, and productive farmland support a diverse and resilient economy.",
+      "population": "54808"
+    },
+    "Will County": {
+      "description": "Will County is one of the fastest-growing counties in Illinois, driven by suburban expansion, logistics operations, industrial development, and residential construction. Its strategic location within the Chicago metropolitan area fuels continued economic growth.",
+      "population": "715526"
+    },
+    "Williamson County": {
+      "description": "Williamson County is a major commercial and retail destination in southern Illinois, offering strong healthcare, education, and business sectors. Rapid development and population growth have strengthened its regional influence.",
+      "population": "67320"
+    },
+    "Winnebago County": {
+      "description": "Winnebago County is anchored by one of northern Illinois' largest urban centers and supports a diverse economy that includes aerospace, healthcare, manufacturing, logistics, and technology industries.",
+      "population": "280178"
+    },
+    "Woodford County": {
+      "description": "Woodford County combines highly productive farmland with growing residential communities and strong regional connectivity. Its economy benefits from agriculture, local businesses, and access to nearby metropolitan employment centers.",
+      "population": "38948"
+    }
+  }
 }

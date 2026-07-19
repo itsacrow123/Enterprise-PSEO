@@ -1,453 +1,379 @@
 {
-"Adams County": {
-  "description": "Adams County supports a strong economy based on agriculture, manufacturing, healthcare services, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "36646"
-},
-
-"Allen County": {
-  "description": "Allen County is one of Indiana's largest economic centers, anchored by healthcare, manufacturing, finance, logistics, education, and professional services. Its growing population and diversified economy support substantial business development throughout the region.",
-  "population": "395707"
-},
-
-"Bartholomew County": {
-  "description": "Bartholomew County is nationally recognized for its advanced manufacturing sector, healthcare services, architecture, and educational institutions. Industrial innovation and commercial development continue to drive economic growth across the county.",
-  "population": "83540"
-},
-
-"Benton County": {
-  "description": "Benton County maintains a rural economy centered on agriculture, agribusiness, renewable energy development, and community-focused businesses. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "8565"
-},
-
-"Blackford County": {
-  "description": "Blackford County supports an economy based on manufacturing, healthcare services, agriculture, and local commerce. Community institutions and industrial employers continue to provide important employment opportunities.",
-  "population": "11759"
-},
-
-"Boone County": {
-  "description": "Boone County is one of Indiana's fastest-growing counties, benefiting from logistics, healthcare, retail development, professional services, and residential expansion. Its proximity to Indianapolis supports strong economic growth and investment.",
-  "population": "77762"
-},
-
-"Brown County": {
-  "description": "Brown County is known for tourism, outdoor recreation, arts-related businesses, hospitality, and scenic natural attractions. Visitor spending and service industries play major roles in supporting the county's economy.",
-  "population": "15475"
-},
-
-"Carroll County": {
-  "description": "Carroll County combines agriculture, manufacturing, healthcare services, and local business activity within a stable north-central Indiana economy. Farming and industrial operations contribute significantly to economic growth.",
-  "population": "20547"
-},
-
-"Cass County": {
-  "description": "Cass County serves as a regional center for manufacturing, healthcare, agriculture, transportation, and commerce. Its diversified economy supports both industrial development and community growth.",
-  "population": "37780"
-},
-
-"Clark County": {
-  "description": "Clark County is one of southern Indiana's largest economic centers, benefiting from healthcare, manufacturing, logistics, retail development, and its connection to the Louisville metropolitan area. Continued investment supports strong economic expansion.",
-  "population": "125703"
-},
-"Clay County": {
-  "description": "Clay County supports a diversified economy based on manufacturing, agriculture, healthcare services, logistics, and local commerce. Industrial employers and farming operations continue to contribute significantly to economic activity throughout the county.",
-  "population": "26236"
-},
-
-"Clinton County": {
-  "description": "Clinton County combines agriculture, manufacturing, food processing, healthcare, and transportation-related industries within a growing central Indiana economy. Its strategic location supports continued business investment and workforce development.",
-  "population": "33315"
-},
-
-"Crawford County": {
-  "description": "Crawford County is known for its natural landscapes, tourism opportunities, agriculture, forestry resources, and local businesses. Outdoor recreation and community-based industries contribute to economic activity throughout the county.",
-  "population": "10311"
-},
-
-"Daviess County": {
-  "description": "Daviess County supports a strong economy driven by manufacturing, agriculture, construction, healthcare, and local commerce. Its productive business environment continues to support employment growth and regional development.",
-  "population": "34016"
-},
-
-"Dearborn County": {
-  "description": "Dearborn County benefits from manufacturing, healthcare, tourism, gaming, logistics, and its proximity to the Cincinnati metropolitan area. Its diverse economic base supports continued residential and commercial growth.",
-  "population": "50762"
-},
-
-"Decatur County": {
-  "description": "Decatur County combines manufacturing, agriculture, healthcare services, transportation, and local business activity. Industrial employers and agribusiness operations remain key contributors to economic growth.",
-  "population": "27029"
-},
-
-"DeKalb County": {
-  "description": "DeKalb County maintains a balanced economy supported by manufacturing, agriculture, healthcare, logistics, and retail development. Its business community continues to drive stable economic activity throughout the county.",
-  "population": "44463"
-},
-
-"Delaware County": {
-  "description": "Delaware County serves as a regional center for higher education, healthcare, manufacturing, finance, and professional services. Educational institutions and commercial development contribute significantly to the local economy.",
-  "population": "111903"
-},
-
-"Dubois County": {
-  "description": "Dubois County is recognized for its strong manufacturing sector, skilled workforce, healthcare services, and thriving small business community. Industrial innovation and entrepreneurship continue to support economic expansion.",
-  "population": "43728"
-},
-
-"Elkhart County": {
-  "description": "Elkhart County is one of Indiana's leading manufacturing hubs, internationally known for recreational vehicle production, advanced manufacturing, logistics, healthcare, and commercial development. Its diversified industrial economy drives substantial regional growth.",
-  "population": "209973"
-},
-"Fayette County": {
-  "description": "Fayette County supports an economy based on manufacturing, healthcare services, agriculture, retail activity, and local commerce. Industrial employers and community-focused businesses contribute to economic stability throughout the county.",
-  "population": "22964"
-},
-
-"Floyd County": {
-  "description": "Floyd County is a major economic center in southern Indiana, benefiting from healthcare, education, manufacturing, logistics, retail development, and its proximity to the Louisville metropolitan area. Continued investment supports strong economic growth.",
-  "population": "80248"
-},
-
-"Fountain County": {
-  "description": "Fountain County combines agriculture, manufacturing, healthcare, tourism, and local business activity within west-central Indiana. Farming operations and industrial employers continue to support economic development throughout the county.",
-  "population": "16320"
-},
-
-"Franklin County": {
-  "description": "Franklin County supports a diversified economy based on agriculture, manufacturing, healthcare services, tourism, and local commerce. Its strategic location near major transportation corridors contributes to business activity and regional growth.",
-  "population": "22995"
-},
-
-"Fulton County": {
-  "description": "Fulton County maintains a stable economy driven by manufacturing, agriculture, healthcare, retail development, and community-based businesses. Local industries and farming operations provide important employment opportunities.",
-  "population": "20342"
-},
-
-"Gibson County": {
-  "description": "Gibson County benefits from agriculture, energy production, manufacturing, healthcare services, and transportation-related industries. Its diverse economy supports both industrial growth and rural development.",
-  "population": "32991"
-},
-
-"Grant County": {
-  "description": "Grant County serves as a regional center for healthcare, manufacturing, education, logistics, and professional services. Economic diversification and workforce development continue to support long-term growth throughout the county.",
-  "population": "65936"
-},
-
-"Greene County": {
-  "description": "Greene County combines manufacturing, healthcare, agriculture, mining-related industries, and local commerce within a balanced southern Indiana economy. Community institutions and businesses contribute to stable economic activity.",
-  "population": "30628"
-},
-
-"Hamilton County": {
-  "description": "Hamilton County is one of Indiana's wealthiest and fastest-growing counties, driven by technology, healthcare, finance, professional services, education, and corporate investment. Its strong business environment and high quality of life continue to attract residents and employers.",
-  "population": "369128"
-},
-
-"Hancock County": {
-  "description": "Hancock County benefits from logistics, manufacturing, healthcare services, retail growth, and residential expansion within the Indianapolis metropolitan area. Continued business investment supports strong economic development and workforce growth.",
-  "population": "83987"
-},
-"Harrison County": {
-  "description": "Harrison County combines healthcare, tourism, manufacturing, agriculture, and residential development within southern Indiana. Its growing communities and proximity to the Louisville metropolitan area contribute to continued economic expansion.",
-  "population": "40804"
-},
-
-"Hendricks County": {
-  "description": "Hendricks County is one of Indiana's fastest-growing counties, supported by logistics, healthcare, advanced manufacturing, retail development, professional services, and residential growth. Its location within the Indianapolis metropolitan area drives substantial business investment.",
-  "population": "183173"
-},
-
-"Henry County": {
-  "description": "Henry County supports a diversified economy based on manufacturing, healthcare, agriculture, education, and local commerce. Industrial employers and community institutions continue to play important roles in economic development.",
-  "population": "47528"
-},
-
-"Howard County": {
-  "description": "Howard County serves as a regional center for manufacturing, healthcare, education, logistics, and professional services. Its strong industrial base and growing business community contribute significantly to economic activity.",
-  "population": "82752"
-},
-
-"Huntington County": {
-  "description": "Huntington County combines manufacturing, agriculture, healthcare services, logistics, and retail activity within northeast Indiana. Its diverse economy supports stable employment and long-term business growth.",
-  "population": "36519"
-},
-
-"Jackson County": {
-  "description": "Jackson County benefits from manufacturing, agriculture, healthcare, education, and transportation-related industries. Its strategic location and diversified economy contribute to continued economic development throughout the region.",
-  "population": "46320"
-},
-
-"Jasper County": {
-  "description": "Jasper County supports a balanced economy driven by agriculture, manufacturing, logistics, healthcare services, and renewable energy development. Industrial growth and farming operations remain key contributors to local prosperity.",
-  "population": "33562"
-},
-
-"Jay County": {
-  "description": "Jay County maintains an economy based on manufacturing, agriculture, healthcare, and community-focused businesses. Farming operations and industrial employers continue to provide important economic opportunities throughout the county.",
-  "population": "20437"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County combines manufacturing, healthcare, tourism, education, and retail development within southeastern Indiana. Its historic communities and growing business sector contribute to a stable local economy.",
-  "population": "33421"
-},
-
-"Jennings County": {
-  "description": "Jennings County supports an economy driven by manufacturing, healthcare services, agriculture, logistics, and local commerce. Continued workforce development and business investment contribute to economic growth throughout the county.",
-  "population": "28525"
-},
-"Johnson County": {
-  "description": "Johnson County is one of the fastest-growing counties in central Indiana, benefiting from healthcare, logistics, manufacturing, retail development, professional services, and residential expansion. Its proximity to Indianapolis continues to drive strong economic growth.",
-  "population": "169224"
-},
-
-"Knox County": {
-  "description": "Knox County serves as a regional center for healthcare, agriculture, manufacturing, education, and local commerce in southwestern Indiana. Its diversified economy supports stable employment and business development.",
-  "population": "35798"
-},
-
-"Kosciusko County": {
-  "description": "Kosciusko County is internationally recognized for its orthopedic device manufacturing industry and supports healthcare, advanced manufacturing, logistics, and professional services. Innovation and industrial investment continue to drive economic expansion.",
-  "population": "81997"
-},
-
-"LaGrange County": {
-  "description": "LaGrange County combines manufacturing, agriculture, tourism, healthcare, and small business development within northeastern Indiana. Its strong workforce and entrepreneurial environment contribute to long-term economic stability.",
-  "population": "40814"
-},
-
-"Lake County": {
-  "description": "Lake County is one of Indiana's largest economic centers, supporting manufacturing, healthcare, logistics, transportation, finance, and professional services. Its location within the Chicago metropolitan region contributes to significant commercial and industrial activity.",
-  "population": "498700"
-},
-
-"LaPorte County": {
-  "description": "LaPorte County benefits from manufacturing, healthcare, tourism, transportation, and commercial development. Its strategic location between Chicago and South Bend supports ongoing business investment and economic growth.",
-  "population": "112417"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County supports an economy based on manufacturing, healthcare, education, tourism, limestone-related industries, and local commerce. Its diverse economic base contributes to regional employment opportunities.",
-  "population": "45882"
-},
-
-"Madison County": {
-  "description": "Madison County serves as a major economic center in east-central Indiana, driven by healthcare, manufacturing, education, logistics, retail development, and professional services. Continued investment supports long-term economic growth.",
-  "population": "129569"
-},
-
-"Marion County": {
-  "description": "Marion County is Indiana's largest county and home to Indianapolis, the state's economic and cultural hub. Healthcare, finance, technology, logistics, education, government services, and professional industries drive one of the Midwest's most diversified economies.",
-  "population": "977203"
-},
-
-"Marshall County": {
-  "description": "Marshall County combines manufacturing, agriculture, healthcare services, logistics, and local commerce within northern Indiana. Industrial employers and farming operations continue to play important roles in supporting economic activity.",
-  "population": "47787"
-},
-"Martin County": {
-  "description": "Martin County supports a rural economy based on agriculture, manufacturing, energy-related industries, healthcare services, and local commerce. Community-focused businesses and industrial employers contribute to stable economic activity throughout the county.",
-  "population": "10168"
-},
-
-"Miami County": {
-  "description": "Miami County combines manufacturing, agriculture, healthcare, logistics, and retail development within north-central Indiana. Its diversified economy supports long-term employment opportunities and business growth.",
-  "population": "35739"
-},
-
-"Monroe County": {
-  "description": "Monroe County is one of Indiana's leading educational and research centers, driven by higher education, healthcare, technology, professional services, and innovation-focused industries. Its highly skilled workforce contributes significantly to economic development.",
-  "population": "141879"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County supports a balanced economy based on manufacturing, healthcare, agriculture, education, and local commerce. Industrial employers and community institutions continue to strengthen regional economic growth.",
-  "population": "38582"
-},
-
-"Morgan County": {
-  "description": "Morgan County benefits from logistics, healthcare, manufacturing, retail development, and residential expansion within the Indianapolis metropolitan area. Continued growth supports increasing business investment and workforce opportunities.",
-  "population": "73617"
-},
-
-"Newton County": {
-  "description": "Newton County combines agriculture, renewable energy development, manufacturing, healthcare services, and local business activity. Farming operations and industrial investment contribute to long-term economic stability.",
-  "population": "13984"
-},
-
-"Noble County": {
-  "description": "Noble County supports a diversified economy driven by manufacturing, healthcare, agriculture, tourism, and retail industries. Its strong business environment contributes to sustained economic activity throughout the county.",
-  "population": "48701"
-},
-
-"Ohio County": {
-  "description": "Ohio County is Indiana's smallest county by land area and supports an economy based on healthcare services, tourism, agriculture, local commerce, and community-focused businesses. Its small size contributes to a close-knit economic environment.",
-  "population": "6112"
-},
-
-"Orange County": {
-  "description": "Orange County is known for tourism, hospitality, healthcare, agriculture, and outdoor recreation opportunities. Visitor spending and service-based industries play important roles in supporting economic growth throughout the county.",
-  "population": "19678"
-},
-
-"Owen County": {
-  "description": "Owen County combines agriculture, healthcare services, tourism, manufacturing, and local commerce within west-central Indiana. Community development and business investment continue to support economic activity across the county.",
-  "population": "21298"
-},
-"Parke County": {
-  "description": "Parke County is widely known for its historic covered bridges, tourism attractions, agriculture, and outdoor recreation opportunities. Visitor spending, farming operations, and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "16855"
-},
-
-"Perry County": {
-  "description": "Perry County supports a diversified economy based on manufacturing, healthcare, transportation, tourism, and local commerce. Industrial employers and community-focused businesses continue to provide stable employment opportunities.",
-  "population": "18873"
-},
-
-"Pike County": {
-  "description": "Pike County combines agriculture, manufacturing, energy-related industries, healthcare services, and local business activity. Its balanced economic base supports workforce development and long-term growth throughout the county.",
-  "population": "12283"
-},
-
-"Porter County": {
-  "description": "Porter County is one of northwest Indiana's leading economic centers, driven by healthcare, manufacturing, logistics, education, tourism, and professional services. Its proximity to Chicago and access to major transportation networks support substantial commercial growth.",
-  "population": "175393"
-},
-
-"Posey County": {
-  "description": "Posey County benefits from manufacturing, agriculture, energy production, healthcare services, and transportation-related industries. Industrial investment and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "25752"
-},
-
-"Pulaski County": {
-  "description": "Pulaski County maintains a rural economy supported by agriculture, manufacturing, healthcare, logistics, and local commerce. Farming operations and industrial employers continue to play important roles in economic stability.",
-  "population": "12967"
-},
-
-"Putnam County": {
-  "description": "Putnam County serves as a regional center for education, healthcare, manufacturing, agriculture, and professional services. Its strong workforce and growing business community contribute to sustained economic development.",
-  "population": "38692"
-},
-
-"Randolph County": {
-  "description": "Randolph County supports an economy based on manufacturing, agriculture, healthcare, retail activity, and community-focused businesses. Local industries and farming operations continue to provide important employment opportunities.",
-  "population": "24482"
-},
-
-"Ripley County": {
-  "description": "Ripley County combines manufacturing, agriculture, healthcare services, logistics, and tourism within southeastern Indiana. Its diversified economy supports stable growth and regional business development.",
-  "population": "29155"
-},
-
-"Rush County": {
-  "description": "Rush County supports a balanced economy driven by agriculture, manufacturing, healthcare, education, and local commerce. Community institutions and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "16526"
-},
-"St. Joseph County": {
-  "description": "St. Joseph County is one of Indiana's most important economic centers, supported by higher education, healthcare, advanced manufacturing, technology, finance, and professional services. Its strong workforce and innovation-driven economy contribute significantly to regional growth.",
-  "population": "273777"
-},
-
-"Scott County": {
-  "description": "Scott County combines manufacturing, healthcare services, agriculture, retail activity, and local commerce within southern Indiana. Community-focused businesses and industrial employers support economic stability throughout the county.",
-  "population": "24079"
-},
-
-"Shelby County": {
-  "description": "Shelby County benefits from manufacturing, logistics, healthcare, retail development, and residential growth. Its location near Indianapolis continues to attract business investment and support long-term economic expansion.",
-  "population": "45654"
-},
-
-"Spencer County": {
-  "description": "Spencer County supports an economy based on manufacturing, tourism, healthcare, agriculture, and local business activity. Visitor attractions and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "20326"
-},
-
-"Starke County": {
-  "description": "Starke County combines agriculture, manufacturing, healthcare services, tourism, and community-based commerce. Local industries and farming operations continue to support economic activity across the county.",
-  "population": "22917"
-},
-
-"Steuben County": {
-  "description": "Steuben County is known for its lakes, tourism industry, manufacturing sector, healthcare services, and residential development. Visitor spending and commercial growth contribute to a diversified local economy.",
-  "population": "35157"
-},
-
-"Sullivan County": {
-  "description": "Sullivan County supports a balanced economy driven by manufacturing, healthcare, agriculture, energy-related industries, and local commerce. Its diverse business base contributes to stable employment opportunities.",
-  "population": "20658"
-},
-
-"Switzerland County": {
-  "description": "Switzerland County benefits from tourism, agriculture, healthcare services, hospitality, and local commerce. Its scenic landscapes and recreational opportunities help support economic activity throughout the county.",
-  "population": "9737"
-},
-
-"Tippecanoe County": {
-  "description": "Tippecanoe County is a major center for higher education, technology, advanced manufacturing, healthcare, and research. Innovation, workforce development, and commercial investment continue to drive one of Indiana's most dynamic local economies.",
-  "population": "195732"
-},
-
-"Tipton County": {
-  "description": "Tipton County combines agriculture, manufacturing, healthcare, logistics, and local business activity within central Indiana. Farming operations and industrial employers remain important contributors to economic growth.",
-  "population": "15287"
-},
-"Union County": {
-  "description": "Union County supports a rural economy based on agriculture, manufacturing, healthcare services, and local commerce. Farming operations and community-focused businesses continue to provide economic stability throughout the county.",
-  "population": "6945"
-},
-
-"Vanderburgh County": {
-  "description": "Vanderburgh County is one of Indiana's largest economic centers, anchored by healthcare, education, manufacturing, finance, logistics, and professional services. Its diverse economy and strategic location support substantial regional business activity.",
-  "population": "180136"
-},
-
-"Vermillion County": {
-  "description": "Vermillion County combines agriculture, manufacturing, tourism, healthcare, and local commerce within western Indiana. Community development and business investment contribute to stable economic growth throughout the county.",
-  "population": "15398"
-},
-
-"Vigo County": {
-  "description": "Vigo County serves as a regional hub for healthcare, higher education, manufacturing, retail, and professional services. Its diversified economy supports workforce development and continued commercial expansion.",
-  "population": "106153"
-},
-
-"Wabash County": {
-  "description": "Wabash County supports a strong economy driven by manufacturing, healthcare, agriculture, logistics, and local commerce. Industrial employers and community institutions continue to contribute significantly to economic activity.",
-  "population": "30815"
-},
-
-"Warren County": {
-  "description": "Warren County maintains a rural economy centered on agriculture, agribusiness, healthcare services, and local business development. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "8241"
-},
-
-"Warrick County": {
-  "description": "Warrick County benefits from manufacturing, energy production, healthcare, logistics, and residential growth. Its proximity to Evansville contributes to strong business investment and regional economic development.",
-  "population": "64914"
-},
-
-"Washington County": {
-  "description": "Washington County combines manufacturing, healthcare, agriculture, tourism, and local commerce within southern Indiana. Community-focused businesses and industrial employers support long-term economic growth.",
-  "population": "28490"
-},
-
-"Wayne County": {
-  "description": "Wayne County serves as an important economic center in eastern Indiana, supporting manufacturing, healthcare, education, logistics, retail development, and professional services. Its diversified economy contributes to regional business growth.",
-  "population": "66053"
-},
-
-"Wells County": {
-  "description": "Wells County supports a balanced economy based on manufacturing, agriculture, healthcare, transportation, and local commerce. Industrial employers and farming operations continue to provide important economic opportunities.",
-  "population": "28558"
-},
-
-"White County": {
-  "description": "White County combines agriculture, manufacturing, energy production, healthcare services, and local business activity. Its diversified economic base supports stable employment and continued growth throughout the county.",
-  "population": "24217"
-},
-
-"Whitley County": {
-  "description": "Whitley County benefits from manufacturing, healthcare, agriculture, logistics, and residential development. Its strong workforce and business-friendly environment contribute to ongoing economic expansion and investment.",
-  "population": "34576"
-}
+  "identity": {
+    "code": "in",
+    "slug": "indiana",
+    "name": "Indiana",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County supports a strong economy based on agriculture, manufacturing, healthcare services, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "36646"
+    },
+    "Allen County": {
+      "description": "Allen County is one of Indiana's largest economic centers, anchored by healthcare, manufacturing, finance, logistics, education, and professional services. Its growing population and diversified economy support substantial business development throughout the region.",
+      "population": "395707"
+    },
+    "Bartholomew County": {
+      "description": "Bartholomew County is nationally recognized for its advanced manufacturing sector, healthcare services, architecture, and educational institutions. Industrial innovation and commercial development continue to drive economic growth across the county.",
+      "population": "83540"
+    },
+    "Benton County": {
+      "description": "Benton County maintains a rural economy centered on agriculture, agribusiness, renewable energy development, and community-focused businesses. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "8565"
+    },
+    "Blackford County": {
+      "description": "Blackford County supports an economy based on manufacturing, healthcare services, agriculture, and local commerce. Community institutions and industrial employers continue to provide important employment opportunities.",
+      "population": "11759"
+    },
+    "Boone County": {
+      "description": "Boone County is one of Indiana's fastest-growing counties, benefiting from logistics, healthcare, retail development, professional services, and residential expansion. Its proximity to Indianapolis supports strong economic growth and investment.",
+      "population": "77762"
+    },
+    "Brown County": {
+      "description": "Brown County is known for tourism, outdoor recreation, arts-related businesses, hospitality, and scenic natural attractions. Visitor spending and service industries play major roles in supporting the county's economy.",
+      "population": "15475"
+    },
+    "Carroll County": {
+      "description": "Carroll County combines agriculture, manufacturing, healthcare services, and local business activity within a stable north-central Indiana economy. Farming and industrial operations contribute significantly to economic growth.",
+      "population": "20547"
+    },
+    "Cass County": {
+      "description": "Cass County serves as a regional center for manufacturing, healthcare, agriculture, transportation, and commerce. Its diversified economy supports both industrial development and community growth.",
+      "population": "37780"
+    },
+    "Clark County": {
+      "description": "Clark County is one of southern Indiana's largest economic centers, benefiting from healthcare, manufacturing, logistics, retail development, and its connection to the Louisville metropolitan area. Continued investment supports strong economic expansion.",
+      "population": "125703"
+    },
+    "Clay County": {
+      "description": "Clay County supports a diversified economy based on manufacturing, agriculture, healthcare services, logistics, and local commerce. Industrial employers and farming operations continue to contribute significantly to economic activity throughout the county.",
+      "population": "26236"
+    },
+    "Clinton County": {
+      "description": "Clinton County combines agriculture, manufacturing, food processing, healthcare, and transportation-related industries within a growing central Indiana economy. Its strategic location supports continued business investment and workforce development.",
+      "population": "33315"
+    },
+    "Crawford County": {
+      "description": "Crawford County is known for its natural landscapes, tourism opportunities, agriculture, forestry resources, and local businesses. Outdoor recreation and community-based industries contribute to economic activity throughout the county.",
+      "population": "10311"
+    },
+    "Daviess County": {
+      "description": "Daviess County supports a strong economy driven by manufacturing, agriculture, construction, healthcare, and local commerce. Its productive business environment continues to support employment growth and regional development.",
+      "population": "34016"
+    },
+    "Dearborn County": {
+      "description": "Dearborn County benefits from manufacturing, healthcare, tourism, gaming, logistics, and its proximity to the Cincinnati metropolitan area. Its diverse economic base supports continued residential and commercial growth.",
+      "population": "50762"
+    },
+    "Decatur County": {
+      "description": "Decatur County combines manufacturing, agriculture, healthcare services, transportation, and local business activity. Industrial employers and agribusiness operations remain key contributors to economic growth.",
+      "population": "27029"
+    },
+    "DeKalb County": {
+      "description": "DeKalb County maintains a balanced economy supported by manufacturing, agriculture, healthcare, logistics, and retail development. Its business community continues to drive stable economic activity throughout the county.",
+      "population": "44463"
+    },
+    "Delaware County": {
+      "description": "Delaware County serves as a regional center for higher education, healthcare, manufacturing, finance, and professional services. Educational institutions and commercial development contribute significantly to the local economy.",
+      "population": "111903"
+    },
+    "Dubois County": {
+      "description": "Dubois County is recognized for its strong manufacturing sector, skilled workforce, healthcare services, and thriving small business community. Industrial innovation and entrepreneurship continue to support economic expansion.",
+      "population": "43728"
+    },
+    "Elkhart County": {
+      "description": "Elkhart County is one of Indiana's leading manufacturing hubs, internationally known for recreational vehicle production, advanced manufacturing, logistics, healthcare, and commercial development. Its diversified industrial economy drives substantial regional growth.",
+      "population": "209973"
+    },
+    "Fayette County": {
+      "description": "Fayette County supports an economy based on manufacturing, healthcare services, agriculture, retail activity, and local commerce. Industrial employers and community-focused businesses contribute to economic stability throughout the county.",
+      "population": "22964"
+    },
+    "Floyd County": {
+      "description": "Floyd County is a major economic center in southern Indiana, benefiting from healthcare, education, manufacturing, logistics, retail development, and its proximity to the Louisville metropolitan area. Continued investment supports strong economic growth.",
+      "population": "80248"
+    },
+    "Fountain County": {
+      "description": "Fountain County combines agriculture, manufacturing, healthcare, tourism, and local business activity within west-central Indiana. Farming operations and industrial employers continue to support economic development throughout the county.",
+      "population": "16320"
+    },
+    "Franklin County": {
+      "description": "Franklin County supports a diversified economy based on agriculture, manufacturing, healthcare services, tourism, and local commerce. Its strategic location near major transportation corridors contributes to business activity and regional growth.",
+      "population": "22995"
+    },
+    "Fulton County": {
+      "description": "Fulton County maintains a stable economy driven by manufacturing, agriculture, healthcare, retail development, and community-based businesses. Local industries and farming operations provide important employment opportunities.",
+      "population": "20342"
+    },
+    "Gibson County": {
+      "description": "Gibson County benefits from agriculture, energy production, manufacturing, healthcare services, and transportation-related industries. Its diverse economy supports both industrial growth and rural development.",
+      "population": "32991"
+    },
+    "Grant County": {
+      "description": "Grant County serves as a regional center for healthcare, manufacturing, education, logistics, and professional services. Economic diversification and workforce development continue to support long-term growth throughout the county.",
+      "population": "65936"
+    },
+    "Greene County": {
+      "description": "Greene County combines manufacturing, healthcare, agriculture, mining-related industries, and local commerce within a balanced southern Indiana economy. Community institutions and businesses contribute to stable economic activity.",
+      "population": "30628"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County is one of Indiana's wealthiest and fastest-growing counties, driven by technology, healthcare, finance, professional services, education, and corporate investment. Its strong business environment and high quality of life continue to attract residents and employers.",
+      "population": "369128"
+    },
+    "Hancock County": {
+      "description": "Hancock County benefits from logistics, manufacturing, healthcare services, retail growth, and residential expansion within the Indianapolis metropolitan area. Continued business investment supports strong economic development and workforce growth.",
+      "population": "83987"
+    },
+    "Harrison County": {
+      "description": "Harrison County combines healthcare, tourism, manufacturing, agriculture, and residential development within southern Indiana. Its growing communities and proximity to the Louisville metropolitan area contribute to continued economic expansion.",
+      "population": "40804"
+    },
+    "Hendricks County": {
+      "description": "Hendricks County is one of Indiana's fastest-growing counties, supported by logistics, healthcare, advanced manufacturing, retail development, professional services, and residential growth. Its location within the Indianapolis metropolitan area drives substantial business investment.",
+      "population": "183173"
+    },
+    "Henry County": {
+      "description": "Henry County supports a diversified economy based on manufacturing, healthcare, agriculture, education, and local commerce. Industrial employers and community institutions continue to play important roles in economic development.",
+      "population": "47528"
+    },
+    "Howard County": {
+      "description": "Howard County serves as a regional center for manufacturing, healthcare, education, logistics, and professional services. Its strong industrial base and growing business community contribute significantly to economic activity.",
+      "population": "82752"
+    },
+    "Huntington County": {
+      "description": "Huntington County combines manufacturing, agriculture, healthcare services, logistics, and retail activity within northeast Indiana. Its diverse economy supports stable employment and long-term business growth.",
+      "population": "36519"
+    },
+    "Jackson County": {
+      "description": "Jackson County benefits from manufacturing, agriculture, healthcare, education, and transportation-related industries. Its strategic location and diversified economy contribute to continued economic development throughout the region.",
+      "population": "46320"
+    },
+    "Jasper County": {
+      "description": "Jasper County supports a balanced economy driven by agriculture, manufacturing, logistics, healthcare services, and renewable energy development. Industrial growth and farming operations remain key contributors to local prosperity.",
+      "population": "33562"
+    },
+    "Jay County": {
+      "description": "Jay County maintains an economy based on manufacturing, agriculture, healthcare, and community-focused businesses. Farming operations and industrial employers continue to provide important economic opportunities throughout the county.",
+      "population": "20437"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County combines manufacturing, healthcare, tourism, education, and retail development within southeastern Indiana. Its historic communities and growing business sector contribute to a stable local economy.",
+      "population": "33421"
+    },
+    "Jennings County": {
+      "description": "Jennings County supports an economy driven by manufacturing, healthcare services, agriculture, logistics, and local commerce. Continued workforce development and business investment contribute to economic growth throughout the county.",
+      "population": "28525"
+    },
+    "Johnson County": {
+      "description": "Johnson County is one of the fastest-growing counties in central Indiana, benefiting from healthcare, logistics, manufacturing, retail development, professional services, and residential expansion. Its proximity to Indianapolis continues to drive strong economic growth.",
+      "population": "169224"
+    },
+    "Knox County": {
+      "description": "Knox County serves as a regional center for healthcare, agriculture, manufacturing, education, and local commerce in southwestern Indiana. Its diversified economy supports stable employment and business development.",
+      "population": "35798"
+    },
+    "Kosciusko County": {
+      "description": "Kosciusko County is internationally recognized for its orthopedic device manufacturing industry and supports healthcare, advanced manufacturing, logistics, and professional services. Innovation and industrial investment continue to drive economic expansion.",
+      "population": "81997"
+    },
+    "LaGrange County": {
+      "description": "LaGrange County combines manufacturing, agriculture, tourism, healthcare, and small business development within northeastern Indiana. Its strong workforce and entrepreneurial environment contribute to long-term economic stability.",
+      "population": "40814"
+    },
+    "Lake County": {
+      "description": "Lake County is one of Indiana's largest economic centers, supporting manufacturing, healthcare, logistics, transportation, finance, and professional services. Its location within the Chicago metropolitan region contributes to significant commercial and industrial activity.",
+      "population": "498700"
+    },
+    "LaPorte County": {
+      "description": "LaPorte County benefits from manufacturing, healthcare, tourism, transportation, and commercial development. Its strategic location between Chicago and South Bend supports ongoing business investment and economic growth.",
+      "population": "112417"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County supports an economy based on manufacturing, healthcare, education, tourism, limestone-related industries, and local commerce. Its diverse economic base contributes to regional employment opportunities.",
+      "population": "45882"
+    },
+    "Madison County": {
+      "description": "Madison County serves as a major economic center in east-central Indiana, driven by healthcare, manufacturing, education, logistics, retail development, and professional services. Continued investment supports long-term economic growth.",
+      "population": "129569"
+    },
+    "Marion County": {
+      "description": "Marion County is Indiana's largest county and home to Indianapolis, the state's economic and cultural hub. Healthcare, finance, technology, logistics, education, government services, and professional industries drive one of the Midwest's most diversified economies.",
+      "population": "977203"
+    },
+    "Marshall County": {
+      "description": "Marshall County combines manufacturing, agriculture, healthcare services, logistics, and local commerce within northern Indiana. Industrial employers and farming operations continue to play important roles in supporting economic activity.",
+      "population": "47787"
+    },
+    "Martin County": {
+      "description": "Martin County supports a rural economy based on agriculture, manufacturing, energy-related industries, healthcare services, and local commerce. Community-focused businesses and industrial employers contribute to stable economic activity throughout the county.",
+      "population": "10168"
+    },
+    "Miami County": {
+      "description": "Miami County combines manufacturing, agriculture, healthcare, logistics, and retail development within north-central Indiana. Its diversified economy supports long-term employment opportunities and business growth.",
+      "population": "35739"
+    },
+    "Monroe County": {
+      "description": "Monroe County is one of Indiana's leading educational and research centers, driven by higher education, healthcare, technology, professional services, and innovation-focused industries. Its highly skilled workforce contributes significantly to economic development.",
+      "population": "141879"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County supports a balanced economy based on manufacturing, healthcare, agriculture, education, and local commerce. Industrial employers and community institutions continue to strengthen regional economic growth.",
+      "population": "38582"
+    },
+    "Morgan County": {
+      "description": "Morgan County benefits from logistics, healthcare, manufacturing, retail development, and residential expansion within the Indianapolis metropolitan area. Continued growth supports increasing business investment and workforce opportunities.",
+      "population": "73617"
+    },
+    "Newton County": {
+      "description": "Newton County combines agriculture, renewable energy development, manufacturing, healthcare services, and local business activity. Farming operations and industrial investment contribute to long-term economic stability.",
+      "population": "13984"
+    },
+    "Noble County": {
+      "description": "Noble County supports a diversified economy driven by manufacturing, healthcare, agriculture, tourism, and retail industries. Its strong business environment contributes to sustained economic activity throughout the county.",
+      "population": "48701"
+    },
+    "Ohio County": {
+      "description": "Ohio County is Indiana's smallest county by land area and supports an economy based on healthcare services, tourism, agriculture, local commerce, and community-focused businesses. Its small size contributes to a close-knit economic environment.",
+      "population": "6112"
+    },
+    "Orange County": {
+      "description": "Orange County is known for tourism, hospitality, healthcare, agriculture, and outdoor recreation opportunities. Visitor spending and service-based industries play important roles in supporting economic growth throughout the county.",
+      "population": "19678"
+    },
+    "Owen County": {
+      "description": "Owen County combines agriculture, healthcare services, tourism, manufacturing, and local commerce within west-central Indiana. Community development and business investment continue to support economic activity across the county.",
+      "population": "21298"
+    },
+    "Parke County": {
+      "description": "Parke County is widely known for its historic covered bridges, tourism attractions, agriculture, and outdoor recreation opportunities. Visitor spending, farming operations, and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "16855"
+    },
+    "Perry County": {
+      "description": "Perry County supports a diversified economy based on manufacturing, healthcare, transportation, tourism, and local commerce. Industrial employers and community-focused businesses continue to provide stable employment opportunities.",
+      "population": "18873"
+    },
+    "Pike County": {
+      "description": "Pike County combines agriculture, manufacturing, energy-related industries, healthcare services, and local business activity. Its balanced economic base supports workforce development and long-term growth throughout the county.",
+      "population": "12283"
+    },
+    "Porter County": {
+      "description": "Porter County is one of northwest Indiana's leading economic centers, driven by healthcare, manufacturing, logistics, education, tourism, and professional services. Its proximity to Chicago and access to major transportation networks support substantial commercial growth.",
+      "population": "175393"
+    },
+    "Posey County": {
+      "description": "Posey County benefits from manufacturing, agriculture, energy production, healthcare services, and transportation-related industries. Industrial investment and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "25752"
+    },
+    "Pulaski County": {
+      "description": "Pulaski County maintains a rural economy supported by agriculture, manufacturing, healthcare, logistics, and local commerce. Farming operations and industrial employers continue to play important roles in economic stability.",
+      "population": "12967"
+    },
+    "Putnam County": {
+      "description": "Putnam County serves as a regional center for education, healthcare, manufacturing, agriculture, and professional services. Its strong workforce and growing business community contribute to sustained economic development.",
+      "population": "38692"
+    },
+    "Randolph County": {
+      "description": "Randolph County supports an economy based on manufacturing, agriculture, healthcare, retail activity, and community-focused businesses. Local industries and farming operations continue to provide important employment opportunities.",
+      "population": "24482"
+    },
+    "Ripley County": {
+      "description": "Ripley County combines manufacturing, agriculture, healthcare services, logistics, and tourism within southeastern Indiana. Its diversified economy supports stable growth and regional business development.",
+      "population": "29155"
+    },
+    "Rush County": {
+      "description": "Rush County supports a balanced economy driven by agriculture, manufacturing, healthcare, education, and local commerce. Community institutions and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "16526"
+    },
+    "St. Joseph County": {
+      "description": "St. Joseph County is one of Indiana's most important economic centers, supported by higher education, healthcare, advanced manufacturing, technology, finance, and professional services. Its strong workforce and innovation-driven economy contribute significantly to regional growth.",
+      "population": "273777"
+    },
+    "Scott County": {
+      "description": "Scott County combines manufacturing, healthcare services, agriculture, retail activity, and local commerce within southern Indiana. Community-focused businesses and industrial employers support economic stability throughout the county.",
+      "population": "24079"
+    },
+    "Shelby County": {
+      "description": "Shelby County benefits from manufacturing, logistics, healthcare, retail development, and residential growth. Its location near Indianapolis continues to attract business investment and support long-term economic expansion.",
+      "population": "45654"
+    },
+    "Spencer County": {
+      "description": "Spencer County supports an economy based on manufacturing, tourism, healthcare, agriculture, and local business activity. Visitor attractions and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "20326"
+    },
+    "Starke County": {
+      "description": "Starke County combines agriculture, manufacturing, healthcare services, tourism, and community-based commerce. Local industries and farming operations continue to support economic activity across the county.",
+      "population": "22917"
+    },
+    "Steuben County": {
+      "description": "Steuben County is known for its lakes, tourism industry, manufacturing sector, healthcare services, and residential development. Visitor spending and commercial growth contribute to a diversified local economy.",
+      "population": "35157"
+    },
+    "Sullivan County": {
+      "description": "Sullivan County supports a balanced economy driven by manufacturing, healthcare, agriculture, energy-related industries, and local commerce. Its diverse business base contributes to stable employment opportunities.",
+      "population": "20658"
+    },
+    "Switzerland County": {
+      "description": "Switzerland County benefits from tourism, agriculture, healthcare services, hospitality, and local commerce. Its scenic landscapes and recreational opportunities help support economic activity throughout the county.",
+      "population": "9737"
+    },
+    "Tippecanoe County": {
+      "description": "Tippecanoe County is a major center for higher education, technology, advanced manufacturing, healthcare, and research. Innovation, workforce development, and commercial investment continue to drive one of Indiana's most dynamic local economies.",
+      "population": "195732"
+    },
+    "Tipton County": {
+      "description": "Tipton County combines agriculture, manufacturing, healthcare, logistics, and local business activity within central Indiana. Farming operations and industrial employers remain important contributors to economic growth.",
+      "population": "15287"
+    },
+    "Union County": {
+      "description": "Union County supports a rural economy based on agriculture, manufacturing, healthcare services, and local commerce. Farming operations and community-focused businesses continue to provide economic stability throughout the county.",
+      "population": "6945"
+    },
+    "Vanderburgh County": {
+      "description": "Vanderburgh County is one of Indiana's largest economic centers, anchored by healthcare, education, manufacturing, finance, logistics, and professional services. Its diverse economy and strategic location support substantial regional business activity.",
+      "population": "180136"
+    },
+    "Vermillion County": {
+      "description": "Vermillion County combines agriculture, manufacturing, tourism, healthcare, and local commerce within western Indiana. Community development and business investment contribute to stable economic growth throughout the county.",
+      "population": "15398"
+    },
+    "Vigo County": {
+      "description": "Vigo County serves as a regional hub for healthcare, higher education, manufacturing, retail, and professional services. Its diversified economy supports workforce development and continued commercial expansion.",
+      "population": "106153"
+    },
+    "Wabash County": {
+      "description": "Wabash County supports a strong economy driven by manufacturing, healthcare, agriculture, logistics, and local commerce. Industrial employers and community institutions continue to contribute significantly to economic activity.",
+      "population": "30815"
+    },
+    "Warren County": {
+      "description": "Warren County maintains a rural economy centered on agriculture, agribusiness, healthcare services, and local business development. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "8241"
+    },
+    "Warrick County": {
+      "description": "Warrick County benefits from manufacturing, energy production, healthcare, logistics, and residential growth. Its proximity to Evansville contributes to strong business investment and regional economic development.",
+      "population": "64914"
+    },
+    "Washington County": {
+      "description": "Washington County combines manufacturing, healthcare, agriculture, tourism, and local commerce within southern Indiana. Community-focused businesses and industrial employers support long-term economic growth.",
+      "population": "28490"
+    },
+    "Wayne County": {
+      "description": "Wayne County serves as an important economic center in eastern Indiana, supporting manufacturing, healthcare, education, logistics, retail development, and professional services. Its diversified economy contributes to regional business growth.",
+      "population": "66053"
+    },
+    "Wells County": {
+      "description": "Wells County supports a balanced economy based on manufacturing, agriculture, healthcare, transportation, and local commerce. Industrial employers and farming operations continue to provide important economic opportunities.",
+      "population": "28558"
+    },
+    "White County": {
+      "description": "White County combines agriculture, manufacturing, energy production, healthcare services, and local business activity. Its diversified economic base supports stable employment and continued growth throughout the county.",
+      "population": "24217"
+    },
+    "Whitley County": {
+      "description": "Whitley County benefits from manufacturing, healthcare, agriculture, logistics, and residential development. Its strong workforce and business-friendly environment contribute to ongoing economic expansion and investment.",
+      "population": "34576"
+    }
+  }
 }

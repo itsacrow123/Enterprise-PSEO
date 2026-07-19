@@ -1,26 +1,31 @@
 {
-"Bristol County": {
-  "description": "Bristol County supports a diversified economy based on healthcare services, tourism, education, professional services, retail development, and maritime-related industries. Its coastal location contributes significantly to regional economic activity and business growth.",
-  "population": "50598"
-},
-
-"Kent County": {
-  "description": "Kent County is one of Rhode Island's major economic centers, supported by healthcare, transportation, manufacturing, professional services, retail development, and logistics. Its diversified economy contributes substantially to workforce opportunities and business investment.",
-  "population": "170363"
-},
-
-"Newport County": {
-  "description": "Newport County benefits from tourism, hospitality, healthcare services, defense-related industries, education, professional services, and maritime commerce. Visitor spending and coastal industries contribute significantly to economic growth throughout the county.",
-  "population": "85084"
-},
-
-"Providence County": {
-  "description": "Providence County is Rhode Island's largest economic center, anchored by healthcare, higher education, finance, technology, manufacturing, professional services, and retail development. Its highly diversified economy supports substantial employment, innovation, and business investment.",
-  "population": "660741"
-},
-
-"Washington County": {
-  "description": "Washington County supports a diversified economy based on tourism, healthcare services, education, professional services, retail activity, and marine-related industries. Its coastal economy contributes significantly to regional workforce growth and economic development.",
-  "population": "129444"
-}
+  "identity": {
+    "code": "ri",
+    "slug": "rhode-island",
+    "name": "Rhode Island",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Bristol County": {
+      "description": "Bristol County supports a diversified economy based on healthcare services, tourism, education, professional services, retail development, and maritime-related industries. Its coastal location contributes significantly to regional economic activity and business growth.",
+      "population": "50598"
+    },
+    "Kent County": {
+      "description": "Kent County is one of Rhode Island's major economic centers, supported by healthcare, transportation, manufacturing, professional services, retail development, and logistics. Its diversified economy contributes substantially to workforce opportunities and business investment.",
+      "population": "170363"
+    },
+    "Newport County": {
+      "description": "Newport County benefits from tourism, hospitality, healthcare services, defense-related industries, education, professional services, and maritime commerce. Visitor spending and coastal industries contribute significantly to economic growth throughout the county.",
+      "population": "85084"
+    },
+    "Providence County": {
+      "description": "Providence County is Rhode Island's largest economic center, anchored by healthcare, higher education, finance, technology, manufacturing, professional services, and retail development. Its highly diversified economy supports substantial employment, innovation, and business investment.",
+      "population": "660741"
+    },
+    "Washington County": {
+      "description": "Washington County supports a diversified economy based on tourism, healthcare services, education, professional services, retail activity, and marine-related industries. Its coastal economy contributes significantly to regional workforce growth and economic development.",
+      "population": "129444"
+    }
+  }
 }

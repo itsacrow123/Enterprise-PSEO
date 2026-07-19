@@ -1,41 +1,43 @@
 {
-"Fairfield County": {
-  "description": "Fairfield County is Connecticut's most populous county and one of the wealthiest regions in the United States. Its economy is driven by finance, healthcare, technology, professional services, and proximity to the New York metropolitan area.",
-  "population": "957419"
-},
-
-"Hartford County": {
-  "description": "Hartford County serves as a major center for insurance, healthcare, government, education, and financial services. Anchored by Connecticut's capital city, the county supports a diverse economy and a highly skilled workforce.",
-  "population": "899498"
-},
-
-"Litchfield County": {
-  "description": "Litchfield County is known for its scenic rural landscapes, historic towns, tourism industry, and outdoor recreation opportunities. Hospitality, healthcare, agriculture, and small businesses contribute significantly to the local economy.",
-  "population": "185186"
-},
-
-"Middlesex County": {
-  "description": "Middlesex County combines coastal communities, healthcare services, tourism, and residential development within a growing regional economy. Its strategic location between major Connecticut cities supports business and population growth.",
-  "population": "164245"
-},
-
-"New Haven County": {
-  "description": "New Haven County is one of Connecticut's leading economic centers, supported by higher education, healthcare, biotechnology, manufacturing, and professional services. Its diverse economy attracts both residents and businesses throughout the region.",
-  "population": "864835"
-},
-
-"New London County": {
-  "description": "New London County benefits from maritime industries, defense-related employment, tourism, healthcare, and higher education. Its coastal location and transportation infrastructure contribute to a strong and diversified economy.",
-  "population": "268555"
-},
-
-"Tolland County": {
-  "description": "Tolland County features growing residential communities, higher education institutions, healthcare services, and local commerce. Its suburban character and access to major employment centers support continued economic development.",
-  "population": "151737"
-},
-
-"Windham County": {
-  "description": "Windham County combines agriculture, manufacturing, healthcare, and educational institutions within northeastern Connecticut. Its historic communities and regional connectivity contribute to a stable and evolving economy.",
-  "population": "116418"
-}
+  "identity": {
+    "code": "ct",
+    "slug": "connecticut",
+    "name": "Connecticut",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Fairfield County": {
+      "description": "Fairfield County is Connecticut's most populous county and one of the wealthiest regions in the United States. Its economy is driven by finance, healthcare, technology, professional services, and proximity to the New York metropolitan area.",
+      "population": "957419"
+    },
+    "Hartford County": {
+      "description": "Hartford County serves as a major center for insurance, healthcare, government, education, and financial services. Anchored by Connecticut's capital city, the county supports a diverse economy and a highly skilled workforce.",
+      "population": "899498"
+    },
+    "Litchfield County": {
+      "description": "Litchfield County is known for its scenic rural landscapes, historic towns, tourism industry, and outdoor recreation opportunities. Hospitality, healthcare, agriculture, and small businesses contribute significantly to the local economy.",
+      "population": "185186"
+    },
+    "Middlesex County": {
+      "description": "Middlesex County combines coastal communities, healthcare services, tourism, and residential development within a growing regional economy. Its strategic location between major Connecticut cities supports business and population growth.",
+      "population": "164245"
+    },
+    "New Haven County": {
+      "description": "New Haven County is one of Connecticut's leading economic centers, supported by higher education, healthcare, biotechnology, manufacturing, and professional services. Its diverse economy attracts both residents and businesses throughout the region.",
+      "population": "864835"
+    },
+    "New London County": {
+      "description": "New London County benefits from maritime industries, defense-related employment, tourism, healthcare, and higher education. Its coastal location and transportation infrastructure contribute to a strong and diversified economy.",
+      "population": "268555"
+    },
+    "Tolland County": {
+      "description": "Tolland County features growing residential communities, higher education institutions, healthcare services, and local commerce. Its suburban character and access to major employment centers support continued economic development.",
+      "population": "151737"
+    },
+    "Windham County": {
+      "description": "Windham County combines agriculture, manufacturing, healthcare, and educational institutions within northeastern Connecticut. Its historic communities and regional connectivity contribute to a stable and evolving economy.",
+      "population": "116418"
+    }
+  }
 }

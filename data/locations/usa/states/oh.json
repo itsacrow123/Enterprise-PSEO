@@ -1,434 +1,363 @@
 {
-"Adams County": {
-  "description": "Adams County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
-  "population": "27534"
-},
-
-"Allen County": {
-  "description": "Allen County serves as an important economic center in northwestern Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "101140"
-},
-
-"Ashland County": {
-  "description": "Ashland County benefits from healthcare services, manufacturing, higher education, agriculture, logistics, and professional services. Its diversified economy supports stable workforce opportunities and continued economic development.",
-  "population": "52938"
-},
-
-"Ashtabula County": {
-  "description": "Ashtabula County supports an economy driven by manufacturing, healthcare services, agriculture, tourism, transportation, and professional industries. Its Lake Erie location contributes significantly to regional business activity and workforce growth.",
-  "population": "97241"
-},
-
-"Athens County": {
-  "description": "Athens County is a major educational and healthcare center in southeastern Ohio, anchored by higher education, healthcare services, technology, tourism, professional services, and retail activity. Its knowledge-based economy contributes substantially to regional development.",
-  "population": "62223"
-},
-
-"Auglaize County": {
-  "description": "Auglaize County combines manufacturing, agriculture, healthcare services, logistics, transportation, and local commerce. Industrial employers and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "46384"
-},
-
-"Belmont County": {
-  "description": "Belmont County benefits from energy-related industries, healthcare services, manufacturing, logistics, retail development, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional growth.",
-  "population": "66497"
-},
-
-"Brown County": {
-  "description": "Brown County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional businesses contribute substantially to economic development.",
-  "population": "43676"
-},
-
-"Butler County": {
-  "description": "Butler County is one of Ohio's strongest economic centers, driven by healthcare, manufacturing, logistics, higher education, finance, professional services, and residential development. Its location within the Cincinnati metropolitan area supports substantial business investment and workforce growth.",
-  "population": "397669"
-},
-
-"Carroll County": {
-  "description": "Carroll County supports an economy based on energy-related industries, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and diversified businesses contribute significantly to economic activity throughout the county.",
-  "population": "26715"
-},
-"Champaign County": {
-  "description": "Champaign County supports a diversified economy based on agriculture, manufacturing, healthcare services, logistics, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "38714"
-},
-
-"Clark County": {
-  "description": "Clark County serves as an important economic center in western Ohio, supported by healthcare, manufacturing, logistics, retail development, education, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "134083"
-},
-
-"Clermont County": {
-  "description": "Clermont County is one of the fastest-growing counties in the Cincinnati metropolitan area, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its strong business environment contributes significantly to economic investment and workforce growth.",
-  "population": "211310"
-},
-
-"Clinton County": {
-  "description": "Clinton County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and professional industries. Its strategic location supports continued business development and workforce opportunities.",
-  "population": "42967"
-},
-
-"Columbiana County": {
-  "description": "Columbiana County supports an economy driven by manufacturing, healthcare services, energy-related industries, agriculture, transportation, and retail activity. Its diversified economy contributes significantly to regional economic development.",
-  "population": "100889"
-},
-
-"Coshocton County": {
-  "description": "Coshocton County combines agriculture, manufacturing, healthcare services, tourism, transportation, and local commerce. Farming operations and regional businesses contribute substantially to economic activity throughout the county.",
-  "population": "36582"
-},
-
-"Crawford County": {
-  "description": "Crawford County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional services. Industrial employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "41962"
-},
-
-"Cuyahoga County": {
-  "description": "Cuyahoga County is one of Ohio's largest economic centers and home to Cleveland. Healthcare, finance, technology, advanced manufacturing, higher education, logistics, professional services, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "1230404"
-},
-
-"Darke County": {
-  "description": "Darke County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "51258"
-},
-
-"Defiance County": {
-  "description": "Defiance County serves as an important manufacturing and agricultural center in northwestern Ohio, supported by healthcare services, logistics, transportation, retail development, and professional industries. Its diversified economy contributes substantially to regional growth.",
-  "population": "38141"
-},
-
-"Delaware County": {
-  "description": "Delaware County is one of the fastest-growing and most affluent counties in Ohio, supported by healthcare, finance, technology, professional services, retail development, and residential expansion. Its location within the Columbus metropolitan area contributes substantially to business investment and workforce growth.",
-  "population": "238843"
-},
-
-"Erie County": {
-  "description": "Erie County benefits from healthcare services, tourism, manufacturing, logistics, transportation, and professional services. Its Lake Erie location contributes significantly to regional business activity and economic development.",
-  "population": "74862"
-},
-
-"Fairfield County": {
-  "description": "Fairfield County supports a diversified economy driven by healthcare, manufacturing, logistics, professional services, retail development, and residential growth. Its proximity to Columbus contributes substantially to economic expansion and workforce opportunities.",
-  "population": "165167"
-},
-
-"Fayette County": {
-  "description": "Fayette County combines agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "28990"
-},
-
-"Franklin County": {
-  "description": "Franklin County is Ohio's largest economic center and home to Columbus. Finance, healthcare, technology, higher education, logistics, professional services, government operations, and corporate headquarters drive a highly diversified economy supporting substantial business investment and workforce growth.",
-  "population": "1351274"
-},
-
-"Fulton County": {
-  "description": "Fulton County supports an economy based on agriculture, manufacturing, healthcare services, logistics, transportation, and local business development. Its diversified economy contributes significantly to regional employment and growth.",
-  "population": "42518"
-},
-
-"Gallia County": {
-  "description": "Gallia County benefits from healthcare services, manufacturing, agriculture, energy-related industries, transportation, and local commerce. Regional employers contribute significantly to workforce opportunities and economic development.",
-  "population": "29587"
-},
-
-"Geauga County": {
-  "description": "Geauga County is one of Ohio's most affluent counties, supported by healthcare, professional services, manufacturing, agriculture, retail development, and residential growth. Its strong business environment contributes significantly to regional economic activity.",
-  "population": "95552"
-},
-
-"Greene County": {
-  "description": "Greene County is a major economic center in the Dayton metropolitan area, driven by healthcare, aerospace, defense-related industries, higher education, technology, professional services, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "171558"
-},
-
-"Guernsey County": {
-  "description": "Guernsey County supports a diversified economy based on healthcare services, tourism, manufacturing, transportation, energy-related industries, and local commerce. Its business community contributes significantly to regional workforce opportunities and growth.",
-  "population": "38653"
-},
-"Hamilton County": {
-  "description": "Hamilton County is one of Ohio's largest economic centers and home to Cincinnati. Finance, healthcare, manufacturing, technology, logistics, professional services, higher education, and corporate headquarters drive a highly diversified economy that supports substantial employment and business investment.",
-  "population": "830639"
-},
-
-"Hancock County": {
-  "description": "Hancock County serves as a major economic center in northwestern Ohio, supported by manufacturing, healthcare services, logistics, finance, retail development, and professional services. Its diversified economy contributes significantly to regional workforce growth and business development.",
-  "population": "76090"
-},
-
-"Hardin County": {
-  "description": "Hardin County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "30781"
-},
-
-"Harrison County": {
-  "description": "Harrison County benefits from energy-related industries, healthcare services, agriculture, manufacturing, transportation, and local business development. Its diversified economy contributes significantly to regional employment opportunities and growth.",
-  "population": "14768"
-},
-
-"Henry County": {
-  "description": "Henry County combines agriculture, manufacturing, healthcare services, logistics, transportation, and professional industries. Farming operations and industrial employers contribute substantially to economic development throughout the county.",
-  "population": "27692"
-},
-
-"Highland County": {
-  "description": "Highland County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, retail activity, and professional services. Its diversified business base contributes significantly to workforce opportunities and economic growth.",
-  "population": "43276"
-},
-
-"Hocking County": {
-  "description": "Hocking County benefits from tourism, healthcare services, hospitality, outdoor recreation, retail activity, and local commerce. Visitor spending and natural attractions play major roles in supporting economic activity throughout the county.",
-  "population": "28373"
-},
-
-"Holmes County": {
-  "description": "Holmes County supports a diversified economy based on tourism, manufacturing, agriculture, healthcare services, retail development, and small business entrepreneurship. Its strong local business community contributes significantly to regional economic development.",
-  "population": "44960"
-},
-
-"Huron County": {
-  "description": "Huron County serves as an important manufacturing and agricultural center in northern Ohio, supported by healthcare services, logistics, transportation, retail activity, and professional industries. Its diversified economy contributes significantly to regional growth.",
-  "population": "58729"
-},
-
-"Jackson County": {
-  "description": "Jackson County supports an economy based on healthcare services, manufacturing, transportation, energy-related industries, agriculture, and local commerce. Regional employers contribute significantly to economic activity and workforce opportunities throughout the county.",
-  "population": "32535"
-},
-"Jefferson County": {
-  "description": "Jefferson County supports a diversified economy based on healthcare services, manufacturing, energy-related industries, transportation, retail activity, and professional services. Its business community contributes significantly to regional employment and economic development.",
-  "population": "65325"
-},
-
-"Knox County": {
-  "description": "Knox County benefits from healthcare services, higher education, manufacturing, agriculture, logistics, and professional industries. Its diversified economy supports stable workforce opportunities and continued business growth.",
-  "population": "62821"
-},
-
-"Lake County": {
-  "description": "Lake County is one of northeastern Ohio's largest economic centers, supported by healthcare, manufacturing, logistics, technology, retail development, and professional services. Its strategic location within the Cleveland metropolitan area contributes substantially to economic activity and investment.",
-  "population": "232755"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County supports an economy driven by healthcare services, manufacturing, transportation, energy-related industries, retail activity, and local commerce. Regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "58240"
-},
-
-"Licking County": {
-  "description": "Licking County is one of Ohio's fastest-growing economic centers, anchored by advanced manufacturing, technology, logistics, healthcare services, professional services, and residential development. Its location within the Columbus metropolitan area supports substantial business investment and workforce growth.",
-  "population": "188330"
-},
-
-"Logan County": {
-  "description": "Logan County combines agriculture, manufacturing, healthcare services, transportation, tourism, and local business activity. Its diversified economy contributes significantly to regional employment and economic development.",
-  "population": "46836"
-},
-
-"Lorain County": {
-  "description": "Lorain County serves as a major economic center in northern Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "312964"
-},
-
-"Lucas County": {
-  "description": "Lucas County is one of Ohio's largest economic centers and home to Toledo. Healthcare, manufacturing, logistics, transportation, higher education, professional services, and technology drive a highly diversified economy supporting substantial employment and regional business growth.",
-  "population": "431279"
-},
-
-"Madison County": {
-  "description": "Madison County benefits from agriculture, manufacturing, healthcare services, logistics, transportation, and professional industries. Its proximity to Columbus contributes significantly to economic expansion and workforce opportunities.",
-  "population": "45428"
-},
-
-"Mahoning County": {
-  "description": "Mahoning County is a major economic center in northeastern Ohio, driven by healthcare, manufacturing, logistics, education, technology, professional services, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "226846"
-},
-"Marion County": {
-  "description": "Marion County serves as an important economic center in central Ohio, supported by manufacturing, healthcare services, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "65187"
-},
-
-"Medina County": {
-  "description": "Medina County is one of Ohio's fastest-growing counties, supported by healthcare, manufacturing, professional services, logistics, retail development, and residential expansion. Its proximity to the Cleveland metropolitan area contributes substantially to business investment and workforce growth.",
-  "population": "183526"
-},
-
-"Meigs County": {
-  "description": "Meigs County supports a diversified economy based on healthcare services, agriculture, manufacturing, transportation, energy-related industries, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "22565"
-},
-
-"Mercer County": {
-  "description": "Mercer County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and professional industries. Its diversified economy supports stable workforce opportunities and continued business development.",
-  "population": "43201"
-},
-
-"Miami County": {
-  "description": "Miami County is an important economic center within the Dayton metropolitan region, driven by manufacturing, healthcare services, logistics, education, professional services, and retail development. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "110884"
-},
-
-"Monroe County": {
-  "description": "Monroe County supports an economy driven by energy-related industries, healthcare services, agriculture, manufacturing, transportation, and local commerce. Natural resources and regional businesses contribute significantly to economic development throughout the county.",
-  "population": "13654"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County is one of Ohio's largest economic centers and home to Dayton. Healthcare, aerospace, advanced manufacturing, logistics, higher education, professional services, and technology drive a highly diversified economy that supports substantial workforce growth and business investment.",
-  "population": "537309"
-},
-
-"Morgan County": {
-  "description": "Morgan County benefits from healthcare services, agriculture, tourism, manufacturing, transportation, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional economic activity.",
-  "population": "14508"
-},
-
-"Morrow County": {
-  "description": "Morrow County supports a diversified economy based on agriculture, manufacturing, healthcare services, logistics, transportation, and local business development. Its strategic location contributes to continued economic growth and workforce opportunities.",
-  "population": "36498"
-},
-
-"Muskingum County": {
-  "description": "Muskingum County serves as a major regional economic center in eastern Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business activity.",
-  "population": "86215"
-},
-"Noble County": {
-  "description": "Noble County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, tourism, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "14424"
-},
-
-"Ottawa County": {
-  "description": "Ottawa County benefits from tourism, healthcare services, hospitality, manufacturing, transportation, and professional services. Its Lake Erie location and visitor economy contribute substantially to regional business growth and employment.",
-  "population": "40465"
-},
-
-"Paulding County": {
-  "description": "Paulding County supports an economy driven by agriculture, manufacturing, healthcare services, logistics, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "18583"
-},
-
-"Perry County": {
-  "description": "Perry County combines healthcare services, manufacturing, agriculture, transportation, energy-related industries, and local business activity. Its diversified economy contributes significantly to workforce opportunities and regional growth.",
-  "population": "36058"
-},
-
-"Pickaway County": {
-  "description": "Pickaway County is one of the fastest-growing economic centers in central Ohio, supported by logistics, advanced manufacturing, healthcare services, professional services, retail development, and residential expansion. Its proximity to Columbus contributes substantially to business investment and workforce growth.",
-  "population": "62513"
-},
-
-"Pike County": {
-  "description": "Pike County supports a diversified economy based on healthcare services, government-related industries, manufacturing, agriculture, transportation, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "27458"
-},
-
-"Portage County": {
-  "description": "Portage County is an important economic center in northeastern Ohio, driven by higher education, healthcare services, manufacturing, logistics, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "161791"
-},
-
-"Preble County": {
-  "description": "Preble County benefits from agriculture, manufacturing, healthcare services, logistics, transportation, and local business development. Its diversified economy supports stable workforce opportunities and continued economic growth.",
-  "population": "40591"
-},
-
-"Putnam County": {
-  "description": "Putnam County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "34085"
-},
-
-"Richland County": {
-  "description": "Richland County serves as a major economic center in north-central Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
-  "population": "124936"
-},
-"Ross County": {
-  "description": "Ross County serves as an important economic center in south-central Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "77976"
-},
-
-"Sandusky County": {
-  "description": "Sandusky County benefits from manufacturing, healthcare services, logistics, agriculture, transportation, and professional industries. Its strategic location supports continued economic development and workforce opportunities.",
-  "population": "59280"
-},
-
-"Scioto County": {
-  "description": "Scioto County supports a diversified economy based on healthcare services, manufacturing, transportation, energy-related industries, retail activity, and professional services. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "74585"
-},
-
-"Seneca County": {
-  "description": "Seneca County combines manufacturing, agriculture, healthcare services, logistics, transportation, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional business growth.",
-  "population": "54769"
-},
-
-"Shelby County": {
-  "description": "Shelby County supports an economy driven by manufacturing, agriculture, healthcare services, logistics, transportation, and professional services. Industrial employers and farming operations contribute substantially to economic development throughout the county.",
-  "population": "48627"
-},
-
-"Stark County": {
-  "description": "Stark County is one of Ohio's largest economic centers and home to Canton. Healthcare, manufacturing, logistics, finance, professional services, education, and retail development drive a highly diversified economy that supports substantial workforce growth and business investment.",
-  "population": "375586"
-},
-
-"Summit County": {
-  "description": "Summit County is a major economic center in northeastern Ohio and home to Akron. Healthcare, advanced manufacturing, technology, finance, higher education, professional services, and logistics drive a highly diversified economy contributing substantially to regional employment and innovation.",
-  "population": "540428"
-},
-
-"Trumbull County": {
-  "description": "Trumbull County supports a diversified economy based on healthcare services, manufacturing, logistics, education, retail development, and professional services. Its strong industrial base contributes significantly to workforce opportunities and economic growth.",
-  "population": "200643"
-},
-
-"Tuscarawas County": {
-  "description": "Tuscarawas County benefits from manufacturing, healthcare services, tourism, logistics, transportation, and professional industries. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "92918"
-},
-
-"Union County": {
-  "description": "Union County is one of Ohio's fastest-growing counties, driven by advanced manufacturing, technology, logistics, healthcare services, professional services, and residential expansion. Its location within the Columbus metropolitan area supports substantial business investment and workforce growth.",
-  "population": "69637"
-},
-"Van Wert County": {
-  "description": "Van Wert County supports a diversified economy based on agriculture, manufacturing, healthcare services, logistics, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "28744"
-},
-
-"Vinton County": {
-  "description": "Vinton County benefits from healthcare services, tourism, forestry, agriculture, transportation, and local business development. Natural resources and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "12800"
-},
-
-"Warren County": {
-  "description": "Warren County is one of Ohio's fastest-growing and most affluent economic centers, supported by healthcare, finance, technology, professional services, retail development, and residential expansion. Its location within the Cincinnati metropolitan area contributes substantially to business investment and workforce growth.",
-  "population": "256377"
-},
-
-"Washington County": {
-  "description": "Washington County serves as an important regional economic center in southeastern Ohio, supported by healthcare, manufacturing, education, energy-related industries, tourism, and professional services. Its diversified economy contributes significantly to workforce opportunities and business development.",
-  "population": "59711"
-},
-
-"Wayne County": {
-  "description": "Wayne County supports a diversified economy driven by manufacturing, agriculture, healthcare services, logistics, retail development, and professional services. Its strong business community contributes substantially to regional employment and economic growth.",
-  "population": "117356"
-},
-
-"Williams County": {
-  "description": "Williams County benefits from manufacturing, agriculture, healthcare services, transportation, logistics, and local commerce. Its strategic location contributes significantly to economic activity and workforce opportunities throughout the county.",
-  "population": "36714"
-},
-
-"Wood County": {
-  "description": "Wood County is a major educational and economic center in northwestern Ohio, supported by higher education, healthcare services, manufacturing, logistics, technology, and professional services. Its diversified economy contributes substantially to regional employment and innovation.",
-  "population": "132248"
-},
-
-"Wyandot County": {
-  "description": "Wyandot County supports an economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local business activity. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "21649"
-}
+  "identity": {
+    "code": "oh",
+    "slug": "ohio",
+    "name": "Ohio",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
+      "population": "27534"
+    },
+    "Allen County": {
+      "description": "Allen County serves as an important economic center in northwestern Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "101140"
+    },
+    "Ashland County": {
+      "description": "Ashland County benefits from healthcare services, manufacturing, higher education, agriculture, logistics, and professional services. Its diversified economy supports stable workforce opportunities and continued economic development.",
+      "population": "52938"
+    },
+    "Ashtabula County": {
+      "description": "Ashtabula County supports an economy driven by manufacturing, healthcare services, agriculture, tourism, transportation, and professional industries. Its Lake Erie location contributes significantly to regional business activity and workforce growth.",
+      "population": "97241"
+    },
+    "Athens County": {
+      "description": "Athens County is a major educational and healthcare center in southeastern Ohio, anchored by higher education, healthcare services, technology, tourism, professional services, and retail activity. Its knowledge-based economy contributes substantially to regional development.",
+      "population": "62223"
+    },
+    "Auglaize County": {
+      "description": "Auglaize County combines manufacturing, agriculture, healthcare services, logistics, transportation, and local commerce. Industrial employers and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "46384"
+    },
+    "Belmont County": {
+      "description": "Belmont County benefits from energy-related industries, healthcare services, manufacturing, logistics, retail development, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional growth.",
+      "population": "66497"
+    },
+    "Brown County": {
+      "description": "Brown County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional businesses contribute substantially to economic development.",
+      "population": "43676"
+    },
+    "Butler County": {
+      "description": "Butler County is one of Ohio's strongest economic centers, driven by healthcare, manufacturing, logistics, higher education, finance, professional services, and residential development. Its location within the Cincinnati metropolitan area supports substantial business investment and workforce growth.",
+      "population": "397669"
+    },
+    "Carroll County": {
+      "description": "Carroll County supports an economy based on energy-related industries, agriculture, healthcare services, manufacturing, transportation, and local commerce. Natural resources and diversified businesses contribute significantly to economic activity throughout the county.",
+      "population": "26715"
+    },
+    "Champaign County": {
+      "description": "Champaign County supports a diversified economy based on agriculture, manufacturing, healthcare services, logistics, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "38714"
+    },
+    "Clark County": {
+      "description": "Clark County serves as an important economic center in western Ohio, supported by healthcare, manufacturing, logistics, retail development, education, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "134083"
+    },
+    "Clermont County": {
+      "description": "Clermont County is one of the fastest-growing counties in the Cincinnati metropolitan area, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its strong business environment contributes significantly to economic investment and workforce growth.",
+      "population": "211310"
+    },
+    "Clinton County": {
+      "description": "Clinton County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and professional industries. Its strategic location supports continued business development and workforce opportunities.",
+      "population": "42967"
+    },
+    "Columbiana County": {
+      "description": "Columbiana County supports an economy driven by manufacturing, healthcare services, energy-related industries, agriculture, transportation, and retail activity. Its diversified economy contributes significantly to regional economic development.",
+      "population": "100889"
+    },
+    "Coshocton County": {
+      "description": "Coshocton County combines agriculture, manufacturing, healthcare services, tourism, transportation, and local commerce. Farming operations and regional businesses contribute substantially to economic activity throughout the county.",
+      "population": "36582"
+    },
+    "Crawford County": {
+      "description": "Crawford County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional services. Industrial employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "41962"
+    },
+    "Cuyahoga County": {
+      "description": "Cuyahoga County is one of Ohio's largest economic centers and home to Cleveland. Healthcare, finance, technology, advanced manufacturing, higher education, logistics, professional services, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "1230404"
+    },
+    "Darke County": {
+      "description": "Darke County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "51258"
+    },
+    "Defiance County": {
+      "description": "Defiance County serves as an important manufacturing and agricultural center in northwestern Ohio, supported by healthcare services, logistics, transportation, retail development, and professional industries. Its diversified economy contributes substantially to regional growth.",
+      "population": "38141"
+    },
+    "Delaware County": {
+      "description": "Delaware County is one of the fastest-growing and most affluent counties in Ohio, supported by healthcare, finance, technology, professional services, retail development, and residential expansion. Its location within the Columbus metropolitan area contributes substantially to business investment and workforce growth.",
+      "population": "238843"
+    },
+    "Erie County": {
+      "description": "Erie County benefits from healthcare services, tourism, manufacturing, logistics, transportation, and professional services. Its Lake Erie location contributes significantly to regional business activity and economic development.",
+      "population": "74862"
+    },
+    "Fairfield County": {
+      "description": "Fairfield County supports a diversified economy driven by healthcare, manufacturing, logistics, professional services, retail development, and residential growth. Its proximity to Columbus contributes substantially to economic expansion and workforce opportunities.",
+      "population": "165167"
+    },
+    "Fayette County": {
+      "description": "Fayette County combines agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "28990"
+    },
+    "Franklin County": {
+      "description": "Franklin County is Ohio's largest economic center and home to Columbus. Finance, healthcare, technology, higher education, logistics, professional services, government operations, and corporate headquarters drive a highly diversified economy supporting substantial business investment and workforce growth.",
+      "population": "1351274"
+    },
+    "Fulton County": {
+      "description": "Fulton County supports an economy based on agriculture, manufacturing, healthcare services, logistics, transportation, and local business development. Its diversified economy contributes significantly to regional employment and growth.",
+      "population": "42518"
+    },
+    "Gallia County": {
+      "description": "Gallia County benefits from healthcare services, manufacturing, agriculture, energy-related industries, transportation, and local commerce. Regional employers contribute significantly to workforce opportunities and economic development.",
+      "population": "29587"
+    },
+    "Geauga County": {
+      "description": "Geauga County is one of Ohio's most affluent counties, supported by healthcare, professional services, manufacturing, agriculture, retail development, and residential growth. Its strong business environment contributes significantly to regional economic activity.",
+      "population": "95552"
+    },
+    "Greene County": {
+      "description": "Greene County is a major economic center in the Dayton metropolitan area, driven by healthcare, aerospace, defense-related industries, higher education, technology, professional services, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "171558"
+    },
+    "Guernsey County": {
+      "description": "Guernsey County supports a diversified economy based on healthcare services, tourism, manufacturing, transportation, energy-related industries, and local commerce. Its business community contributes significantly to regional workforce opportunities and growth.",
+      "population": "38653"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County is one of Ohio's largest economic centers and home to Cincinnati. Finance, healthcare, manufacturing, technology, logistics, professional services, higher education, and corporate headquarters drive a highly diversified economy that supports substantial employment and business investment.",
+      "population": "830639"
+    },
+    "Hancock County": {
+      "description": "Hancock County serves as a major economic center in northwestern Ohio, supported by manufacturing, healthcare services, logistics, finance, retail development, and professional services. Its diversified economy contributes significantly to regional workforce growth and business development.",
+      "population": "76090"
+    },
+    "Hardin County": {
+      "description": "Hardin County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "30781"
+    },
+    "Harrison County": {
+      "description": "Harrison County benefits from energy-related industries, healthcare services, agriculture, manufacturing, transportation, and local business development. Its diversified economy contributes significantly to regional employment opportunities and growth.",
+      "population": "14768"
+    },
+    "Henry County": {
+      "description": "Henry County combines agriculture, manufacturing, healthcare services, logistics, transportation, and professional industries. Farming operations and industrial employers contribute substantially to economic development throughout the county.",
+      "population": "27692"
+    },
+    "Highland County": {
+      "description": "Highland County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, retail activity, and professional services. Its diversified business base contributes significantly to workforce opportunities and economic growth.",
+      "population": "43276"
+    },
+    "Hocking County": {
+      "description": "Hocking County benefits from tourism, healthcare services, hospitality, outdoor recreation, retail activity, and local commerce. Visitor spending and natural attractions play major roles in supporting economic activity throughout the county.",
+      "population": "28373"
+    },
+    "Holmes County": {
+      "description": "Holmes County supports a diversified economy based on tourism, manufacturing, agriculture, healthcare services, retail development, and small business entrepreneurship. Its strong local business community contributes significantly to regional economic development.",
+      "population": "44960"
+    },
+    "Huron County": {
+      "description": "Huron County serves as an important manufacturing and agricultural center in northern Ohio, supported by healthcare services, logistics, transportation, retail activity, and professional industries. Its diversified economy contributes significantly to regional growth.",
+      "population": "58729"
+    },
+    "Jackson County": {
+      "description": "Jackson County supports an economy based on healthcare services, manufacturing, transportation, energy-related industries, agriculture, and local commerce. Regional employers contribute significantly to economic activity and workforce opportunities throughout the county.",
+      "population": "32535"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County supports a diversified economy based on healthcare services, manufacturing, energy-related industries, transportation, retail activity, and professional services. Its business community contributes significantly to regional employment and economic development.",
+      "population": "65325"
+    },
+    "Knox County": {
+      "description": "Knox County benefits from healthcare services, higher education, manufacturing, agriculture, logistics, and professional industries. Its diversified economy supports stable workforce opportunities and continued business growth.",
+      "population": "62821"
+    },
+    "Lake County": {
+      "description": "Lake County is one of northeastern Ohio's largest economic centers, supported by healthcare, manufacturing, logistics, technology, retail development, and professional services. Its strategic location within the Cleveland metropolitan area contributes substantially to economic activity and investment.",
+      "population": "232755"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County supports an economy driven by healthcare services, manufacturing, transportation, energy-related industries, retail activity, and local commerce. Regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "58240"
+    },
+    "Licking County": {
+      "description": "Licking County is one of Ohio's fastest-growing economic centers, anchored by advanced manufacturing, technology, logistics, healthcare services, professional services, and residential development. Its location within the Columbus metropolitan area supports substantial business investment and workforce growth.",
+      "population": "188330"
+    },
+    "Logan County": {
+      "description": "Logan County combines agriculture, manufacturing, healthcare services, transportation, tourism, and local business activity. Its diversified economy contributes significantly to regional employment and economic development.",
+      "population": "46836"
+    },
+    "Lorain County": {
+      "description": "Lorain County serves as a major economic center in northern Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "312964"
+    },
+    "Lucas County": {
+      "description": "Lucas County is one of Ohio's largest economic centers and home to Toledo. Healthcare, manufacturing, logistics, transportation, higher education, professional services, and technology drive a highly diversified economy supporting substantial employment and regional business growth.",
+      "population": "431279"
+    },
+    "Madison County": {
+      "description": "Madison County benefits from agriculture, manufacturing, healthcare services, logistics, transportation, and professional industries. Its proximity to Columbus contributes significantly to economic expansion and workforce opportunities.",
+      "population": "45428"
+    },
+    "Mahoning County": {
+      "description": "Mahoning County is a major economic center in northeastern Ohio, driven by healthcare, manufacturing, logistics, education, technology, professional services, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "226846"
+    },
+    "Marion County": {
+      "description": "Marion County serves as an important economic center in central Ohio, supported by manufacturing, healthcare services, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "65187"
+    },
+    "Medina County": {
+      "description": "Medina County is one of Ohio's fastest-growing counties, supported by healthcare, manufacturing, professional services, logistics, retail development, and residential expansion. Its proximity to the Cleveland metropolitan area contributes substantially to business investment and workforce growth.",
+      "population": "183526"
+    },
+    "Meigs County": {
+      "description": "Meigs County supports a diversified economy based on healthcare services, agriculture, manufacturing, transportation, energy-related industries, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "22565"
+    },
+    "Mercer County": {
+      "description": "Mercer County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and professional industries. Its diversified economy supports stable workforce opportunities and continued business development.",
+      "population": "43201"
+    },
+    "Miami County": {
+      "description": "Miami County is an important economic center within the Dayton metropolitan region, driven by manufacturing, healthcare services, logistics, education, professional services, and retail development. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "110884"
+    },
+    "Monroe County": {
+      "description": "Monroe County supports an economy driven by energy-related industries, healthcare services, agriculture, manufacturing, transportation, and local commerce. Natural resources and regional businesses contribute significantly to economic development throughout the county.",
+      "population": "13654"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County is one of Ohio's largest economic centers and home to Dayton. Healthcare, aerospace, advanced manufacturing, logistics, higher education, professional services, and technology drive a highly diversified economy that supports substantial workforce growth and business investment.",
+      "population": "537309"
+    },
+    "Morgan County": {
+      "description": "Morgan County benefits from healthcare services, agriculture, tourism, manufacturing, transportation, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional economic activity.",
+      "population": "14508"
+    },
+    "Morrow County": {
+      "description": "Morrow County supports a diversified economy based on agriculture, manufacturing, healthcare services, logistics, transportation, and local business development. Its strategic location contributes to continued economic growth and workforce opportunities.",
+      "population": "36498"
+    },
+    "Muskingum County": {
+      "description": "Muskingum County serves as a major regional economic center in eastern Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business activity.",
+      "population": "86215"
+    },
+    "Noble County": {
+      "description": "Noble County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, tourism, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "14424"
+    },
+    "Ottawa County": {
+      "description": "Ottawa County benefits from tourism, healthcare services, hospitality, manufacturing, transportation, and professional services. Its Lake Erie location and visitor economy contribute substantially to regional business growth and employment.",
+      "population": "40465"
+    },
+    "Paulding County": {
+      "description": "Paulding County supports an economy driven by agriculture, manufacturing, healthcare services, logistics, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "18583"
+    },
+    "Perry County": {
+      "description": "Perry County combines healthcare services, manufacturing, agriculture, transportation, energy-related industries, and local business activity. Its diversified economy contributes significantly to workforce opportunities and regional growth.",
+      "population": "36058"
+    },
+    "Pickaway County": {
+      "description": "Pickaway County is one of the fastest-growing economic centers in central Ohio, supported by logistics, advanced manufacturing, healthcare services, professional services, retail development, and residential expansion. Its proximity to Columbus contributes substantially to business investment and workforce growth.",
+      "population": "62513"
+    },
+    "Pike County": {
+      "description": "Pike County supports a diversified economy based on healthcare services, government-related industries, manufacturing, agriculture, transportation, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "27458"
+    },
+    "Portage County": {
+      "description": "Portage County is an important economic center in northeastern Ohio, driven by higher education, healthcare services, manufacturing, logistics, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "161791"
+    },
+    "Preble County": {
+      "description": "Preble County benefits from agriculture, manufacturing, healthcare services, logistics, transportation, and local business development. Its diversified economy supports stable workforce opportunities and continued economic growth.",
+      "population": "40591"
+    },
+    "Putnam County": {
+      "description": "Putnam County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "34085"
+    },
+    "Richland County": {
+      "description": "Richland County serves as a major economic center in north-central Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
+      "population": "124936"
+    },
+    "Ross County": {
+      "description": "Ross County serves as an important economic center in south-central Ohio, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "77976"
+    },
+    "Sandusky County": {
+      "description": "Sandusky County benefits from manufacturing, healthcare services, logistics, agriculture, transportation, and professional industries. Its strategic location supports continued economic development and workforce opportunities.",
+      "population": "59280"
+    },
+    "Scioto County": {
+      "description": "Scioto County supports a diversified economy based on healthcare services, manufacturing, transportation, energy-related industries, retail activity, and professional services. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "74585"
+    },
+    "Seneca County": {
+      "description": "Seneca County combines manufacturing, agriculture, healthcare services, logistics, transportation, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional business growth.",
+      "population": "54769"
+    },
+    "Shelby County": {
+      "description": "Shelby County supports an economy driven by manufacturing, agriculture, healthcare services, logistics, transportation, and professional services. Industrial employers and farming operations contribute substantially to economic development throughout the county.",
+      "population": "48627"
+    },
+    "Stark County": {
+      "description": "Stark County is one of Ohio's largest economic centers and home to Canton. Healthcare, manufacturing, logistics, finance, professional services, education, and retail development drive a highly diversified economy that supports substantial workforce growth and business investment.",
+      "population": "375586"
+    },
+    "Summit County": {
+      "description": "Summit County is a major economic center in northeastern Ohio and home to Akron. Healthcare, advanced manufacturing, technology, finance, higher education, professional services, and logistics drive a highly diversified economy contributing substantially to regional employment and innovation.",
+      "population": "540428"
+    },
+    "Trumbull County": {
+      "description": "Trumbull County supports a diversified economy based on healthcare services, manufacturing, logistics, education, retail development, and professional services. Its strong industrial base contributes significantly to workforce opportunities and economic growth.",
+      "population": "200643"
+    },
+    "Tuscarawas County": {
+      "description": "Tuscarawas County benefits from manufacturing, healthcare services, tourism, logistics, transportation, and professional industries. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "92918"
+    },
+    "Union County": {
+      "description": "Union County is one of Ohio's fastest-growing counties, driven by advanced manufacturing, technology, logistics, healthcare services, professional services, and residential expansion. Its location within the Columbus metropolitan area supports substantial business investment and workforce growth.",
+      "population": "69637"
+    },
+    "Van Wert County": {
+      "description": "Van Wert County supports a diversified economy based on agriculture, manufacturing, healthcare services, logistics, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "28744"
+    },
+    "Vinton County": {
+      "description": "Vinton County benefits from healthcare services, tourism, forestry, agriculture, transportation, and local business development. Natural resources and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "12800"
+    },
+    "Warren County": {
+      "description": "Warren County is one of Ohio's fastest-growing and most affluent economic centers, supported by healthcare, finance, technology, professional services, retail development, and residential expansion. Its location within the Cincinnati metropolitan area contributes substantially to business investment and workforce growth.",
+      "population": "256377"
+    },
+    "Washington County": {
+      "description": "Washington County serves as an important regional economic center in southeastern Ohio, supported by healthcare, manufacturing, education, energy-related industries, tourism, and professional services. Its diversified economy contributes significantly to workforce opportunities and business development.",
+      "population": "59711"
+    },
+    "Wayne County": {
+      "description": "Wayne County supports a diversified economy driven by manufacturing, agriculture, healthcare services, logistics, retail development, and professional services. Its strong business community contributes substantially to regional employment and economic growth.",
+      "population": "117356"
+    },
+    "Williams County": {
+      "description": "Williams County benefits from manufacturing, agriculture, healthcare services, transportation, logistics, and local commerce. Its strategic location contributes significantly to economic activity and workforce opportunities throughout the county.",
+      "population": "36714"
+    },
+    "Wood County": {
+      "description": "Wood County is a major educational and economic center in northwestern Ohio, supported by higher education, healthcare services, manufacturing, logistics, technology, and professional services. Its diversified economy contributes substantially to regional employment and innovation.",
+      "population": "132248"
+    },
+    "Wyandot County": {
+      "description": "Wyandot County supports an economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local business activity. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "21649"
+    }
+  }
 }

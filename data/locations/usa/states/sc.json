@@ -1,227 +1,195 @@
 {
-"Abbeville County": {
-  "description": "Abbeville County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, tourism, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "24527"
-},
-
-"Aiken County": {
-  "description": "Aiken County is one of South Carolina's strongest economic centers, supported by healthcare, manufacturing, energy-related industries, technology, professional services, retail development, and tourism. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "171130"
-},
-
-"Allendale County": {
-  "description": "Allendale County maintains a rural economy centered on agriculture, healthcare services, transportation, forestry, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "8289"
-},
-
-"Anderson County": {
-  "description": "Anderson County is a major economic center in upstate South Carolina, driven by manufacturing, healthcare services, logistics, education, professional services, retail development, and technology. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "208601"
-},
-
-"Bamberg County": {
-  "description": "Bamberg County supports an economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "13003"
-},
-
-"Barnwell County": {
-  "description": "Barnwell County benefits from agriculture, manufacturing, healthcare services, energy-related industries, transportation, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
-  "population": "20166"
-},
-
-"Beaufort County": {
-  "description": "Beaufort County is one of South Carolina's fastest-growing coastal economies, anchored by tourism, healthcare services, real estate development, professional services, hospitality, and retail activity. Visitor spending and residential growth contribute substantially to business investment and employment.",
-  "population": "197122"
-},
-
-"Berkeley County": {
-  "description": "Berkeley County is one of South Carolina's fastest-growing economic centers, supported by manufacturing, logistics, healthcare services, aerospace-related industries, professional services, and residential expansion. Its location within the Charleston metropolitan area drives substantial workforce growth and business investment.",
-  "population": "251810"
-},
-
-"Calhoun County": {
-  "description": "Calhoun County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "14629"
-},
-
-"Charleston County": {
-  "description": "Charleston County is one of South Carolina's largest economic centers, driven by healthcare, tourism, logistics, technology, aerospace, professional services, higher education, and retail development. Its highly diversified economy supports substantial business investment and workforce growth.",
-  "population": "424037"
-},
-"Cherokee County": {
-  "description": "Cherokee County supports a diversified economy based on manufacturing, healthcare services, transportation, logistics, retail development, and local commerce. Industrial employers contribute significantly to workforce opportunities and economic growth throughout the county.",
-  "population": "57930"
-},
-
-"Chester County": {
-  "description": "Chester County benefits from manufacturing, healthcare services, transportation, energy-related industries, agriculture, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "32589"
-},
-
-"Chesterfield County": {
-  "description": "Chesterfield County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, forestry, and local business activity. Farming operations and industrial employers contribute substantially to economic activity throughout the county.",
-  "population": "43576"
-},
-
-"Clarendon County": {
-  "description": "Clarendon County combines agriculture, tourism, healthcare services, transportation, manufacturing, and local commerce. Visitor-related industries and farming operations contribute significantly to regional economic growth.",
-  "population": "31539"
-},
-
-"Colleton County": {
-  "description": "Colleton County supports a diversified economy based on manufacturing, agriculture, healthcare services, transportation, forestry, and professional services. Its strategic location contributes significantly to workforce opportunities and business investment.",
-  "population": "38431"
-},
-
-"Darlington County": {
-  "description": "Darlington County is an important economic center in northeastern South Carolina, supported by manufacturing, healthcare services, logistics, education, professional services, and retail development. Its diversified economy contributes substantially to regional employment and growth.",
-  "population": "65245"
-},
-
-"Dillon County": {
-  "description": "Dillon County benefits from agriculture, transportation, healthcare services, manufacturing, logistics, and local commerce. Its location along major transportation corridors contributes significantly to economic activity throughout the county.",
-  "population": "29680"
-},
-
-"Dorchester County": {
-  "description": "Dorchester County is one of South Carolina's fastest-growing counties, driven by healthcare, manufacturing, logistics, aerospace-related industries, professional services, retail development, and residential expansion. Its location within the Charleston metropolitan area supports substantial business investment and workforce growth.",
-  "population": "170396"
-},
-
-"Edgefield County": {
-  "description": "Edgefield County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local business development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "28145"
-},
-
-"Fairfield County": {
-  "description": "Fairfield County benefits from manufacturing, energy-related industries, healthcare services, transportation, agriculture, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
-  "population": "22347"
-},
-"Florence County": {
-  "description": "Florence County is one of northeastern South Carolina's largest economic centers, supported by healthcare, manufacturing, logistics, transportation, professional services, retail development, and education. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "139336"
-},
-
-"Georgetown County": {
-  "description": "Georgetown County benefits from tourism, healthcare services, manufacturing, maritime industries, professional services, and retail activity. Visitor spending and coastal industries contribute significantly to economic growth throughout the county.",
-  "population": "64035"
-},
-
-"Greenville County": {
-  "description": "Greenville County is South Carolina's largest economic center, driven by advanced manufacturing, healthcare, technology, finance, logistics, professional services, higher education, and corporate headquarters. Its highly diversified economy supports substantial business investment, innovation, and workforce growth.",
-  "population": "547950"
-},
-
-"Greenwood County": {
-  "description": "Greenwood County serves as an important economic center in western South Carolina, supported by manufacturing, healthcare services, education, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and growth.",
-  "population": "70711"
-},
-
-"Hampton County": {
-  "description": "Hampton County supports a diversified economy based on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "18455"
-},
-
-"Horry County": {
-  "description": "Horry County is one of South Carolina's fastest-growing and most important economic centers, anchored by tourism, healthcare services, hospitality, real estate development, professional services, retail activity, and construction. Visitor spending and population growth contribute substantially to workforce expansion and business investment.",
-  "population": "397478"
-},
-
-"Jasper County": {
-  "description": "Jasper County benefits from logistics, manufacturing, healthcare services, transportation, professional services, and residential development. Its strategic location near major coastal markets contributes significantly to regional economic growth.",
-  "population": "32758"
-},
-
-"Kershaw County": {
-  "description": "Kershaw County supports an economy driven by manufacturing, healthcare services, logistics, agriculture, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and business growth.",
-  "population": "69353"
-},
-
-"Lancaster County": {
-  "description": "Lancaster County is one of South Carolina's fastest-growing counties, supported by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its proximity to the Charlotte metropolitan area contributes substantially to economic investment and workforce growth.",
-  "population": "111214"
-},
-
-"Laurens County": {
-  "description": "Laurens County combines manufacturing, agriculture, healthcare services, transportation, logistics, and professional industries. Its diversified economy contributes significantly to economic development and employment opportunities throughout the county.",
-  "population": "69132"
-},
-"Lee County": {
-  "description": "Lee County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "16764"
-},
-
-"Lexington County": {
-  "description": "Lexington County is one of South Carolina's fastest-growing economic centers, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Columbia metropolitan area supports substantial workforce growth and business investment.",
-  "population": "309428"
-},
-
-"Marion County": {
-  "description": "Marion County benefits from agriculture, manufacturing, healthcare services, transportation, logistics, and local business development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "30657"
-},
-
-"Marlboro County": {
-  "description": "Marlboro County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute substantially to economic activity throughout the county.",
-  "population": "26272"
-},
-
-"McCormick County": {
-  "description": "McCormick County combines tourism, agriculture, healthcare services, forestry, transportation, and local business activity. Visitor spending and natural resources contribute significantly to economic growth throughout the county.",
-  "population": "9576"
-},
-
-"Newberry County": {
-  "description": "Newberry County supports a diversified economy based on manufacturing, healthcare services, higher education, agriculture, logistics, and professional services. Educational institutions and industrial employers contribute significantly to workforce opportunities and economic development.",
-  "population": "39869"
-},
-
-"Oconee County": {
-  "description": "Oconee County benefits from manufacturing, tourism, healthcare services, energy-related industries, outdoor recreation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "80849"
-},
-
-"Orangeburg County": {
-  "description": "Orangeburg County is a major economic center in central South Carolina, supported by healthcare, higher education, manufacturing, agriculture, transportation, and professional services. Its diversified economy contributes substantially to workforce growth and regional investment.",
-  "population": "83908"
-},
-
-"Pickens County": {
-  "description": "Pickens County is one of upstate South Carolina's strongest economic centers, driven by healthcare, higher education, manufacturing, technology, professional services, and residential growth. Its proximity to Greenville contributes substantially to economic expansion and workforce development.",
-  "population": "132438"
-},
-
-"Richland County": {
-  "description": "Richland County is one of South Carolina's largest economic centers and home to Columbia. Government services, healthcare, higher education, finance, technology, professional services, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "426230"
-},
-"Saluda County": {
-  "description": "Saluda County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "19892"
-},
-
-"Spartanburg County": {
-  "description": "Spartanburg County is one of South Carolina's strongest economic centers, driven by advanced manufacturing, healthcare, logistics, professional services, higher education, retail development, and international business investment. Its highly diversified economy contributes substantially to workforce growth and regional economic expansion.",
-  "population": "349155"
-},
-
-"Sumter County": {
-  "description": "Sumter County serves as an important economic center in central South Carolina, supported by military-related industries, healthcare services, manufacturing, education, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "108124"
-},
-
-"Union County": {
-  "description": "Union County benefits from manufacturing, healthcare services, agriculture, transportation, logistics, and local business development. Its diversified economy contributes significantly to workforce opportunities and economic growth throughout the county.",
-  "population": "27345"
-},
-
-"Williamsburg County": {
-  "description": "Williamsburg County supports an economy driven by agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations and regional employers contribute substantially to economic activity throughout the county.",
-  "population": "30368"
-},
-
-"York County": {
-  "description": "York County is one of South Carolina's fastest-growing and most affluent economic centers, supported by healthcare, finance, manufacturing, logistics, technology, professional services, and residential development. Its location within the Charlotte metropolitan area drives substantial business investment and workforce growth.",
-  "population": "299567"
-}
+  "identity": {
+    "code": "sc",
+    "slug": "south-carolina",
+    "name": "South Carolina",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Abbeville County": {
+      "description": "Abbeville County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, tourism, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "24527"
+    },
+    "Aiken County": {
+      "description": "Aiken County is one of South Carolina's strongest economic centers, supported by healthcare, manufacturing, energy-related industries, technology, professional services, retail development, and tourism. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "171130"
+    },
+    "Allendale County": {
+      "description": "Allendale County maintains a rural economy centered on agriculture, healthcare services, transportation, forestry, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "8289"
+    },
+    "Anderson County": {
+      "description": "Anderson County is a major economic center in upstate South Carolina, driven by manufacturing, healthcare services, logistics, education, professional services, retail development, and technology. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "208601"
+    },
+    "Bamberg County": {
+      "description": "Bamberg County supports an economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "13003"
+    },
+    "Barnwell County": {
+      "description": "Barnwell County benefits from agriculture, manufacturing, healthcare services, energy-related industries, transportation, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
+      "population": "20166"
+    },
+    "Beaufort County": {
+      "description": "Beaufort County is one of South Carolina's fastest-growing coastal economies, anchored by tourism, healthcare services, real estate development, professional services, hospitality, and retail activity. Visitor spending and residential growth contribute substantially to business investment and employment.",
+      "population": "197122"
+    },
+    "Berkeley County": {
+      "description": "Berkeley County is one of South Carolina's fastest-growing economic centers, supported by manufacturing, logistics, healthcare services, aerospace-related industries, professional services, and residential expansion. Its location within the Charleston metropolitan area drives substantial workforce growth and business investment.",
+      "population": "251810"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "14629"
+    },
+    "Charleston County": {
+      "description": "Charleston County is one of South Carolina's largest economic centers, driven by healthcare, tourism, logistics, technology, aerospace, professional services, higher education, and retail development. Its highly diversified economy supports substantial business investment and workforce growth.",
+      "population": "424037"
+    },
+    "Cherokee County": {
+      "description": "Cherokee County supports a diversified economy based on manufacturing, healthcare services, transportation, logistics, retail development, and local commerce. Industrial employers contribute significantly to workforce opportunities and economic growth throughout the county.",
+      "population": "57930"
+    },
+    "Chester County": {
+      "description": "Chester County benefits from manufacturing, healthcare services, transportation, energy-related industries, agriculture, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "32589"
+    },
+    "Chesterfield County": {
+      "description": "Chesterfield County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, forestry, and local business activity. Farming operations and industrial employers contribute substantially to economic activity throughout the county.",
+      "population": "43576"
+    },
+    "Clarendon County": {
+      "description": "Clarendon County combines agriculture, tourism, healthcare services, transportation, manufacturing, and local commerce. Visitor-related industries and farming operations contribute significantly to regional economic growth.",
+      "population": "31539"
+    },
+    "Colleton County": {
+      "description": "Colleton County supports a diversified economy based on manufacturing, agriculture, healthcare services, transportation, forestry, and professional services. Its strategic location contributes significantly to workforce opportunities and business investment.",
+      "population": "38431"
+    },
+    "Darlington County": {
+      "description": "Darlington County is an important economic center in northeastern South Carolina, supported by manufacturing, healthcare services, logistics, education, professional services, and retail development. Its diversified economy contributes substantially to regional employment and growth.",
+      "population": "65245"
+    },
+    "Dillon County": {
+      "description": "Dillon County benefits from agriculture, transportation, healthcare services, manufacturing, logistics, and local commerce. Its location along major transportation corridors contributes significantly to economic activity throughout the county.",
+      "population": "29680"
+    },
+    "Dorchester County": {
+      "description": "Dorchester County is one of South Carolina's fastest-growing counties, driven by healthcare, manufacturing, logistics, aerospace-related industries, professional services, retail development, and residential expansion. Its location within the Charleston metropolitan area supports substantial business investment and workforce growth.",
+      "population": "170396"
+    },
+    "Edgefield County": {
+      "description": "Edgefield County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local business development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "28145"
+    },
+    "Fairfield County": {
+      "description": "Fairfield County benefits from manufacturing, energy-related industries, healthcare services, transportation, agriculture, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
+      "population": "22347"
+    },
+    "Florence County": {
+      "description": "Florence County is one of northeastern South Carolina's largest economic centers, supported by healthcare, manufacturing, logistics, transportation, professional services, retail development, and education. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "139336"
+    },
+    "Georgetown County": {
+      "description": "Georgetown County benefits from tourism, healthcare services, manufacturing, maritime industries, professional services, and retail activity. Visitor spending and coastal industries contribute significantly to economic growth throughout the county.",
+      "population": "64035"
+    },
+    "Greenville County": {
+      "description": "Greenville County is South Carolina's largest economic center, driven by advanced manufacturing, healthcare, technology, finance, logistics, professional services, higher education, and corporate headquarters. Its highly diversified economy supports substantial business investment, innovation, and workforce growth.",
+      "population": "547950"
+    },
+    "Greenwood County": {
+      "description": "Greenwood County serves as an important economic center in western South Carolina, supported by manufacturing, healthcare services, education, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and growth.",
+      "population": "70711"
+    },
+    "Hampton County": {
+      "description": "Hampton County supports a diversified economy based on agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "18455"
+    },
+    "Horry County": {
+      "description": "Horry County is one of South Carolina's fastest-growing and most important economic centers, anchored by tourism, healthcare services, hospitality, real estate development, professional services, retail activity, and construction. Visitor spending and population growth contribute substantially to workforce expansion and business investment.",
+      "population": "397478"
+    },
+    "Jasper County": {
+      "description": "Jasper County benefits from logistics, manufacturing, healthcare services, transportation, professional services, and residential development. Its strategic location near major coastal markets contributes significantly to regional economic growth.",
+      "population": "32758"
+    },
+    "Kershaw County": {
+      "description": "Kershaw County supports an economy driven by manufacturing, healthcare services, logistics, agriculture, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and business growth.",
+      "population": "69353"
+    },
+    "Lancaster County": {
+      "description": "Lancaster County is one of South Carolina's fastest-growing counties, supported by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its proximity to the Charlotte metropolitan area contributes substantially to economic investment and workforce growth.",
+      "population": "111214"
+    },
+    "Laurens County": {
+      "description": "Laurens County combines manufacturing, agriculture, healthcare services, transportation, logistics, and professional industries. Its diversified economy contributes significantly to economic development and employment opportunities throughout the county.",
+      "population": "69132"
+    },
+    "Lee County": {
+      "description": "Lee County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "16764"
+    },
+    "Lexington County": {
+      "description": "Lexington County is one of South Carolina's fastest-growing economic centers, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Columbia metropolitan area supports substantial workforce growth and business investment.",
+      "population": "309428"
+    },
+    "Marion County": {
+      "description": "Marion County benefits from agriculture, manufacturing, healthcare services, transportation, logistics, and local business development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "30657"
+    },
+    "Marlboro County": {
+      "description": "Marlboro County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and industrial employers contribute substantially to economic activity throughout the county.",
+      "population": "26272"
+    },
+    "McCormick County": {
+      "description": "McCormick County combines tourism, agriculture, healthcare services, forestry, transportation, and local business activity. Visitor spending and natural resources contribute significantly to economic growth throughout the county.",
+      "population": "9576"
+    },
+    "Newberry County": {
+      "description": "Newberry County supports a diversified economy based on manufacturing, healthcare services, higher education, agriculture, logistics, and professional services. Educational institutions and industrial employers contribute significantly to workforce opportunities and economic development.",
+      "population": "39869"
+    },
+    "Oconee County": {
+      "description": "Oconee County benefits from manufacturing, tourism, healthcare services, energy-related industries, outdoor recreation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "80849"
+    },
+    "Orangeburg County": {
+      "description": "Orangeburg County is a major economic center in central South Carolina, supported by healthcare, higher education, manufacturing, agriculture, transportation, and professional services. Its diversified economy contributes substantially to workforce growth and regional investment.",
+      "population": "83908"
+    },
+    "Pickens County": {
+      "description": "Pickens County is one of upstate South Carolina's strongest economic centers, driven by healthcare, higher education, manufacturing, technology, professional services, and residential growth. Its proximity to Greenville contributes substantially to economic expansion and workforce development.",
+      "population": "132438"
+    },
+    "Richland County": {
+      "description": "Richland County is one of South Carolina's largest economic centers and home to Columbia. Government services, healthcare, higher education, finance, technology, professional services, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "426230"
+    },
+    "Saluda County": {
+      "description": "Saluda County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "19892"
+    },
+    "Spartanburg County": {
+      "description": "Spartanburg County is one of South Carolina's strongest economic centers, driven by advanced manufacturing, healthcare, logistics, professional services, higher education, retail development, and international business investment. Its highly diversified economy contributes substantially to workforce growth and regional economic expansion.",
+      "population": "349155"
+    },
+    "Sumter County": {
+      "description": "Sumter County serves as an important economic center in central South Carolina, supported by military-related industries, healthcare services, manufacturing, education, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "108124"
+    },
+    "Union County": {
+      "description": "Union County benefits from manufacturing, healthcare services, agriculture, transportation, logistics, and local business development. Its diversified economy contributes significantly to workforce opportunities and economic growth throughout the county.",
+      "population": "27345"
+    },
+    "Williamsburg County": {
+      "description": "Williamsburg County supports an economy driven by agriculture, forestry, healthcare services, manufacturing, transportation, and local commerce. Farming operations and regional employers contribute substantially to economic activity throughout the county.",
+      "population": "30368"
+    },
+    "York County": {
+      "description": "York County is one of South Carolina's fastest-growing and most affluent economic centers, supported by healthcare, finance, manufacturing, logistics, technology, professional services, and residential development. Its location within the Charlotte metropolitan area drives substantial business investment and workforce growth.",
+      "population": "299567"
+    }
+  }
 }

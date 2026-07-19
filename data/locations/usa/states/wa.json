@@ -1,193 +1,167 @@
 {
-"Adams County": {
-  "description": "Adams County supports a strong agricultural economy based on farming, food processing, agribusiness, healthcare services, transportation, and manufacturing. Agricultural industries contribute significantly to workforce opportunities and economic growth throughout the county.",
-  "population": "21000"
-},
-
-"Asotin County": {
-  "description": "Asotin County benefits from healthcare services, tourism, agriculture, transportation, professional services, and local commerce. Outdoor recreation and regional employers contribute substantially to economic activity throughout the county.",
-  "population": "22800"
-},
-
-"Benton County": {
-  "description": "Benton County is one of Washington's strongest economic centers, driven by technology, energy-related industries, healthcare services, agriculture, research, professional services, and manufacturing. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "215000"
-},
-
-"Chelan County": {
-  "description": "Chelan County supports a diversified economy based on tourism, agriculture, healthcare services, hospitality, transportation, and professional services. Visitor spending and farming operations contribute significantly to workforce opportunities and economic growth.",
-  "population": "81000"
-},
-
-"Clallam County": {
-  "description": "Clallam County benefits from tourism, healthcare services, forestry-related industries, transportation, hospitality, and local business development. Natural resources and visitor-related industries contribute substantially to economic activity throughout the county.",
-  "population": "78000"
-},
-
-"Clark County": {
-  "description": "Clark County is one of Washington's fastest-growing economic centers, supported by healthcare services, technology, logistics, professional services, manufacturing, retail development, and residential expansion. Its proximity to Portland contributes significantly to workforce growth and business investment.",
-  "population": "525000"
-},
-
-"Columbia County": {
-  "description": "Columbia County supports a rural economy based on agriculture, healthcare services, transportation, tourism, agribusiness, and local commerce. Farming operations contribute significantly to economic activity throughout the county.",
-  "population": "4000"
-},
-
-"Cowlitz County": {
-  "description": "Cowlitz County is an important economic center in southwest Washington, supported by manufacturing, healthcare services, logistics, forestry-related industries, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "112000"
-},
-
-"Douglas County": {
-  "description": "Douglas County benefits from agriculture, energy production, healthcare services, transportation, tourism, and local business development. Farming operations and regional employers contribute substantially to economic growth throughout the county.",
-  "population": "44000"
-},
-
-"Ferry County": {
-  "description": "Ferry County supports an economy driven by tourism, agriculture, forestry-related industries, healthcare services, transportation, and local commerce. Natural resources and visitor spending contribute significantly to workforce opportunities and economic activity.",
-  "population": "7700"
-},
-"Franklin County": {
-  "description": "Franklin County is a growing economic center in southeastern Washington, supported by agriculture, food processing, healthcare services, logistics, manufacturing, and professional services. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "102000"
-},
-
-"Garfield County": {
-  "description": "Garfield County supports a rural economy based on agriculture, healthcare services, transportation, tourism, agribusiness, and local commerce. Farming operations contribute substantially to economic activity throughout the county.",
-  "population": "2200"
-},
-
-"Grant County": {
-  "description": "Grant County is one of central Washington's strongest economic centers, driven by agriculture, manufacturing, energy production, healthcare services, logistics, technology-related industries, and food processing. Its diversified economy contributes significantly to employment and business growth.",
-  "population": "103000"
-},
-
-"Grays Harbor County": {
-  "description": "Grays Harbor County supports a diversified economy based on forestry-related industries, maritime commerce, healthcare services, tourism, manufacturing, transportation, and professional services. Its coastal economy contributes substantially to workforce opportunities and economic development.",
-  "population": "77000"
-},
-
-"Island County": {
-  "description": "Island County benefits from tourism, defense-related industries, healthcare services, hospitality, transportation, professional services, and retail development. Visitor spending and government-related employment contribute significantly to economic activity throughout the county.",
-  "population": "87000"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County supports an economy driven by tourism, healthcare services, marine-related industries, hospitality, transportation, and local business development. Visitor-related industries contribute substantially to workforce opportunities and economic growth.",
-  "population": "34000"
-},
-
-"King County": {
-  "description": "King County is Washington's largest economic center and home to Seattle. Technology, aerospace, healthcare, finance, logistics, professional services, biotechnology, and corporate headquarters drive a highly diversified economy supporting substantial innovation, employment, and business investment.",
-  "population": "2295000"
-},
-
-"Kitsap County": {
-  "description": "Kitsap County is one of western Washington's strongest economic centers, supported by defense-related industries, healthcare services, technology, professional services, manufacturing, retail development, and transportation. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "279000"
-},
-
-"Kittitas County": {
-  "description": "Kittitas County benefits from higher education, tourism, agriculture, healthcare services, transportation, professional services, and retail development. Educational institutions and visitor-related industries contribute substantially to economic activity throughout the county.",
-  "population": "49000"
-},
-
-"Klickitat County": {
-  "description": "Klickitat County supports a diversified economy based on agriculture, energy production, tourism, healthcare services, manufacturing, and transportation. Natural resources and farming operations contribute significantly to economic growth throughout the county.",
-  "population": "23000"
-},
-"Lewis County": {
-  "description": "Lewis County is an important economic center in southwest Washington, supported by healthcare services, manufacturing, logistics, forestry-related industries, professional services, agriculture, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "85000"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County supports a strong agricultural economy based on farming, agribusiness, healthcare services, transportation, food processing, and local commerce. Agricultural operations contribute substantially to economic activity throughout the county.",
-  "population": "11000"
-},
-
-"Mason County": {
-  "description": "Mason County benefits from tourism, forestry-related industries, healthcare services, manufacturing, transportation, and local business development. Natural resources and visitor-related industries contribute significantly to workforce opportunities and economic growth.",
-  "population": "70000"
-},
-
-"Okanogan County": {
-  "description": "Okanogan County supports a diversified economy based on agriculture, tourism, forestry-related industries, healthcare services, transportation, and professional services. Farming operations and visitor spending contribute substantially to economic activity throughout the county.",
-  "population": "43000"
-},
-
-"Pacific County": {
-  "description": "Pacific County benefits from tourism, fisheries, healthcare services, hospitality, transportation, forestry-related industries, and local commerce. Coastal industries contribute significantly to economic development and workforce opportunities.",
-  "population": "24000"
-},
-
-"Pend Oreille County": {
-  "description": "Pend Oreille County supports an economy driven by forestry-related industries, tourism, healthcare services, transportation, agriculture, and local business activity. Natural resources and visitor-related industries contribute substantially to economic growth throughout the county.",
-  "population": "14000"
-},
-
-"Pierce County": {
-  "description": "Pierce County is one of Washington's largest economic centers and home to Tacoma. Healthcare, logistics, manufacturing, defense-related industries, technology, professional services, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "940000"
-},
-
-"San Juan County": {
-  "description": "San Juan County is one of Washington's strongest tourism economies, supported by hospitality, healthcare services, marine-related industries, transportation, professional services, and retail development. Visitor spending contributes significantly to workforce growth and economic activity.",
-  "population": "18000"
-},
-
-"Skagit County": {
-  "description": "Skagit County is an important economic center in northwest Washington, supported by agriculture, manufacturing, healthcare services, tourism, professional services, transportation, and retail development. Its diversified economy contributes significantly to employment and business growth.",
-  "population": "132000"
-},
-
-"Skamania County": {
-  "description": "Skamania County benefits from tourism, outdoor recreation, healthcare services, hospitality, transportation, forestry-related industries, and local commerce. Visitor-related industries contribute substantially to economic development throughout the county.",
-  "population": "12500"
-},
-"Snohomish County": {
-  "description": "Snohomish County is one of Washington's largest economic centers, driven by aerospace, technology, healthcare services, manufacturing, logistics, professional services, retail development, and residential growth. Its proximity to Seattle contributes substantially to workforce expansion and business investment.",
-  "population": "850000"
-},
-
-"Spokane County": {
-  "description": "Spokane County is one of Washington's strongest regional economies, supported by healthcare services, higher education, technology, manufacturing, finance, professional services, logistics, and retail development. Its diversified economy contributes significantly to employment and business growth.",
-  "population": "560000"
-},
-
-"Stevens County": {
-  "description": "Stevens County supports a diversified economy based on forestry-related industries, agriculture, tourism, healthcare services, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "49000"
-},
-
-"Thurston County": {
-  "description": "Thurston County is a major economic center in western Washington, driven by government-related employment, healthcare services, professional services, education, technology-related industries, retail development, and logistics. Its diversified economy supports substantial workforce growth and business investment.",
-  "population": "305000"
-},
-
-"Wahkiakum County": {
-  "description": "Wahkiakum County supports a rural economy based on forestry-related industries, tourism, healthcare services, transportation, fisheries, and local commerce. Natural resources and visitor spending contribute significantly to economic development throughout the county.",
-  "population": "4700"
-},
-
-"Walla Walla County": {
-  "description": "Walla Walla County benefits from agriculture, tourism, higher education, healthcare services, professional services, manufacturing, and hospitality. Its diversified economy contributes substantially to workforce opportunities and regional business growth.",
-  "population": "64000"
-},
-
-"Whatcom County": {
-  "description": "Whatcom County is one of northwest Washington's strongest economic centers, supported by healthcare services, higher education, technology, manufacturing, tourism, professional services, and international trade. Its diversified economy contributes significantly to employment and business investment.",
-  "population": "233000"
-},
-
-"Whitman County": {
-  "description": "Whitman County supports an economy driven by higher education, agriculture, healthcare services, research-related industries, professional services, transportation, and local commerce. Educational institutions contribute substantially to workforce development and economic growth.",
-  "population": "49000"
-},
-
-"Yakima County": {
-  "description": "Yakima County is one of Washington's largest agricultural and manufacturing economies, supported by farming, food processing, healthcare services, logistics, professional services, and retail development. Its diversified economy contributes significantly to employment and business investment.",
-  "population": "257000"
-}
+  "identity": {
+    "code": "wa",
+    "slug": "washington",
+    "name": "Washington",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County supports a strong agricultural economy based on farming, food processing, agribusiness, healthcare services, transportation, and manufacturing. Agricultural industries contribute significantly to workforce opportunities and economic growth throughout the county.",
+      "population": "21000"
+    },
+    "Asotin County": {
+      "description": "Asotin County benefits from healthcare services, tourism, agriculture, transportation, professional services, and local commerce. Outdoor recreation and regional employers contribute substantially to economic activity throughout the county.",
+      "population": "22800"
+    },
+    "Benton County": {
+      "description": "Benton County is one of Washington's strongest economic centers, driven by technology, energy-related industries, healthcare services, agriculture, research, professional services, and manufacturing. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "215000"
+    },
+    "Chelan County": {
+      "description": "Chelan County supports a diversified economy based on tourism, agriculture, healthcare services, hospitality, transportation, and professional services. Visitor spending and farming operations contribute significantly to workforce opportunities and economic growth.",
+      "population": "81000"
+    },
+    "Clallam County": {
+      "description": "Clallam County benefits from tourism, healthcare services, forestry-related industries, transportation, hospitality, and local business development. Natural resources and visitor-related industries contribute substantially to economic activity throughout the county.",
+      "population": "78000"
+    },
+    "Clark County": {
+      "description": "Clark County is one of Washington's fastest-growing economic centers, supported by healthcare services, technology, logistics, professional services, manufacturing, retail development, and residential expansion. Its proximity to Portland contributes significantly to workforce growth and business investment.",
+      "population": "525000"
+    },
+    "Columbia County": {
+      "description": "Columbia County supports a rural economy based on agriculture, healthcare services, transportation, tourism, agribusiness, and local commerce. Farming operations contribute significantly to economic activity throughout the county.",
+      "population": "4000"
+    },
+    "Cowlitz County": {
+      "description": "Cowlitz County is an important economic center in southwest Washington, supported by manufacturing, healthcare services, logistics, forestry-related industries, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "112000"
+    },
+    "Douglas County": {
+      "description": "Douglas County benefits from agriculture, energy production, healthcare services, transportation, tourism, and local business development. Farming operations and regional employers contribute substantially to economic growth throughout the county.",
+      "population": "44000"
+    },
+    "Ferry County": {
+      "description": "Ferry County supports an economy driven by tourism, agriculture, forestry-related industries, healthcare services, transportation, and local commerce. Natural resources and visitor spending contribute significantly to workforce opportunities and economic activity.",
+      "population": "7700"
+    },
+    "Franklin County": {
+      "description": "Franklin County is a growing economic center in southeastern Washington, supported by agriculture, food processing, healthcare services, logistics, manufacturing, and professional services. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "102000"
+    },
+    "Garfield County": {
+      "description": "Garfield County supports a rural economy based on agriculture, healthcare services, transportation, tourism, agribusiness, and local commerce. Farming operations contribute substantially to economic activity throughout the county.",
+      "population": "2200"
+    },
+    "Grant County": {
+      "description": "Grant County is one of central Washington's strongest economic centers, driven by agriculture, manufacturing, energy production, healthcare services, logistics, technology-related industries, and food processing. Its diversified economy contributes significantly to employment and business growth.",
+      "population": "103000"
+    },
+    "Grays Harbor County": {
+      "description": "Grays Harbor County supports a diversified economy based on forestry-related industries, maritime commerce, healthcare services, tourism, manufacturing, transportation, and professional services. Its coastal economy contributes substantially to workforce opportunities and economic development.",
+      "population": "77000"
+    },
+    "Island County": {
+      "description": "Island County benefits from tourism, defense-related industries, healthcare services, hospitality, transportation, professional services, and retail development. Visitor spending and government-related employment contribute significantly to economic activity throughout the county.",
+      "population": "87000"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County supports an economy driven by tourism, healthcare services, marine-related industries, hospitality, transportation, and local business development. Visitor-related industries contribute substantially to workforce opportunities and economic growth.",
+      "population": "34000"
+    },
+    "King County": {
+      "description": "King County is Washington's largest economic center and home to Seattle. Technology, aerospace, healthcare, finance, logistics, professional services, biotechnology, and corporate headquarters drive a highly diversified economy supporting substantial innovation, employment, and business investment.",
+      "population": "2295000"
+    },
+    "Kitsap County": {
+      "description": "Kitsap County is one of western Washington's strongest economic centers, supported by defense-related industries, healthcare services, technology, professional services, manufacturing, retail development, and transportation. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "279000"
+    },
+    "Kittitas County": {
+      "description": "Kittitas County benefits from higher education, tourism, agriculture, healthcare services, transportation, professional services, and retail development. Educational institutions and visitor-related industries contribute substantially to economic activity throughout the county.",
+      "population": "49000"
+    },
+    "Klickitat County": {
+      "description": "Klickitat County supports a diversified economy based on agriculture, energy production, tourism, healthcare services, manufacturing, and transportation. Natural resources and farming operations contribute significantly to economic growth throughout the county.",
+      "population": "23000"
+    },
+    "Lewis County": {
+      "description": "Lewis County is an important economic center in southwest Washington, supported by healthcare services, manufacturing, logistics, forestry-related industries, professional services, agriculture, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "85000"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County supports a strong agricultural economy based on farming, agribusiness, healthcare services, transportation, food processing, and local commerce. Agricultural operations contribute substantially to economic activity throughout the county.",
+      "population": "11000"
+    },
+    "Mason County": {
+      "description": "Mason County benefits from tourism, forestry-related industries, healthcare services, manufacturing, transportation, and local business development. Natural resources and visitor-related industries contribute significantly to workforce opportunities and economic growth.",
+      "population": "70000"
+    },
+    "Okanogan County": {
+      "description": "Okanogan County supports a diversified economy based on agriculture, tourism, forestry-related industries, healthcare services, transportation, and professional services. Farming operations and visitor spending contribute substantially to economic activity throughout the county.",
+      "population": "43000"
+    },
+    "Pacific County": {
+      "description": "Pacific County benefits from tourism, fisheries, healthcare services, hospitality, transportation, forestry-related industries, and local commerce. Coastal industries contribute significantly to economic development and workforce opportunities.",
+      "population": "24000"
+    },
+    "Pend Oreille County": {
+      "description": "Pend Oreille County supports an economy driven by forestry-related industries, tourism, healthcare services, transportation, agriculture, and local business activity. Natural resources and visitor-related industries contribute substantially to economic growth throughout the county.",
+      "population": "14000"
+    },
+    "Pierce County": {
+      "description": "Pierce County is one of Washington's largest economic centers and home to Tacoma. Healthcare, logistics, manufacturing, defense-related industries, technology, professional services, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "940000"
+    },
+    "San Juan County": {
+      "description": "San Juan County is one of Washington's strongest tourism economies, supported by hospitality, healthcare services, marine-related industries, transportation, professional services, and retail development. Visitor spending contributes significantly to workforce growth and economic activity.",
+      "population": "18000"
+    },
+    "Skagit County": {
+      "description": "Skagit County is an important economic center in northwest Washington, supported by agriculture, manufacturing, healthcare services, tourism, professional services, transportation, and retail development. Its diversified economy contributes significantly to employment and business growth.",
+      "population": "132000"
+    },
+    "Skamania County": {
+      "description": "Skamania County benefits from tourism, outdoor recreation, healthcare services, hospitality, transportation, forestry-related industries, and local commerce. Visitor-related industries contribute substantially to economic development throughout the county.",
+      "population": "12500"
+    },
+    "Snohomish County": {
+      "description": "Snohomish County is one of Washington's largest economic centers, driven by aerospace, technology, healthcare services, manufacturing, logistics, professional services, retail development, and residential growth. Its proximity to Seattle contributes substantially to workforce expansion and business investment.",
+      "population": "850000"
+    },
+    "Spokane County": {
+      "description": "Spokane County is one of Washington's strongest regional economies, supported by healthcare services, higher education, technology, manufacturing, finance, professional services, logistics, and retail development. Its diversified economy contributes significantly to employment and business growth.",
+      "population": "560000"
+    },
+    "Stevens County": {
+      "description": "Stevens County supports a diversified economy based on forestry-related industries, agriculture, tourism, healthcare services, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "49000"
+    },
+    "Thurston County": {
+      "description": "Thurston County is a major economic center in western Washington, driven by government-related employment, healthcare services, professional services, education, technology-related industries, retail development, and logistics. Its diversified economy supports substantial workforce growth and business investment.",
+      "population": "305000"
+    },
+    "Wahkiakum County": {
+      "description": "Wahkiakum County supports a rural economy based on forestry-related industries, tourism, healthcare services, transportation, fisheries, and local commerce. Natural resources and visitor spending contribute significantly to economic development throughout the county.",
+      "population": "4700"
+    },
+    "Walla Walla County": {
+      "description": "Walla Walla County benefits from agriculture, tourism, higher education, healthcare services, professional services, manufacturing, and hospitality. Its diversified economy contributes substantially to workforce opportunities and regional business growth.",
+      "population": "64000"
+    },
+    "Whatcom County": {
+      "description": "Whatcom County is one of northwest Washington's strongest economic centers, supported by healthcare services, higher education, technology, manufacturing, tourism, professional services, and international trade. Its diversified economy contributes significantly to employment and business investment.",
+      "population": "233000"
+    },
+    "Whitman County": {
+      "description": "Whitman County supports an economy driven by higher education, agriculture, healthcare services, research-related industries, professional services, transportation, and local commerce. Educational institutions contribute substantially to workforce development and economic growth.",
+      "population": "49000"
+    },
+    "Yakima County": {
+      "description": "Yakima County is one of Washington's largest agricultural and manufacturing economies, supported by farming, food processing, healthcare services, logistics, professional services, and retail development. Its diversified economy contributes significantly to employment and business investment.",
+      "population": "257000"
+    }
+  }
 }

@@ -1,70 +1,67 @@
 {
-"Addison County": {
-  "description": "Addison County supports a diversified economy based on higher education, agriculture, healthcare services, tourism, manufacturing, and professional services. Educational institutions and farming operations contribute significantly to workforce opportunities and economic growth throughout the county.",
-  "population": "37300"
-},
-
-"Bennington County": {
-  "description": "Bennington County is an important economic center in southern Vermont, supported by healthcare services, manufacturing, tourism, higher education, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "37200"
-},
-
-"Caledonia County": {
-  "description": "Caledonia County benefits from healthcare services, manufacturing, agriculture, forestry-related industries, tourism, and local business development. Its diversified economy contributes significantly to workforce opportunities and economic activity throughout the county.",
-  "population": "30900"
-},
-
-"Chittenden County": {
-  "description": "Chittenden County is Vermont's largest economic center and home to Burlington. Healthcare, higher education, technology, finance, professional services, manufacturing, tourism, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "169400"
-},
-
-"Essex County": {
-  "description": "Essex County supports a rural economy based on forestry-related industries, tourism, healthcare services, transportation, agriculture, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "5900"
-},
-
-"Franklin County": {
-  "description": "Franklin County is one of northern Vermont's strongest economic centers, supported by manufacturing, agriculture, healthcare services, transportation, professional services, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "50700"
-},
-
-"Grand Isle County": {
-  "description": "Grand Isle County benefits from tourism, hospitality, healthcare services, transportation, agriculture, and local business development. Visitor spending and regional commerce contribute significantly to economic growth throughout the county.",
-  "population": "7500"
-},
-
-"Lamoille County": {
-  "description": "Lamoille County supports an economy driven by tourism, hospitality, healthcare services, professional services, outdoor recreation, and local commerce. Visitor-related industries contribute substantially to workforce opportunities and economic development.",
-  "population": "26500"
-},
-
-"Orange County": {
-  "description": "Orange County combines agriculture, healthcare services, manufacturing, tourism, transportation, and local business activity. Farming operations and diversified employers contribute significantly to economic activity throughout the county.",
-  "population": "30100"
-},
-
-"Orleans County": {
-  "description": "Orleans County supports a diversified economy based on agriculture, tourism, healthcare services, manufacturing, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "27800"
-},
-"Rutland County": {
-  "description": "Rutland County is one of Vermont's largest economic centers, supported by healthcare services, tourism, manufacturing, higher education, professional services, retail development, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "60300"
-},
-
-"Washington County": {
-  "description": "Washington County is an important government and economic center in Vermont, supported by public administration, healthcare services, higher education, finance, professional services, tourism, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "59300"
-},
-
-"Windham County": {
-  "description": "Windham County benefits from tourism, healthcare services, professional services, manufacturing, education, transportation, and local business development. Visitor spending and diversified industries contribute substantially to workforce opportunities and economic growth.",
-  "population": "45800"
-},
-
-"Windsor County": {
-  "description": "Windsor County is one of Vermont's strongest regional economies, driven by healthcare services, tourism, manufacturing, higher education, professional services, agriculture, and retail development. Its diversified economy contributes significantly to employment and business investment throughout the county.",
-  "population": "57300"
-}
+  "identity": {
+    "code": "vt",
+    "slug": "vermont",
+    "name": "Vermont",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Addison County": {
+      "description": "Addison County supports a diversified economy based on higher education, agriculture, healthcare services, tourism, manufacturing, and professional services. Educational institutions and farming operations contribute significantly to workforce opportunities and economic growth throughout the county.",
+      "population": "37300"
+    },
+    "Bennington County": {
+      "description": "Bennington County is an important economic center in southern Vermont, supported by healthcare services, manufacturing, tourism, higher education, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "37200"
+    },
+    "Caledonia County": {
+      "description": "Caledonia County benefits from healthcare services, manufacturing, agriculture, forestry-related industries, tourism, and local business development. Its diversified economy contributes significantly to workforce opportunities and economic activity throughout the county.",
+      "population": "30900"
+    },
+    "Chittenden County": {
+      "description": "Chittenden County is Vermont's largest economic center and home to Burlington. Healthcare, higher education, technology, finance, professional services, manufacturing, tourism, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "169400"
+    },
+    "Essex County": {
+      "description": "Essex County supports a rural economy based on forestry-related industries, tourism, healthcare services, transportation, agriculture, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "5900"
+    },
+    "Franklin County": {
+      "description": "Franklin County is one of northern Vermont's strongest economic centers, supported by manufacturing, agriculture, healthcare services, transportation, professional services, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "50700"
+    },
+    "Grand Isle County": {
+      "description": "Grand Isle County benefits from tourism, hospitality, healthcare services, transportation, agriculture, and local business development. Visitor spending and regional commerce contribute significantly to economic growth throughout the county.",
+      "population": "7500"
+    },
+    "Lamoille County": {
+      "description": "Lamoille County supports an economy driven by tourism, hospitality, healthcare services, professional services, outdoor recreation, and local commerce. Visitor-related industries contribute substantially to workforce opportunities and economic development.",
+      "population": "26500"
+    },
+    "Orange County": {
+      "description": "Orange County combines agriculture, healthcare services, manufacturing, tourism, transportation, and local business activity. Farming operations and diversified employers contribute significantly to economic activity throughout the county.",
+      "population": "30100"
+    },
+    "Orleans County": {
+      "description": "Orleans County supports a diversified economy based on agriculture, tourism, healthcare services, manufacturing, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "27800"
+    },
+    "Rutland County": {
+      "description": "Rutland County is one of Vermont's largest economic centers, supported by healthcare services, tourism, manufacturing, higher education, professional services, retail development, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "60300"
+    },
+    "Washington County": {
+      "description": "Washington County is an important government and economic center in Vermont, supported by public administration, healthcare services, higher education, finance, professional services, tourism, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "59300"
+    },
+    "Windham County": {
+      "description": "Windham County benefits from tourism, healthcare services, professional services, manufacturing, education, transportation, and local business development. Visitor spending and diversified industries contribute substantially to workforce opportunities and economic growth.",
+      "population": "45800"
+    },
+    "Windsor County": {
+      "description": "Windsor County is one of Vermont's strongest regional economies, driven by healthcare services, tourism, manufacturing, higher education, professional services, agriculture, and retail development. Its diversified economy contributes significantly to employment and business investment throughout the county.",
+      "population": "57300"
+    }
+  }
 }

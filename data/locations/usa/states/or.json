@@ -1,178 +1,155 @@
 {
-"Baker County": {
-  "description": "Baker County supports a diversified economy based on agriculture, ranching, healthcare services, tourism, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "16945"
-},
-
-"Benton County": {
-  "description": "Benton County is one of Oregon's leading education and innovation economies, supported by higher education, healthcare services, technology, research, professional services, and retail development. Its knowledge-based economy contributes substantially to regional workforce growth and business investment.",
-  "population": "98576"
-},
-
-"Clackamas County": {
-  "description": "Clackamas County is one of Oregon's largest economic centers, driven by healthcare, manufacturing, logistics, technology, professional services, retail development, and residential expansion. Its location within the Portland metropolitan area supports substantial business investment and workforce growth.",
-  "population": "433430"
-},
-
-"Clatsop County": {
-  "description": "Clatsop County benefits from tourism, healthcare services, maritime industries, hospitality, manufacturing, and local business development. Visitor spending and coastal industries contribute significantly to economic growth throughout the county.",
-  "population": "41756"
-},
-
-"Columbia County": {
-  "description": "Columbia County supports a diversified economy based on manufacturing, healthcare services, transportation, energy-related industries, forestry, and professional services. Its strategic location contributes significantly to regional economic development.",
-  "population": "53640"
-},
-
-"Coos County": {
-  "description": "Coos County serves as an important economic center on Oregon's southern coast, supported by healthcare, tourism, forestry, maritime industries, manufacturing, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "64929"
-},
-
-"Crook County": {
-  "description": "Crook County supports an economy driven by agriculture, healthcare services, manufacturing, construction, tourism, and local commerce. Its growing business community contributes significantly to workforce opportunities and economic development.",
-  "population": "26641"
-},
-
-"Curry County": {
-  "description": "Curry County benefits from tourism, healthcare services, fishing industries, hospitality, forestry, and local business development. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "23913"
-},
-
-"Deschutes County": {
-  "description": "Deschutes County is one of Oregon's fastest-growing economic centers, anchored by healthcare, technology, tourism, professional services, construction, retail development, and outdoor recreation industries. Its diversified economy contributes substantially to business investment and workforce growth.",
-  "population": "214112"
-},
-
-"Douglas County": {
-  "description": "Douglas County supports a diversified economy based on healthcare services, forestry, manufacturing, agriculture, tourism, transportation, and professional services. Its strong business community contributes significantly to regional employment and economic activity.",
-  "population": "112736"
-},
-"Gilliam County": {
-  "description": "Gilliam County supports a rural economy based on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and renewable energy projects contribute significantly to economic activity throughout the county.",
-  "population": "2012"
-},
-
-"Grant County": {
-  "description": "Grant County benefits from ranching, forestry, healthcare services, tourism, transportation, and local business development. Natural resources and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "7178"
-},
-
-"Harney County": {
-  "description": "Harney County maintains a diversified economy centered on ranching, agriculture, healthcare services, government employment, tourism, and transportation. Livestock production remains a major contributor to economic activity throughout the county.",
-  "population": "7522"
-},
-
-"Hood River County": {
-  "description": "Hood River County supports a strong economy driven by tourism, agriculture, healthcare services, outdoor recreation, technology, and professional services. Visitor spending and agricultural production contribute substantially to regional business growth and employment.",
-  "population": "24218"
-},
-
-"Jackson County": {
-  "description": "Jackson County is one of southern Oregon's largest economic centers, supported by healthcare, tourism, manufacturing, logistics, professional services, retail development, and technology. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "223259"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County benefits from agriculture, manufacturing, healthcare services, transportation, construction, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "25862"
-},
-
-"Josephine County": {
-  "description": "Josephine County supports a diversified economy based on healthcare services, tourism, forestry, retail development, professional services, and outdoor recreation. Visitor spending and local businesses contribute substantially to economic growth throughout the county.",
-  "population": "89839"
-},
-
-"Klamath County": {
-  "description": "Klamath County serves as a major economic center in southern Oregon, driven by healthcare, agriculture, forestry, manufacturing, transportation, education, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "70510"
-},
-
-"Lake County": {
-  "description": "Lake County supports an economy based on ranching, agriculture, healthcare services, tourism, forestry, transportation, and local commerce. Natural resources and livestock production contribute significantly to economic activity throughout the county.",
-  "population": "8100"
-},
-
-"Lane County": {
-  "description": "Lane County is one of Oregon's largest economic centers and home to Eugene. Healthcare, higher education, technology, manufacturing, tourism, professional services, and retail development drive a highly diversified economy that supports substantial employment and business growth.",
-  "population": "387749"
-},
-"Lincoln County": {
-  "description": "Lincoln County supports a diversified coastal economy based on tourism, healthcare services, fishing industries, hospitality, retail development, and professional services. Visitor spending and maritime industries contribute significantly to economic activity throughout the county.",
-  "population": "50885"
-},
-
-"Linn County": {
-  "description": "Linn County is one of Oregon's leading manufacturing and agricultural centers, supported by healthcare services, forestry, logistics, retail development, and professional industries. Its diversified economy contributes substantially to workforce growth and regional business investment.",
-  "population": "131846"
-},
-
-"Malheur County": {
-  "description": "Malheur County benefits from agriculture, food processing, healthcare services, transportation, manufacturing, and local commerce. Farming operations and agribusiness industries contribute significantly to economic development throughout the county.",
-  "population": "32107"
-},
-
-"Marion County": {
-  "description": "Marion County is one of Oregon's largest economic centers and home to Salem. Government services, healthcare, manufacturing, agriculture, logistics, professional services, and retail development drive a highly diversified economy supporting substantial employment and business growth.",
-  "population": "350627"
-},
-
-"Morrow County": {
-  "description": "Morrow County supports an economy driven by agriculture, energy production, transportation, healthcare services, food processing, and manufacturing. Agribusiness and industrial development contribute significantly to regional economic activity.",
-  "population": "12981"
-},
-
-"Multnomah County": {
-  "description": "Multnomah County is Oregon's largest economic center and home to Portland. Technology, healthcare, finance, logistics, professional services, advanced manufacturing, retail development, and corporate headquarters drive a highly diversified economy that supports substantial business investment and workforce growth.",
-  "population": "803907"
-},
-
-"Polk County": {
-  "description": "Polk County benefits from agriculture, healthcare services, manufacturing, education, transportation, and professional services. Its proximity to the Salem metropolitan area contributes significantly to economic growth and workforce opportunities.",
-  "population": "92373"
-},
-
-"Sherman County": {
-  "description": "Sherman County maintains a rural economy centered on agriculture, renewable energy development, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "1864"
-},
-
-"Tillamook County": {
-  "description": "Tillamook County supports a diversified economy based on agriculture, tourism, food processing, healthcare services, fishing industries, and local commerce. Visitor spending and agricultural production contribute substantially to regional business growth.",
-  "population": "27390"
-},
-
-"Umatilla County": {
-  "description": "Umatilla County is one of eastern Oregon's strongest economic centers, anchored by agriculture, food processing, manufacturing, transportation, healthcare services, logistics, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "82083"
-},
-"Union County": {
-  "description": "Union County serves as an important economic center in eastern Oregon, supported by healthcare services, higher education, agriculture, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "26963"
-},
-
-"Wallowa County": {
-  "description": "Wallowa County supports a diversified economy based on tourism, ranching, agriculture, healthcare services, forestry, outdoor recreation, and local commerce. Visitor spending and natural resources contribute substantially to economic activity throughout the county.",
-  "population": "7589"
-},
-
-"Wasco County": {
-  "description": "Wasco County benefits from agriculture, healthcare services, transportation, renewable energy development, tourism, and manufacturing. Its strategic Columbia River location contributes significantly to regional economic growth and workforce opportunities.",
-  "population": "26904"
-},
-
-"Washington County": {
-  "description": "Washington County is one of Oregon's most powerful economic centers, driven by technology, healthcare, advanced manufacturing, finance, professional services, retail development, and corporate headquarters. Its location within the Portland metropolitan area supports substantial business investment and workforce growth.",
-  "population": "610245"
-},
-
-"Wheeler County": {
-  "description": "Wheeler County maintains a rural economy centered on ranching, agriculture, healthcare services, tourism, transportation, and local business activity. Livestock production and visitor-related industries contribute significantly to economic development throughout the county.",
-  "population": "1451"
-},
-
-"Yamhill County": {
-  "description": "Yamhill County supports a diversified economy based on agriculture, viticulture, tourism, healthcare services, manufacturing, professional services, and retail development. Its wine industry and growing business community contribute substantially to regional economic growth.",
-  "population": "111207"
-}
+  "identity": {
+    "code": "or",
+    "slug": "oregon",
+    "name": "Oregon",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Baker County": {
+      "description": "Baker County supports a diversified economy based on agriculture, ranching, healthcare services, tourism, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "16945"
+    },
+    "Benton County": {
+      "description": "Benton County is one of Oregon's leading education and innovation economies, supported by higher education, healthcare services, technology, research, professional services, and retail development. Its knowledge-based economy contributes substantially to regional workforce growth and business investment.",
+      "population": "98576"
+    },
+    "Clackamas County": {
+      "description": "Clackamas County is one of Oregon's largest economic centers, driven by healthcare, manufacturing, logistics, technology, professional services, retail development, and residential expansion. Its location within the Portland metropolitan area supports substantial business investment and workforce growth.",
+      "population": "433430"
+    },
+    "Clatsop County": {
+      "description": "Clatsop County benefits from tourism, healthcare services, maritime industries, hospitality, manufacturing, and local business development. Visitor spending and coastal industries contribute significantly to economic growth throughout the county.",
+      "population": "41756"
+    },
+    "Columbia County": {
+      "description": "Columbia County supports a diversified economy based on manufacturing, healthcare services, transportation, energy-related industries, forestry, and professional services. Its strategic location contributes significantly to regional economic development.",
+      "population": "53640"
+    },
+    "Coos County": {
+      "description": "Coos County serves as an important economic center on Oregon's southern coast, supported by healthcare, tourism, forestry, maritime industries, manufacturing, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "64929"
+    },
+    "Crook County": {
+      "description": "Crook County supports an economy driven by agriculture, healthcare services, manufacturing, construction, tourism, and local commerce. Its growing business community contributes significantly to workforce opportunities and economic development.",
+      "population": "26641"
+    },
+    "Curry County": {
+      "description": "Curry County benefits from tourism, healthcare services, fishing industries, hospitality, forestry, and local business development. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "23913"
+    },
+    "Deschutes County": {
+      "description": "Deschutes County is one of Oregon's fastest-growing economic centers, anchored by healthcare, technology, tourism, professional services, construction, retail development, and outdoor recreation industries. Its diversified economy contributes substantially to business investment and workforce growth.",
+      "population": "214112"
+    },
+    "Douglas County": {
+      "description": "Douglas County supports a diversified economy based on healthcare services, forestry, manufacturing, agriculture, tourism, transportation, and professional services. Its strong business community contributes significantly to regional employment and economic activity.",
+      "population": "112736"
+    },
+    "Gilliam County": {
+      "description": "Gilliam County supports a rural economy based on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and renewable energy projects contribute significantly to economic activity throughout the county.",
+      "population": "2012"
+    },
+    "Grant County": {
+      "description": "Grant County benefits from ranching, forestry, healthcare services, tourism, transportation, and local business development. Natural resources and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "7178"
+    },
+    "Harney County": {
+      "description": "Harney County maintains a diversified economy centered on ranching, agriculture, healthcare services, government employment, tourism, and transportation. Livestock production remains a major contributor to economic activity throughout the county.",
+      "population": "7522"
+    },
+    "Hood River County": {
+      "description": "Hood River County supports a strong economy driven by tourism, agriculture, healthcare services, outdoor recreation, technology, and professional services. Visitor spending and agricultural production contribute substantially to regional business growth and employment.",
+      "population": "24218"
+    },
+    "Jackson County": {
+      "description": "Jackson County is one of southern Oregon's largest economic centers, supported by healthcare, tourism, manufacturing, logistics, professional services, retail development, and technology. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "223259"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County benefits from agriculture, manufacturing, healthcare services, transportation, construction, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "25862"
+    },
+    "Josephine County": {
+      "description": "Josephine County supports a diversified economy based on healthcare services, tourism, forestry, retail development, professional services, and outdoor recreation. Visitor spending and local businesses contribute substantially to economic growth throughout the county.",
+      "population": "89839"
+    },
+    "Klamath County": {
+      "description": "Klamath County serves as a major economic center in southern Oregon, driven by healthcare, agriculture, forestry, manufacturing, transportation, education, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "70510"
+    },
+    "Lake County": {
+      "description": "Lake County supports an economy based on ranching, agriculture, healthcare services, tourism, forestry, transportation, and local commerce. Natural resources and livestock production contribute significantly to economic activity throughout the county.",
+      "population": "8100"
+    },
+    "Lane County": {
+      "description": "Lane County is one of Oregon's largest economic centers and home to Eugene. Healthcare, higher education, technology, manufacturing, tourism, professional services, and retail development drive a highly diversified economy that supports substantial employment and business growth.",
+      "population": "387749"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County supports a diversified coastal economy based on tourism, healthcare services, fishing industries, hospitality, retail development, and professional services. Visitor spending and maritime industries contribute significantly to economic activity throughout the county.",
+      "population": "50885"
+    },
+    "Linn County": {
+      "description": "Linn County is one of Oregon's leading manufacturing and agricultural centers, supported by healthcare services, forestry, logistics, retail development, and professional industries. Its diversified economy contributes substantially to workforce growth and regional business investment.",
+      "population": "131846"
+    },
+    "Malheur County": {
+      "description": "Malheur County benefits from agriculture, food processing, healthcare services, transportation, manufacturing, and local commerce. Farming operations and agribusiness industries contribute significantly to economic development throughout the county.",
+      "population": "32107"
+    },
+    "Marion County": {
+      "description": "Marion County is one of Oregon's largest economic centers and home to Salem. Government services, healthcare, manufacturing, agriculture, logistics, professional services, and retail development drive a highly diversified economy supporting substantial employment and business growth.",
+      "population": "350627"
+    },
+    "Morrow County": {
+      "description": "Morrow County supports an economy driven by agriculture, energy production, transportation, healthcare services, food processing, and manufacturing. Agribusiness and industrial development contribute significantly to regional economic activity.",
+      "population": "12981"
+    },
+    "Multnomah County": {
+      "description": "Multnomah County is Oregon's largest economic center and home to Portland. Technology, healthcare, finance, logistics, professional services, advanced manufacturing, retail development, and corporate headquarters drive a highly diversified economy that supports substantial business investment and workforce growth.",
+      "population": "803907"
+    },
+    "Polk County": {
+      "description": "Polk County benefits from agriculture, healthcare services, manufacturing, education, transportation, and professional services. Its proximity to the Salem metropolitan area contributes significantly to economic growth and workforce opportunities.",
+      "population": "92373"
+    },
+    "Sherman County": {
+      "description": "Sherman County maintains a rural economy centered on agriculture, renewable energy development, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "1864"
+    },
+    "Tillamook County": {
+      "description": "Tillamook County supports a diversified economy based on agriculture, tourism, food processing, healthcare services, fishing industries, and local commerce. Visitor spending and agricultural production contribute substantially to regional business growth.",
+      "population": "27390"
+    },
+    "Umatilla County": {
+      "description": "Umatilla County is one of eastern Oregon's strongest economic centers, anchored by agriculture, food processing, manufacturing, transportation, healthcare services, logistics, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "82083"
+    },
+    "Union County": {
+      "description": "Union County serves as an important economic center in eastern Oregon, supported by healthcare services, higher education, agriculture, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "26963"
+    },
+    "Wallowa County": {
+      "description": "Wallowa County supports a diversified economy based on tourism, ranching, agriculture, healthcare services, forestry, outdoor recreation, and local commerce. Visitor spending and natural resources contribute substantially to economic activity throughout the county.",
+      "population": "7589"
+    },
+    "Wasco County": {
+      "description": "Wasco County benefits from agriculture, healthcare services, transportation, renewable energy development, tourism, and manufacturing. Its strategic Columbia River location contributes significantly to regional economic growth and workforce opportunities.",
+      "population": "26904"
+    },
+    "Washington County": {
+      "description": "Washington County is one of Oregon's most powerful economic centers, driven by technology, healthcare, advanced manufacturing, finance, professional services, retail development, and corporate headquarters. Its location within the Portland metropolitan area supports substantial business investment and workforce growth.",
+      "population": "610245"
+    },
+    "Wheeler County": {
+      "description": "Wheeler County maintains a rural economy centered on ranching, agriculture, healthcare services, tourism, transportation, and local business activity. Livestock production and visitor-related industries contribute significantly to economic development throughout the county.",
+      "population": "1451"
+    },
+    "Yamhill County": {
+      "description": "Yamhill County supports a diversified economy based on agriculture, viticulture, tourism, healthcare services, manufacturing, professional services, and retail development. Its wine industry and growing business community contribute substantially to regional economic growth.",
+      "population": "111207"
+    }
+  }
 }

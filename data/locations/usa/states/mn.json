@@ -1,428 +1,359 @@
 {
-"Aitkin County": {
-  "description": "Aitkin County supports an economy driven by tourism, forestry, healthcare services, outdoor recreation, agriculture, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "16095"
-},
-
-"Anoka County": {
-  "description": "Anoka County is one of Minnesota's largest economic centers, supported by healthcare, manufacturing, technology, retail development, logistics, professional services, and residential growth. Its location within the Minneapolis–Saint Paul metropolitan area drives substantial business investment.",
-  "population": "367018"
-},
-
-"Becker County": {
-  "description": "Becker County combines tourism, healthcare services, agriculture, manufacturing, education, and local commerce. Its lakes and recreational opportunities contribute significantly to visitor spending and regional economic growth.",
-  "population": "36787"
-},
-
-"Beltrami County": {
-  "description": "Beltrami County serves as a major regional center in northern Minnesota, supported by healthcare, education, tourism, forestry, government services, and professional industries. Its diversified economy contributes substantially to workforce development and business activity.",
-  "population": "47762"
-},
-
-"Benton County": {
-  "description": "Benton County benefits from manufacturing, healthcare services, logistics, agriculture, retail activity, and professional services. Its strategic location in central Minnesota supports continued economic development and investment.",
-  "population": "41879"
-},
-
-"Big Stone County": {
-  "description": "Big Stone County maintains a rural economy centered on agriculture, agribusiness, healthcare services, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "4918"
-},
-
-"Blue Earth County": {
-  "description": "Blue Earth County is a major economic and educational center in southern Minnesota, driven by healthcare, higher education, manufacturing, agriculture, finance, and professional services. Its diversified economy supports substantial regional growth.",
-  "population": "69457"
-},
-
-"Brown County": {
-  "description": "Brown County supports a diversified economy based on agriculture, manufacturing, healthcare services, education, retail activity, and local commerce. Industrial employers and farming operations contribute significantly to economic development.",
-  "population": "25477"
-},
-
-"Carlton County": {
-  "description": "Carlton County combines healthcare, forestry, tourism, manufacturing, transportation, and local business activity. Its strategic location near Duluth supports continued economic growth and workforce opportunities.",
-  "population": "37206"
-},
-
-"Carver County": {
-  "description": "Carver County is one of Minnesota's fastest-growing and most affluent counties, supported by healthcare, technology, manufacturing, professional services, retail development, and residential expansion. Its proximity to the Twin Cities drives strong economic investment and business growth.",
-  "population": "108448"
-},
-"Cass County": {
-  "description": "Cass County supports an economy driven by tourism, healthcare services, forestry, outdoor recreation, agriculture, and local commerce. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "30920"
-},
-
-"Chippewa County": {
-  "description": "Chippewa County maintains a diversified economy based on agriculture, manufacturing, healthcare services, education, renewable energy development, and local business activity. Farming operations remain important contributors to regional economic growth.",
-  "population": "12298"
-},
-
-"Chisago County": {
-  "description": "Chisago County is one of Minnesota's growing counties, supported by healthcare, manufacturing, retail development, professional services, tourism, and residential expansion. Its proximity to the Twin Cities contributes to continued economic investment.",
-  "population": "58717"
-},
-
-"Clay County": {
-  "description": "Clay County serves as a major economic and educational center in western Minnesota, driven by higher education, healthcare, agriculture, finance, retail activity, and professional services. Its diversified economy supports strong regional employment.",
-  "population": "65887"
-},
-
-"Clearwater County": {
-  "description": "Clearwater County combines forestry, tourism, healthcare services, agriculture, outdoor recreation, and local commerce. Natural resources and visitor-related industries continue to support economic activity throughout the county.",
-  "population": "8667"
-},
-
-"Cook County": {
-  "description": "Cook County benefits from tourism, hospitality, healthcare services, outdoor recreation, forestry, and local business development. Visitor spending remains a primary driver of economic activity throughout the county.",
-  "population": "5658"
-},
-
-"Cottonwood County": {
-  "description": "Cottonwood County supports a strong agricultural economy complemented by manufacturing, healthcare services, renewable energy development, agribusiness, and local commerce. Farming operations continue to drive economic growth.",
-  "population": "11318"
-},
-
-"Crow Wing County": {
-  "description": "Crow Wing County is one of central Minnesota's strongest tourism and service economies, supported by healthcare, hospitality, retail development, manufacturing, professional services, and outdoor recreation. Its growing economy contributes significantly to regional business activity.",
-  "population": "67890"
-},
-
-"Dakota County": {
-  "description": "Dakota County is one of Minnesota's largest economic centers, driven by healthcare, logistics, manufacturing, technology, finance, education, and professional services. Its location within the Twin Cities metropolitan area supports substantial commercial growth and workforce development.",
-  "population": "448344"
-},
-
-"Dodge County": {
-  "description": "Dodge County combines agriculture, manufacturing, healthcare services, logistics, retail activity, and local commerce. Its diversified economy supports stable employment opportunities and continued business investment.",
-  "population": "21379"
-},
-"Douglas County": {
-  "description": "Douglas County supports a diversified economy driven by healthcare, tourism, manufacturing, agriculture, retail activity, and professional services. Its lakes and recreational amenities contribute significantly to regional economic growth.",
-  "population": "39806"
-},
-
-"Faribault County": {
-  "description": "Faribault County maintains a strong agricultural economy supported by agribusiness, manufacturing, healthcare services, renewable energy development, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "13566"
-},
-
-"Fillmore County": {
-  "description": "Fillmore County combines agriculture, tourism, healthcare services, manufacturing, outdoor recreation, and local business development. Its diverse economy supports stable employment and long-term community growth.",
-  "population": "21408"
-},
-
-"Freeborn County": {
-  "description": "Freeborn County serves as an important economic center in southern Minnesota, supported by manufacturing, healthcare, agriculture, transportation, retail activity, and professional services. Its diversified economy contributes substantially to regional employment.",
-  "population": "30895"
-},
-
-"Goodhue County": {
-  "description": "Goodhue County benefits from manufacturing, healthcare services, agriculture, education, tourism, and local commerce. Its strategic location along the Mississippi River supports continued economic development and business investment.",
-  "population": "47582"
-},
-
-"Grant County": {
-  "description": "Grant County supports a rural economy based on agriculture, agribusiness, healthcare services, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "5971"
-},
-
-"Hennepin County": {
-  "description": "Hennepin County is Minnesota's largest economic center and home to Minneapolis. Healthcare, finance, technology, higher education, manufacturing, professional services, logistics, and corporate headquarters drive one of the most diversified and innovative economies in the Midwest.",
-  "population": "1281565"
-},
-
-"Houston County": {
-  "description": "Houston County combines agriculture, tourism, healthcare services, manufacturing, outdoor recreation, and local commerce. Natural attractions and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "18843"
-},
-
-"Hubbard County": {
-  "description": "Hubbard County supports an economy driven by tourism, healthcare services, forestry, hospitality, outdoor recreation, and local business activity. Visitor spending and natural resources continue to play important roles in economic growth.",
-  "population": "21810"
-},
-
-"Isanti County": {
-  "description": "Isanti County is a growing county in east-central Minnesota, supported by healthcare, manufacturing, retail development, professional services, agriculture, and residential expansion. Its proximity to the Twin Cities contributes to continued economic investment.",
-  "population": "43018"
-},
-"Itasca County": {
-  "description": "Itasca County serves as a major economic center in northern Minnesota, supported by healthcare, mining-related industries, forestry, tourism, education, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "45391"
-},
-
-"Jackson County": {
-  "description": "Jackson County supports a strong agricultural economy complemented by manufacturing, healthcare services, renewable energy development, agribusiness, and local commerce. Farming operations remain central to economic activity throughout the county.",
-  "population": "9978"
-},
-
-"Kanabec County": {
-  "description": "Kanabec County combines healthcare, manufacturing, agriculture, forestry, tourism, and local business activity. Its diversified economy supports stable employment opportunities and community growth throughout the county.",
-  "population": "16809"
-},
-
-"Kandiyohi County": {
-  "description": "Kandiyohi County is one of central Minnesota's strongest economic centers, driven by healthcare, manufacturing, agriculture, education, retail development, and professional services. Its diverse economy supports substantial regional growth and workforce development.",
-  "population": "43876"
-},
-
-"Kittson County": {
-  "description": "Kittson County maintains a rural economy based on agriculture, agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the primary contributor to economic activity throughout the county.",
-  "population": "4207"
-},
-
-"Koochiching County": {
-  "description": "Koochiching County supports an economy driven by forestry, healthcare services, tourism, manufacturing, outdoor recreation, and local commerce. Natural resource industries continue to play a major role in economic development.",
-  "population": "12370"
-},
-
-"Lac qui Parle County": {
-  "description": "Lac qui Parle County benefits from agriculture, healthcare services, renewable energy development, agribusiness, tourism, and local business activity. Farming operations contribute significantly to regional economic stability.",
-  "population": "6649"
-},
-
-"Lake County": {
-  "description": "Lake County combines tourism, mining-related industries, healthcare services, forestry, outdoor recreation, and local commerce. Natural attractions and resource-based industries support long-term economic growth.",
-  "population": "10877"
-},
-
-"Lake of the Woods County": {
-  "description": "Lake of the Woods County supports a tourism-driven economy complemented by healthcare services, forestry, hospitality, outdoor recreation, and local commerce. Visitor spending remains a key contributor to economic activity throughout the county.",
-  "population": "3799"
-},
-
-"Le Sueur County": {
-  "description": "Le Sueur County benefits from manufacturing, agriculture, healthcare services, logistics, retail development, and professional services. Its diversified economy supports continued business investment and workforce growth.",
-  "population": "28959"
-},
-"Lincoln County": {
-  "description": "Lincoln County supports a rural economy centered on agriculture, agribusiness, healthcare services, renewable energy development, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "5639"
-},
-
-"Lyon County": {
-  "description": "Lyon County serves as a regional economic center in southwestern Minnesota, supported by manufacturing, healthcare, agriculture, education, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "25863"
-},
-
-"McLeod County": {
-  "description": "McLeod County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strong business environment supports stable employment and continued economic expansion.",
-  "population": "36821"
-},
-
-"Mahnomen County": {
-  "description": "Mahnomen County combines healthcare, government services, agriculture, tourism, education, and local commerce. Community institutions and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "5693"
-},
-
-"Marshall County": {
-  "description": "Marshall County maintains a diversified economy based on agriculture, healthcare services, transportation, renewable energy development, agribusiness, and local business activity. Farming remains central to economic growth throughout the county.",
-  "population": "9466"
-},
-
-"Martin County": {
-  "description": "Martin County supports a strong agricultural economy complemented by manufacturing, healthcare services, agribusiness, retail activity, and professional services. Its diversified economy contributes to stable employment and regional development.",
-  "population": "19973"
-},
-
-"Meeker County": {
-  "description": "Meeker County combines agriculture, manufacturing, healthcare services, education, renewable energy development, and local commerce. Industrial employers and farming operations continue to support economic activity throughout the county.",
-  "population": "23911"
-},
-
-"Mille Lacs County": {
-  "description": "Mille Lacs County benefits from tourism, healthcare services, retail activity, agriculture, hospitality, and local business development. Visitor spending and recreational opportunities contribute significantly to economic growth.",
-  "population": "26847"
-},
-
-"Morrison County": {
-  "description": "Morrison County supports a diversified economy driven by manufacturing, healthcare services, agriculture, education, tourism, and professional services. Its strong workforce and business community contribute to long-term economic development.",
-  "population": "34488"
-},
-
-"Mower County": {
-  "description": "Mower County is an important economic center in southern Minnesota, supported by manufacturing, healthcare, agriculture, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "40365"
-},
-"Murray County": {
-  "description": "Murray County supports a rural economy driven by agriculture, agribusiness, renewable energy development, healthcare services, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "8189"
-},
-
-"Nicollet County": {
-  "description": "Nicollet County serves as an important educational and economic center in southern Minnesota, supported by higher education, healthcare, manufacturing, agriculture, retail activity, and professional services. Its diversified economy contributes significantly to regional growth.",
-  "population": "34454"
-},
-
-"Nobles County": {
-  "description": "Nobles County benefits from agriculture, food processing, manufacturing, healthcare services, transportation, and local commerce. Its strong agribusiness sector supports substantial employment and economic development.",
-  "population": "22387"
-},
-
-"Norman County": {
-  "description": "Norman County maintains a rural economy centered on agriculture, healthcare services, agribusiness, renewable energy development, and local business activity. Farming operations continue to drive economic stability throughout the county.",
-  "population": "6437"
-},
-
-"Olmsted County": {
-  "description": "Olmsted County is one of Minnesota's strongest economic centers and home to Rochester. Healthcare, biotechnology, medical research, education, technology, finance, and professional services drive a highly specialized and globally recognized economy.",
-  "population": "166847"
-},
-
-"Otter Tail County": {
-  "description": "Otter Tail County supports a diversified economy based on tourism, healthcare services, manufacturing, agriculture, retail activity, and professional services. Its lakes and recreational amenities contribute significantly to visitor-driven economic growth.",
-  "population": "60801"
-},
-
-"Pennington County": {
-  "description": "Pennington County serves as a regional economic hub in northwestern Minnesota, supported by healthcare, education, manufacturing, agriculture, retail development, and professional services. Its diversified economy contributes substantially to regional employment.",
-  "population": "14214"
-},
-
-"Pine County": {
-  "description": "Pine County combines healthcare, manufacturing, forestry, tourism, agriculture, and local commerce. Natural resources and business development continue to support economic activity throughout the county.",
-  "population": "29771"
-},
-
-"Pipestone County": {
-  "description": "Pipestone County supports an economy driven by agriculture, manufacturing, healthcare services, renewable energy development, tourism, and local commerce. Farming operations remain a key contributor to economic growth.",
-  "population": "9204"
-},
-
-"Polk County": {
-  "description": "Polk County is one of northwestern Minnesota's largest economic centers, supported by higher education, healthcare, agriculture, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional business activity and workforce development.",
-  "population": "31765"
-},
-"Pope County": {
-  "description": "Pope County supports a diversified economy based on agriculture, healthcare services, tourism, manufacturing, renewable energy development, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "11579"
-},
-
-"Ramsey County": {
-  "description": "Ramsey County is one of Minnesota's largest economic centers and home to Saint Paul. Government services, healthcare, finance, technology, education, logistics, and professional industries drive a highly diversified urban economy and substantial workforce development.",
-  "population": "552352"
-},
-
-"Red Lake County": {
-  "description": "Red Lake County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "3935"
-},
-
-"Redwood County": {
-  "description": "Redwood County benefits from agriculture, manufacturing, healthcare services, renewable energy development, tourism, and local business activity. Its diversified economy supports stable employment and continued economic growth.",
-  "population": "15151"
-},
-
-"Renville County": {
-  "description": "Renville County supports a strong agricultural economy complemented by agribusiness, healthcare services, manufacturing, renewable energy development, and local commerce. Farming operations continue to contribute significantly to regional economic activity.",
-  "population": "14585"
-},
-
-"Rice County": {
-  "description": "Rice County serves as an important educational and economic center in southern Minnesota, supported by higher education, healthcare, manufacturing, agriculture, finance, and professional services. Its diversified economy contributes substantially to regional growth.",
-  "population": "67703"
-},
-
-"Rock County": {
-  "description": "Rock County combines agriculture, food processing, healthcare services, manufacturing, renewable energy development, and local commerce. Farming operations remain a key contributor to economic stability throughout the county.",
-  "population": "9687"
-},
-
-"Roseau County": {
-  "description": "Roseau County supports an economy driven by manufacturing, agriculture, healthcare services, transportation, forestry, and local business development. Industrial employers and farming operations contribute significantly to economic growth.",
-  "population": "15296"
-},
-
-"St. Louis County": {
-  "description": "St. Louis County is Minnesota's largest county by land area and one of its most important economic centers. Healthcare, mining-related industries, higher education, tourism, transportation, manufacturing, and professional services drive a highly diversified regional economy.",
-  "population": "200231"
-},
-
-"Scott County": {
-  "description": "Scott County is one of Minnesota's fastest-growing counties, supported by healthcare, technology, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Twin Cities metropolitan area fuels substantial economic growth and investment.",
-  "population": "153520"
-},
-"Sherburne County": {
-  "description": "Sherburne County is one of Minnesota's fastest-growing counties, supported by healthcare, manufacturing, energy production, logistics, retail development, and residential expansion. Its strategic location in central Minnesota contributes to strong economic growth and workforce opportunities.",
-  "population": "101596"
-},
-
-"Sibley County": {
-  "description": "Sibley County maintains a diversified economy based on agriculture, agribusiness, healthcare services, manufacturing, renewable energy development, and local commerce. Farming operations continue to support economic activity throughout the county.",
-  "population": "14761"
-},
-
-"Stearns County": {
-  "description": "Stearns County is one of central Minnesota's largest economic centers, driven by healthcare, higher education, manufacturing, agriculture, finance, retail activity, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "161445"
-},
-
-"Steele County": {
-  "description": "Steele County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strong business environment supports stable employment and long-term economic growth.",
-  "population": "37916"
-},
-
-"Stevens County": {
-  "description": "Stevens County supports an economy driven by higher education, agriculture, healthcare services, agribusiness, renewable energy development, and local commerce. Educational institutions and farming operations contribute significantly to economic activity.",
-  "population": "9702"
-},
-
-"Swift County": {
-  "description": "Swift County combines agriculture, healthcare services, manufacturing, renewable energy development, transportation, and local business activity. Farming remains an important contributor to economic stability and growth throughout the county.",
-  "population": "9208"
-},
-
-"Todd County": {
-  "description": "Todd County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, retail activity, and local commerce. Its strong agricultural sector contributes significantly to regional economic development.",
-  "population": "25576"
-},
-
-"Traverse County": {
-  "description": "Traverse County maintains a rural economy centered on agriculture, agribusiness, healthcare services, renewable energy development, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "3305"
-},
-
-"Wabasha County": {
-  "description": "Wabasha County benefits from tourism, healthcare services, agriculture, manufacturing, outdoor recreation, and local business development. Its Mississippi River communities contribute significantly to visitor-driven economic activity.",
-  "population": "21672"
-},
-
-"Wadena County": {
-  "description": "Wadena County serves as a regional center for healthcare, agriculture, manufacturing, retail activity, transportation, and professional services. Its diversified economy supports stable employment and continued business growth.",
-  "population": "14219"
-},
-"Waseca County": {
-  "description": "Waseca County supports a diversified economy based on agriculture, manufacturing, healthcare services, education, retail activity, and local commerce. Its strong agribusiness and industrial sectors contribute significantly to economic growth throughout the county.",
-  "population": "19024"
-},
-
-"Washington County": {
-  "description": "Washington County is one of Minnesota's fastest-growing and most affluent counties, supported by healthcare, technology, manufacturing, finance, professional services, retail development, and residential expansion. Its location within the Twin Cities metropolitan area drives substantial economic investment and workforce growth.",
-  "population": "273698"
-},
-
-"Watonwan County": {
-  "description": "Watonwan County maintains a strong agricultural economy complemented by food processing, healthcare services, manufacturing, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "11011"
-},
-
-"Wilkin County": {
-  "description": "Wilkin County supports a rural economy centered on agriculture, transportation, healthcare services, agribusiness, renewable energy development, and local commerce. Farming continues to play a vital role in economic stability and employment.",
-  "population": "6498"
-},
-
-"Winona County": {
-  "description": "Winona County serves as a major educational and economic center in southeastern Minnesota, supported by higher education, healthcare, manufacturing, tourism, finance, and professional services. Its diversified economy contributes substantially to regional employment and business development.",
-  "population": "49985"
-},
-
-"Wright County": {
-  "description": "Wright County is one of Minnesota's fastest-growing counties, driven by healthcare, manufacturing, logistics, technology, professional services, retail development, and residential growth. Its strategic location near the Twin Cities supports continued economic expansion and investment.",
-  "population": "150045"
-},
-
-"Yellow Medicine County": {
-  "description": "Yellow Medicine County combines agriculture, agribusiness, healthcare services, renewable energy development, manufacturing, and local commerce. Farming operations and community-focused industries contribute significantly to economic activity throughout the county.",
-  "population": "9774"
-}
+  "identity": {
+    "code": "mn",
+    "slug": "minnesota",
+    "name": "Minnesota",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Aitkin County": {
+      "description": "Aitkin County supports an economy driven by tourism, forestry, healthcare services, outdoor recreation, agriculture, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "16095"
+    },
+    "Anoka County": {
+      "description": "Anoka County is one of Minnesota's largest economic centers, supported by healthcare, manufacturing, technology, retail development, logistics, professional services, and residential growth. Its location within the Minneapolis–Saint Paul metropolitan area drives substantial business investment.",
+      "population": "367018"
+    },
+    "Becker County": {
+      "description": "Becker County combines tourism, healthcare services, agriculture, manufacturing, education, and local commerce. Its lakes and recreational opportunities contribute significantly to visitor spending and regional economic growth.",
+      "population": "36787"
+    },
+    "Beltrami County": {
+      "description": "Beltrami County serves as a major regional center in northern Minnesota, supported by healthcare, education, tourism, forestry, government services, and professional industries. Its diversified economy contributes substantially to workforce development and business activity.",
+      "population": "47762"
+    },
+    "Benton County": {
+      "description": "Benton County benefits from manufacturing, healthcare services, logistics, agriculture, retail activity, and professional services. Its strategic location in central Minnesota supports continued economic development and investment.",
+      "population": "41879"
+    },
+    "Big Stone County": {
+      "description": "Big Stone County maintains a rural economy centered on agriculture, agribusiness, healthcare services, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "4918"
+    },
+    "Blue Earth County": {
+      "description": "Blue Earth County is a major economic and educational center in southern Minnesota, driven by healthcare, higher education, manufacturing, agriculture, finance, and professional services. Its diversified economy supports substantial regional growth.",
+      "population": "69457"
+    },
+    "Brown County": {
+      "description": "Brown County supports a diversified economy based on agriculture, manufacturing, healthcare services, education, retail activity, and local commerce. Industrial employers and farming operations contribute significantly to economic development.",
+      "population": "25477"
+    },
+    "Carlton County": {
+      "description": "Carlton County combines healthcare, forestry, tourism, manufacturing, transportation, and local business activity. Its strategic location near Duluth supports continued economic growth and workforce opportunities.",
+      "population": "37206"
+    },
+    "Carver County": {
+      "description": "Carver County is one of Minnesota's fastest-growing and most affluent counties, supported by healthcare, technology, manufacturing, professional services, retail development, and residential expansion. Its proximity to the Twin Cities drives strong economic investment and business growth.",
+      "population": "108448"
+    },
+    "Cass County": {
+      "description": "Cass County supports an economy driven by tourism, healthcare services, forestry, outdoor recreation, agriculture, and local commerce. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "30920"
+    },
+    "Chippewa County": {
+      "description": "Chippewa County maintains a diversified economy based on agriculture, manufacturing, healthcare services, education, renewable energy development, and local business activity. Farming operations remain important contributors to regional economic growth.",
+      "population": "12298"
+    },
+    "Chisago County": {
+      "description": "Chisago County is one of Minnesota's growing counties, supported by healthcare, manufacturing, retail development, professional services, tourism, and residential expansion. Its proximity to the Twin Cities contributes to continued economic investment.",
+      "population": "58717"
+    },
+    "Clay County": {
+      "description": "Clay County serves as a major economic and educational center in western Minnesota, driven by higher education, healthcare, agriculture, finance, retail activity, and professional services. Its diversified economy supports strong regional employment.",
+      "population": "65887"
+    },
+    "Clearwater County": {
+      "description": "Clearwater County combines forestry, tourism, healthcare services, agriculture, outdoor recreation, and local commerce. Natural resources and visitor-related industries continue to support economic activity throughout the county.",
+      "population": "8667"
+    },
+    "Cook County": {
+      "description": "Cook County benefits from tourism, hospitality, healthcare services, outdoor recreation, forestry, and local business development. Visitor spending remains a primary driver of economic activity throughout the county.",
+      "population": "5658"
+    },
+    "Cottonwood County": {
+      "description": "Cottonwood County supports a strong agricultural economy complemented by manufacturing, healthcare services, renewable energy development, agribusiness, and local commerce. Farming operations continue to drive economic growth.",
+      "population": "11318"
+    },
+    "Crow Wing County": {
+      "description": "Crow Wing County is one of central Minnesota's strongest tourism and service economies, supported by healthcare, hospitality, retail development, manufacturing, professional services, and outdoor recreation. Its growing economy contributes significantly to regional business activity.",
+      "population": "67890"
+    },
+    "Dakota County": {
+      "description": "Dakota County is one of Minnesota's largest economic centers, driven by healthcare, logistics, manufacturing, technology, finance, education, and professional services. Its location within the Twin Cities metropolitan area supports substantial commercial growth and workforce development.",
+      "population": "448344"
+    },
+    "Dodge County": {
+      "description": "Dodge County combines agriculture, manufacturing, healthcare services, logistics, retail activity, and local commerce. Its diversified economy supports stable employment opportunities and continued business investment.",
+      "population": "21379"
+    },
+    "Douglas County": {
+      "description": "Douglas County supports a diversified economy driven by healthcare, tourism, manufacturing, agriculture, retail activity, and professional services. Its lakes and recreational amenities contribute significantly to regional economic growth.",
+      "population": "39806"
+    },
+    "Faribault County": {
+      "description": "Faribault County maintains a strong agricultural economy supported by agribusiness, manufacturing, healthcare services, renewable energy development, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "13566"
+    },
+    "Fillmore County": {
+      "description": "Fillmore County combines agriculture, tourism, healthcare services, manufacturing, outdoor recreation, and local business development. Its diverse economy supports stable employment and long-term community growth.",
+      "population": "21408"
+    },
+    "Freeborn County": {
+      "description": "Freeborn County serves as an important economic center in southern Minnesota, supported by manufacturing, healthcare, agriculture, transportation, retail activity, and professional services. Its diversified economy contributes substantially to regional employment.",
+      "population": "30895"
+    },
+    "Goodhue County": {
+      "description": "Goodhue County benefits from manufacturing, healthcare services, agriculture, education, tourism, and local commerce. Its strategic location along the Mississippi River supports continued economic development and business investment.",
+      "population": "47582"
+    },
+    "Grant County": {
+      "description": "Grant County supports a rural economy based on agriculture, agribusiness, healthcare services, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "5971"
+    },
+    "Hennepin County": {
+      "description": "Hennepin County is Minnesota's largest economic center and home to Minneapolis. Healthcare, finance, technology, higher education, manufacturing, professional services, logistics, and corporate headquarters drive one of the most diversified and innovative economies in the Midwest.",
+      "population": "1281565"
+    },
+    "Houston County": {
+      "description": "Houston County combines agriculture, tourism, healthcare services, manufacturing, outdoor recreation, and local commerce. Natural attractions and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "18843"
+    },
+    "Hubbard County": {
+      "description": "Hubbard County supports an economy driven by tourism, healthcare services, forestry, hospitality, outdoor recreation, and local business activity. Visitor spending and natural resources continue to play important roles in economic growth.",
+      "population": "21810"
+    },
+    "Isanti County": {
+      "description": "Isanti County is a growing county in east-central Minnesota, supported by healthcare, manufacturing, retail development, professional services, agriculture, and residential expansion. Its proximity to the Twin Cities contributes to continued economic investment.",
+      "population": "43018"
+    },
+    "Itasca County": {
+      "description": "Itasca County serves as a major economic center in northern Minnesota, supported by healthcare, mining-related industries, forestry, tourism, education, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "45391"
+    },
+    "Jackson County": {
+      "description": "Jackson County supports a strong agricultural economy complemented by manufacturing, healthcare services, renewable energy development, agribusiness, and local commerce. Farming operations remain central to economic activity throughout the county.",
+      "population": "9978"
+    },
+    "Kanabec County": {
+      "description": "Kanabec County combines healthcare, manufacturing, agriculture, forestry, tourism, and local business activity. Its diversified economy supports stable employment opportunities and community growth throughout the county.",
+      "population": "16809"
+    },
+    "Kandiyohi County": {
+      "description": "Kandiyohi County is one of central Minnesota's strongest economic centers, driven by healthcare, manufacturing, agriculture, education, retail development, and professional services. Its diverse economy supports substantial regional growth and workforce development.",
+      "population": "43876"
+    },
+    "Kittson County": {
+      "description": "Kittson County maintains a rural economy based on agriculture, agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the primary contributor to economic activity throughout the county.",
+      "population": "4207"
+    },
+    "Koochiching County": {
+      "description": "Koochiching County supports an economy driven by forestry, healthcare services, tourism, manufacturing, outdoor recreation, and local commerce. Natural resource industries continue to play a major role in economic development.",
+      "population": "12370"
+    },
+    "Lac qui Parle County": {
+      "description": "Lac qui Parle County benefits from agriculture, healthcare services, renewable energy development, agribusiness, tourism, and local business activity. Farming operations contribute significantly to regional economic stability.",
+      "population": "6649"
+    },
+    "Lake County": {
+      "description": "Lake County combines tourism, mining-related industries, healthcare services, forestry, outdoor recreation, and local commerce. Natural attractions and resource-based industries support long-term economic growth.",
+      "population": "10877"
+    },
+    "Lake of the Woods County": {
+      "description": "Lake of the Woods County supports a tourism-driven economy complemented by healthcare services, forestry, hospitality, outdoor recreation, and local commerce. Visitor spending remains a key contributor to economic activity throughout the county.",
+      "population": "3799"
+    },
+    "Le Sueur County": {
+      "description": "Le Sueur County benefits from manufacturing, agriculture, healthcare services, logistics, retail development, and professional services. Its diversified economy supports continued business investment and workforce growth.",
+      "population": "28959"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County supports a rural economy centered on agriculture, agribusiness, healthcare services, renewable energy development, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "5639"
+    },
+    "Lyon County": {
+      "description": "Lyon County serves as a regional economic center in southwestern Minnesota, supported by manufacturing, healthcare, agriculture, education, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "25863"
+    },
+    "McLeod County": {
+      "description": "McLeod County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strong business environment supports stable employment and continued economic expansion.",
+      "population": "36821"
+    },
+    "Mahnomen County": {
+      "description": "Mahnomen County combines healthcare, government services, agriculture, tourism, education, and local commerce. Community institutions and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "5693"
+    },
+    "Marshall County": {
+      "description": "Marshall County maintains a diversified economy based on agriculture, healthcare services, transportation, renewable energy development, agribusiness, and local business activity. Farming remains central to economic growth throughout the county.",
+      "population": "9466"
+    },
+    "Martin County": {
+      "description": "Martin County supports a strong agricultural economy complemented by manufacturing, healthcare services, agribusiness, retail activity, and professional services. Its diversified economy contributes to stable employment and regional development.",
+      "population": "19973"
+    },
+    "Meeker County": {
+      "description": "Meeker County combines agriculture, manufacturing, healthcare services, education, renewable energy development, and local commerce. Industrial employers and farming operations continue to support economic activity throughout the county.",
+      "population": "23911"
+    },
+    "Mille Lacs County": {
+      "description": "Mille Lacs County benefits from tourism, healthcare services, retail activity, agriculture, hospitality, and local business development. Visitor spending and recreational opportunities contribute significantly to economic growth.",
+      "population": "26847"
+    },
+    "Morrison County": {
+      "description": "Morrison County supports a diversified economy driven by manufacturing, healthcare services, agriculture, education, tourism, and professional services. Its strong workforce and business community contribute to long-term economic development.",
+      "population": "34488"
+    },
+    "Mower County": {
+      "description": "Mower County is an important economic center in southern Minnesota, supported by manufacturing, healthcare, agriculture, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "40365"
+    },
+    "Murray County": {
+      "description": "Murray County supports a rural economy driven by agriculture, agribusiness, renewable energy development, healthcare services, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "8189"
+    },
+    "Nicollet County": {
+      "description": "Nicollet County serves as an important educational and economic center in southern Minnesota, supported by higher education, healthcare, manufacturing, agriculture, retail activity, and professional services. Its diversified economy contributes significantly to regional growth.",
+      "population": "34454"
+    },
+    "Nobles County": {
+      "description": "Nobles County benefits from agriculture, food processing, manufacturing, healthcare services, transportation, and local commerce. Its strong agribusiness sector supports substantial employment and economic development.",
+      "population": "22387"
+    },
+    "Norman County": {
+      "description": "Norman County maintains a rural economy centered on agriculture, healthcare services, agribusiness, renewable energy development, and local business activity. Farming operations continue to drive economic stability throughout the county.",
+      "population": "6437"
+    },
+    "Olmsted County": {
+      "description": "Olmsted County is one of Minnesota's strongest economic centers and home to Rochester. Healthcare, biotechnology, medical research, education, technology, finance, and professional services drive a highly specialized and globally recognized economy.",
+      "population": "166847"
+    },
+    "Otter Tail County": {
+      "description": "Otter Tail County supports a diversified economy based on tourism, healthcare services, manufacturing, agriculture, retail activity, and professional services. Its lakes and recreational amenities contribute significantly to visitor-driven economic growth.",
+      "population": "60801"
+    },
+    "Pennington County": {
+      "description": "Pennington County serves as a regional economic hub in northwestern Minnesota, supported by healthcare, education, manufacturing, agriculture, retail development, and professional services. Its diversified economy contributes substantially to regional employment.",
+      "population": "14214"
+    },
+    "Pine County": {
+      "description": "Pine County combines healthcare, manufacturing, forestry, tourism, agriculture, and local commerce. Natural resources and business development continue to support economic activity throughout the county.",
+      "population": "29771"
+    },
+    "Pipestone County": {
+      "description": "Pipestone County supports an economy driven by agriculture, manufacturing, healthcare services, renewable energy development, tourism, and local commerce. Farming operations remain a key contributor to economic growth.",
+      "population": "9204"
+    },
+    "Polk County": {
+      "description": "Polk County is one of northwestern Minnesota's largest economic centers, supported by higher education, healthcare, agriculture, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional business activity and workforce development.",
+      "population": "31765"
+    },
+    "Pope County": {
+      "description": "Pope County supports a diversified economy based on agriculture, healthcare services, tourism, manufacturing, renewable energy development, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "11579"
+    },
+    "Ramsey County": {
+      "description": "Ramsey County is one of Minnesota's largest economic centers and home to Saint Paul. Government services, healthcare, finance, technology, education, logistics, and professional industries drive a highly diversified urban economy and substantial workforce development.",
+      "population": "552352"
+    },
+    "Red Lake County": {
+      "description": "Red Lake County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "3935"
+    },
+    "Redwood County": {
+      "description": "Redwood County benefits from agriculture, manufacturing, healthcare services, renewable energy development, tourism, and local business activity. Its diversified economy supports stable employment and continued economic growth.",
+      "population": "15151"
+    },
+    "Renville County": {
+      "description": "Renville County supports a strong agricultural economy complemented by agribusiness, healthcare services, manufacturing, renewable energy development, and local commerce. Farming operations continue to contribute significantly to regional economic activity.",
+      "population": "14585"
+    },
+    "Rice County": {
+      "description": "Rice County serves as an important educational and economic center in southern Minnesota, supported by higher education, healthcare, manufacturing, agriculture, finance, and professional services. Its diversified economy contributes substantially to regional growth.",
+      "population": "67703"
+    },
+    "Rock County": {
+      "description": "Rock County combines agriculture, food processing, healthcare services, manufacturing, renewable energy development, and local commerce. Farming operations remain a key contributor to economic stability throughout the county.",
+      "population": "9687"
+    },
+    "Roseau County": {
+      "description": "Roseau County supports an economy driven by manufacturing, agriculture, healthcare services, transportation, forestry, and local business development. Industrial employers and farming operations contribute significantly to economic growth.",
+      "population": "15296"
+    },
+    "St. Louis County": {
+      "description": "St. Louis County is Minnesota's largest county by land area and one of its most important economic centers. Healthcare, mining-related industries, higher education, tourism, transportation, manufacturing, and professional services drive a highly diversified regional economy.",
+      "population": "200231"
+    },
+    "Scott County": {
+      "description": "Scott County is one of Minnesota's fastest-growing counties, supported by healthcare, technology, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Twin Cities metropolitan area fuels substantial economic growth and investment.",
+      "population": "153520"
+    },
+    "Sherburne County": {
+      "description": "Sherburne County is one of Minnesota's fastest-growing counties, supported by healthcare, manufacturing, energy production, logistics, retail development, and residential expansion. Its strategic location in central Minnesota contributes to strong economic growth and workforce opportunities.",
+      "population": "101596"
+    },
+    "Sibley County": {
+      "description": "Sibley County maintains a diversified economy based on agriculture, agribusiness, healthcare services, manufacturing, renewable energy development, and local commerce. Farming operations continue to support economic activity throughout the county.",
+      "population": "14761"
+    },
+    "Stearns County": {
+      "description": "Stearns County is one of central Minnesota's largest economic centers, driven by healthcare, higher education, manufacturing, agriculture, finance, retail activity, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "161445"
+    },
+    "Steele County": {
+      "description": "Steele County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strong business environment supports stable employment and long-term economic growth.",
+      "population": "37916"
+    },
+    "Stevens County": {
+      "description": "Stevens County supports an economy driven by higher education, agriculture, healthcare services, agribusiness, renewable energy development, and local commerce. Educational institutions and farming operations contribute significantly to economic activity.",
+      "population": "9702"
+    },
+    "Swift County": {
+      "description": "Swift County combines agriculture, healthcare services, manufacturing, renewable energy development, transportation, and local business activity. Farming remains an important contributor to economic stability and growth throughout the county.",
+      "population": "9208"
+    },
+    "Todd County": {
+      "description": "Todd County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, retail activity, and local commerce. Its strong agricultural sector contributes significantly to regional economic development.",
+      "population": "25576"
+    },
+    "Traverse County": {
+      "description": "Traverse County maintains a rural economy centered on agriculture, agribusiness, healthcare services, renewable energy development, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "3305"
+    },
+    "Wabasha County": {
+      "description": "Wabasha County benefits from tourism, healthcare services, agriculture, manufacturing, outdoor recreation, and local business development. Its Mississippi River communities contribute significantly to visitor-driven economic activity.",
+      "population": "21672"
+    },
+    "Wadena County": {
+      "description": "Wadena County serves as a regional center for healthcare, agriculture, manufacturing, retail activity, transportation, and professional services. Its diversified economy supports stable employment and continued business growth.",
+      "population": "14219"
+    },
+    "Waseca County": {
+      "description": "Waseca County supports a diversified economy based on agriculture, manufacturing, healthcare services, education, retail activity, and local commerce. Its strong agribusiness and industrial sectors contribute significantly to economic growth throughout the county.",
+      "population": "19024"
+    },
+    "Washington County": {
+      "description": "Washington County is one of Minnesota's fastest-growing and most affluent counties, supported by healthcare, technology, manufacturing, finance, professional services, retail development, and residential expansion. Its location within the Twin Cities metropolitan area drives substantial economic investment and workforce growth.",
+      "population": "273698"
+    },
+    "Watonwan County": {
+      "description": "Watonwan County maintains a strong agricultural economy complemented by food processing, healthcare services, manufacturing, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "11011"
+    },
+    "Wilkin County": {
+      "description": "Wilkin County supports a rural economy centered on agriculture, transportation, healthcare services, agribusiness, renewable energy development, and local commerce. Farming continues to play a vital role in economic stability and employment.",
+      "population": "6498"
+    },
+    "Winona County": {
+      "description": "Winona County serves as a major educational and economic center in southeastern Minnesota, supported by higher education, healthcare, manufacturing, tourism, finance, and professional services. Its diversified economy contributes substantially to regional employment and business development.",
+      "population": "49985"
+    },
+    "Wright County": {
+      "description": "Wright County is one of Minnesota's fastest-growing counties, driven by healthcare, manufacturing, logistics, technology, professional services, retail development, and residential growth. Its strategic location near the Twin Cities supports continued economic expansion and investment.",
+      "population": "150045"
+    },
+    "Yellow Medicine County": {
+      "description": "Yellow Medicine County combines agriculture, agribusiness, healthcare services, renewable energy development, manufacturing, and local commerce. Farming operations and community-focused industries contribute significantly to economic activity throughout the county.",
+      "population": "9774"
+    }
+  }
 }

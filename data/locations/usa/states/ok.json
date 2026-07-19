@@ -1,379 +1,319 @@
 {
-"Adair County": {
-  "description": "Adair County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
-  "population": "21434"
-},
-
-"Alfalfa County": {
-  "description": "Alfalfa County maintains a rural economy centered on agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "5564"
-},
-
-"Atoka County": {
-  "description": "Atoka County benefits from agriculture, healthcare services, tourism, energy-related industries, transportation, and local business development. Natural resources and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "13758"
-},
-
-"Beaver County": {
-  "description": "Beaver County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute substantially to economic activity throughout the county.",
-  "population": "5049"
-},
-
-"Beckham County": {
-  "description": "Beckham County serves as an important economic center in western Oklahoma, supported by energy-related industries, healthcare services, transportation, manufacturing, retail development, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "22270"
-},
-
-"Blaine County": {
-  "description": "Blaine County combines agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local business activity. Farming operations contribute significantly to economic development throughout the county.",
-  "population": "8684"
-},
-
-"Bryan County": {
-  "description": "Bryan County is one of southeastern Oklahoma's strongest economic centers, driven by healthcare, manufacturing, tourism, education, retail development, and professional services. Its diversified economy contributes substantially to workforce opportunities and business growth.",
-  "population": "50495"
-},
-
-"Caddo County": {
-  "description": "Caddo County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, energy-related industries, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "26627"
-},
-
-"Canadian County": {
-  "description": "Canadian County is one of Oklahoma's fastest-growing counties, supported by healthcare, logistics, professional services, manufacturing, retail development, and residential expansion. Its location within the Oklahoma City metropolitan area contributes substantially to business investment and workforce growth.",
-  "population": "166770"
-},
-
-"Carter County": {
-  "description": "Carter County serves as a major economic center in southern Oklahoma, anchored by healthcare, energy-related industries, manufacturing, retail development, tourism, and professional services. Its diversified economy contributes significantly to regional employment and economic development.",
-  "population": "48406"
-},
-"Cherokee County": {
-  "description": "Cherokee County supports a diversified economy based on higher education, healthcare services, tourism, retail development, professional services, and local commerce. Educational institutions and regional businesses contribute significantly to economic activity throughout the county.",
-  "population": "48732"
-},
-
-"Choctaw County": {
-  "description": "Choctaw County benefits from agriculture, healthcare services, tourism, transportation, manufacturing, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "14512"
-},
-
-"Cimarron County": {
-  "description": "Cimarron County maintains a rural economy centered on agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Farming and livestock production remain primary contributors to economic activity throughout the county.",
-  "population": "2141"
-},
-
-"Cleveland County": {
-  "description": "Cleveland County is one of Oklahoma's largest and fastest-growing economic centers, driven by healthcare, higher education, technology, professional services, retail development, and residential expansion. Its location within the Oklahoma City metropolitan area supports substantial business investment and workforce growth.",
-  "population": "299862"
-},
-
-"Coal County": {
-  "description": "Coal County supports a diversified economy based on agriculture, healthcare services, transportation, energy-related industries, tourism, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "5485"
-},
-
-"Comanche County": {
-  "description": "Comanche County is a major economic center in southwestern Oklahoma, supported by military-related industries, healthcare services, education, retail development, professional services, and logistics. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "121125"
-},
-
-"Cotton County": {
-  "description": "Cotton County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Farming operations remain a key contributor to economic growth throughout the county.",
-  "population": "5670"
-},
-
-"Craig County": {
-  "description": "Craig County supports an economy driven by manufacturing, agriculture, healthcare services, transportation, logistics, and local commerce. Industrial employers and farming operations contribute significantly to economic development throughout the county.",
-  "population": "14672"
-},
-
-"Creek County": {
-  "description": "Creek County serves as an important economic center in northeastern Oklahoma, supported by healthcare, manufacturing, energy-related industries, logistics, retail development, and professional services. Its diversified economy contributes significantly to workforce opportunities and business growth.",
-  "population": "72454"
-},
-
-"Custer County": {
-  "description": "Custer County supports a diversified economy based on healthcare services, higher education, agriculture, transportation, manufacturing, and local commerce. Educational institutions and regional businesses contribute substantially to economic activity throughout the county.",
-  "population": "28911"
-},
-"Delaware County": {
-  "description": "Delaware County supports a diversified economy driven by tourism, healthcare services, retail development, professional services, construction, and local commerce. Visitor spending and growing residential communities contribute significantly to economic activity throughout the county.",
-  "population": "43820"
-},
-
-"Dewey County": {
-  "description": "Dewey County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Farming operations and natural resource industries contribute substantially to economic growth throughout the county.",
-  "population": "4688"
-},
-
-"Ellis County": {
-  "description": "Ellis County maintains a rural economy centered on agriculture, ranching, energy production, healthcare services, transportation, and local commerce. Farming and livestock operations remain primary contributors to economic activity throughout the county.",
-  "population": "3770"
-},
-
-"Garfield County": {
-  "description": "Garfield County is one of north-central Oklahoma's strongest economic centers, supported by healthcare, energy-related industries, manufacturing, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
-  "population": "60915"
-},
-
-"Garvin County": {
-  "description": "Garvin County supports a diversified economy based on energy-related industries, agriculture, healthcare services, manufacturing, transportation, and local commerce. Regional employers contribute substantially to workforce opportunities and economic development.",
-  "population": "27809"
-},
-
-"Grady County": {
-  "description": "Grady County is one of Oklahoma's fastest-growing counties, driven by healthcare, manufacturing, logistics, agriculture, professional services, and residential expansion. Its proximity to Oklahoma City contributes significantly to business investment and workforce growth.",
-  "population": "57422"
-},
-
-"Grant County": {
-  "description": "Grant County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business activity. Farming operations remain a key contributor to economic activity throughout the county.",
-  "population": "4330"
-},
-
-"Greer County": {
-  "description": "Greer County supports an economy driven by agriculture, healthcare services, energy-related industries, transportation, tourism, and local commerce. Farming operations and regional businesses contribute significantly to economic growth throughout the county.",
-  "population": "5528"
-},
-
-"Harmon County": {
-  "description": "Harmon County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, energy-related industries, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "2455"
-},
-
-"Harper County": {
-  "description": "Harper County supports a diversified economy based on agriculture, ranching, energy production, healthcare services, transportation, and local business development. Natural resources and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "3272"
-},
-"Haskell County": {
-  "description": "Haskell County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
-  "population": "11774"
-},
-
-"Hughes County": {
-  "description": "Hughes County benefits from agriculture, healthcare services, energy-related industries, transportation, retail activity, and local business development. Regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "13367"
-},
-
-"Jackson County": {
-  "description": "Jackson County serves as an important economic center in southwestern Oklahoma, supported by healthcare, higher education, manufacturing, agriculture, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business activity.",
-  "population": "25218"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County supports an economy driven by agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "5771"
-},
-
-"Johnston County": {
-  "description": "Johnston County benefits from tourism, agriculture, healthcare services, manufacturing, transportation, and local business development. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "10860"
-},
-
-"Kay County": {
-  "description": "Kay County is a major economic center in northern Oklahoma, supported by manufacturing, healthcare services, energy-related industries, logistics, retail development, and professional services. Its diversified economy contributes significantly to workforce opportunities and business investment.",
-  "population": "43895"
-},
-
-"Kingfisher County": {
-  "description": "Kingfisher County supports a diversified economy based on agriculture, energy production, healthcare services, manufacturing, transportation, and local commerce. Its strategic location contributes significantly to regional economic development.",
-  "population": "15754"
-},
-
-"Kiowa County": {
-  "description": "Kiowa County combines agriculture, healthcare services, energy-related industries, transportation, tourism, and local business activity. Farming operations and regional employers contribute substantially to economic activity throughout the county.",
-  "population": "8424"
-},
-
-"Latimer County": {
-  "description": "Latimer County supports an economy driven by healthcare services, agriculture, tourism, transportation, energy-related industries, and local commerce. Natural resources and regional businesses contribute significantly to economic growth throughout the county.",
-  "population": "10483"
-},
-
-"Le Flore County": {
-  "description": "Le Flore County is one of eastern Oklahoma's largest economic centers, supported by healthcare, manufacturing, tourism, agriculture, logistics, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "48219"
-},
-"Lincoln County": {
-  "description": "Lincoln County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, logistics, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "35049"
-},
-
-"Logan County": {
-  "description": "Logan County is one of Oklahoma's fastest-growing counties, supported by healthcare, logistics, professional services, manufacturing, retail development, and residential expansion. Its location within the Oklahoma City metropolitan area contributes substantially to business investment and workforce growth.",
-  "population": "51526"
-},
-
-"Love County": {
-  "description": "Love County benefits from tourism, healthcare services, transportation, retail activity, energy-related industries, and local business development. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "10374"
-},
-
-"Major County": {
-  "description": "Major County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource industries contribute substantially to economic activity throughout the county.",
-  "population": "7661"
-},
-
-"Marshall County": {
-  "description": "Marshall County combines tourism, agriculture, healthcare services, manufacturing, transportation, and local business activity. Visitor spending and regional employers contribute significantly to workforce opportunities and economic development.",
-  "population": "17297"
-},
-
-"Mayes County": {
-  "description": "Mayes County serves as an important economic center in northeastern Oklahoma, supported by manufacturing, healthcare services, energy-related industries, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "41259"
-},
-
-"McClain County": {
-  "description": "McClain County is one of Oklahoma's fastest-growing counties, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its proximity to Oklahoma City contributes substantially to economic investment and workforce growth.",
-  "population": "46904"
-},
-
-"McCurtain County": {
-  "description": "McCurtain County supports a diversified economy based on tourism, forestry, healthcare services, agriculture, manufacturing, and local commerce. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "30795"
-},
-
-"McIntosh County": {
-  "description": "McIntosh County benefits from tourism, agriculture, healthcare services, transportation, energy-related industries, and local business development. Recreational attractions and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "19782"
-},
-
-"Murray County": {
-  "description": "Murray County supports an economy driven by tourism, healthcare services, manufacturing, agriculture, transportation, and local commerce. Visitor spending and regional businesses contribute substantially to workforce opportunities and economic development.",
-  "population": "13773"
-},
-"Muskogee County": {
-  "description": "Muskogee County serves as a major economic center in eastern Oklahoma, supported by healthcare, manufacturing, transportation, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "66760"
-},
-
-"Noble County": {
-  "description": "Noble County supports a diversified economy based on agriculture, energy-related industries, healthcare services, manufacturing, transportation, and local commerce. Farming operations and natural resource development contribute substantially to economic activity throughout the county.",
-  "population": "10881"
-},
-
-"Nowata County": {
-  "description": "Nowata County benefits from agriculture, energy-related industries, healthcare services, transportation, manufacturing, and local business development. Regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "10239"
-},
-
-"Okfuskee County": {
-  "description": "Okfuskee County supports an economy driven by agriculture, healthcare services, transportation, energy-related industries, tourism, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
-  "population": "11501"
-},
-
-"Oklahoma County": {
-  "description": "Oklahoma County is the largest economic center in Oklahoma and home to Oklahoma City. Healthcare, finance, technology, logistics, aerospace, professional services, government operations, retail development, and corporate headquarters drive a highly diversified economy supporting substantial business investment and workforce growth.",
-  "population": "808239"
-},
-
-"Okmulgee County": {
-  "description": "Okmulgee County combines healthcare services, manufacturing, energy-related industries, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and economic development.",
-  "population": "36210"
-},
-
-"Osage County": {
-  "description": "Osage County is one of Oklahoma's largest counties by area, supported by energy production, agriculture, healthcare services, tourism, manufacturing, and professional services. Natural resources and diversified industries contribute substantially to economic activity throughout the county.",
-  "population": "45818"
-},
-
-"Ottawa County": {
-  "description": "Ottawa County benefits from healthcare services, manufacturing, tourism, transportation, retail development, and local business growth. Its diversified economy supports stable workforce opportunities and continued economic expansion.",
-  "population": "30779"
-},
-
-"Pawnee County": {
-  "description": "Pawnee County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, tourism, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "15685"
-},
-
-"Payne County": {
-  "description": "Payne County is one of Oklahoma's leading education and innovation economies, anchored by higher education, healthcare services, technology, research, professional services, and retail development. Its knowledge-based economy contributes substantially to regional workforce growth and business investment.",
-  "population": "83834"
-},
-"Pittsburg County": {
-  "description": "Pittsburg County is one of southeastern Oklahoma's largest economic centers, supported by healthcare, higher education, manufacturing, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "43484"
-},
-
-"Pontotoc County": {
-  "description": "Pontotoc County benefits from healthcare services, higher education, manufacturing, agriculture, retail activity, and professional services. Educational institutions and regional employers contribute substantially to economic activity throughout the county.",
-  "population": "38732"
-},
-
-"Pottawatomie County": {
-  "description": "Pottawatomie County serves as an important economic center in central Oklahoma, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to workforce opportunities and economic development.",
-  "population": "73711"
-},
-
-"Pushmataha County": {
-  "description": "Pushmataha County supports a diversified economy based on tourism, forestry, agriculture, healthcare services, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "10812"
-},
-
-"Roger Mills County": {
-  "description": "Roger Mills County maintains a rural economy centered on agriculture, ranching, energy-related industries, healthcare services, transportation, and local business development. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "3392"
-},
-
-"Rogers County": {
-  "description": "Rogers County is one of Oklahoma's fastest-growing counties, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Tulsa metropolitan area contributes substantially to business investment and workforce growth.",
-  "population": "101641"
-},
-
-"Seminole County": {
-  "description": "Seminole County supports an economy driven by healthcare services, energy-related industries, manufacturing, transportation, retail activity, and local commerce. Regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "23926"
-},
-
-"Sequoyah County": {
-  "description": "Sequoyah County benefits from transportation, healthcare services, manufacturing, tourism, agriculture, and professional industries. Its strategic location contributes significantly to regional economic activity and business development.",
-  "population": "42120"
-},
-
-"Stephens County": {
-  "description": "Stephens County serves as a major economic center in southern Oklahoma, supported by energy-related industries, healthcare services, manufacturing, retail development, logistics, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "43931"
-},
-
-"Texas County": {
-  "description": "Texas County is one of Oklahoma's strongest agricultural and energy-producing economies, anchored by agribusiness, food processing, energy production, healthcare services, transportation, and manufacturing. Its diversified economy contributes significantly to workforce growth and regional development.",
-  "population": "20658"
-},
-"Tillman County": {
-  "description": "Tillman County supports a diversified economy based on agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "6968"
-},
-
-"Tulsa County": {
-  "description": "Tulsa County is one of Oklahoma's largest economic centers and home to Tulsa. Energy, healthcare, aerospace, finance, technology, logistics, professional services, and corporate headquarters drive a highly diversified economy that supports substantial employment and business investment.",
-  "population": "682880"
-},
-
-"Wagoner County": {
-  "description": "Wagoner County is one of Oklahoma's fastest-growing counties, supported by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Tulsa metropolitan area contributes substantially to workforce growth and economic investment.",
-  "population": "83969"
-},
-
-"Washington County": {
-  "description": "Washington County serves as an important economic center in northeastern Oklahoma, supported by energy-related industries, healthcare services, manufacturing, professional services, retail development, and transportation. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "52136"
-},
-
-"Washita County": {
-  "description": "Washita County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Farming operations and natural resource industries contribute substantially to economic activity throughout the county.",
-  "population": "10909"
-},
-
-"Woods County": {
-  "description": "Woods County supports a diversified economy based on higher education, agriculture, healthcare services, manufacturing, transportation, and local commerce. Educational institutions and farming operations contribute significantly to economic development throughout the county.",
-  "population": "8580"
-},
-
-"Woodward County": {
-  "description": "Woodward County is a major economic center in northwestern Oklahoma, anchored by energy production, healthcare services, manufacturing, transportation, agribusiness, and professional services. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "20470"
-}
+  "identity": {
+    "code": "ok",
+    "slug": "oklahoma",
+    "name": "Oklahoma",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adair County": {
+      "description": "Adair County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
+      "population": "21434"
+    },
+    "Alfalfa County": {
+      "description": "Alfalfa County maintains a rural economy centered on agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "5564"
+    },
+    "Atoka County": {
+      "description": "Atoka County benefits from agriculture, healthcare services, tourism, energy-related industries, transportation, and local business development. Natural resources and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "13758"
+    },
+    "Beaver County": {
+      "description": "Beaver County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute substantially to economic activity throughout the county.",
+      "population": "5049"
+    },
+    "Beckham County": {
+      "description": "Beckham County serves as an important economic center in western Oklahoma, supported by energy-related industries, healthcare services, transportation, manufacturing, retail development, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "22270"
+    },
+    "Blaine County": {
+      "description": "Blaine County combines agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local business activity. Farming operations contribute significantly to economic development throughout the county.",
+      "population": "8684"
+    },
+    "Bryan County": {
+      "description": "Bryan County is one of southeastern Oklahoma's strongest economic centers, driven by healthcare, manufacturing, tourism, education, retail development, and professional services. Its diversified economy contributes substantially to workforce opportunities and business growth.",
+      "population": "50495"
+    },
+    "Caddo County": {
+      "description": "Caddo County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, energy-related industries, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "26627"
+    },
+    "Canadian County": {
+      "description": "Canadian County is one of Oklahoma's fastest-growing counties, supported by healthcare, logistics, professional services, manufacturing, retail development, and residential expansion. Its location within the Oklahoma City metropolitan area contributes substantially to business investment and workforce growth.",
+      "population": "166770"
+    },
+    "Carter County": {
+      "description": "Carter County serves as a major economic center in southern Oklahoma, anchored by healthcare, energy-related industries, manufacturing, retail development, tourism, and professional services. Its diversified economy contributes significantly to regional employment and economic development.",
+      "population": "48406"
+    },
+    "Cherokee County": {
+      "description": "Cherokee County supports a diversified economy based on higher education, healthcare services, tourism, retail development, professional services, and local commerce. Educational institutions and regional businesses contribute significantly to economic activity throughout the county.",
+      "population": "48732"
+    },
+    "Choctaw County": {
+      "description": "Choctaw County benefits from agriculture, healthcare services, tourism, transportation, manufacturing, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "14512"
+    },
+    "Cimarron County": {
+      "description": "Cimarron County maintains a rural economy centered on agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Farming and livestock production remain primary contributors to economic activity throughout the county.",
+      "population": "2141"
+    },
+    "Cleveland County": {
+      "description": "Cleveland County is one of Oklahoma's largest and fastest-growing economic centers, driven by healthcare, higher education, technology, professional services, retail development, and residential expansion. Its location within the Oklahoma City metropolitan area supports substantial business investment and workforce growth.",
+      "population": "299862"
+    },
+    "Coal County": {
+      "description": "Coal County supports a diversified economy based on agriculture, healthcare services, transportation, energy-related industries, tourism, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "5485"
+    },
+    "Comanche County": {
+      "description": "Comanche County is a major economic center in southwestern Oklahoma, supported by military-related industries, healthcare services, education, retail development, professional services, and logistics. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "121125"
+    },
+    "Cotton County": {
+      "description": "Cotton County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Farming operations remain a key contributor to economic growth throughout the county.",
+      "population": "5670"
+    },
+    "Craig County": {
+      "description": "Craig County supports an economy driven by manufacturing, agriculture, healthcare services, transportation, logistics, and local commerce. Industrial employers and farming operations contribute significantly to economic development throughout the county.",
+      "population": "14672"
+    },
+    "Creek County": {
+      "description": "Creek County serves as an important economic center in northeastern Oklahoma, supported by healthcare, manufacturing, energy-related industries, logistics, retail development, and professional services. Its diversified economy contributes significantly to workforce opportunities and business growth.",
+      "population": "72454"
+    },
+    "Custer County": {
+      "description": "Custer County supports a diversified economy based on healthcare services, higher education, agriculture, transportation, manufacturing, and local commerce. Educational institutions and regional businesses contribute substantially to economic activity throughout the county.",
+      "population": "28911"
+    },
+    "Delaware County": {
+      "description": "Delaware County supports a diversified economy driven by tourism, healthcare services, retail development, professional services, construction, and local commerce. Visitor spending and growing residential communities contribute significantly to economic activity throughout the county.",
+      "population": "43820"
+    },
+    "Dewey County": {
+      "description": "Dewey County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Farming operations and natural resource industries contribute substantially to economic growth throughout the county.",
+      "population": "4688"
+    },
+    "Ellis County": {
+      "description": "Ellis County maintains a rural economy centered on agriculture, ranching, energy production, healthcare services, transportation, and local commerce. Farming and livestock operations remain primary contributors to economic activity throughout the county.",
+      "population": "3770"
+    },
+    "Garfield County": {
+      "description": "Garfield County is one of north-central Oklahoma's strongest economic centers, supported by healthcare, energy-related industries, manufacturing, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
+      "population": "60915"
+    },
+    "Garvin County": {
+      "description": "Garvin County supports a diversified economy based on energy-related industries, agriculture, healthcare services, manufacturing, transportation, and local commerce. Regional employers contribute substantially to workforce opportunities and economic development.",
+      "population": "27809"
+    },
+    "Grady County": {
+      "description": "Grady County is one of Oklahoma's fastest-growing counties, driven by healthcare, manufacturing, logistics, agriculture, professional services, and residential expansion. Its proximity to Oklahoma City contributes significantly to business investment and workforce growth.",
+      "population": "57422"
+    },
+    "Grant County": {
+      "description": "Grant County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business activity. Farming operations remain a key contributor to economic activity throughout the county.",
+      "population": "4330"
+    },
+    "Greer County": {
+      "description": "Greer County supports an economy driven by agriculture, healthcare services, energy-related industries, transportation, tourism, and local commerce. Farming operations and regional businesses contribute significantly to economic growth throughout the county.",
+      "population": "5528"
+    },
+    "Harmon County": {
+      "description": "Harmon County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, energy-related industries, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "2455"
+    },
+    "Harper County": {
+      "description": "Harper County supports a diversified economy based on agriculture, ranching, energy production, healthcare services, transportation, and local business development. Natural resources and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "3272"
+    },
+    "Haskell County": {
+      "description": "Haskell County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
+      "population": "11774"
+    },
+    "Hughes County": {
+      "description": "Hughes County benefits from agriculture, healthcare services, energy-related industries, transportation, retail activity, and local business development. Regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "13367"
+    },
+    "Jackson County": {
+      "description": "Jackson County serves as an important economic center in southwestern Oklahoma, supported by healthcare, higher education, manufacturing, agriculture, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business activity.",
+      "population": "25218"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County supports an economy driven by agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "5771"
+    },
+    "Johnston County": {
+      "description": "Johnston County benefits from tourism, agriculture, healthcare services, manufacturing, transportation, and local business development. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "10860"
+    },
+    "Kay County": {
+      "description": "Kay County is a major economic center in northern Oklahoma, supported by manufacturing, healthcare services, energy-related industries, logistics, retail development, and professional services. Its diversified economy contributes significantly to workforce opportunities and business investment.",
+      "population": "43895"
+    },
+    "Kingfisher County": {
+      "description": "Kingfisher County supports a diversified economy based on agriculture, energy production, healthcare services, manufacturing, transportation, and local commerce. Its strategic location contributes significantly to regional economic development.",
+      "population": "15754"
+    },
+    "Kiowa County": {
+      "description": "Kiowa County combines agriculture, healthcare services, energy-related industries, transportation, tourism, and local business activity. Farming operations and regional employers contribute substantially to economic activity throughout the county.",
+      "population": "8424"
+    },
+    "Latimer County": {
+      "description": "Latimer County supports an economy driven by healthcare services, agriculture, tourism, transportation, energy-related industries, and local commerce. Natural resources and regional businesses contribute significantly to economic growth throughout the county.",
+      "population": "10483"
+    },
+    "Le Flore County": {
+      "description": "Le Flore County is one of eastern Oklahoma's largest economic centers, supported by healthcare, manufacturing, tourism, agriculture, logistics, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "48219"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, logistics, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "35049"
+    },
+    "Logan County": {
+      "description": "Logan County is one of Oklahoma's fastest-growing counties, supported by healthcare, logistics, professional services, manufacturing, retail development, and residential expansion. Its location within the Oklahoma City metropolitan area contributes substantially to business investment and workforce growth.",
+      "population": "51526"
+    },
+    "Love County": {
+      "description": "Love County benefits from tourism, healthcare services, transportation, retail activity, energy-related industries, and local business development. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "10374"
+    },
+    "Major County": {
+      "description": "Major County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource industries contribute substantially to economic activity throughout the county.",
+      "population": "7661"
+    },
+    "Marshall County": {
+      "description": "Marshall County combines tourism, agriculture, healthcare services, manufacturing, transportation, and local business activity. Visitor spending and regional employers contribute significantly to workforce opportunities and economic development.",
+      "population": "17297"
+    },
+    "Mayes County": {
+      "description": "Mayes County serves as an important economic center in northeastern Oklahoma, supported by manufacturing, healthcare services, energy-related industries, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "41259"
+    },
+    "McClain County": {
+      "description": "McClain County is one of Oklahoma's fastest-growing counties, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its proximity to Oklahoma City contributes substantially to economic investment and workforce growth.",
+      "population": "46904"
+    },
+    "McCurtain County": {
+      "description": "McCurtain County supports a diversified economy based on tourism, forestry, healthcare services, agriculture, manufacturing, and local commerce. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "30795"
+    },
+    "McIntosh County": {
+      "description": "McIntosh County benefits from tourism, agriculture, healthcare services, transportation, energy-related industries, and local business development. Recreational attractions and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "19782"
+    },
+    "Murray County": {
+      "description": "Murray County supports an economy driven by tourism, healthcare services, manufacturing, agriculture, transportation, and local commerce. Visitor spending and regional businesses contribute substantially to workforce opportunities and economic development.",
+      "population": "13773"
+    },
+    "Muskogee County": {
+      "description": "Muskogee County serves as a major economic center in eastern Oklahoma, supported by healthcare, manufacturing, transportation, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "66760"
+    },
+    "Noble County": {
+      "description": "Noble County supports a diversified economy based on agriculture, energy-related industries, healthcare services, manufacturing, transportation, and local commerce. Farming operations and natural resource development contribute substantially to economic activity throughout the county.",
+      "population": "10881"
+    },
+    "Nowata County": {
+      "description": "Nowata County benefits from agriculture, energy-related industries, healthcare services, transportation, manufacturing, and local business development. Regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "10239"
+    },
+    "Okfuskee County": {
+      "description": "Okfuskee County supports an economy driven by agriculture, healthcare services, transportation, energy-related industries, tourism, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
+      "population": "11501"
+    },
+    "Oklahoma County": {
+      "description": "Oklahoma County is the largest economic center in Oklahoma and home to Oklahoma City. Healthcare, finance, technology, logistics, aerospace, professional services, government operations, retail development, and corporate headquarters drive a highly diversified economy supporting substantial business investment and workforce growth.",
+      "population": "808239"
+    },
+    "Okmulgee County": {
+      "description": "Okmulgee County combines healthcare services, manufacturing, energy-related industries, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and economic development.",
+      "population": "36210"
+    },
+    "Osage County": {
+      "description": "Osage County is one of Oklahoma's largest counties by area, supported by energy production, agriculture, healthcare services, tourism, manufacturing, and professional services. Natural resources and diversified industries contribute substantially to economic activity throughout the county.",
+      "population": "45818"
+    },
+    "Ottawa County": {
+      "description": "Ottawa County benefits from healthcare services, manufacturing, tourism, transportation, retail development, and local business growth. Its diversified economy supports stable workforce opportunities and continued economic expansion.",
+      "population": "30779"
+    },
+    "Pawnee County": {
+      "description": "Pawnee County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, tourism, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "15685"
+    },
+    "Payne County": {
+      "description": "Payne County is one of Oklahoma's leading education and innovation economies, anchored by higher education, healthcare services, technology, research, professional services, and retail development. Its knowledge-based economy contributes substantially to regional workforce growth and business investment.",
+      "population": "83834"
+    },
+    "Pittsburg County": {
+      "description": "Pittsburg County is one of southeastern Oklahoma's largest economic centers, supported by healthcare, higher education, manufacturing, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "43484"
+    },
+    "Pontotoc County": {
+      "description": "Pontotoc County benefits from healthcare services, higher education, manufacturing, agriculture, retail activity, and professional services. Educational institutions and regional employers contribute substantially to economic activity throughout the county.",
+      "population": "38732"
+    },
+    "Pottawatomie County": {
+      "description": "Pottawatomie County serves as an important economic center in central Oklahoma, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to workforce opportunities and economic development.",
+      "population": "73711"
+    },
+    "Pushmataha County": {
+      "description": "Pushmataha County supports a diversified economy based on tourism, forestry, agriculture, healthcare services, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "10812"
+    },
+    "Roger Mills County": {
+      "description": "Roger Mills County maintains a rural economy centered on agriculture, ranching, energy-related industries, healthcare services, transportation, and local business development. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "3392"
+    },
+    "Rogers County": {
+      "description": "Rogers County is one of Oklahoma's fastest-growing counties, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Tulsa metropolitan area contributes substantially to business investment and workforce growth.",
+      "population": "101641"
+    },
+    "Seminole County": {
+      "description": "Seminole County supports an economy driven by healthcare services, energy-related industries, manufacturing, transportation, retail activity, and local commerce. Regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "23926"
+    },
+    "Sequoyah County": {
+      "description": "Sequoyah County benefits from transportation, healthcare services, manufacturing, tourism, agriculture, and professional industries. Its strategic location contributes significantly to regional economic activity and business development.",
+      "population": "42120"
+    },
+    "Stephens County": {
+      "description": "Stephens County serves as a major economic center in southern Oklahoma, supported by energy-related industries, healthcare services, manufacturing, retail development, logistics, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "43931"
+    },
+    "Texas County": {
+      "description": "Texas County is one of Oklahoma's strongest agricultural and energy-producing economies, anchored by agribusiness, food processing, energy production, healthcare services, transportation, and manufacturing. Its diversified economy contributes significantly to workforce growth and regional development.",
+      "population": "20658"
+    },
+    "Tillman County": {
+      "description": "Tillman County supports a diversified economy based on agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "6968"
+    },
+    "Tulsa County": {
+      "description": "Tulsa County is one of Oklahoma's largest economic centers and home to Tulsa. Energy, healthcare, aerospace, finance, technology, logistics, professional services, and corporate headquarters drive a highly diversified economy that supports substantial employment and business investment.",
+      "population": "682880"
+    },
+    "Wagoner County": {
+      "description": "Wagoner County is one of Oklahoma's fastest-growing counties, supported by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Tulsa metropolitan area contributes substantially to workforce growth and economic investment.",
+      "population": "83969"
+    },
+    "Washington County": {
+      "description": "Washington County serves as an important economic center in northeastern Oklahoma, supported by energy-related industries, healthcare services, manufacturing, professional services, retail development, and transportation. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "52136"
+    },
+    "Washita County": {
+      "description": "Washita County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Farming operations and natural resource industries contribute substantially to economic activity throughout the county.",
+      "population": "10909"
+    },
+    "Woods County": {
+      "description": "Woods County supports a diversified economy based on higher education, agriculture, healthcare services, manufacturing, transportation, and local commerce. Educational institutions and farming operations contribute significantly to economic development throughout the county.",
+      "population": "8580"
+    },
+    "Woodward County": {
+      "description": "Woodward County is a major economic center in northwestern Oklahoma, anchored by energy production, healthcare services, manufacturing, transportation, agribusiness, and professional services. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "20470"
+    }
+  }
 }

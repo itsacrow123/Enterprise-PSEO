@@ -1,51 +1,51 @@
 {
-"Belknap County": {
-  "description": "Belknap County supports a diversified economy driven by tourism, healthcare services, hospitality, retail development, manufacturing, and professional services. Visitor spending and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "63561"
-},
-
-"Carroll County": {
-  "description": "Carroll County benefits from tourism, healthcare services, outdoor recreation, hospitality, construction, and local commerce. Its natural attractions and visitor-related industries play major roles in supporting economic growth throughout the county.",
-  "population": "51177"
-},
-
-"Cheshire County": {
-  "description": "Cheshire County serves as an important economic center in southwestern New Hampshire, supported by healthcare, manufacturing, education, retail activity, professional services, and tourism. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "76954"
-},
-
-"Coos County": {
-  "description": "Coos County supports an economy based on tourism, forestry, healthcare services, outdoor recreation, manufacturing, and local commerce. Natural resources and visitor spending contribute substantially to economic activity throughout the county.",
-  "population": "31184"
-},
-
-"Grafton County": {
-  "description": "Grafton County is one of New Hampshire's leading educational and healthcare centers, driven by higher education, healthcare services, tourism, technology, professional services, and retail development. Its diversified economy supports substantial regional growth and workforce development.",
-  "population": "91968"
-},
-
-"Hillsborough County": {
-  "description": "Hillsborough County is New Hampshire's largest economic center, anchored by healthcare, technology, finance, manufacturing, higher education, logistics, professional services, and retail development. Its highly diversified economy contributes substantially to statewide employment and business investment.",
-  "population": "426594"
-},
-
-"Merrimack County": {
-  "description": "Merrimack County serves as a major government and business center in New Hampshire, supported by healthcare, education, finance, professional services, manufacturing, and retail activity. Its diversified economy contributes significantly to regional economic growth.",
-  "population": "156947"
-},
-
-"Rockingham County": {
-  "description": "Rockingham County is one of New Hampshire's fastest-growing economic centers, driven by healthcare, technology, finance, tourism, manufacturing, logistics, professional services, and residential development. Its proximity to the Boston metropolitan area supports substantial business investment and workforce growth.",
-  "population": "322857"
-},
-
-"Strafford County": {
-  "description": "Strafford County benefits from healthcare, higher education, technology, manufacturing, retail development, and professional services. Educational institutions and growing industries contribute significantly to economic activity throughout the county.",
-  "population": "133822"
-},
-
-"Sullivan County": {
-  "description": "Sullivan County supports a diversified economy based on healthcare services, manufacturing, tourism, agriculture, retail activity, and local commerce. Its business community contributes significantly to workforce opportunities and economic development.",
-  "population": "43945"
-}
+  "identity": {
+    "code": "nh",
+    "slug": "new-hampshire",
+    "name": "New Hampshire",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Belknap County": {
+      "description": "Belknap County supports a diversified economy driven by tourism, healthcare services, hospitality, retail development, manufacturing, and professional services. Visitor spending and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "63561"
+    },
+    "Carroll County": {
+      "description": "Carroll County benefits from tourism, healthcare services, outdoor recreation, hospitality, construction, and local commerce. Its natural attractions and visitor-related industries play major roles in supporting economic growth throughout the county.",
+      "population": "51177"
+    },
+    "Cheshire County": {
+      "description": "Cheshire County serves as an important economic center in southwestern New Hampshire, supported by healthcare, manufacturing, education, retail activity, professional services, and tourism. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "76954"
+    },
+    "Coos County": {
+      "description": "Coos County supports an economy based on tourism, forestry, healthcare services, outdoor recreation, manufacturing, and local commerce. Natural resources and visitor spending contribute substantially to economic activity throughout the county.",
+      "population": "31184"
+    },
+    "Grafton County": {
+      "description": "Grafton County is one of New Hampshire's leading educational and healthcare centers, driven by higher education, healthcare services, tourism, technology, professional services, and retail development. Its diversified economy supports substantial regional growth and workforce development.",
+      "population": "91968"
+    },
+    "Hillsborough County": {
+      "description": "Hillsborough County is New Hampshire's largest economic center, anchored by healthcare, technology, finance, manufacturing, higher education, logistics, professional services, and retail development. Its highly diversified economy contributes substantially to statewide employment and business investment.",
+      "population": "426594"
+    },
+    "Merrimack County": {
+      "description": "Merrimack County serves as a major government and business center in New Hampshire, supported by healthcare, education, finance, professional services, manufacturing, and retail activity. Its diversified economy contributes significantly to regional economic growth.",
+      "population": "156947"
+    },
+    "Rockingham County": {
+      "description": "Rockingham County is one of New Hampshire's fastest-growing economic centers, driven by healthcare, technology, finance, tourism, manufacturing, logistics, professional services, and residential development. Its proximity to the Boston metropolitan area supports substantial business investment and workforce growth.",
+      "population": "322857"
+    },
+    "Strafford County": {
+      "description": "Strafford County benefits from healthcare, higher education, technology, manufacturing, retail development, and professional services. Educational institutions and growing industries contribute significantly to economic activity throughout the county.",
+      "population": "133822"
+    },
+    "Sullivan County": {
+      "description": "Sullivan County supports a diversified economy based on healthcare services, manufacturing, tourism, agriculture, retail activity, and local commerce. Its business community contributes significantly to workforce opportunities and economic development.",
+      "population": "43945"
+    }
+  }
 }

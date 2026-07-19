@@ -1,354 +1,299 @@
 {
-"Adams County": {
-  "description": "Adams County supports a diversified economy based on tourism, agriculture, healthcare services, transportation, hospitality, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "21500"
-},
-
-"Ashland County": {
-  "description": "Ashland County benefits from tourism, healthcare services, forestry-related industries, education, transportation, and local business development. Natural resources and visitor-related industries contribute substantially to workforce opportunities and economic growth.",
-  "population": "15800"
-},
-
-"Barron County": {
-  "description": "Barron County supports a strong economy driven by agriculture, manufacturing, healthcare services, food processing, transportation, and professional services. Its diversified business community contributes significantly to employment and economic development.",
-  "population": "46700"
-},
-
-"Bayfield County": {
-  "description": "Bayfield County is one of Wisconsin's leading tourism economies, supported by hospitality, outdoor recreation, healthcare services, transportation, retail activity, and local commerce. Visitor spending contributes substantially to workforce growth and business investment.",
-  "population": "16000"
-},
-
-"Brown County": {
-  "description": "Brown County is one of Wisconsin's largest economic centers and home to Green Bay. Healthcare, manufacturing, logistics, finance, professional services, technology-related industries, and retail development drive a highly diversified economy supporting substantial employment and business growth.",
-  "population": "270000"
-},
-
-"Buffalo County": {
-  "description": "Buffalo County supports an economy based on agriculture, tourism, healthcare services, transportation, forestry-related industries, and local business activity. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "13200"
-},
-
-"Burnett County": {
-  "description": "Burnett County benefits from tourism, healthcare services, forestry-related industries, hospitality, transportation, and local commerce. Visitor spending and natural resources contribute substantially to workforce opportunities and economic development.",
-  "population": "16600"
-},
-
-"Calumet County": {
-  "description": "Calumet County is a growing economic center in eastern Wisconsin, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "54000"
-},
-
-"Chippewa County": {
-  "description": "Chippewa County supports a diversified economy based on manufacturing, healthcare services, education, agriculture, tourism, transportation, and professional services. Its strong business community contributes substantially to regional employment and economic growth.",
-  "population": "67000"
-},
-
-"Clark County": {
-  "description": "Clark County benefits from agriculture, manufacturing, healthcare services, food processing, transportation, forestry-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "35000"
-},
-"Columbia County": {
-  "description": "Columbia County is a growing economic center in south-central Wisconsin, supported by healthcare services, manufacturing, logistics, agriculture, professional services, and retail development. Its strategic location contributes significantly to workforce opportunities and economic growth.",
-  "population": "59000"
-},
-
-"Crawford County": {
-  "description": "Crawford County benefits from agriculture, tourism, healthcare services, transportation, hospitality, and local business development. Farming operations and visitor-related industries contribute substantially to economic activity throughout the county.",
-  "population": "16500"
-},
-
-"Dane County": {
-  "description": "Dane County is one of Wisconsin's strongest economic centers and home to Madison. Technology, healthcare, higher education, biotechnology, finance, professional services, government-related employment, and corporate investment drive a highly diversified economy supporting substantial innovation and business growth.",
-  "population": "575000"
-},
-
-"Dodge County": {
-  "description": "Dodge County supports a diversified economy based on manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its strong industrial base contributes significantly to workforce growth and economic activity.",
-  "population": "92000"
-},
-
-"Door County": {
-  "description": "Door County is one of Wisconsin's premier tourism economies, supported by hospitality, healthcare services, tourism, retail development, professional services, and marine-related industries. Visitor spending contributes substantially to employment and business investment.",
-  "population": "31000"
-},
-
-"Douglas County": {
-  "description": "Douglas County is an important economic center in northwestern Wisconsin, supported by healthcare services, logistics, manufacturing, tourism, transportation, and professional services. Its diversified economy contributes significantly to workforce opportunities and economic growth.",
-  "population": "44500"
-},
-
-"Dunn County": {
-  "description": "Dunn County benefits from higher education, manufacturing, healthcare services, agriculture, transportation, and professional services. Educational institutions and regional employers contribute substantially to economic development throughout the county.",
-  "population": "47000"
-},
-
-"Eau Claire County": {
-  "description": "Eau Claire County is one of western Wisconsin's strongest economic centers, driven by healthcare services, higher education, technology-related industries, manufacturing, finance, professional services, and retail development. Its diversified economy supports substantial employment and business investment.",
-  "population": "106000"
-},
-
-"Florence County": {
-  "description": "Florence County supports a rural economy based on tourism, forestry-related industries, healthcare services, transportation, hospitality, and local commerce. Natural resources and visitor spending contribute significantly to economic activity throughout the county.",
-  "population": "4400"
-},
-
-"Fond du Lac County": {
-  "description": "Fond du Lac County is a major economic center in east-central Wisconsin, supported by manufacturing, healthcare services, logistics, professional services, agriculture, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "105000"
-},
-"Forest County": {
-  "description": "Forest County supports an economy driven by tourism, forestry-related industries, healthcare services, transportation, hospitality, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "9200"
-},
-
-"Grant County": {
-  "description": "Grant County benefits from agriculture, manufacturing, healthcare services, higher education, transportation, and professional services. Farming operations and regional employers contribute substantially to workforce opportunities and economic growth.",
-  "population": "52000"
-},
-
-"Green County": {
-  "description": "Green County supports a diversified economy based on agriculture, food processing, manufacturing, healthcare services, transportation, and professional services. Its strong agricultural sector contributes significantly to economic activity throughout the county.",
-  "population": "38000"
-},
-
-"Green Lake County": {
-  "description": "Green Lake County benefits from tourism, agriculture, healthcare services, hospitality, transportation, and local business development. Visitor spending and farming operations contribute substantially to workforce opportunities and economic growth.",
-  "population": "19000"
-},
-
-"Iowa County": {
-  "description": "Iowa County supports an economy driven by agriculture, manufacturing, healthcare services, professional services, tourism, and transportation. Its diversified business community contributes significantly to regional employment and economic development.",
-  "population": "24000"
-},
-
-"Iron County": {
-  "description": "Iron County is a tourism-focused economy supported by outdoor recreation, hospitality, healthcare services, forestry-related industries, transportation, and local commerce. Visitor spending contributes substantially to workforce growth and business activity.",
-  "population": "5800"
-},
-
-"Jackson County": {
-  "description": "Jackson County benefits from manufacturing, healthcare services, agriculture, transportation, forestry-related industries, and local business development. Regional employers contribute significantly to economic growth and workforce opportunities.",
-  "population": "21000"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is one of southeastern Wisconsin's strongest economic centers, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential growth. Its diversified economy contributes substantially to business investment and employment.",
-  "population": "86000"
-},
-
-"Juneau County": {
-  "description": "Juneau County supports a diversified economy based on tourism, agriculture, healthcare services, transportation, manufacturing, and local commerce. Visitor-related industries and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "27000"
-},
-
-"Kenosha County": {
-  "description": "Kenosha County is one of Wisconsin's major economic centers, driven by manufacturing, logistics, healthcare services, technology-related industries, professional services, retail development, and residential expansion. Its strategic location between Milwaukee and Chicago supports substantial workforce growth and business investment.",
-  "population": "171000"
-},
-"Kewaunee County": {
-  "description": "Kewaunee County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, food processing, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "20600"
-},
-
-"La Crosse County": {
-  "description": "La Crosse County is one of western Wisconsin's strongest economic centers, driven by healthcare services, higher education, manufacturing, finance, professional services, logistics, and retail development. Its diversified economy supports substantial employment and business investment.",
-  "population": "121000"
-},
-
-"Lafayette County": {
-  "description": "Lafayette County benefits from agriculture, food processing, healthcare services, manufacturing, transportation, and local business development. Farming operations contribute substantially to workforce opportunities and economic growth throughout the county.",
-  "population": "16800"
-},
-
-"Langlade County": {
-  "description": "Langlade County supports an economy driven by forestry-related industries, tourism, healthcare services, manufacturing, transportation, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "19700"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County benefits from manufacturing, forestry-related industries, healthcare services, tourism, transportation, and professional services. Its diversified economy contributes substantially to workforce growth and regional economic development.",
-  "population": "28600"
-},
-
-"Manitowoc County": {
-  "description": "Manitowoc County is an important economic center along Lake Michigan, supported by manufacturing, healthcare services, maritime industries, logistics, professional services, and retail development. Its diversified economy contributes significantly to employment and business growth.",
-  "population": "81400"
-},
-
-"Marathon County": {
-  "description": "Marathon County is one of central Wisconsin's largest economic centers, driven by healthcare services, manufacturing, logistics, finance, agriculture, professional services, and retail development. Its diversified economy supports substantial workforce opportunities and business investment.",
-  "population": "139000"
-},
-
-"Marinette County": {
-  "description": "Marinette County supports a diversified economy based on manufacturing, defense-related industries, healthcare services, tourism, transportation, and forestry-related businesses. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "40500"
-},
-
-"Marquette County": {
-  "description": "Marquette County benefits from tourism, agriculture, healthcare services, hospitality, transportation, and local business development. Visitor spending and farming operations contribute substantially to economic growth throughout the county.",
-  "population": "15400"
-},
-
-"Menominee County": {
-  "description": "Menominee County supports an economy driven by healthcare services, education, government-related employment, forestry-related industries, transportation, and local commerce. Community-focused industries contribute significantly to workforce opportunities and economic activity.",
-  "population": "4300"
-},
-"Milwaukee County": {
-  "description": "Milwaukee County is Wisconsin's largest economic center, driven by healthcare services, finance, manufacturing, technology, logistics, professional services, higher education, tourism, and corporate headquarters. Its highly diversified economy supports substantial employment, innovation, and business investment.",
-  "population": "915000"
-},
-
-"Monroe County": {
-  "description": "Monroe County supports a diversified economy based on healthcare services, manufacturing, transportation, agriculture, logistics, professional services, and retail development. Regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "47000"
-},
-
-"Oconto County": {
-  "description": "Oconto County benefits from tourism, forestry-related industries, manufacturing, healthcare services, transportation, and local business development. Natural resources and visitor-related industries contribute substantially to economic activity throughout the county.",
-  "population": "39000"
-},
-
-"Oneida County": {
-  "description": "Oneida County is one of northern Wisconsin's strongest tourism economies, supported by hospitality, healthcare services, outdoor recreation, retail development, transportation, and professional services. Visitor spending contributes significantly to workforce growth and business investment.",
-  "population": "39000"
-},
-
-"Outagamie County": {
-  "description": "Outagamie County is one of Wisconsin's major economic centers, driven by manufacturing, healthcare services, logistics, finance, technology-related industries, professional services, and retail development. Its diversified economy supports substantial employment and business growth.",
-  "population": "194000"
-},
-
-"Ozaukee County": {
-  "description": "Ozaukee County is one of Wisconsin's most affluent economic centers, supported by healthcare services, manufacturing, finance, professional services, technology-related businesses, retail development, and residential growth. Its proximity to Milwaukee contributes significantly to workforce opportunities and investment.",
-  "population": "92000"
-},
-
-"Pepin County": {
-  "description": "Pepin County supports an economy driven by agriculture, tourism, healthcare services, transportation, hospitality, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "7300"
-},
-
-"Pierce County": {
-  "description": "Pierce County benefits from agriculture, manufacturing, healthcare services, transportation, professional services, and residential development. Its location near the Twin Cities region contributes substantially to workforce growth and economic activity.",
-  "population": "43000"
-},
-
-"Polk County": {
-  "description": "Polk County supports a diversified economy based on tourism, manufacturing, healthcare services, agriculture, transportation, and professional services. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "46000"
-},
-
-"Portage County": {
-  "description": "Portage County is an important economic center in central Wisconsin, supported by higher education, healthcare services, manufacturing, agriculture, professional services, and retail development. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "71000"
-},
-"Price County": {
-  "description": "Price County supports an economy driven by forestry-related industries, tourism, healthcare services, transportation, hospitality, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "14000"
-},
-
-"Racine County": {
-  "description": "Racine County is one of southeastern Wisconsin's strongest economic centers, supported by manufacturing, healthcare services, logistics, professional services, technology-related industries, retail development, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "198000"
-},
-
-"Richland County": {
-  "description": "Richland County benefits from agriculture, healthcare services, manufacturing, tourism, transportation, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "17500"
-},
-
-"Rock County": {
-  "description": "Rock County is one of southern Wisconsin's largest economic centers, driven by manufacturing, healthcare services, logistics, agriculture, professional services, retail development, and transportation. Its diversified economy supports substantial employment and business growth.",
-  "population": "165000"
-},
-
-"Rusk County": {
-  "description": "Rusk County supports a diversified economy based on tourism, forestry-related industries, healthcare services, agriculture, transportation, and local commerce. Natural resources and visitor spending contribute significantly to economic activity throughout the county.",
-  "population": "14000"
-},
-
-"Sauk County": {
-  "description": "Sauk County is an important economic center in south-central Wisconsin, supported by tourism, healthcare services, manufacturing, agriculture, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and economic growth.",
-  "population": "67000"
-},
-
-"Sawyer County": {
-  "description": "Sawyer County benefits from tourism, hospitality, healthcare services, forestry-related industries, transportation, and local business development. Visitor spending contributes substantially to employment and economic activity throughout the county.",
-  "population": "19000"
-},
-
-"Shawano County": {
-  "description": "Shawano County supports an economy driven by manufacturing, agriculture, healthcare services, tourism, transportation, and professional services. Its diversified business community contributes significantly to workforce growth and regional economic development.",
-  "population": "42000"
-},
-
-"Sheboygan County": {
-  "description": "Sheboygan County is one of eastern Wisconsin's strongest manufacturing economies, supported by healthcare services, logistics, professional services, tourism, retail development, and advanced manufacturing. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "118000"
-},
-
-"St. Croix County": {
-  "description": "St. Croix County is one of Wisconsin's fastest-growing economic centers, driven by healthcare services, professional services, logistics, manufacturing, retail development, and residential expansion. Its proximity to the Twin Cities metropolitan area supports substantial workforce growth and business investment.",
-  "population": "98000"
-},
-"Taylor County": {
-  "description": "Taylor County supports a diversified economy based on agriculture, forestry-related industries, manufacturing, healthcare services, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "20500"
-},
-
-"Trempealeau County": {
-  "description": "Trempealeau County benefits from agriculture, manufacturing, healthcare services, transportation, tourism, and professional services. Its diversified economy contributes substantially to workforce opportunities and economic growth.",
-  "population": "31000"
-},
-
-"Vernon County": {
-  "description": "Vernon County supports an economy driven by agriculture, healthcare services, tourism, food processing, transportation, and local business development. Farming operations contribute significantly to economic activity throughout the county.",
-  "population": "31000"
-},
-
-"Vilas County": {
-  "description": "Vilas County is one of northern Wisconsin's premier tourism economies, supported by hospitality, outdoor recreation, healthcare services, retail development, transportation, and professional services. Visitor spending contributes substantially to workforce growth and business investment.",
-  "population": "23000"
-},
-
-"Walworth County": {
-  "description": "Walworth County is a major economic center in southeastern Wisconsin, supported by manufacturing, tourism, healthcare services, professional services, logistics, retail development, and residential growth. Its diversified economy contributes significantly to employment and business expansion.",
-  "population": "106000"
-},
-
-"Washburn County": {
-  "description": "Washburn County benefits from tourism, forestry-related industries, healthcare services, transportation, hospitality, and local commerce. Visitor-related industries and natural resources contribute substantially to economic development throughout the county.",
-  "population": "16000"
-},
-
-"Washington County": {
-  "description": "Washington County is one of Wisconsin's strongest economic centers, driven by manufacturing, healthcare services, finance, logistics, professional services, technology-related industries, and retail development. Its diversified economy supports substantial workforce growth and business investment.",
-  "population": "138000"
-},
-
-"Waukesha County": {
-  "description": "Waukesha County is one of Wisconsin's largest and most affluent economic centers, supported by manufacturing, healthcare services, finance, technology-related industries, professional services, logistics, and corporate investment. Its highly diversified economy contributes substantially to employment and business growth.",
-  "population": "410000"
-},
-
-"Waupaca County": {
-  "description": "Waupaca County supports a diversified economy based on manufacturing, agriculture, healthcare services, tourism, transportation, and professional services. Regional employers contribute significantly to workforce opportunities and economic activity.",
-  "population": "51000"
-},
-
-"Waushara County": {
-  "description": "Waushara County benefits from agriculture, tourism, healthcare services, transportation, hospitality, and local business development. Farming operations and visitor spending contribute substantially to economic growth throughout the county.",
-  "population": "25000"
-},
-"Winnebago County": {
-  "description": "Winnebago County is one of Wisconsin's major economic centers, driven by manufacturing, healthcare services, logistics, higher education, finance, professional services, retail development, and technology-related industries. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "172000"
-},
-
-"Wood County": {
-  "description": "Wood County supports a diversified economy based on manufacturing, healthcare services, paper and forestry-related industries, transportation, professional services, agriculture, and retail development. Its strong industrial base contributes significantly to workforce growth and economic activity throughout the county.",
-  "population": "74000"
-}
+  "identity": {
+    "code": "wi",
+    "slug": "wisconsin",
+    "name": "Wisconsin",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County supports a diversified economy based on tourism, agriculture, healthcare services, transportation, hospitality, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "21500"
+    },
+    "Ashland County": {
+      "description": "Ashland County benefits from tourism, healthcare services, forestry-related industries, education, transportation, and local business development. Natural resources and visitor-related industries contribute substantially to workforce opportunities and economic growth.",
+      "population": "15800"
+    },
+    "Barron County": {
+      "description": "Barron County supports a strong economy driven by agriculture, manufacturing, healthcare services, food processing, transportation, and professional services. Its diversified business community contributes significantly to employment and economic development.",
+      "population": "46700"
+    },
+    "Bayfield County": {
+      "description": "Bayfield County is one of Wisconsin's leading tourism economies, supported by hospitality, outdoor recreation, healthcare services, transportation, retail activity, and local commerce. Visitor spending contributes substantially to workforce growth and business investment.",
+      "population": "16000"
+    },
+    "Brown County": {
+      "description": "Brown County is one of Wisconsin's largest economic centers and home to Green Bay. Healthcare, manufacturing, logistics, finance, professional services, technology-related industries, and retail development drive a highly diversified economy supporting substantial employment and business growth.",
+      "population": "270000"
+    },
+    "Buffalo County": {
+      "description": "Buffalo County supports an economy based on agriculture, tourism, healthcare services, transportation, forestry-related industries, and local business activity. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "13200"
+    },
+    "Burnett County": {
+      "description": "Burnett County benefits from tourism, healthcare services, forestry-related industries, hospitality, transportation, and local commerce. Visitor spending and natural resources contribute substantially to workforce opportunities and economic development.",
+      "population": "16600"
+    },
+    "Calumet County": {
+      "description": "Calumet County is a growing economic center in eastern Wisconsin, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "54000"
+    },
+    "Chippewa County": {
+      "description": "Chippewa County supports a diversified economy based on manufacturing, healthcare services, education, agriculture, tourism, transportation, and professional services. Its strong business community contributes substantially to regional employment and economic growth.",
+      "population": "67000"
+    },
+    "Clark County": {
+      "description": "Clark County benefits from agriculture, manufacturing, healthcare services, food processing, transportation, forestry-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "35000"
+    },
+    "Columbia County": {
+      "description": "Columbia County is a growing economic center in south-central Wisconsin, supported by healthcare services, manufacturing, logistics, agriculture, professional services, and retail development. Its strategic location contributes significantly to workforce opportunities and economic growth.",
+      "population": "59000"
+    },
+    "Crawford County": {
+      "description": "Crawford County benefits from agriculture, tourism, healthcare services, transportation, hospitality, and local business development. Farming operations and visitor-related industries contribute substantially to economic activity throughout the county.",
+      "population": "16500"
+    },
+    "Dane County": {
+      "description": "Dane County is one of Wisconsin's strongest economic centers and home to Madison. Technology, healthcare, higher education, biotechnology, finance, professional services, government-related employment, and corporate investment drive a highly diversified economy supporting substantial innovation and business growth.",
+      "population": "575000"
+    },
+    "Dodge County": {
+      "description": "Dodge County supports a diversified economy based on manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its strong industrial base contributes significantly to workforce growth and economic activity.",
+      "population": "92000"
+    },
+    "Door County": {
+      "description": "Door County is one of Wisconsin's premier tourism economies, supported by hospitality, healthcare services, tourism, retail development, professional services, and marine-related industries. Visitor spending contributes substantially to employment and business investment.",
+      "population": "31000"
+    },
+    "Douglas County": {
+      "description": "Douglas County is an important economic center in northwestern Wisconsin, supported by healthcare services, logistics, manufacturing, tourism, transportation, and professional services. Its diversified economy contributes significantly to workforce opportunities and economic growth.",
+      "population": "44500"
+    },
+    "Dunn County": {
+      "description": "Dunn County benefits from higher education, manufacturing, healthcare services, agriculture, transportation, and professional services. Educational institutions and regional employers contribute substantially to economic development throughout the county.",
+      "population": "47000"
+    },
+    "Eau Claire County": {
+      "description": "Eau Claire County is one of western Wisconsin's strongest economic centers, driven by healthcare services, higher education, technology-related industries, manufacturing, finance, professional services, and retail development. Its diversified economy supports substantial employment and business investment.",
+      "population": "106000"
+    },
+    "Florence County": {
+      "description": "Florence County supports a rural economy based on tourism, forestry-related industries, healthcare services, transportation, hospitality, and local commerce. Natural resources and visitor spending contribute significantly to economic activity throughout the county.",
+      "population": "4400"
+    },
+    "Fond du Lac County": {
+      "description": "Fond du Lac County is a major economic center in east-central Wisconsin, supported by manufacturing, healthcare services, logistics, professional services, agriculture, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "105000"
+    },
+    "Forest County": {
+      "description": "Forest County supports an economy driven by tourism, forestry-related industries, healthcare services, transportation, hospitality, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "9200"
+    },
+    "Grant County": {
+      "description": "Grant County benefits from agriculture, manufacturing, healthcare services, higher education, transportation, and professional services. Farming operations and regional employers contribute substantially to workforce opportunities and economic growth.",
+      "population": "52000"
+    },
+    "Green County": {
+      "description": "Green County supports a diversified economy based on agriculture, food processing, manufacturing, healthcare services, transportation, and professional services. Its strong agricultural sector contributes significantly to economic activity throughout the county.",
+      "population": "38000"
+    },
+    "Green Lake County": {
+      "description": "Green Lake County benefits from tourism, agriculture, healthcare services, hospitality, transportation, and local business development. Visitor spending and farming operations contribute substantially to workforce opportunities and economic growth.",
+      "population": "19000"
+    },
+    "Iowa County": {
+      "description": "Iowa County supports an economy driven by agriculture, manufacturing, healthcare services, professional services, tourism, and transportation. Its diversified business community contributes significantly to regional employment and economic development.",
+      "population": "24000"
+    },
+    "Iron County": {
+      "description": "Iron County is a tourism-focused economy supported by outdoor recreation, hospitality, healthcare services, forestry-related industries, transportation, and local commerce. Visitor spending contributes substantially to workforce growth and business activity.",
+      "population": "5800"
+    },
+    "Jackson County": {
+      "description": "Jackson County benefits from manufacturing, healthcare services, agriculture, transportation, forestry-related industries, and local business development. Regional employers contribute significantly to economic growth and workforce opportunities.",
+      "population": "21000"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is one of southeastern Wisconsin's strongest economic centers, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential growth. Its diversified economy contributes substantially to business investment and employment.",
+      "population": "86000"
+    },
+    "Juneau County": {
+      "description": "Juneau County supports a diversified economy based on tourism, agriculture, healthcare services, transportation, manufacturing, and local commerce. Visitor-related industries and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "27000"
+    },
+    "Kenosha County": {
+      "description": "Kenosha County is one of Wisconsin's major economic centers, driven by manufacturing, logistics, healthcare services, technology-related industries, professional services, retail development, and residential expansion. Its strategic location between Milwaukee and Chicago supports substantial workforce growth and business investment.",
+      "population": "171000"
+    },
+    "Kewaunee County": {
+      "description": "Kewaunee County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, food processing, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "20600"
+    },
+    "La Crosse County": {
+      "description": "La Crosse County is one of western Wisconsin's strongest economic centers, driven by healthcare services, higher education, manufacturing, finance, professional services, logistics, and retail development. Its diversified economy supports substantial employment and business investment.",
+      "population": "121000"
+    },
+    "Lafayette County": {
+      "description": "Lafayette County benefits from agriculture, food processing, healthcare services, manufacturing, transportation, and local business development. Farming operations contribute substantially to workforce opportunities and economic growth throughout the county.",
+      "population": "16800"
+    },
+    "Langlade County": {
+      "description": "Langlade County supports an economy driven by forestry-related industries, tourism, healthcare services, manufacturing, transportation, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "19700"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County benefits from manufacturing, forestry-related industries, healthcare services, tourism, transportation, and professional services. Its diversified economy contributes substantially to workforce growth and regional economic development.",
+      "population": "28600"
+    },
+    "Manitowoc County": {
+      "description": "Manitowoc County is an important economic center along Lake Michigan, supported by manufacturing, healthcare services, maritime industries, logistics, professional services, and retail development. Its diversified economy contributes significantly to employment and business growth.",
+      "population": "81400"
+    },
+    "Marathon County": {
+      "description": "Marathon County is one of central Wisconsin's largest economic centers, driven by healthcare services, manufacturing, logistics, finance, agriculture, professional services, and retail development. Its diversified economy supports substantial workforce opportunities and business investment.",
+      "population": "139000"
+    },
+    "Marinette County": {
+      "description": "Marinette County supports a diversified economy based on manufacturing, defense-related industries, healthcare services, tourism, transportation, and forestry-related businesses. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "40500"
+    },
+    "Marquette County": {
+      "description": "Marquette County benefits from tourism, agriculture, healthcare services, hospitality, transportation, and local business development. Visitor spending and farming operations contribute substantially to economic growth throughout the county.",
+      "population": "15400"
+    },
+    "Menominee County": {
+      "description": "Menominee County supports an economy driven by healthcare services, education, government-related employment, forestry-related industries, transportation, and local commerce. Community-focused industries contribute significantly to workforce opportunities and economic activity.",
+      "population": "4300"
+    },
+    "Milwaukee County": {
+      "description": "Milwaukee County is Wisconsin's largest economic center, driven by healthcare services, finance, manufacturing, technology, logistics, professional services, higher education, tourism, and corporate headquarters. Its highly diversified economy supports substantial employment, innovation, and business investment.",
+      "population": "915000"
+    },
+    "Monroe County": {
+      "description": "Monroe County supports a diversified economy based on healthcare services, manufacturing, transportation, agriculture, logistics, professional services, and retail development. Regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "47000"
+    },
+    "Oconto County": {
+      "description": "Oconto County benefits from tourism, forestry-related industries, manufacturing, healthcare services, transportation, and local business development. Natural resources and visitor-related industries contribute substantially to economic activity throughout the county.",
+      "population": "39000"
+    },
+    "Oneida County": {
+      "description": "Oneida County is one of northern Wisconsin's strongest tourism economies, supported by hospitality, healthcare services, outdoor recreation, retail development, transportation, and professional services. Visitor spending contributes significantly to workforce growth and business investment.",
+      "population": "39000"
+    },
+    "Outagamie County": {
+      "description": "Outagamie County is one of Wisconsin's major economic centers, driven by manufacturing, healthcare services, logistics, finance, technology-related industries, professional services, and retail development. Its diversified economy supports substantial employment and business growth.",
+      "population": "194000"
+    },
+    "Ozaukee County": {
+      "description": "Ozaukee County is one of Wisconsin's most affluent economic centers, supported by healthcare services, manufacturing, finance, professional services, technology-related businesses, retail development, and residential growth. Its proximity to Milwaukee contributes significantly to workforce opportunities and investment.",
+      "population": "92000"
+    },
+    "Pepin County": {
+      "description": "Pepin County supports an economy driven by agriculture, tourism, healthcare services, transportation, hospitality, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "7300"
+    },
+    "Pierce County": {
+      "description": "Pierce County benefits from agriculture, manufacturing, healthcare services, transportation, professional services, and residential development. Its location near the Twin Cities region contributes substantially to workforce growth and economic activity.",
+      "population": "43000"
+    },
+    "Polk County": {
+      "description": "Polk County supports a diversified economy based on tourism, manufacturing, healthcare services, agriculture, transportation, and professional services. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "46000"
+    },
+    "Portage County": {
+      "description": "Portage County is an important economic center in central Wisconsin, supported by higher education, healthcare services, manufacturing, agriculture, professional services, and retail development. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "71000"
+    },
+    "Price County": {
+      "description": "Price County supports an economy driven by forestry-related industries, tourism, healthcare services, transportation, hospitality, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "14000"
+    },
+    "Racine County": {
+      "description": "Racine County is one of southeastern Wisconsin's strongest economic centers, supported by manufacturing, healthcare services, logistics, professional services, technology-related industries, retail development, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "198000"
+    },
+    "Richland County": {
+      "description": "Richland County benefits from agriculture, healthcare services, manufacturing, tourism, transportation, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "17500"
+    },
+    "Rock County": {
+      "description": "Rock County is one of southern Wisconsin's largest economic centers, driven by manufacturing, healthcare services, logistics, agriculture, professional services, retail development, and transportation. Its diversified economy supports substantial employment and business growth.",
+      "population": "165000"
+    },
+    "Rusk County": {
+      "description": "Rusk County supports a diversified economy based on tourism, forestry-related industries, healthcare services, agriculture, transportation, and local commerce. Natural resources and visitor spending contribute significantly to economic activity throughout the county.",
+      "population": "14000"
+    },
+    "Sauk County": {
+      "description": "Sauk County is an important economic center in south-central Wisconsin, supported by tourism, healthcare services, manufacturing, agriculture, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and economic growth.",
+      "population": "67000"
+    },
+    "Sawyer County": {
+      "description": "Sawyer County benefits from tourism, hospitality, healthcare services, forestry-related industries, transportation, and local business development. Visitor spending contributes substantially to employment and economic activity throughout the county.",
+      "population": "19000"
+    },
+    "Shawano County": {
+      "description": "Shawano County supports an economy driven by manufacturing, agriculture, healthcare services, tourism, transportation, and professional services. Its diversified business community contributes significantly to workforce growth and regional economic development.",
+      "population": "42000"
+    },
+    "Sheboygan County": {
+      "description": "Sheboygan County is one of eastern Wisconsin's strongest manufacturing economies, supported by healthcare services, logistics, professional services, tourism, retail development, and advanced manufacturing. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "118000"
+    },
+    "St. Croix County": {
+      "description": "St. Croix County is one of Wisconsin's fastest-growing economic centers, driven by healthcare services, professional services, logistics, manufacturing, retail development, and residential expansion. Its proximity to the Twin Cities metropolitan area supports substantial workforce growth and business investment.",
+      "population": "98000"
+    },
+    "Taylor County": {
+      "description": "Taylor County supports a diversified economy based on agriculture, forestry-related industries, manufacturing, healthcare services, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "20500"
+    },
+    "Trempealeau County": {
+      "description": "Trempealeau County benefits from agriculture, manufacturing, healthcare services, transportation, tourism, and professional services. Its diversified economy contributes substantially to workforce opportunities and economic growth.",
+      "population": "31000"
+    },
+    "Vernon County": {
+      "description": "Vernon County supports an economy driven by agriculture, healthcare services, tourism, food processing, transportation, and local business development. Farming operations contribute significantly to economic activity throughout the county.",
+      "population": "31000"
+    },
+    "Vilas County": {
+      "description": "Vilas County is one of northern Wisconsin's premier tourism economies, supported by hospitality, outdoor recreation, healthcare services, retail development, transportation, and professional services. Visitor spending contributes substantially to workforce growth and business investment.",
+      "population": "23000"
+    },
+    "Walworth County": {
+      "description": "Walworth County is a major economic center in southeastern Wisconsin, supported by manufacturing, tourism, healthcare services, professional services, logistics, retail development, and residential growth. Its diversified economy contributes significantly to employment and business expansion.",
+      "population": "106000"
+    },
+    "Washburn County": {
+      "description": "Washburn County benefits from tourism, forestry-related industries, healthcare services, transportation, hospitality, and local commerce. Visitor-related industries and natural resources contribute substantially to economic development throughout the county.",
+      "population": "16000"
+    },
+    "Washington County": {
+      "description": "Washington County is one of Wisconsin's strongest economic centers, driven by manufacturing, healthcare services, finance, logistics, professional services, technology-related industries, and retail development. Its diversified economy supports substantial workforce growth and business investment.",
+      "population": "138000"
+    },
+    "Waukesha County": {
+      "description": "Waukesha County is one of Wisconsin's largest and most affluent economic centers, supported by manufacturing, healthcare services, finance, technology-related industries, professional services, logistics, and corporate investment. Its highly diversified economy contributes substantially to employment and business growth.",
+      "population": "410000"
+    },
+    "Waupaca County": {
+      "description": "Waupaca County supports a diversified economy based on manufacturing, agriculture, healthcare services, tourism, transportation, and professional services. Regional employers contribute significantly to workforce opportunities and economic activity.",
+      "population": "51000"
+    },
+    "Waushara County": {
+      "description": "Waushara County benefits from agriculture, tourism, healthcare services, transportation, hospitality, and local business development. Farming operations and visitor spending contribute substantially to economic growth throughout the county.",
+      "population": "25000"
+    },
+    "Winnebago County": {
+      "description": "Winnebago County is one of Wisconsin's major economic centers, driven by manufacturing, healthcare services, logistics, higher education, finance, professional services, retail development, and technology-related industries. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "172000"
+    },
+    "Wood County": {
+      "description": "Wood County supports a diversified economy based on manufacturing, healthcare services, paper and forestry-related industries, transportation, professional services, agriculture, and retail development. Its strong industrial base contributes significantly to workforce growth and economic activity throughout the county.",
+      "population": "74000"
+    }
+  }
 }

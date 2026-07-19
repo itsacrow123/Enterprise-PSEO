@@ -1,70 +1,67 @@
 {
-"Barnstable County": {
-  "description": "Barnstable County is a premier tourism destination in Massachusetts, driven by hospitality, healthcare, professional services, retail activity, marine industries, and real estate development. Visitor spending and seasonal economic activity contribute significantly to the county's economy.",
-  "population": "232411"
-},
-
-"Berkshire County": {
-  "description": "Berkshire County supports a diversified economy based on tourism, healthcare, education, arts and culture, manufacturing, and professional services. Its scenic landscapes and cultural attractions play important roles in regional economic growth.",
-  "population": "124944"
-},
-
-"Bristol County": {
-  "description": "Bristol County is one of Massachusetts' largest economic centers, supported by healthcare, education, manufacturing, finance, logistics, retail development, and professional industries. Its diverse economy contributes substantially to regional employment and business activity.",
-  "population": "579200"
-},
-
-"Dukes County": {
-  "description": "Dukes County is known for tourism, hospitality, marine industries, healthcare services, real estate development, and local commerce. Seasonal visitors and coastal economic activity drive much of the county's economic growth.",
-  "population": "20600"
-},
-
-"Essex County": {
-  "description": "Essex County is one of New England's most important economic centers, driven by healthcare, technology, higher education, finance, manufacturing, tourism, and professional services. Its strong innovation economy supports substantial employment and investment.",
-  "population": "809829"
-},
-
-"Franklin County": {
-  "description": "Franklin County combines healthcare, education, agriculture, tourism, manufacturing, and local business development within western Massachusetts. Its diverse economy supports stable workforce opportunities and community growth.",
-  "population": "70954"
-},
-
-"Hampden County": {
-  "description": "Hampden County serves as a major economic hub in western Massachusetts, supported by healthcare, education, manufacturing, logistics, finance, retail activity, and professional services. Its diversified economy contributes significantly to regional development.",
-  "population": "465825"
-},
-
-"Hampshire County": {
-  "description": "Hampshire County is a leading educational and research center, driven by higher education, healthcare, technology, tourism, agriculture, and professional services. Its highly skilled workforce supports innovation and long-term economic growth.",
-  "population": "162308"
-},
-
-"Middlesex County": {
-  "description": "Middlesex County is the most populous county in Massachusetts and one of the nation's leading innovation centers. Technology, healthcare, biotechnology, higher education, finance, and professional services drive a highly diversified and globally competitive economy.",
-  "population": "1632002"
-},
-
-"Nantucket County": {
-  "description": "Nantucket County supports an economy centered on tourism, hospitality, marine industries, real estate, healthcare services, and local commerce. Visitor spending and seasonal economic activity play major roles in supporting local businesses.",
-  "population": "14455"
-},
-"Norfolk County": {
-  "description": "Norfolk County is one of Massachusetts' most affluent and economically dynamic counties, supported by healthcare, technology, finance, education, biotechnology, professional services, and retail development. Its proximity to Boston contributes to strong business growth and workforce opportunities.",
-  "population": "725981"
-},
-
-"Plymouth County": {
-  "description": "Plymouth County benefits from healthcare, tourism, manufacturing, education, professional services, retail activity, and residential development. Its growing population and coastal location contribute significantly to economic activity throughout the county.",
-  "population": "530819"
-},
-
-"Suffolk County": {
-  "description": "Suffolk County is home to Boston and serves as one of the most important economic centers in the United States. Healthcare, higher education, finance, technology, biotechnology, government services, tourism, and professional industries drive a globally recognized innovation economy.",
-  "population": "797936"
-},
-
-"Worcester County": {
-  "description": "Worcester County is the largest county in Massachusetts by land area and a major center for healthcare, manufacturing, education, biotechnology, logistics, finance, and professional services. Its diversified economy supports substantial regional employment and business development.",
-  "population": "873547"
-}
+  "identity": {
+    "code": "ma",
+    "slug": "massachusetts",
+    "name": "Massachusetts",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Barnstable County": {
+      "description": "Barnstable County is a premier tourism destination in Massachusetts, driven by hospitality, healthcare, professional services, retail activity, marine industries, and real estate development. Visitor spending and seasonal economic activity contribute significantly to the county's economy.",
+      "population": "232411"
+    },
+    "Berkshire County": {
+      "description": "Berkshire County supports a diversified economy based on tourism, healthcare, education, arts and culture, manufacturing, and professional services. Its scenic landscapes and cultural attractions play important roles in regional economic growth.",
+      "population": "124944"
+    },
+    "Bristol County": {
+      "description": "Bristol County is one of Massachusetts' largest economic centers, supported by healthcare, education, manufacturing, finance, logistics, retail development, and professional industries. Its diverse economy contributes substantially to regional employment and business activity.",
+      "population": "579200"
+    },
+    "Dukes County": {
+      "description": "Dukes County is known for tourism, hospitality, marine industries, healthcare services, real estate development, and local commerce. Seasonal visitors and coastal economic activity drive much of the county's economic growth.",
+      "population": "20600"
+    },
+    "Essex County": {
+      "description": "Essex County is one of New England's most important economic centers, driven by healthcare, technology, higher education, finance, manufacturing, tourism, and professional services. Its strong innovation economy supports substantial employment and investment.",
+      "population": "809829"
+    },
+    "Franklin County": {
+      "description": "Franklin County combines healthcare, education, agriculture, tourism, manufacturing, and local business development within western Massachusetts. Its diverse economy supports stable workforce opportunities and community growth.",
+      "population": "70954"
+    },
+    "Hampden County": {
+      "description": "Hampden County serves as a major economic hub in western Massachusetts, supported by healthcare, education, manufacturing, logistics, finance, retail activity, and professional services. Its diversified economy contributes significantly to regional development.",
+      "population": "465825"
+    },
+    "Hampshire County": {
+      "description": "Hampshire County is a leading educational and research center, driven by higher education, healthcare, technology, tourism, agriculture, and professional services. Its highly skilled workforce supports innovation and long-term economic growth.",
+      "population": "162308"
+    },
+    "Middlesex County": {
+      "description": "Middlesex County is the most populous county in Massachusetts and one of the nation's leading innovation centers. Technology, healthcare, biotechnology, higher education, finance, and professional services drive a highly diversified and globally competitive economy.",
+      "population": "1632002"
+    },
+    "Nantucket County": {
+      "description": "Nantucket County supports an economy centered on tourism, hospitality, marine industries, real estate, healthcare services, and local commerce. Visitor spending and seasonal economic activity play major roles in supporting local businesses.",
+      "population": "14455"
+    },
+    "Norfolk County": {
+      "description": "Norfolk County is one of Massachusetts' most affluent and economically dynamic counties, supported by healthcare, technology, finance, education, biotechnology, professional services, and retail development. Its proximity to Boston contributes to strong business growth and workforce opportunities.",
+      "population": "725981"
+    },
+    "Plymouth County": {
+      "description": "Plymouth County benefits from healthcare, tourism, manufacturing, education, professional services, retail activity, and residential development. Its growing population and coastal location contribute significantly to economic activity throughout the county.",
+      "population": "530819"
+    },
+    "Suffolk County": {
+      "description": "Suffolk County is home to Boston and serves as one of the most important economic centers in the United States. Healthcare, higher education, finance, technology, biotechnology, government services, tourism, and professional industries drive a globally recognized innovation economy.",
+      "population": "797936"
+    },
+    "Worcester County": {
+      "description": "Worcester County is the largest county in Massachusetts by land area and a major center for healthcare, manufacturing, education, biotechnology, logistics, finance, and professional services. Its diversified economy supports substantial regional employment and business development.",
+      "population": "873547"
+    }
+  }
 }

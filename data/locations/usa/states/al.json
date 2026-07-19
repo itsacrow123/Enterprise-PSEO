@@ -1,329 +1,279 @@
 {
-	"Autauga County": {
-  "description": "Autauga County is part of the Montgomery metropolitan region and is known for its growing residential communities, strong local economy, and blend of suburban and rural development. Continued population growth has supported demand for housing, infrastructure, and local services.",
-  "population": "61512"
-},
-
-"Baldwin County": {
-  "description": "Baldwin County is Alabama's fastest-growing county and features Gulf Coast destinations, expanding residential communities, tourism activity, and thriving commercial corridors. Its coastal location contributes significantly to the local economy.",
-  "population": "253507"
-},
-
-"Barbour County": {
-  "description": "Barbour County combines agricultural traditions, historic communities, and outdoor recreation opportunities in southeastern Alabama. Farming, manufacturing, and local commerce continue to support economic activity throughout the county.",
-  "population": "24589"
-},
-
-"Bibb County": {
-  "description": "Bibb County is located in central Alabama and is characterized by forested landscapes, rural communities, and a strong connection to agriculture and natural resources. Local industries and small businesses contribute to the county's economy.",
-  "population": "22293"
-},
-
-"Blount County": {
-  "description": "Blount County benefits from its proximity to the Birmingham metropolitan area while maintaining a rural character. Residential growth, agriculture, and small business development continue to shape the county's future.",
-  "population": "59841"
-},
-
-"Bullock County": {
-  "description": "Bullock County is known for its agricultural heritage, open landscapes, and historic significance in Alabama's Black Belt region. Farming and public sector employment remain important components of the local economy.",
-  "population": "10194"
-},
-
-"Butler County": {
-  "description": "Butler County supports a mix of agriculture, manufacturing, and transportation-related industries. Its strategic location along major highways provides connectivity for businesses and residents across southern Alabama.",
-  "population": "19351"
-},
-
-"Calhoun County": {
-  "description": "Calhoun County serves as a major commercial and industrial center in northeastern Alabama. Anchored by established communities, healthcare facilities, and manufacturing operations, it remains an important regional economic hub.",
-  "population": "116441"
-},
-
-"Chambers County": {
-  "description": "Chambers County is positioned along the Georgia border and supports manufacturing, agriculture, and growing residential communities. Its transportation access and industrial development contribute to regional economic growth.",
-  "population": "34492"
-},
-
-"Cherokee County": {
-  "description": "Cherokee County is known for its scenic natural resources, outdoor recreation opportunities, and strong agricultural presence. Tourism and local commerce complement the county's rural economic foundation.",
-  "population": "26423"
-},
-"Chilton County": {
-  "description": "Chilton County is widely recognized for its agricultural production, particularly its peach orchards and farming operations. Located in central Alabama, the county combines rural landscapes, growing communities, and convenient access to major metropolitan areas.",
-  "population": "47815"
-},
-
-"Choctaw County": {
-  "description": "Choctaw County is situated in southwestern Alabama and is characterized by timber resources, agricultural land, and close-knit communities. Forestry, manufacturing, and local commerce remain important contributors to the county's economy.",
-  "population": "12465"
-},
-
-"Clarke County": {
-  "description": "Clarke County benefits from abundant natural resources, a strong forestry sector, and strategic transportation corridors. The county's economy is supported by manufacturing, agriculture, and businesses serving rural communities throughout the region.",
-  "population": "23322"
-},
-
-"Clay County": {
-  "description": "Clay County is known for its scenic Appalachian foothills, outdoor recreation opportunities, and agricultural heritage. Small businesses, farming operations, and local services help support the county's stable economy.",
-  "population": "14236"
-},
-
-"Cleburne County": {
-  "description": "Cleburne County is located along Alabama's eastern border and offers a mix of natural beauty, recreational attractions, and rural communities. Tourism, agriculture, and local businesses contribute to the county's economic activity.",
-  "population": "15240"
-},
-
-"Coffee County": {
-  "description": "Coffee County serves as an important center for military, aviation, and commercial activity in southeastern Alabama. The county's economy benefits from diverse industries, growing residential areas, and strong regional connections.",
-  "population": "54793"
-},
-
-"Colbert County": {
-  "description": "Colbert County is part of the Shoals region and supports a diverse economy that includes manufacturing, healthcare, education, and tourism. Its riverfront location and established communities make it a key economic center in northwest Alabama.",
-  "population": "57983"
-},
-
-"Conecuh County": {
-  "description": "Conecuh County is known for its agricultural heritage, timber production, and strong local traditions. Rural communities, forestry operations, and regional commerce continue to shape the county's economic landscape.",
-  "population": "11714"
-},
-
-"Coosa County": {
-  "description": "Coosa County features rolling hills, forested landscapes, and outdoor recreation opportunities in central Alabama. Agriculture, natural resources, and small businesses provide economic support for the county's residents and communities.",
-  "population": "10542"
-},
-"Covington County": {
-  "description": "Covington County is a regional center in south Alabama known for its healthcare services, manufacturing operations, and agricultural production. The county's established communities and transportation access support continued economic development.",
-  "population": "37570"
-},
-
-"Crenshaw County": {
-  "description": "Crenshaw County combines productive farmland, timber resources, and small-town communities in south-central Alabama. Agriculture, forestry, and local businesses continue to provide a stable economic foundation throughout the county.",
-  "population": "13584"
-},
-
-"Cullman County": {
-  "description": "Cullman County is one of Alabama's fastest-growing counties, benefiting from a strong manufacturing base, expanding residential developments, and a strategic location along Interstate 65. Its diverse economy supports both businesses and families.",
-  "population": "93759"
-},
-
-"Dale County": {
-  "description": "Dale County serves as an important military and commercial center in southeastern Alabama. The county's economy benefits from aviation, defense-related employment, healthcare services, and a growing residential population.",
-  "population": "50113"
-},
-
-"Dallas County": {
-  "description": "Dallas County holds significant historical importance and serves as a regional center for government, healthcare, and education in Alabama's Black Belt region. Its communities continue to support economic activity through public and private sector employment.",
-  "population": "36563"
-},
-
-"DeKalb County": {
-  "description": "DeKalb County is located in northeastern Alabama and is known for its agricultural production, outdoor recreation opportunities, and scenic mountain landscapes. Poultry farming, manufacturing, and tourism all contribute to the local economy.",
-  "population": "72608"
-},
-
-"Elmore County": {
-  "description": "Elmore County has experienced steady growth due to its proximity to Montgomery and its attractive residential communities. The county supports a mix of manufacturing, retail, education, and recreational development.",
-  "population": "94057"
-},
-
-"Escambia County": {
-  "description": "Escambia County is situated along Alabama's southern border and features a diverse economy supported by forestry, manufacturing, agriculture, and transportation. Its location provides valuable connections to regional markets throughout the Southeast.",
-  "population": "36757"
-},
-"Etowah County": {
-  "description": "Etowah County is a major economic and population center in northeastern Alabama, anchored by manufacturing, healthcare, retail, and transportation industries. Its urban and suburban communities support a diverse and growing regional economy.",
-  "population": "103436"
-},
-
-"Fayette County": {
-  "description": "Fayette County is known for its strong agricultural traditions, forest resources, and community-focused lifestyle. Local businesses, farming operations, and public services contribute to the county's long-term economic stability.",
-  "population": "16321"
-},
-
-"Franklin County": {
-  "description": "Franklin County combines manufacturing, agriculture, and outdoor recreation opportunities within northwestern Alabama. Its communities benefit from a diverse economic base and access to regional transportation networks.",
-  "population": "32113"
-},
-
-"Geneva County": {
-  "description": "Geneva County is characterized by productive farmland, timber resources, and small-town communities in southeastern Alabama. Agriculture and local commerce remain key drivers of economic activity throughout the county.",
-  "population": "26452"
-},
-
-"Greene County": {
-  "description": "Greene County is located in Alabama's Black Belt region and is known for its agricultural heritage, rural landscapes, and strong community ties. Farming and public sector employment play important roles in the local economy.",
-  "population": "7575"
-},
-
-"Hale County": {
-  "description": "Hale County supports a blend of agriculture, education, and local commerce while preserving its rich cultural and historical heritage. Rural communities and farming operations continue to shape the county's identity.",
-  "population": "14651"
-},
-
-"Henry County": {
-  "description": "Henry County is one of Alabama's oldest counties and maintains a strong agricultural economy supported by forestry, manufacturing, and local businesses. Its communities provide a stable environment for residents and economic development.",
-  "population": "17603"
-},
-"Houston County": {
-  "description": "Houston County is one of southeastern Alabama's most important economic centers, anchored by healthcare, retail, manufacturing, and education. Its growing population and business-friendly environment continue to drive residential and commercial development.",
-  "population": "108718"
-},
-
-"Jackson County": {
-  "description": "Jackson County occupies a scenic portion of northeastern Alabama and is known for its mountains, rivers, and outdoor recreation opportunities. Agriculture, manufacturing, tourism, and local commerce contribute to the county's diverse economy.",
-  "population": "53384"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is Alabama's most populous county and serves as the state's primary economic engine. Home to Birmingham, the county supports major healthcare systems, financial institutions, universities, and a diverse range of industries.",
-  "population": "674721"
-},
-
-"Lamar County": {
-  "description": "Lamar County is a rural west Alabama county recognized for its agricultural production, forestry operations, and close-knit communities. Local businesses and farming activities continue to support economic stability throughout the region.",
-  "population": "13778"
-},
-
-"Lauderdale County": {
-  "description": "Lauderdale County forms part of the Shoals metropolitan region and benefits from a strong economy driven by manufacturing, healthcare, education, tourism, and retail activity. The Tennessee River plays an important role in the area's development.",
-  "population": "94427"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County features a blend of agricultural productivity, industrial growth, and expanding residential communities. Its strategic location in northern Alabama supports business development and regional connectivity.",
-  "population": "34210"
-},
-
-"Lee County": {
-  "description": "Lee County is one of Alabama's fastest-growing counties and is home to major educational institutions, thriving commercial districts, and expanding residential neighborhoods. Education, healthcare, and technology-related industries support the local economy.",
-  "population": "191096"
-},
-
-"Limestone County": {
-  "description": "Limestone County has experienced significant growth due to its proximity to Huntsville and expanding technology and manufacturing sectors. New residential developments, business investments, and infrastructure projects continue to shape the county's future.",
-  "population": "118327"
-},
-"Lowndes County": {
-  "description": "Lowndes County is located between Montgomery and Selma and is known for its agricultural heritage, rural communities, and historical significance. Farming, local government services, and small businesses contribute to the county's economy.",
-  "population": "9752"
-},
-
-"Macon County": {
-  "description": "Macon County is home to a rich educational and cultural legacy, supported by agriculture, healthcare, and public sector employment. Its communities continue to play an important role in east-central Alabama's economic landscape.",
-  "population": "19342"
-},
-
-"Madison County": {
-  "description": "Madison County is one of the most economically dynamic counties in Alabama, anchored by Huntsville's aerospace, defense, technology, and research industries. Rapid population growth and major business investment continue to fuel development throughout the county.",
-  "population": "409720"
-},
-
-"Marengo County": {
-  "description": "Marengo County combines agricultural production, manufacturing activity, and historic communities across Alabama's Black Belt region. Its economy benefits from forestry, local industry, and regional commerce.",
-  "population": "18384"
-},
-
-"Marion County": {
-  "description": "Marion County supports a diverse economy that includes manufacturing, agriculture, timber production, and local commerce. Its location in northwestern Alabama provides access to important regional transportation corridors.",
-  "population": "29768"
-},
-
-"Marshall County": {
-  "description": "Marshall County is a major center for manufacturing, poultry production, tourism, and recreational activities. The county's lakes, growing communities, and strong industrial base make it one of northern Alabama's key economic contributors.",
-  "population": "101617"
-},
-
-"Mobile County": {
-  "description": "Mobile County is Alabama's second-most populous county and a major Gulf Coast economic hub. Its economy is driven by shipping, aerospace, manufacturing, healthcare, tourism, and international trade through the Port of Mobile.",
-  "population": "412992"
-},
-
-"Monroe County": {
-  "description": "Monroe County is known for its timber resources, agricultural operations, and historical significance in southwest Alabama. Forestry, manufacturing, and local businesses remain important economic drivers across the county.",
-  "population": "19757"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County is home to Alabama's capital city and serves as a major center for government, healthcare, military operations, education, and commerce. Its diverse economy supports both regional employment and statewide administrative functions.",
-  "population": "228954"
-},
-"Morgan County": {
-  "description": "Morgan County is a leading manufacturing and industrial center in northern Alabama, supported by strong transportation infrastructure, healthcare services, and growing residential communities. Its strategic location continues to attract business investment and workforce growth.",
-  "population": "126899"
-},
-
-"Perry County": {
-  "description": "Perry County is located in Alabama's Black Belt region and is known for its agricultural heritage, historic significance, and rural character. Farming, public services, and local commerce remain important contributors to the county's economy.",
-  "population": "8453"
-},
-
-"Pickens County": {
-  "description": "Pickens County combines agricultural production, forestry resources, and small-town communities in western Alabama. The county maintains a strong rural identity while supporting local businesses and regional commerce.",
-  "population": "19426"
-},
-
-"Pike County": {
-  "description": "Pike County serves as an educational and commercial center in southeastern Alabama. The county's economy benefits from higher education, healthcare, agriculture, and growing business activity throughout the region.",
-  "population": "33808"
-},
-
-"Randolph County": {
-  "description": "Randolph County is characterized by rolling hills, agricultural operations, and outdoor recreation opportunities. Local industries, farming, and community-focused businesses help support economic activity across the county.",
-  "population": "22863"
-},
-
-"Russell County": {
-  "description": "Russell County benefits from its location along the Georgia border and proximity to the Columbus metropolitan area. Manufacturing, military-related employment, healthcare, and retail sectors play major roles in the local economy.",
-  "population": "59273"
-},
-
-"Shelby County": {
-  "description": "Shelby County is one of Alabama's fastest-growing and most affluent counties, featuring expanding residential developments, corporate offices, retail centers, and business parks. Its strong economy and high quality of life continue to attract new residents and investment.",
-  "population": "239569"
-},
-"St. Clair County": {
-  "description": "St. Clair County is one of the fastest-growing counties in the Birmingham metropolitan region, offering a blend of suburban expansion, industrial development, and rural landscapes. Continued residential growth and business investment have strengthened the county's economic outlook.",
-  "population": "100539"
-},
-
-"Sumter County": {
-  "description": "Sumter County is located along Alabama's western border and is known for its agricultural heritage, timber resources, and historic communities. Farming, forestry, and public sector employment remain important pillars of the local economy.",
-  "population": "12427"
-},
-
-"Talladega County": {
-  "description": "Talladega County combines manufacturing, motorsports tourism, healthcare, and agriculture within a diverse regional economy. The county is nationally recognized for major racing events while supporting growing residential and commercial communities.",
-  "population": "82773"
-},
-
-"Tallapoosa County": {
-  "description": "Tallapoosa County is known for its scenic lakes, outdoor recreation opportunities, and strong manufacturing sector. Tourism, healthcare, and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "41527"
-},
-
-"Tuscaloosa County": {
-  "description": "Tuscaloosa County is a major educational, industrial, and commercial center in western Alabama. Home to a nationally recognized university, advanced manufacturing facilities, and expanding residential areas, the county continues to attract investment and population growth.",
-  "population": "236983"
-},
-
-"Walker County": {
-  "description": "Walker County has a long history rooted in mining, manufacturing, and transportation. Today, the county supports a diversified economy that includes healthcare, retail, education, and a growing residential sector.",
-  "population": "63681"
-},
-
-"Washington County": {
-  "description": "Washington County is one of Alabama's largest counties by land area and is known for its extensive timber resources, agricultural operations, and natural beauty. Forestry and related industries play a central role in the county's economy.",
-  "population": "15605"
-},
-
-"Wilcox County": {
-  "description": "Wilcox County is located in Alabama's Black Belt region and features a strong agricultural tradition, abundant natural resources, and historic rural communities. Farming, forestry, and outdoor recreation contribute to the local economy.",
-  "population": "10188"
-},
-
-"Winston County": {
-  "description": "Winston County is situated within the forested hills of northwestern Alabama and is known for its outdoor recreation opportunities, natural resources, and small-town communities. Tourism, forestry, and local businesses support economic activity throughout the county.",
-  "population": "23738"
-}
+  "identity": {
+    "code": "al",
+    "slug": "alabama",
+    "name": "Alabama",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Autauga County": {
+      "description": "Autauga County is part of the Montgomery metropolitan region and is known for its growing residential communities, strong local economy, and blend of suburban and rural development. Continued population growth has supported demand for housing, infrastructure, and local services.",
+      "population": "61512"
+    },
+    "Baldwin County": {
+      "description": "Baldwin County is Alabama's fastest-growing county and features Gulf Coast destinations, expanding residential communities, tourism activity, and thriving commercial corridors. Its coastal location contributes significantly to the local economy.",
+      "population": "253507"
+    },
+    "Barbour County": {
+      "description": "Barbour County combines agricultural traditions, historic communities, and outdoor recreation opportunities in southeastern Alabama. Farming, manufacturing, and local commerce continue to support economic activity throughout the county.",
+      "population": "24589"
+    },
+    "Bibb County": {
+      "description": "Bibb County is located in central Alabama and is characterized by forested landscapes, rural communities, and a strong connection to agriculture and natural resources. Local industries and small businesses contribute to the county's economy.",
+      "population": "22293"
+    },
+    "Blount County": {
+      "description": "Blount County benefits from its proximity to the Birmingham metropolitan area while maintaining a rural character. Residential growth, agriculture, and small business development continue to shape the county's future.",
+      "population": "59841"
+    },
+    "Bullock County": {
+      "description": "Bullock County is known for its agricultural heritage, open landscapes, and historic significance in Alabama's Black Belt region. Farming and public sector employment remain important components of the local economy.",
+      "population": "10194"
+    },
+    "Butler County": {
+      "description": "Butler County supports a mix of agriculture, manufacturing, and transportation-related industries. Its strategic location along major highways provides connectivity for businesses and residents across southern Alabama.",
+      "population": "19351"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County serves as a major commercial and industrial center in northeastern Alabama. Anchored by established communities, healthcare facilities, and manufacturing operations, it remains an important regional economic hub.",
+      "population": "116441"
+    },
+    "Chambers County": {
+      "description": "Chambers County is positioned along the Georgia border and supports manufacturing, agriculture, and growing residential communities. Its transportation access and industrial development contribute to regional economic growth.",
+      "population": "34492"
+    },
+    "Cherokee County": {
+      "description": "Cherokee County is known for its scenic natural resources, outdoor recreation opportunities, and strong agricultural presence. Tourism and local commerce complement the county's rural economic foundation.",
+      "population": "26423"
+    },
+    "Chilton County": {
+      "description": "Chilton County is widely recognized for its agricultural production, particularly its peach orchards and farming operations. Located in central Alabama, the county combines rural landscapes, growing communities, and convenient access to major metropolitan areas.",
+      "population": "47815"
+    },
+    "Choctaw County": {
+      "description": "Choctaw County is situated in southwestern Alabama and is characterized by timber resources, agricultural land, and close-knit communities. Forestry, manufacturing, and local commerce remain important contributors to the county's economy.",
+      "population": "12465"
+    },
+    "Clarke County": {
+      "description": "Clarke County benefits from abundant natural resources, a strong forestry sector, and strategic transportation corridors. The county's economy is supported by manufacturing, agriculture, and businesses serving rural communities throughout the region.",
+      "population": "23322"
+    },
+    "Clay County": {
+      "description": "Clay County is known for its scenic Appalachian foothills, outdoor recreation opportunities, and agricultural heritage. Small businesses, farming operations, and local services help support the county's stable economy.",
+      "population": "14236"
+    },
+    "Cleburne County": {
+      "description": "Cleburne County is located along Alabama's eastern border and offers a mix of natural beauty, recreational attractions, and rural communities. Tourism, agriculture, and local businesses contribute to the county's economic activity.",
+      "population": "15240"
+    },
+    "Coffee County": {
+      "description": "Coffee County serves as an important center for military, aviation, and commercial activity in southeastern Alabama. The county's economy benefits from diverse industries, growing residential areas, and strong regional connections.",
+      "population": "54793"
+    },
+    "Colbert County": {
+      "description": "Colbert County is part of the Shoals region and supports a diverse economy that includes manufacturing, healthcare, education, and tourism. Its riverfront location and established communities make it a key economic center in northwest Alabama.",
+      "population": "57983"
+    },
+    "Conecuh County": {
+      "description": "Conecuh County is known for its agricultural heritage, timber production, and strong local traditions. Rural communities, forestry operations, and regional commerce continue to shape the county's economic landscape.",
+      "population": "11714"
+    },
+    "Coosa County": {
+      "description": "Coosa County features rolling hills, forested landscapes, and outdoor recreation opportunities in central Alabama. Agriculture, natural resources, and small businesses provide economic support for the county's residents and communities.",
+      "population": "10542"
+    },
+    "Covington County": {
+      "description": "Covington County is a regional center in south Alabama known for its healthcare services, manufacturing operations, and agricultural production. The county's established communities and transportation access support continued economic development.",
+      "population": "37570"
+    },
+    "Crenshaw County": {
+      "description": "Crenshaw County combines productive farmland, timber resources, and small-town communities in south-central Alabama. Agriculture, forestry, and local businesses continue to provide a stable economic foundation throughout the county.",
+      "population": "13584"
+    },
+    "Cullman County": {
+      "description": "Cullman County is one of Alabama's fastest-growing counties, benefiting from a strong manufacturing base, expanding residential developments, and a strategic location along Interstate 65. Its diverse economy supports both businesses and families.",
+      "population": "93759"
+    },
+    "Dale County": {
+      "description": "Dale County serves as an important military and commercial center in southeastern Alabama. The county's economy benefits from aviation, defense-related employment, healthcare services, and a growing residential population.",
+      "population": "50113"
+    },
+    "Dallas County": {
+      "description": "Dallas County holds significant historical importance and serves as a regional center for government, healthcare, and education in Alabama's Black Belt region. Its communities continue to support economic activity through public and private sector employment.",
+      "population": "36563"
+    },
+    "DeKalb County": {
+      "description": "DeKalb County is located in northeastern Alabama and is known for its agricultural production, outdoor recreation opportunities, and scenic mountain landscapes. Poultry farming, manufacturing, and tourism all contribute to the local economy.",
+      "population": "72608"
+    },
+    "Elmore County": {
+      "description": "Elmore County has experienced steady growth due to its proximity to Montgomery and its attractive residential communities. The county supports a mix of manufacturing, retail, education, and recreational development.",
+      "population": "94057"
+    },
+    "Escambia County": {
+      "description": "Escambia County is situated along Alabama's southern border and features a diverse economy supported by forestry, manufacturing, agriculture, and transportation. Its location provides valuable connections to regional markets throughout the Southeast.",
+      "population": "36757"
+    },
+    "Etowah County": {
+      "description": "Etowah County is a major economic and population center in northeastern Alabama, anchored by manufacturing, healthcare, retail, and transportation industries. Its urban and suburban communities support a diverse and growing regional economy.",
+      "population": "103436"
+    },
+    "Fayette County": {
+      "description": "Fayette County is known for its strong agricultural traditions, forest resources, and community-focused lifestyle. Local businesses, farming operations, and public services contribute to the county's long-term economic stability.",
+      "population": "16321"
+    },
+    "Franklin County": {
+      "description": "Franklin County combines manufacturing, agriculture, and outdoor recreation opportunities within northwestern Alabama. Its communities benefit from a diverse economic base and access to regional transportation networks.",
+      "population": "32113"
+    },
+    "Geneva County": {
+      "description": "Geneva County is characterized by productive farmland, timber resources, and small-town communities in southeastern Alabama. Agriculture and local commerce remain key drivers of economic activity throughout the county.",
+      "population": "26452"
+    },
+    "Greene County": {
+      "description": "Greene County is located in Alabama's Black Belt region and is known for its agricultural heritage, rural landscapes, and strong community ties. Farming and public sector employment play important roles in the local economy.",
+      "population": "7575"
+    },
+    "Hale County": {
+      "description": "Hale County supports a blend of agriculture, education, and local commerce while preserving its rich cultural and historical heritage. Rural communities and farming operations continue to shape the county's identity.",
+      "population": "14651"
+    },
+    "Henry County": {
+      "description": "Henry County is one of Alabama's oldest counties and maintains a strong agricultural economy supported by forestry, manufacturing, and local businesses. Its communities provide a stable environment for residents and economic development.",
+      "population": "17603"
+    },
+    "Houston County": {
+      "description": "Houston County is one of southeastern Alabama's most important economic centers, anchored by healthcare, retail, manufacturing, and education. Its growing population and business-friendly environment continue to drive residential and commercial development.",
+      "population": "108718"
+    },
+    "Jackson County": {
+      "description": "Jackson County occupies a scenic portion of northeastern Alabama and is known for its mountains, rivers, and outdoor recreation opportunities. Agriculture, manufacturing, tourism, and local commerce contribute to the county's diverse economy.",
+      "population": "53384"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is Alabama's most populous county and serves as the state's primary economic engine. Home to Birmingham, the county supports major healthcare systems, financial institutions, universities, and a diverse range of industries.",
+      "population": "674721"
+    },
+    "Lamar County": {
+      "description": "Lamar County is a rural west Alabama county recognized for its agricultural production, forestry operations, and close-knit communities. Local businesses and farming activities continue to support economic stability throughout the region.",
+      "population": "13778"
+    },
+    "Lauderdale County": {
+      "description": "Lauderdale County forms part of the Shoals metropolitan region and benefits from a strong economy driven by manufacturing, healthcare, education, tourism, and retail activity. The Tennessee River plays an important role in the area's development.",
+      "population": "94427"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County features a blend of agricultural productivity, industrial growth, and expanding residential communities. Its strategic location in northern Alabama supports business development and regional connectivity.",
+      "population": "34210"
+    },
+    "Lee County": {
+      "description": "Lee County is one of Alabama's fastest-growing counties and is home to major educational institutions, thriving commercial districts, and expanding residential neighborhoods. Education, healthcare, and technology-related industries support the local economy.",
+      "population": "191096"
+    },
+    "Limestone County": {
+      "description": "Limestone County has experienced significant growth due to its proximity to Huntsville and expanding technology and manufacturing sectors. New residential developments, business investments, and infrastructure projects continue to shape the county's future.",
+      "population": "118327"
+    },
+    "Lowndes County": {
+      "description": "Lowndes County is located between Montgomery and Selma and is known for its agricultural heritage, rural communities, and historical significance. Farming, local government services, and small businesses contribute to the county's economy.",
+      "population": "9752"
+    },
+    "Macon County": {
+      "description": "Macon County is home to a rich educational and cultural legacy, supported by agriculture, healthcare, and public sector employment. Its communities continue to play an important role in east-central Alabama's economic landscape.",
+      "population": "19342"
+    },
+    "Madison County": {
+      "description": "Madison County is one of the most economically dynamic counties in Alabama, anchored by Huntsville's aerospace, defense, technology, and research industries. Rapid population growth and major business investment continue to fuel development throughout the county.",
+      "population": "409720"
+    },
+    "Marengo County": {
+      "description": "Marengo County combines agricultural production, manufacturing activity, and historic communities across Alabama's Black Belt region. Its economy benefits from forestry, local industry, and regional commerce.",
+      "population": "18384"
+    },
+    "Marion County": {
+      "description": "Marion County supports a diverse economy that includes manufacturing, agriculture, timber production, and local commerce. Its location in northwestern Alabama provides access to important regional transportation corridors.",
+      "population": "29768"
+    },
+    "Marshall County": {
+      "description": "Marshall County is a major center for manufacturing, poultry production, tourism, and recreational activities. The county's lakes, growing communities, and strong industrial base make it one of northern Alabama's key economic contributors.",
+      "population": "101617"
+    },
+    "Mobile County": {
+      "description": "Mobile County is Alabama's second-most populous county and a major Gulf Coast economic hub. Its economy is driven by shipping, aerospace, manufacturing, healthcare, tourism, and international trade through the Port of Mobile.",
+      "population": "412992"
+    },
+    "Monroe County": {
+      "description": "Monroe County is known for its timber resources, agricultural operations, and historical significance in southwest Alabama. Forestry, manufacturing, and local businesses remain important economic drivers across the county.",
+      "population": "19757"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County is home to Alabama's capital city and serves as a major center for government, healthcare, military operations, education, and commerce. Its diverse economy supports both regional employment and statewide administrative functions.",
+      "population": "228954"
+    },
+    "Morgan County": {
+      "description": "Morgan County is a leading manufacturing and industrial center in northern Alabama, supported by strong transportation infrastructure, healthcare services, and growing residential communities. Its strategic location continues to attract business investment and workforce growth.",
+      "population": "126899"
+    },
+    "Perry County": {
+      "description": "Perry County is located in Alabama's Black Belt region and is known for its agricultural heritage, historic significance, and rural character. Farming, public services, and local commerce remain important contributors to the county's economy.",
+      "population": "8453"
+    },
+    "Pickens County": {
+      "description": "Pickens County combines agricultural production, forestry resources, and small-town communities in western Alabama. The county maintains a strong rural identity while supporting local businesses and regional commerce.",
+      "population": "19426"
+    },
+    "Pike County": {
+      "description": "Pike County serves as an educational and commercial center in southeastern Alabama. The county's economy benefits from higher education, healthcare, agriculture, and growing business activity throughout the region.",
+      "population": "33808"
+    },
+    "Randolph County": {
+      "description": "Randolph County is characterized by rolling hills, agricultural operations, and outdoor recreation opportunities. Local industries, farming, and community-focused businesses help support economic activity across the county.",
+      "population": "22863"
+    },
+    "Russell County": {
+      "description": "Russell County benefits from its location along the Georgia border and proximity to the Columbus metropolitan area. Manufacturing, military-related employment, healthcare, and retail sectors play major roles in the local economy.",
+      "population": "59273"
+    },
+    "Shelby County": {
+      "description": "Shelby County is one of Alabama's fastest-growing and most affluent counties, featuring expanding residential developments, corporate offices, retail centers, and business parks. Its strong economy and high quality of life continue to attract new residents and investment.",
+      "population": "239569"
+    },
+    "St. Clair County": {
+      "description": "St. Clair County is one of the fastest-growing counties in the Birmingham metropolitan region, offering a blend of suburban expansion, industrial development, and rural landscapes. Continued residential growth and business investment have strengthened the county's economic outlook.",
+      "population": "100539"
+    },
+    "Sumter County": {
+      "description": "Sumter County is located along Alabama's western border and is known for its agricultural heritage, timber resources, and historic communities. Farming, forestry, and public sector employment remain important pillars of the local economy.",
+      "population": "12427"
+    },
+    "Talladega County": {
+      "description": "Talladega County combines manufacturing, motorsports tourism, healthcare, and agriculture within a diverse regional economy. The county is nationally recognized for major racing events while supporting growing residential and commercial communities.",
+      "population": "82773"
+    },
+    "Tallapoosa County": {
+      "description": "Tallapoosa County is known for its scenic lakes, outdoor recreation opportunities, and strong manufacturing sector. Tourism, healthcare, and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "41527"
+    },
+    "Tuscaloosa County": {
+      "description": "Tuscaloosa County is a major educational, industrial, and commercial center in western Alabama. Home to a nationally recognized university, advanced manufacturing facilities, and expanding residential areas, the county continues to attract investment and population growth.",
+      "population": "236983"
+    },
+    "Walker County": {
+      "description": "Walker County has a long history rooted in mining, manufacturing, and transportation. Today, the county supports a diversified economy that includes healthcare, retail, education, and a growing residential sector.",
+      "population": "63681"
+    },
+    "Washington County": {
+      "description": "Washington County is one of Alabama's largest counties by land area and is known for its extensive timber resources, agricultural operations, and natural beauty. Forestry and related industries play a central role in the county's economy.",
+      "population": "15605"
+    },
+    "Wilcox County": {
+      "description": "Wilcox County is located in Alabama's Black Belt region and features a strong agricultural tradition, abundant natural resources, and historic rural communities. Farming, forestry, and outdoor recreation contribute to the local economy.",
+      "population": "10188"
+    },
+    "Winston County": {
+      "description": "Winston County is situated within the forested hills of northwestern Alabama and is known for its outdoor recreation opportunities, natural resources, and small-town communities. Tourism, forestry, and local businesses support economic activity throughout the county.",
+      "population": "23738"
+    }
+  }
 }

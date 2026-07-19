@@ -1,26 +1,31 @@
 {
-"Hawaii County": {
-  "description": "Hawaii County occupies the Island of Hawaii and supports a diverse economy driven by tourism, agriculture, renewable energy, healthcare, and scientific research. Its volcanic landscapes, natural attractions, and growing business community contribute significantly to regional economic activity.",
-  "population": "205994"
-},
-
-"Honolulu County": {
-  "description": "Honolulu County encompasses the Island of Oahu and serves as Hawaii's primary economic center. Tourism, military operations, healthcare, education, government services, finance, and international commerce drive one of the most important economies in the Pacific region.",
-  "population": "1016508"
-},
-
-"Kalawao County": {
-  "description": "Kalawao County is the smallest county in Hawaii and one of the smallest county-equivalent jurisdictions in the United States. Government services, healthcare administration, and historical preservation activities form the foundation of its unique local economy.",
-  "population": "82"
-},
-
-"Kauai County": {
-  "description": "Kauai County is known for its scenic coastlines, tourism industry, agriculture, hospitality services, and outdoor recreation opportunities. Visitor spending, healthcare, and local businesses contribute significantly to economic activity throughout the island.",
-  "population": "73648"
-},
-
-"Maui County": {
-  "description": "Maui County encompasses Maui, Molokai, Lanai, and nearby islands, supporting an economy driven by tourism, hospitality, agriculture, healthcare, construction, and professional services. Its world-renowned destinations attract visitors from around the globe.",
-  "population": "168307"
-}
+  "identity": {
+    "code": "hi",
+    "slug": "hawaii",
+    "name": "Hawaii",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Hawaii County": {
+      "description": "Hawaii County occupies the Island of Hawaii and supports a diverse economy driven by tourism, agriculture, renewable energy, healthcare, and scientific research. Its volcanic landscapes, natural attractions, and growing business community contribute significantly to regional economic activity.",
+      "population": "205994"
+    },
+    "Honolulu County": {
+      "description": "Honolulu County encompasses the Island of Oahu and serves as Hawaii's primary economic center. Tourism, military operations, healthcare, education, government services, finance, and international commerce drive one of the most important economies in the Pacific region.",
+      "population": "1016508"
+    },
+    "Kalawao County": {
+      "description": "Kalawao County is the smallest county in Hawaii and one of the smallest county-equivalent jurisdictions in the United States. Government services, healthcare administration, and historical preservation activities form the foundation of its unique local economy.",
+      "population": "82"
+    },
+    "Kauai County": {
+      "description": "Kauai County is known for its scenic coastlines, tourism industry, agriculture, hospitality services, and outdoor recreation opportunities. Visitor spending, healthcare, and local businesses contribute significantly to economic activity throughout the island.",
+      "population": "73648"
+    },
+    "Maui County": {
+      "description": "Maui County encompasses Maui, Molokai, Lanai, and nearby islands, supporting an economy driven by tourism, hospitality, agriculture, healthcare, construction, and professional services. Its world-renowned destinations attract visitors from around the globe.",
+      "population": "168307"
+    }
+  }
 }

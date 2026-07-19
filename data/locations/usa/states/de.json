@@ -1,16 +1,23 @@
 {
-"Kent County": {
-  "description": "Kent County serves as the governmental and geographic center of Delaware, supporting public administration, healthcare, education, agriculture, and logistics industries. Its strategic location and growing communities contribute to a stable and diversified local economy.",
-  "population": "198542"
-},
-
-"New Castle County": {
-  "description": "New Castle County is Delaware's most populous county and its primary economic engine. Financial services, healthcare, technology, manufacturing, logistics, and corporate headquarters drive significant economic activity throughout the region.",
-  "population": "585816"
-},
-
-"Sussex County": {
-  "description": "Sussex County is one of the fastest-growing counties in the Mid-Atlantic region, known for its coastal tourism, retirement communities, agriculture, and healthcare sector. Hospitality, real estate, and visitor-related businesses contribute substantially to the county's economy.",
-  "population": "255346"
-}
+  "identity": {
+    "code": "de",
+    "slug": "delaware",
+    "name": "Delaware",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Kent County": {
+      "description": "Kent County serves as the governmental and geographic center of Delaware, supporting public administration, healthcare, education, agriculture, and logistics industries. Its strategic location and growing communities contribute to a stable and diversified local economy.",
+      "population": "198542"
+    },
+    "New Castle County": {
+      "description": "New Castle County is Delaware's most populous county and its primary economic engine. Financial services, healthcare, technology, manufacturing, logistics, and corporate headquarters drive significant economic activity throughout the region.",
+      "population": "585816"
+    },
+    "Sussex County": {
+      "description": "Sussex County is one of the fastest-growing counties in the Mid-Atlantic region, known for its coastal tourism, retirement communities, agriculture, and healthcare sector. Hospitality, real estate, and visitor-related businesses contribute substantially to the county's economy.",
+      "population": "255346"
+    }
+  }
 }

@@ -1,325 +1,275 @@
 {
-"Aurora County": {
-  "description": "Aurora County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "2702"
-},
-
-"Beadle County": {
-  "description": "Beadle County serves as an important economic center in eastern South Dakota, supported by healthcare services, manufacturing, agriculture, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "19654"
-},
-
-"Bennett County": {
-  "description": "Bennett County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a major contributor to economic activity throughout the county.",
-  "population": "3343"
-},
-
-"Bon Homme County": {
-  "description": "Bon Homme County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "7003"
-},
-
-"Brookings County": {
-  "description": "Brookings County is one of South Dakota's leading education and innovation economies, anchored by higher education, healthcare services, technology, manufacturing, agriculture, professional services, and research-related industries. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "35379"
-},
-
-"Brown County": {
-  "description": "Brown County is one of northeastern South Dakota's largest economic centers, supported by healthcare services, manufacturing, agriculture, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "38840"
-},
-
-"Brule County": {
-  "description": "Brule County benefits from agriculture, tourism, healthcare services, transportation, agribusiness, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "5335"
-},
-
-"Buffalo County": {
-  "description": "Buffalo County supports a rural economy based on agriculture, healthcare services, government-related employment, transportation, agribusiness, and local business activity. Farming operations contribute substantially to economic development throughout the county.",
-  "population": "1912"
-},
-
-"Butte County": {
-  "description": "Butte County combines agriculture, ranching, healthcare services, energy-related industries, tourism, transportation, and local commerce. Natural resources and livestock production contribute significantly to economic activity throughout the county.",
-  "population": "10708"
-},
-
-"Campbell County": {
-  "description": "Campbell County maintains a diversified economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain a key contributor to economic stability and growth.",
-  "population": "1377"
-},
-"Charles Mix County": {
-  "description": "Charles Mix County supports a diversified economy based on agriculture, healthcare services, tourism, transportation, agribusiness, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "9425"
-},
-
-"Clark County": {
-  "description": "Clark County maintains a rural economy centered on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business development. Farming operations remain a primary contributor to economic growth throughout the county.",
-  "population": "3837"
-},
-
-"Clay County": {
-  "description": "Clay County is an important education and healthcare center in southeastern South Dakota, supported by higher education, healthcare services, professional services, agriculture, retail development, and technology-related industries. Its diversified economy contributes substantially to workforce development and regional growth.",
-  "population": "14967"
-},
-
-"Codington County": {
-  "description": "Codington County is one of eastern South Dakota's strongest economic centers, driven by healthcare services, manufacturing, logistics, agriculture, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
-  "population": "28985"
-},
-
-"Corson County": {
-  "description": "Corson County supports an economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a major contributor to economic activity throughout the county.",
-  "population": "3884"
-},
-
-"Custer County": {
-  "description": "Custer County benefits from tourism, healthcare services, hospitality, outdoor recreation, construction, and local business development. Visitor spending and natural attractions contribute significantly to economic growth throughout the county.",
-  "population": "9027"
-},
-
-"Davison County": {
-  "description": "Davison County serves as a major regional economic center in South Dakota, supported by healthcare services, manufacturing, education, retail development, transportation, and professional services. Its diversified economy contributes substantially to employment and business growth.",
-  "population": "19956"
-},
-
-"Day County": {
-  "description": "Day County supports a diversified economy driven by agriculture, tourism, healthcare services, transportation, agribusiness, and local commerce. Farming operations and recreational industries contribute significantly to economic activity throughout the county.",
-  "population": "5402"
-},
-
-"Deuel County": {
-  "description": "Deuel County combines agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local business activity. Farming operations and regional employers contribute significantly to economic development throughout the county.",
-  "population": "4295"
-},
-
-"Dewey County": {
-  "description": "Dewey County supports a rural economy based on agriculture, healthcare services, government-related employment, transportation, tourism, and local commerce. Farming operations and community institutions contribute significantly to economic activity throughout the county.",
-  "population": "5828"
-},
-"Douglas County": {
-  "description": "Douglas County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "2867"
-},
-
-"Edmunds County": {
-  "description": "Edmunds County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Farming operations remain a key contributor to economic growth throughout the county.",
-  "population": "3767"
-},
-
-"Fall River County": {
-  "description": "Fall River County benefits from tourism, healthcare services, agriculture, ranching, transportation, and local commerce. Visitor spending and livestock production contribute significantly to economic activity throughout the county.",
-  "population": "6987"
-},
-
-"Faulk County": {
-  "description": "Faulk County supports an economy driven by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "2299"
-},
-
-"Grant County": {
-  "description": "Grant County is an important agricultural and manufacturing center in northeastern South Dakota, supported by healthcare services, transportation, retail development, agribusiness, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "7438"
-},
-
-"Gregory County": {
-  "description": "Gregory County combines agriculture, ranching, healthcare services, tourism, transportation, and local business development. Farming and livestock production contribute substantially to economic activity throughout the county.",
-  "population": "4153"
-},
-
-"Haakon County": {
-  "description": "Haakon County supports a rural economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a primary contributor to economic growth throughout the county.",
-  "population": "1872"
-},
-
-"Hamlin County": {
-  "description": "Hamlin County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business activity. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "6244"
-},
-
-"Hand County": {
-  "description": "Hand County supports an economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "3181"
-},
-
-"Hanson County": {
-  "description": "Hanson County maintains a diversified economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Regional employers and farming operations contribute significantly to economic growth throughout the county.",
-  "population": "3418"
-},
-"Harding County": {
-  "description": "Harding County supports a rural economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a primary contributor to economic activity throughout the county.",
-  "population": "1298"
-},
-
-"Hughes County": {
-  "description": "Hughes County is an important government and economic center in central South Dakota, supported by public administration, healthcare services, professional services, retail development, transportation, and education. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "17672"
-},
-
-"Hutchinson County": {
-  "description": "Hutchinson County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business development. Farming operations and industrial employers contribute substantially to economic activity throughout the county.",
-  "population": "7471"
-},
-
-"Hyde County": {
-  "description": "Hyde County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock production contribute significantly to economic growth throughout the county.",
-  "population": "1282"
-},
-
-"Jackson County": {
-  "description": "Jackson County supports a diversified economy based on ranching, agriculture, tourism, healthcare services, transportation, and local commerce. Visitor-related industries and livestock production contribute significantly to economic activity throughout the county.",
-  "population": "2798"
-},
-
-"Jerauld County": {
-  "description": "Jerauld County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Farming operations and regional employers contribute substantially to economic development throughout the county.",
-  "population": "1887"
-},
-
-"Jones County": {
-  "description": "Jones County supports an economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock and crop production remain key contributors to economic activity throughout the county.",
-  "population": "917"
-},
-
-"Kingsbury County": {
-  "description": "Kingsbury County benefits from agriculture, healthcare services, manufacturing, transportation, renewable energy development, and local business growth. Farming operations contribute significantly to workforce opportunities and economic stability.",
-  "population": "5066"
-},
-
-"Lake County": {
-  "description": "Lake County serves as an important economic center in eastern South Dakota, supported by healthcare services, manufacturing, education, agriculture, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "11330"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County is one of western South Dakota's strongest economic centers, driven by tourism, healthcare services, higher education, professional services, hospitality, retail development, and outdoor recreation. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "28105"
-},
-"Lincoln County": {
-  "description": "Lincoln County is one of South Dakota's fastest-growing economic centers, supported by healthcare services, finance, technology, professional services, retail development, logistics, and residential expansion. Its location within the Sioux Falls metropolitan area contributes substantially to workforce growth and business investment.",
-  "population": "72999"
-},
-
-"Lyman County": {
-  "description": "Lyman County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, tourism, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "3918"
-},
-
-"Marshall County": {
-  "description": "Marshall County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business development. Farming operations and industrial employers contribute substantially to economic growth throughout the county.",
-  "population": "4678"
-},
-
-"McCook County": {
-  "description": "McCook County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Regional employers and farming operations contribute significantly to workforce opportunities and economic development.",
-  "population": "5667"
-},
-
-"McPherson County": {
-  "description": "McPherson County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock production remain primary contributors to economic activity throughout the county.",
-  "population": "2450"
-},
-
-"Meade County": {
-  "description": "Meade County is one of western South Dakota's largest economic centers, supported by military-related industries, healthcare services, tourism, construction, transportation, professional services, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "29959"
-},
-
-"Mellette County": {
-  "description": "Mellette County supports a rural economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock production remains a major contributor to economic growth throughout the county.",
-  "population": "1918"
-},
-
-"Miner County": {
-  "description": "Miner County combines agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations contribute significantly to economic activity and workforce opportunities throughout the county.",
-  "population": "2247"
-},
-
-"Minnehaha County": {
-  "description": "Minnehaha County is South Dakota's largest economic center and home to Sioux Falls. Healthcare, finance, technology, logistics, professional services, manufacturing, retail development, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "211405"
-},
-
-"Moody County": {
-  "description": "Moody County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business development. Its diversified economy contributes significantly to regional employment and economic growth.",
-  "population": "6448"
-},
-"Oglala Lakota County": {
-  "description": "Oglala Lakota County supports an economy based on healthcare services, education, government-related employment, tourism, transportation, and local commerce. Community institutions and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "13928"
-},
-
-"Pennington County": {
-  "description": "Pennington County is one of South Dakota's largest economic centers and home to Rapid City. Healthcare, tourism, defense-related industries, professional services, retail development, logistics, and construction drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "115379"
-},
-
-"Perkins County": {
-  "description": "Perkins County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local business development. Livestock production remains a major contributor to economic activity throughout the county.",
-  "population": "2892"
-},
-
-"Potter County": {
-  "description": "Potter County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations contribute significantly to economic growth throughout the county.",
-  "population": "2265"
-},
-
-"Roberts County": {
-  "description": "Roberts County benefits from agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and regional employers contribute substantially to workforce opportunities and economic development.",
-  "population": "10280"
-},
-
-"Sanborn County": {
-  "description": "Sanborn County supports an economy driven by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "2331"
-},
-
-"Spink County": {
-  "description": "Spink County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "6361"
-},
-
-"Stanley County": {
-  "description": "Stanley County supports a diversified economy based on agriculture, healthcare services, tourism, transportation, agribusiness, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "2952"
-},
-
-"Sully County": {
-  "description": "Sully County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock production and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "1446"
-},
-
-"Todd County": {
-  "description": "Todd County benefits from healthcare services, education, government-related employment, transportation, local commerce, and community-based enterprises. Public institutions contribute significantly to workforce opportunities and economic activity throughout the county.",
-  "population": "10031"
-},
-"Tripp County": {
-  "description": "Tripp County supports a diversified economy based on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations contribute significantly to economic activity throughout the county.",
-  "population": "5567"
-},
-
-"Turner County": {
-  "description": "Turner County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "8973"
-},
-
-"Union County": {
-  "description": "Union County is one of southeastern South Dakota's strongest economic centers, supported by healthcare services, manufacturing, logistics, education, professional services, retail development, and transportation. Its strategic location contributes substantially to regional business investment and workforce growth.",
-  "population": "16922"
-},
-
-"Walworth County": {
-  "description": "Walworth County supports an economy driven by agriculture, healthcare services, tourism, transportation, agribusiness, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "5380"
-},
-
-"Yankton County": {
-  "description": "Yankton County is a major economic center in southeastern South Dakota, anchored by healthcare, manufacturing, education, professional services, retail development, and transportation. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "23240"
-},
-
-"Ziebach County": {
-  "description": "Ziebach County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, community services, and local commerce. Livestock production and public-sector employment contribute significantly to economic activity throughout the county.",
-  "population": "2815"
-}
+  "identity": {
+    "code": "sd",
+    "slug": "south-dakota",
+    "name": "South Dakota",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Aurora County": {
+      "description": "Aurora County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "2702"
+    },
+    "Beadle County": {
+      "description": "Beadle County serves as an important economic center in eastern South Dakota, supported by healthcare services, manufacturing, agriculture, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "19654"
+    },
+    "Bennett County": {
+      "description": "Bennett County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a major contributor to economic activity throughout the county.",
+      "population": "3343"
+    },
+    "Bon Homme County": {
+      "description": "Bon Homme County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "7003"
+    },
+    "Brookings County": {
+      "description": "Brookings County is one of South Dakota's leading education and innovation economies, anchored by higher education, healthcare services, technology, manufacturing, agriculture, professional services, and research-related industries. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "35379"
+    },
+    "Brown County": {
+      "description": "Brown County is one of northeastern South Dakota's largest economic centers, supported by healthcare services, manufacturing, agriculture, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "38840"
+    },
+    "Brule County": {
+      "description": "Brule County benefits from agriculture, tourism, healthcare services, transportation, agribusiness, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "5335"
+    },
+    "Buffalo County": {
+      "description": "Buffalo County supports a rural economy based on agriculture, healthcare services, government-related employment, transportation, agribusiness, and local business activity. Farming operations contribute substantially to economic development throughout the county.",
+      "population": "1912"
+    },
+    "Butte County": {
+      "description": "Butte County combines agriculture, ranching, healthcare services, energy-related industries, tourism, transportation, and local commerce. Natural resources and livestock production contribute significantly to economic activity throughout the county.",
+      "population": "10708"
+    },
+    "Campbell County": {
+      "description": "Campbell County maintains a diversified economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain a key contributor to economic stability and growth.",
+      "population": "1377"
+    },
+    "Charles Mix County": {
+      "description": "Charles Mix County supports a diversified economy based on agriculture, healthcare services, tourism, transportation, agribusiness, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "9425"
+    },
+    "Clark County": {
+      "description": "Clark County maintains a rural economy centered on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business development. Farming operations remain a primary contributor to economic growth throughout the county.",
+      "population": "3837"
+    },
+    "Clay County": {
+      "description": "Clay County is an important education and healthcare center in southeastern South Dakota, supported by higher education, healthcare services, professional services, agriculture, retail development, and technology-related industries. Its diversified economy contributes substantially to workforce development and regional growth.",
+      "population": "14967"
+    },
+    "Codington County": {
+      "description": "Codington County is one of eastern South Dakota's strongest economic centers, driven by healthcare services, manufacturing, logistics, agriculture, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
+      "population": "28985"
+    },
+    "Corson County": {
+      "description": "Corson County supports an economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a major contributor to economic activity throughout the county.",
+      "population": "3884"
+    },
+    "Custer County": {
+      "description": "Custer County benefits from tourism, healthcare services, hospitality, outdoor recreation, construction, and local business development. Visitor spending and natural attractions contribute significantly to economic growth throughout the county.",
+      "population": "9027"
+    },
+    "Davison County": {
+      "description": "Davison County serves as a major regional economic center in South Dakota, supported by healthcare services, manufacturing, education, retail development, transportation, and professional services. Its diversified economy contributes substantially to employment and business growth.",
+      "population": "19956"
+    },
+    "Day County": {
+      "description": "Day County supports a diversified economy driven by agriculture, tourism, healthcare services, transportation, agribusiness, and local commerce. Farming operations and recreational industries contribute significantly to economic activity throughout the county.",
+      "population": "5402"
+    },
+    "Deuel County": {
+      "description": "Deuel County combines agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local business activity. Farming operations and regional employers contribute significantly to economic development throughout the county.",
+      "population": "4295"
+    },
+    "Dewey County": {
+      "description": "Dewey County supports a rural economy based on agriculture, healthcare services, government-related employment, transportation, tourism, and local commerce. Farming operations and community institutions contribute significantly to economic activity throughout the county.",
+      "population": "5828"
+    },
+    "Douglas County": {
+      "description": "Douglas County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "2867"
+    },
+    "Edmunds County": {
+      "description": "Edmunds County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Farming operations remain a key contributor to economic growth throughout the county.",
+      "population": "3767"
+    },
+    "Fall River County": {
+      "description": "Fall River County benefits from tourism, healthcare services, agriculture, ranching, transportation, and local commerce. Visitor spending and livestock production contribute significantly to economic activity throughout the county.",
+      "population": "6987"
+    },
+    "Faulk County": {
+      "description": "Faulk County supports an economy driven by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "2299"
+    },
+    "Grant County": {
+      "description": "Grant County is an important agricultural and manufacturing center in northeastern South Dakota, supported by healthcare services, transportation, retail development, agribusiness, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "7438"
+    },
+    "Gregory County": {
+      "description": "Gregory County combines agriculture, ranching, healthcare services, tourism, transportation, and local business development. Farming and livestock production contribute substantially to economic activity throughout the county.",
+      "population": "4153"
+    },
+    "Haakon County": {
+      "description": "Haakon County supports a rural economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a primary contributor to economic growth throughout the county.",
+      "population": "1872"
+    },
+    "Hamlin County": {
+      "description": "Hamlin County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business activity. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "6244"
+    },
+    "Hand County": {
+      "description": "Hand County supports an economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "3181"
+    },
+    "Hanson County": {
+      "description": "Hanson County maintains a diversified economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Regional employers and farming operations contribute significantly to economic growth throughout the county.",
+      "population": "3418"
+    },
+    "Harding County": {
+      "description": "Harding County supports a rural economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a primary contributor to economic activity throughout the county.",
+      "population": "1298"
+    },
+    "Hughes County": {
+      "description": "Hughes County is an important government and economic center in central South Dakota, supported by public administration, healthcare services, professional services, retail development, transportation, and education. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "17672"
+    },
+    "Hutchinson County": {
+      "description": "Hutchinson County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business development. Farming operations and industrial employers contribute substantially to economic activity throughout the county.",
+      "population": "7471"
+    },
+    "Hyde County": {
+      "description": "Hyde County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock production contribute significantly to economic growth throughout the county.",
+      "population": "1282"
+    },
+    "Jackson County": {
+      "description": "Jackson County supports a diversified economy based on ranching, agriculture, tourism, healthcare services, transportation, and local commerce. Visitor-related industries and livestock production contribute significantly to economic activity throughout the county.",
+      "population": "2798"
+    },
+    "Jerauld County": {
+      "description": "Jerauld County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Farming operations and regional employers contribute substantially to economic development throughout the county.",
+      "population": "1887"
+    },
+    "Jones County": {
+      "description": "Jones County supports an economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock and crop production remain key contributors to economic activity throughout the county.",
+      "population": "917"
+    },
+    "Kingsbury County": {
+      "description": "Kingsbury County benefits from agriculture, healthcare services, manufacturing, transportation, renewable energy development, and local business growth. Farming operations contribute significantly to workforce opportunities and economic stability.",
+      "population": "5066"
+    },
+    "Lake County": {
+      "description": "Lake County serves as an important economic center in eastern South Dakota, supported by healthcare services, manufacturing, education, agriculture, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "11330"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County is one of western South Dakota's strongest economic centers, driven by tourism, healthcare services, higher education, professional services, hospitality, retail development, and outdoor recreation. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "28105"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County is one of South Dakota's fastest-growing economic centers, supported by healthcare services, finance, technology, professional services, retail development, logistics, and residential expansion. Its location within the Sioux Falls metropolitan area contributes substantially to workforce growth and business investment.",
+      "population": "72999"
+    },
+    "Lyman County": {
+      "description": "Lyman County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, tourism, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "3918"
+    },
+    "Marshall County": {
+      "description": "Marshall County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business development. Farming operations and industrial employers contribute substantially to economic growth throughout the county.",
+      "population": "4678"
+    },
+    "McCook County": {
+      "description": "McCook County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Regional employers and farming operations contribute significantly to workforce opportunities and economic development.",
+      "population": "5667"
+    },
+    "McPherson County": {
+      "description": "McPherson County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock production remain primary contributors to economic activity throughout the county.",
+      "population": "2450"
+    },
+    "Meade County": {
+      "description": "Meade County is one of western South Dakota's largest economic centers, supported by military-related industries, healthcare services, tourism, construction, transportation, professional services, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "29959"
+    },
+    "Mellette County": {
+      "description": "Mellette County supports a rural economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock production remains a major contributor to economic growth throughout the county.",
+      "population": "1918"
+    },
+    "Miner County": {
+      "description": "Miner County combines agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations contribute significantly to economic activity and workforce opportunities throughout the county.",
+      "population": "2247"
+    },
+    "Minnehaha County": {
+      "description": "Minnehaha County is South Dakota's largest economic center and home to Sioux Falls. Healthcare, finance, technology, logistics, professional services, manufacturing, retail development, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "211405"
+    },
+    "Moody County": {
+      "description": "Moody County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business development. Its diversified economy contributes significantly to regional employment and economic growth.",
+      "population": "6448"
+    },
+    "Oglala Lakota County": {
+      "description": "Oglala Lakota County supports an economy based on healthcare services, education, government-related employment, tourism, transportation, and local commerce. Community institutions and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "13928"
+    },
+    "Pennington County": {
+      "description": "Pennington County is one of South Dakota's largest economic centers and home to Rapid City. Healthcare, tourism, defense-related industries, professional services, retail development, logistics, and construction drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "115379"
+    },
+    "Perkins County": {
+      "description": "Perkins County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local business development. Livestock production remains a major contributor to economic activity throughout the county.",
+      "population": "2892"
+    },
+    "Potter County": {
+      "description": "Potter County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations contribute significantly to economic growth throughout the county.",
+      "population": "2265"
+    },
+    "Roberts County": {
+      "description": "Roberts County benefits from agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and regional employers contribute substantially to workforce opportunities and economic development.",
+      "population": "10280"
+    },
+    "Sanborn County": {
+      "description": "Sanborn County supports an economy driven by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "2331"
+    },
+    "Spink County": {
+      "description": "Spink County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "6361"
+    },
+    "Stanley County": {
+      "description": "Stanley County supports a diversified economy based on agriculture, healthcare services, tourism, transportation, agribusiness, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "2952"
+    },
+    "Sully County": {
+      "description": "Sully County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock production and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "1446"
+    },
+    "Todd County": {
+      "description": "Todd County benefits from healthcare services, education, government-related employment, transportation, local commerce, and community-based enterprises. Public institutions contribute significantly to workforce opportunities and economic activity throughout the county.",
+      "population": "10031"
+    },
+    "Tripp County": {
+      "description": "Tripp County supports a diversified economy based on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations contribute significantly to economic activity throughout the county.",
+      "population": "5567"
+    },
+    "Turner County": {
+      "description": "Turner County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "8973"
+    },
+    "Union County": {
+      "description": "Union County is one of southeastern South Dakota's strongest economic centers, supported by healthcare services, manufacturing, logistics, education, professional services, retail development, and transportation. Its strategic location contributes substantially to regional business investment and workforce growth.",
+      "population": "16922"
+    },
+    "Walworth County": {
+      "description": "Walworth County supports an economy driven by agriculture, healthcare services, tourism, transportation, agribusiness, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "5380"
+    },
+    "Yankton County": {
+      "description": "Yankton County is a major economic center in southeastern South Dakota, anchored by healthcare, manufacturing, education, professional services, retail development, and transportation. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "23240"
+    },
+    "Ziebach County": {
+      "description": "Ziebach County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, community services, and local commerce. Livestock production and public-sector employment contribute significantly to economic activity throughout the county.",
+      "population": "2815"
+    }
+  }
 }

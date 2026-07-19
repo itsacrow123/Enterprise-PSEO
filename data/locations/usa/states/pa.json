@@ -1,330 +1,279 @@
 {
-"Adams County": {
-  "description": "Adams County supports a diversified economy based on agriculture, tourism, healthcare services, manufacturing, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "105000"
-},
-
-"Allegheny County": {
-  "description": "Allegheny County is one of Pennsylvania's largest economic centers and home to Pittsburgh. Healthcare, technology, finance, higher education, advanced manufacturing, professional services, logistics, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "1250578"
-},
-
-"Armstrong County": {
-  "description": "Armstrong County benefits from manufacturing, healthcare services, energy-related industries, agriculture, transportation, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "65000"
-},
-
-"Beaver County": {
-  "description": "Beaver County serves as an important economic center in western Pennsylvania, supported by manufacturing, healthcare services, energy-related industries, logistics, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "168215"
-},
-
-"Bedford County": {
-  "description": "Bedford County supports a diversified economy based on agriculture, healthcare services, tourism, manufacturing, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "48500"
-},
-
-"Berks County": {
-  "description": "Berks County is one of Pennsylvania's strongest economic centers, driven by manufacturing, healthcare services, logistics, agriculture, professional services, retail development, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "429342"
-},
-
-"Blair County": {
-  "description": "Blair County serves as a major regional economic hub in central Pennsylvania, supported by healthcare, education, manufacturing, logistics, retail development, and professional services. Its diversified economy contributes significantly to employment and business activity.",
-  "population": "122822"
-},
-
-"Bradford County": {
-  "description": "Bradford County benefits from energy-related industries, agriculture, healthcare services, tourism, transportation, and local business development. Natural resources and farming operations contribute substantially to economic growth throughout the county.",
-  "population": "60900"
-},
-
-"Bucks County": {
-  "description": "Bucks County is one of Pennsylvania's most affluent and economically powerful counties, supported by healthcare, finance, technology, professional services, manufacturing, retail development, and residential growth. Its proximity to Philadelphia contributes substantially to business investment and workforce opportunities.",
-  "population": "646538"
-},
-
-"Butler County": {
-  "description": "Butler County is a fast-growing economic center in western Pennsylvania, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its strong business environment contributes significantly to regional economic growth.",
-  "population": "196058"
-},
-"Cambria County": {
-  "description": "Cambria County serves as an important economic center in western Pennsylvania, supported by healthcare services, manufacturing, education, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "133472"
-},
-
-"Cameron County": {
-  "description": "Cameron County supports a rural economy based on tourism, forestry, healthcare services, outdoor recreation, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "4328"
-},
-
-"Carbon County": {
-  "description": "Carbon County benefits from tourism, healthcare services, manufacturing, logistics, transportation, and professional industries. Its strategic location and recreational attractions contribute substantially to regional economic growth.",
-  "population": "67627"
-},
-
-"Centre County": {
-  "description": "Centre County is one of Pennsylvania's leading education and innovation economies, supported by higher education, healthcare services, research, technology, professional services, and retail development. Its knowledge-based economy contributes substantially to workforce growth and business investment.",
-  "population": "158172"
-},
-
-"Chester County": {
-  "description": "Chester County is one of Pennsylvania's most affluent and economically powerful counties, driven by healthcare, finance, technology, life sciences, professional services, manufacturing, and corporate headquarters. Its location within the Philadelphia metropolitan area supports substantial business investment and workforce growth.",
-  "population": "545823"
-},
-
-"Clarion County": {
-  "description": "Clarion County supports a diversified economy based on healthcare services, higher education, manufacturing, tourism, agriculture, and local commerce. Educational institutions and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "38051"
-},
-
-"Clearfield County": {
-  "description": "Clearfield County benefits from manufacturing, healthcare services, energy-related industries, transportation, forestry, and professional services. Its diversified economy contributes significantly to regional employment and economic development.",
-  "population": "80432"
-},
-
-"Clinton County": {
-  "description": "Clinton County supports an economy driven by healthcare services, manufacturing, education, transportation, agriculture, and local business development. Regional employers contribute substantially to workforce opportunities and economic growth.",
-  "population": "37385"
-},
-
-"Columbia County": {
-  "description": "Columbia County combines healthcare services, manufacturing, agriculture, logistics, retail activity, and professional industries. Its diversified economy contributes significantly to workforce opportunities and regional business growth.",
-  "population": "66178"
-},
-
-"Crawford County": {
-  "description": "Crawford County serves as an important economic center in northwestern Pennsylvania, supported by healthcare services, manufacturing, agriculture, tourism, transportation, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "83038"
-},
-"Cumberland County": {
-  "description": "Cumberland County is one of central Pennsylvania's fastest-growing economic centers, supported by healthcare, logistics, professional services, manufacturing, retail development, and residential expansion. Its strategic location contributes substantially to business investment and workforce growth.",
-  "population": "268470"
-},
-
-"Dauphin County": {
-  "description": "Dauphin County is a major economic center in Pennsylvania and home to Harrisburg. Government services, healthcare, finance, logistics, professional services, education, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "286401"
-},
-
-"Delaware County": {
-  "description": "Delaware County is one of Pennsylvania's largest and most economically significant counties, driven by healthcare, education, finance, professional services, technology, manufacturing, and retail development. Its location within the Philadelphia metropolitan area supports substantial workforce growth and business activity.",
-  "population": "576830"
-},
-
-"Elk County": {
-  "description": "Elk County supports a diversified economy based on manufacturing, healthcare services, tourism, forestry, transportation, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "30538"
-},
-
-"Erie County": {
-  "description": "Erie County is one of Pennsylvania's largest economic centers, anchored by healthcare, manufacturing, logistics, higher education, tourism, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "269728"
-},
-
-"Fayette County": {
-  "description": "Fayette County benefits from healthcare services, manufacturing, energy-related industries, tourism, transportation, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
-  "population": "127412"
-},
-
-"Forest County": {
-  "description": "Forest County maintains a rural economy centered on tourism, forestry, healthcare services, outdoor recreation, transportation, and local business activity. Natural resources and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "7163"
-},
-
-"Franklin County": {
-  "description": "Franklin County is a major economic center in south-central Pennsylvania, supported by logistics, manufacturing, healthcare services, agriculture, professional services, and retail development. Its strategic location contributes substantially to workforce growth and business investment.",
-  "population": "158276"
-},
-
-"Fulton County": {
-  "description": "Fulton County supports an economy driven by agriculture, healthcare services, tourism, manufacturing, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "14556"
-},
-
-"Greene County": {
-  "description": "Greene County benefits from energy-related industries, healthcare services, agriculture, transportation, manufacturing, and professional services. Natural resources and diversified businesses contribute substantially to regional economic growth and workforce opportunities.",
-  "population": "36050"
-},
-"Huntingdon County": {
-  "description": "Huntingdon County supports a diversified economy based on healthcare services, manufacturing, tourism, agriculture, transportation, and local commerce. Regional employers and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "45144"
-},
-
-"Indiana County": {
-  "description": "Indiana County serves as an important educational and economic center in western Pennsylvania, supported by higher education, healthcare services, manufacturing, energy-related industries, retail development, and professional services. Its diversified economy contributes substantially to regional employment and growth.",
-  "population": "83439"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County benefits from manufacturing, healthcare services, forestry, tourism, transportation, and local business development. Its diversified economy supports stable workforce opportunities and continued economic growth.",
-  "population": "43432"
-},
-
-"Juniata County": {
-  "description": "Juniata County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "24824"
-},
-
-"Lackawanna County": {
-  "description": "Lackawanna County is a major economic center in northeastern Pennsylvania and home to Scranton. Healthcare, logistics, higher education, manufacturing, professional services, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "216504"
-},
-
-"Lancaster County": {
-  "description": "Lancaster County is one of Pennsylvania's strongest economic centers, supported by healthcare, manufacturing, agriculture, tourism, logistics, professional services, and retail development. Its diversified economy contributes substantially to workforce growth and regional business investment.",
-  "population": "564773"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County supports a diversified economy based on healthcare services, manufacturing, education, logistics, retail activity, and professional services. Its strategic location contributes significantly to regional employment and economic development.",
-  "population": "86184"
-},
-
-"Lebanon County": {
-  "description": "Lebanon County benefits from manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and continued business growth.",
-  "population": "145746"
-},
-
-"Lehigh County": {
-  "description": "Lehigh County is one of Pennsylvania's largest economic centers and home to Allentown. Healthcare, logistics, manufacturing, finance, technology, professional services, and retail development drive a highly diversified economy supporting substantial business investment and workforce growth.",
-  "population": "381357"
-},
-
-"Luzerne County": {
-  "description": "Luzerne County is a major economic center in northeastern Pennsylvania, anchored by healthcare, logistics, manufacturing, higher education, professional services, transportation, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "326998"
-},
-"Lycoming County": {
-  "description": "Lycoming County serves as an important economic center in north-central Pennsylvania, supported by healthcare services, manufacturing, education, transportation, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "113664"
-},
-
-"McKean County": {
-  "description": "McKean County benefits from manufacturing, energy-related industries, healthcare services, tourism, forestry, and local commerce. Natural resources and industrial employers contribute substantially to economic activity throughout the county.",
-  "population": "40311"
-},
-
-"Mercer County": {
-  "description": "Mercer County supports a diversified economy based on healthcare services, manufacturing, logistics, education, retail development, and professional services. Its strategic location contributes significantly to workforce opportunities and regional economic development.",
-  "population": "109001"
-},
-
-"Mifflin County": {
-  "description": "Mifflin County combines agriculture, manufacturing, healthcare services, transportation, retail activity, and professional industries. Its diversified economy contributes significantly to economic growth and employment opportunities throughout the county.",
-  "population": "45975"
-},
-
-"Monroe County": {
-  "description": "Monroe County is one of Pennsylvania's fastest-growing counties, driven by healthcare, tourism, retail development, professional services, transportation, and residential expansion. Its location in the Pocono region contributes substantially to business investment and workforce growth.",
-  "population": "170271"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County is one of Pennsylvania's most affluent and economically powerful counties, supported by healthcare, finance, technology, life sciences, professional services, manufacturing, and corporate headquarters. Its location within the Philadelphia metropolitan area drives substantial business investment and workforce growth.",
-  "population": "881067"
-},
-
-"Montour County": {
-  "description": "Montour County supports an economy driven by healthcare services, professional services, education, retail activity, transportation, and local business development. Its strong healthcare sector contributes significantly to regional economic activity.",
-  "population": "18906"
-},
-
-"Northampton County": {
-  "description": "Northampton County is one of eastern Pennsylvania's largest economic centers, anchored by healthcare, logistics, manufacturing, finance, professional services, transportation, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "318262"
-},
-
-"Northumberland County": {
-  "description": "Northumberland County benefits from healthcare services, manufacturing, transportation, agriculture, retail development, and professional industries. Its diversified economy contributes significantly to regional employment and economic growth.",
-  "population": "91145"
-},
-
-"Perry County": {
-  "description": "Perry County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
-  "population": "46664"
-},
-"Philadelphia County": {
-  "description": "Philadelphia County is Pennsylvania's largest economic center and home to Philadelphia. Healthcare, finance, technology, higher education, professional services, logistics, tourism, and corporate headquarters drive a highly diversified economy that supports substantial employment, innovation, and business investment.",
-  "population": "1603797"
-},
-
-"Pike County": {
-  "description": "Pike County supports a diversified economy based on tourism, healthcare services, retail development, professional services, transportation, and residential growth. Visitor spending and expanding communities contribute significantly to economic activity throughout the county.",
-  "population": "58689"
-},
-
-"Potter County": {
-  "description": "Potter County benefits from tourism, forestry, healthcare services, agriculture, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute substantially to economic development throughout the county.",
-  "population": "16531"
-},
-
-"Schuylkill County": {
-  "description": "Schuylkill County serves as an important economic center in eastern Pennsylvania, supported by manufacturing, healthcare services, logistics, energy-related industries, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "143049"
-},
-
-"Snyder County": {
-  "description": "Snyder County supports an economy driven by manufacturing, agriculture, healthcare services, transportation, education, and local commerce. Industrial employers and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "40974"
-},
-
-"Somerset County": {
-  "description": "Somerset County benefits from tourism, healthcare services, manufacturing, energy-related industries, transportation, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic development.",
-  "population": "73567"
-},
-
-"Sullivan County": {
-  "description": "Sullivan County maintains a rural economy centered on tourism, healthcare services, forestry, agriculture, outdoor recreation, and local business activity. Visitor spending and natural resources contribute significantly to economic growth throughout the county.",
-  "population": "6071"
-},
-
-"Susquehanna County": {
-  "description": "Susquehanna County supports a diversified economy based on agriculture, energy-related industries, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "40589"
-},
-
-"Tioga County": {
-  "description": "Tioga County benefits from healthcare services, tourism, agriculture, energy-related industries, forestry, and local business development. Its diversified economy contributes significantly to workforce opportunities and regional growth.",
-  "population": "40939"
-},
-
-"Union County": {
-  "description": "Union County supports an economy driven by higher education, healthcare services, manufacturing, agriculture, professional services, and retail development. Educational institutions and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "45596"
-},
-"Venango County": {
-  "description": "Venango County supports a diversified economy based on healthcare services, manufacturing, energy-related industries, tourism, transportation, and local commerce. Its strong business community contributes significantly to regional employment and economic development.",
-  "population": "50067"
-},
-
-"Warren County": {
-  "description": "Warren County benefits from manufacturing, healthcare services, tourism, forestry, transportation, and professional industries. Natural resources and diversified businesses contribute substantially to economic activity throughout the county.",
-  "population": "39191"
-},
-
-"Washington County": {
-  "description": "Washington County is one of western Pennsylvania's strongest economic centers, driven by healthcare, energy-related industries, logistics, manufacturing, professional services, retail development, and residential growth. Its location within the Pittsburgh metropolitan area supports substantial business investment and workforce expansion.",
-  "population": "209349"
-},
-
-"Wayne County": {
-  "description": "Wayne County supports a diversified economy based on tourism, healthcare services, agriculture, transportation, retail activity, and professional services. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "52822"
-},
-
-"Westmoreland County": {
-  "description": "Westmoreland County is a major economic center in western Pennsylvania, anchored by healthcare, manufacturing, education, logistics, professional services, retail development, and technology. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "354663"
-},
-
-"Wyoming County": {
-  "description": "Wyoming County benefits from agriculture, healthcare services, manufacturing, transportation, tourism, and local business development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "27482"
-},
-
-"York County": {
-  "description": "York County is one of Pennsylvania's largest economic centers, supported by manufacturing, healthcare services, logistics, agriculture, professional services, retail development, and transportation. Its diversified economy contributes substantially to workforce growth, business investment, and regional economic development.",
-  "population": "462073"
-}
+  "identity": {
+    "code": "pa",
+    "slug": "pennsylvania",
+    "name": "Pennsylvania",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County supports a diversified economy based on agriculture, tourism, healthcare services, manufacturing, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "105000"
+    },
+    "Allegheny County": {
+      "description": "Allegheny County is one of Pennsylvania's largest economic centers and home to Pittsburgh. Healthcare, technology, finance, higher education, advanced manufacturing, professional services, logistics, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "1250578"
+    },
+    "Armstrong County": {
+      "description": "Armstrong County benefits from manufacturing, healthcare services, energy-related industries, agriculture, transportation, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "65000"
+    },
+    "Beaver County": {
+      "description": "Beaver County serves as an important economic center in western Pennsylvania, supported by manufacturing, healthcare services, energy-related industries, logistics, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "168215"
+    },
+    "Bedford County": {
+      "description": "Bedford County supports a diversified economy based on agriculture, healthcare services, tourism, manufacturing, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "48500"
+    },
+    "Berks County": {
+      "description": "Berks County is one of Pennsylvania's strongest economic centers, driven by manufacturing, healthcare services, logistics, agriculture, professional services, retail development, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "429342"
+    },
+    "Blair County": {
+      "description": "Blair County serves as a major regional economic hub in central Pennsylvania, supported by healthcare, education, manufacturing, logistics, retail development, and professional services. Its diversified economy contributes significantly to employment and business activity.",
+      "population": "122822"
+    },
+    "Bradford County": {
+      "description": "Bradford County benefits from energy-related industries, agriculture, healthcare services, tourism, transportation, and local business development. Natural resources and farming operations contribute substantially to economic growth throughout the county.",
+      "population": "60900"
+    },
+    "Bucks County": {
+      "description": "Bucks County is one of Pennsylvania's most affluent and economically powerful counties, supported by healthcare, finance, technology, professional services, manufacturing, retail development, and residential growth. Its proximity to Philadelphia contributes substantially to business investment and workforce opportunities.",
+      "population": "646538"
+    },
+    "Butler County": {
+      "description": "Butler County is a fast-growing economic center in western Pennsylvania, driven by healthcare, manufacturing, logistics, professional services, retail development, and residential expansion. Its strong business environment contributes significantly to regional economic growth.",
+      "population": "196058"
+    },
+    "Cambria County": {
+      "description": "Cambria County serves as an important economic center in western Pennsylvania, supported by healthcare services, manufacturing, education, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "133472"
+    },
+    "Cameron County": {
+      "description": "Cameron County supports a rural economy based on tourism, forestry, healthcare services, outdoor recreation, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "4328"
+    },
+    "Carbon County": {
+      "description": "Carbon County benefits from tourism, healthcare services, manufacturing, logistics, transportation, and professional industries. Its strategic location and recreational attractions contribute substantially to regional economic growth.",
+      "population": "67627"
+    },
+    "Centre County": {
+      "description": "Centre County is one of Pennsylvania's leading education and innovation economies, supported by higher education, healthcare services, research, technology, professional services, and retail development. Its knowledge-based economy contributes substantially to workforce growth and business investment.",
+      "population": "158172"
+    },
+    "Chester County": {
+      "description": "Chester County is one of Pennsylvania's most affluent and economically powerful counties, driven by healthcare, finance, technology, life sciences, professional services, manufacturing, and corporate headquarters. Its location within the Philadelphia metropolitan area supports substantial business investment and workforce growth.",
+      "population": "545823"
+    },
+    "Clarion County": {
+      "description": "Clarion County supports a diversified economy based on healthcare services, higher education, manufacturing, tourism, agriculture, and local commerce. Educational institutions and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "38051"
+    },
+    "Clearfield County": {
+      "description": "Clearfield County benefits from manufacturing, healthcare services, energy-related industries, transportation, forestry, and professional services. Its diversified economy contributes significantly to regional employment and economic development.",
+      "population": "80432"
+    },
+    "Clinton County": {
+      "description": "Clinton County supports an economy driven by healthcare services, manufacturing, education, transportation, agriculture, and local business development. Regional employers contribute substantially to workforce opportunities and economic growth.",
+      "population": "37385"
+    },
+    "Columbia County": {
+      "description": "Columbia County combines healthcare services, manufacturing, agriculture, logistics, retail activity, and professional industries. Its diversified economy contributes significantly to workforce opportunities and regional business growth.",
+      "population": "66178"
+    },
+    "Crawford County": {
+      "description": "Crawford County serves as an important economic center in northwestern Pennsylvania, supported by healthcare services, manufacturing, agriculture, tourism, transportation, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "83038"
+    },
+    "Cumberland County": {
+      "description": "Cumberland County is one of central Pennsylvania's fastest-growing economic centers, supported by healthcare, logistics, professional services, manufacturing, retail development, and residential expansion. Its strategic location contributes substantially to business investment and workforce growth.",
+      "population": "268470"
+    },
+    "Dauphin County": {
+      "description": "Dauphin County is a major economic center in Pennsylvania and home to Harrisburg. Government services, healthcare, finance, logistics, professional services, education, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "286401"
+    },
+    "Delaware County": {
+      "description": "Delaware County is one of Pennsylvania's largest and most economically significant counties, driven by healthcare, education, finance, professional services, technology, manufacturing, and retail development. Its location within the Philadelphia metropolitan area supports substantial workforce growth and business activity.",
+      "population": "576830"
+    },
+    "Elk County": {
+      "description": "Elk County supports a diversified economy based on manufacturing, healthcare services, tourism, forestry, transportation, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "30538"
+    },
+    "Erie County": {
+      "description": "Erie County is one of Pennsylvania's largest economic centers, anchored by healthcare, manufacturing, logistics, higher education, tourism, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "269728"
+    },
+    "Fayette County": {
+      "description": "Fayette County benefits from healthcare services, manufacturing, energy-related industries, tourism, transportation, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
+      "population": "127412"
+    },
+    "Forest County": {
+      "description": "Forest County maintains a rural economy centered on tourism, forestry, healthcare services, outdoor recreation, transportation, and local business activity. Natural resources and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "7163"
+    },
+    "Franklin County": {
+      "description": "Franklin County is a major economic center in south-central Pennsylvania, supported by logistics, manufacturing, healthcare services, agriculture, professional services, and retail development. Its strategic location contributes substantially to workforce growth and business investment.",
+      "population": "158276"
+    },
+    "Fulton County": {
+      "description": "Fulton County supports an economy driven by agriculture, healthcare services, tourism, manufacturing, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "14556"
+    },
+    "Greene County": {
+      "description": "Greene County benefits from energy-related industries, healthcare services, agriculture, transportation, manufacturing, and professional services. Natural resources and diversified businesses contribute substantially to regional economic growth and workforce opportunities.",
+      "population": "36050"
+    },
+    "Huntingdon County": {
+      "description": "Huntingdon County supports a diversified economy based on healthcare services, manufacturing, tourism, agriculture, transportation, and local commerce. Regional employers and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "45144"
+    },
+    "Indiana County": {
+      "description": "Indiana County serves as an important educational and economic center in western Pennsylvania, supported by higher education, healthcare services, manufacturing, energy-related industries, retail development, and professional services. Its diversified economy contributes substantially to regional employment and growth.",
+      "population": "83439"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County benefits from manufacturing, healthcare services, forestry, tourism, transportation, and local business development. Its diversified economy supports stable workforce opportunities and continued economic growth.",
+      "population": "43432"
+    },
+    "Juniata County": {
+      "description": "Juniata County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "24824"
+    },
+    "Lackawanna County": {
+      "description": "Lackawanna County is a major economic center in northeastern Pennsylvania and home to Scranton. Healthcare, logistics, higher education, manufacturing, professional services, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "216504"
+    },
+    "Lancaster County": {
+      "description": "Lancaster County is one of Pennsylvania's strongest economic centers, supported by healthcare, manufacturing, agriculture, tourism, logistics, professional services, and retail development. Its diversified economy contributes substantially to workforce growth and regional business investment.",
+      "population": "564773"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County supports a diversified economy based on healthcare services, manufacturing, education, logistics, retail activity, and professional services. Its strategic location contributes significantly to regional employment and economic development.",
+      "population": "86184"
+    },
+    "Lebanon County": {
+      "description": "Lebanon County benefits from manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce opportunities and continued business growth.",
+      "population": "145746"
+    },
+    "Lehigh County": {
+      "description": "Lehigh County is one of Pennsylvania's largest economic centers and home to Allentown. Healthcare, logistics, manufacturing, finance, technology, professional services, and retail development drive a highly diversified economy supporting substantial business investment and workforce growth.",
+      "population": "381357"
+    },
+    "Luzerne County": {
+      "description": "Luzerne County is a major economic center in northeastern Pennsylvania, anchored by healthcare, logistics, manufacturing, higher education, professional services, transportation, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "326998"
+    },
+    "Lycoming County": {
+      "description": "Lycoming County serves as an important economic center in north-central Pennsylvania, supported by healthcare services, manufacturing, education, transportation, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "113664"
+    },
+    "McKean County": {
+      "description": "McKean County benefits from manufacturing, energy-related industries, healthcare services, tourism, forestry, and local commerce. Natural resources and industrial employers contribute substantially to economic activity throughout the county.",
+      "population": "40311"
+    },
+    "Mercer County": {
+      "description": "Mercer County supports a diversified economy based on healthcare services, manufacturing, logistics, education, retail development, and professional services. Its strategic location contributes significantly to workforce opportunities and regional economic development.",
+      "population": "109001"
+    },
+    "Mifflin County": {
+      "description": "Mifflin County combines agriculture, manufacturing, healthcare services, transportation, retail activity, and professional industries. Its diversified economy contributes significantly to economic growth and employment opportunities throughout the county.",
+      "population": "45975"
+    },
+    "Monroe County": {
+      "description": "Monroe County is one of Pennsylvania's fastest-growing counties, driven by healthcare, tourism, retail development, professional services, transportation, and residential expansion. Its location in the Pocono region contributes substantially to business investment and workforce growth.",
+      "population": "170271"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County is one of Pennsylvania's most affluent and economically powerful counties, supported by healthcare, finance, technology, life sciences, professional services, manufacturing, and corporate headquarters. Its location within the Philadelphia metropolitan area drives substantial business investment and workforce growth.",
+      "population": "881067"
+    },
+    "Montour County": {
+      "description": "Montour County supports an economy driven by healthcare services, professional services, education, retail activity, transportation, and local business development. Its strong healthcare sector contributes significantly to regional economic activity.",
+      "population": "18906"
+    },
+    "Northampton County": {
+      "description": "Northampton County is one of eastern Pennsylvania's largest economic centers, anchored by healthcare, logistics, manufacturing, finance, professional services, transportation, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "318262"
+    },
+    "Northumberland County": {
+      "description": "Northumberland County benefits from healthcare services, manufacturing, transportation, agriculture, retail development, and professional industries. Its diversified economy contributes significantly to regional employment and economic growth.",
+      "population": "91145"
+    },
+    "Perry County": {
+      "description": "Perry County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
+      "population": "46664"
+    },
+    "Philadelphia County": {
+      "description": "Philadelphia County is Pennsylvania's largest economic center and home to Philadelphia. Healthcare, finance, technology, higher education, professional services, logistics, tourism, and corporate headquarters drive a highly diversified economy that supports substantial employment, innovation, and business investment.",
+      "population": "1603797"
+    },
+    "Pike County": {
+      "description": "Pike County supports a diversified economy based on tourism, healthcare services, retail development, professional services, transportation, and residential growth. Visitor spending and expanding communities contribute significantly to economic activity throughout the county.",
+      "population": "58689"
+    },
+    "Potter County": {
+      "description": "Potter County benefits from tourism, forestry, healthcare services, agriculture, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute substantially to economic development throughout the county.",
+      "population": "16531"
+    },
+    "Schuylkill County": {
+      "description": "Schuylkill County serves as an important economic center in eastern Pennsylvania, supported by manufacturing, healthcare services, logistics, energy-related industries, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "143049"
+    },
+    "Snyder County": {
+      "description": "Snyder County supports an economy driven by manufacturing, agriculture, healthcare services, transportation, education, and local commerce. Industrial employers and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "40974"
+    },
+    "Somerset County": {
+      "description": "Somerset County benefits from tourism, healthcare services, manufacturing, energy-related industries, transportation, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic development.",
+      "population": "73567"
+    },
+    "Sullivan County": {
+      "description": "Sullivan County maintains a rural economy centered on tourism, healthcare services, forestry, agriculture, outdoor recreation, and local business activity. Visitor spending and natural resources contribute significantly to economic growth throughout the county.",
+      "population": "6071"
+    },
+    "Susquehanna County": {
+      "description": "Susquehanna County supports a diversified economy based on agriculture, energy-related industries, healthcare services, manufacturing, transportation, and local commerce. Natural resources and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "40589"
+    },
+    "Tioga County": {
+      "description": "Tioga County benefits from healthcare services, tourism, agriculture, energy-related industries, forestry, and local business development. Its diversified economy contributes significantly to workforce opportunities and regional growth.",
+      "population": "40939"
+    },
+    "Union County": {
+      "description": "Union County supports an economy driven by higher education, healthcare services, manufacturing, agriculture, professional services, and retail development. Educational institutions and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "45596"
+    },
+    "Venango County": {
+      "description": "Venango County supports a diversified economy based on healthcare services, manufacturing, energy-related industries, tourism, transportation, and local commerce. Its strong business community contributes significantly to regional employment and economic development.",
+      "population": "50067"
+    },
+    "Warren County": {
+      "description": "Warren County benefits from manufacturing, healthcare services, tourism, forestry, transportation, and professional industries. Natural resources and diversified businesses contribute substantially to economic activity throughout the county.",
+      "population": "39191"
+    },
+    "Washington County": {
+      "description": "Washington County is one of western Pennsylvania's strongest economic centers, driven by healthcare, energy-related industries, logistics, manufacturing, professional services, retail development, and residential growth. Its location within the Pittsburgh metropolitan area supports substantial business investment and workforce expansion.",
+      "population": "209349"
+    },
+    "Wayne County": {
+      "description": "Wayne County supports a diversified economy based on tourism, healthcare services, agriculture, transportation, retail activity, and professional services. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "52822"
+    },
+    "Westmoreland County": {
+      "description": "Westmoreland County is a major economic center in western Pennsylvania, anchored by healthcare, manufacturing, education, logistics, professional services, retail development, and technology. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "354663"
+    },
+    "Wyoming County": {
+      "description": "Wyoming County benefits from agriculture, healthcare services, manufacturing, transportation, tourism, and local business development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "27482"
+    },
+    "York County": {
+      "description": "York County is one of Pennsylvania's largest economic centers, supported by manufacturing, healthcare services, logistics, agriculture, professional services, retail development, and transportation. Its diversified economy contributes substantially to workforce growth, business investment, and regional economic development.",
+      "population": "462073"
+    }
+  }
 }

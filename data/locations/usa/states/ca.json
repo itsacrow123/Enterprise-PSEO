@@ -1,286 +1,243 @@
 {
-"Alameda County": {
-  "description": "Alameda County is a major economic center in the San Francisco Bay Area, supporting technology, healthcare, education, logistics, and international trade. Its diverse communities and strong job market make it one of California's most influential counties.",
-  "population": "1682353"
-},
-
-"Alpine County": {
-  "description": "Alpine County is California's least populous county and is known for its spectacular Sierra Nevada scenery, outdoor recreation opportunities, and protected natural landscapes. Tourism and visitor-related services play important roles in the local economy.",
-  "population": "1204"
-},
-
-"Amador County": {
-  "description": "Amador County combines Gold Rush history, scenic foothill communities, and a growing wine industry. Tourism, agriculture, hospitality, and small businesses contribute to economic activity throughout the county.",
-  "population": "40916"
-},
-
-"Butte County": {
-  "description": "Butte County serves as an important educational, agricultural, and commercial center in Northern California. Higher education, healthcare, farming, and local businesses support a diverse regional economy.",
-  "population": "211632"
-},
-
-"Calaveras County": {
-  "description": "Calaveras County is known for its historic Gold Country heritage, outdoor recreation opportunities, and scenic foothill communities. Tourism, agriculture, and real estate development contribute to the county's economy.",
-  "population": "46221"
-},
-
-"Colusa County": {
-  "description": "Colusa County features extensive agricultural operations, productive farmland, and strong rural communities within California's Sacramento Valley. Farming and agribusiness remain central to local economic activity.",
-  "population": "21547"
-},
-
-"Contra Costa County": {
-  "description": "Contra Costa County is a key part of the San Francisco Bay Area economy, supporting healthcare, technology, finance, logistics, and residential development. Its growing communities and business centers continue to attract investment.",
-  "population": "1165927"
-},
-
-"Del Norte County": {
-  "description": "Del Norte County is known for its rugged Pacific coastline, redwood forests, and outdoor recreation opportunities. Tourism, healthcare, government services, and local businesses contribute to the county's economy.",
-  "population": "27812"
-},
-
-"El Dorado County": {
-  "description": "El Dorado County combines historic Gold Rush communities, mountain recreation destinations, and growing residential developments. Tourism, healthcare, real estate, and local commerce support economic growth throughout the county.",
-  "population": "191185"
-},
-
-"Fresno County": {
-  "description": "Fresno County is one of the nation's leading agricultural regions and serves as a major economic center in California's Central Valley. Agriculture, healthcare, education, logistics, and manufacturing drive the county's diverse economy.",
-  "population": "1027699"
-},
-"Glenn County": {
-  "description": "Glenn County is located in the northern Sacramento Valley and is recognized for its productive agricultural land, farming operations, and rural communities. Agriculture, food processing, and local businesses continue to support the county's economy.",
-  "population": "28829"
-},
-
-"Humboldt County": {
-  "description": "Humboldt County is known for its redwood forests, rugged Pacific coastline, and vibrant environmental and tourism sectors. Healthcare, education, tourism, and natural resource industries contribute to a diverse regional economy.",
-  "population": "136463"
-},
-
-"Imperial County": {
-  "description": "Imperial County occupies California's southeastern corner and plays a vital role in agriculture, renewable energy production, and international trade. Its fertile farmland and border location support significant economic activity throughout the region.",
-  "population": "179702"
-},
-
-"Inyo County": {
-  "description": "Inyo County is home to some of California's most dramatic natural landscapes, including mountain ranges, desert valleys, and outdoor recreation destinations. Tourism, government services, and hospitality businesses drive the local economy.",
-  "population": "18601"
-},
-
-"Kern County": {
-  "description": "Kern County is one of California's most important centers for energy production, agriculture, logistics, and manufacturing. Its strategic location and diverse economy make it a major contributor to statewide economic activity.",
-  "population": "918605"
-},
-
-"Kings County": {
-  "description": "Kings County supports a strong economy based on agriculture, food processing, military operations, and healthcare services. Its productive farmland and regional transportation access continue to support business growth.",
-  "population": "154706"
-},
-
-"Lake County": {
-  "description": "Lake County is known for its natural beauty, recreational opportunities, vineyards, and tourism industry. Agriculture, hospitality, healthcare, and local businesses contribute to economic activity across the county.",
-  "population": "68712"
-},
-
-"Lassen County": {
-  "description": "Lassen County combines outdoor recreation, public lands, agriculture, and government services within a largely rural setting. Tourism and natural resource industries play important roles in supporting the local economy.",
-  "population": "30015"
-},
-
-"Los Angeles County": {
-  "description": "Los Angeles County is the most populous county in the United States and a global center for entertainment, technology, healthcare, international trade, finance, and manufacturing. Its vast economy and diverse population make it one of the world's most influential regions.",
-  "population": "9721138"
-},
-
-"Madera County": {
-  "description": "Madera County benefits from a growing agricultural sector, expanding residential communities, and access to major recreation destinations. Farming, tourism, healthcare, and construction contribute significantly to the county's economy.",
-  "population": "163038"
-},
-"Marin County": {
-  "description": "Marin County is one of California's most affluent counties, known for its scenic coastal landscapes, high quality of life, and proximity to San Francisco. Professional services, healthcare, tourism, and retail contribute significantly to the local economy.",
-  "population": "262321"
-},
-
-"Mariposa County": {
-  "description": "Mariposa County serves as a gateway to some of California's most visited natural attractions and supports a tourism-driven economy. Hospitality, recreation services, healthcare, and local businesses play important roles throughout the county.",
-  "population": "17131"
-},
-
-"Mendocino County": {
-  "description": "Mendocino County is recognized for its rugged coastline, forests, vineyards, and outdoor recreation opportunities. Tourism, agriculture, healthcare, and hospitality industries help drive economic activity across the region.",
-  "population": "91907"
-},
-
-"Merced County": {
-  "description": "Merced County is a growing Central Valley county supported by agriculture, education, logistics, and healthcare services. Continued residential and commercial development has strengthened its position within California's economy.",
-  "population": "291920"
-},
-
-"Modoc County": {
-  "description": "Modoc County is California's northeasternmost county and is known for its open landscapes, agricultural operations, and outdoor recreation opportunities. Ranching, farming, tourism, and public services contribute to the local economy.",
-  "population": "8580"
-},
-
-"Mono County": {
-  "description": "Mono County features world-renowned mountain recreation destinations, alpine scenery, and year-round tourism opportunities. Hospitality, outdoor recreation, and visitor services remain the foundation of economic activity throughout the county.",
-  "population": "13845"
-},
-
-"Monterey County": {
-  "description": "Monterey County combines a globally recognized tourism industry with one of the nation's most productive agricultural sectors. Hospitality, farming, education, healthcare, and marine-related industries contribute to a diverse economy.",
-  "population": "437325"
-},
-
-"Napa County": {
-  "description": "Napa County is internationally known for its wine industry, luxury tourism, and hospitality sector. Vineyards, wineries, restaurants, healthcare services, and retail businesses support a strong and resilient local economy.",
-  "population": "136207"
-},
-
-"Nevada County": {
-  "description": "Nevada County blends historic Gold Rush communities, outdoor recreation opportunities, and growing residential development. Tourism, healthcare, professional services, and local commerce play important roles in the county's economy.",
-  "population": "103344"
-},
-
-"Orange County": {
-  "description": "Orange County is one of California's most populous and economically powerful regions, supporting technology, healthcare, tourism, finance, education, and international business. Its diverse economy and highly developed infrastructure continue to attract residents and investment.",
-  "population": "3176943"
-},
-"Placer County": {
-  "description": "Placer County is one of California's fastest-growing counties, combining thriving suburban communities, outdoor recreation destinations, and a strong business environment. Technology, healthcare, tourism, and residential development support continued economic growth.",
-  "population": "421164"
-},
-
-"Plumas County": {
-  "description": "Plumas County is known for its mountain scenery, forest resources, and outdoor recreation opportunities. Tourism, forestry, healthcare, and local businesses contribute to economic activity throughout this rural Northern California county.",
-  "population": "19690"
-},
-
-"Riverside County": {
-  "description": "Riverside County is one of the fastest-growing counties in the United States, supported by logistics, healthcare, construction, tourism, and residential development. Its strategic Southern California location continues to attract businesses and new residents.",
-  "population": "2520068"
-},
-
-"Sacramento County": {
-  "description": "Sacramento County serves as California's governmental center and supports a diverse economy driven by public administration, healthcare, education, technology, and professional services. Continued growth has strengthened its role as a major economic hub.",
-  "population": "1608529"
-},
-
-"San Benito County": {
-  "description": "San Benito County combines agricultural production, scenic landscapes, and expanding residential communities. Farming, tourism, healthcare, and local businesses contribute to a balanced and growing economy.",
-  "population": "69098"
-},
-
-"San Bernardino County": {
-  "description": "San Bernardino County is the largest county in the contiguous United States by land area and a major center for logistics, warehousing, transportation, manufacturing, and commerce. Its extensive infrastructure supports significant economic activity across Southern California.",
-  "population": "2216867"
-},
-
-"San Diego County": {
-  "description": "San Diego County is a global center for biotechnology, defense, tourism, healthcare, education, and international trade. Its strong economy, coastal location, and growing population make it one of California's most influential regions.",
-  "population": "3298634"
-},
-
-"San Francisco County": {
-  "description": "San Francisco County is a world-renowned center for finance, technology, tourism, healthcare, and innovation. Its dense urban environment and global economic influence make it one of the most recognized counties in the United States.",
-  "population": "842754"
-},
-
-"San Joaquin County": {
-  "description": "San Joaquin County serves as a key agricultural and logistics hub within California's Central Valley. Distribution centers, farming operations, healthcare, and manufacturing industries drive economic growth throughout the county.",
-  "population": "793229"
-},
-
-"San Luis Obispo County": {
-  "description": "San Luis Obispo County combines coastal tourism, agriculture, higher education, and wine production within a diverse economy. Its attractive communities and natural landscapes continue to support population and business growth.",
-  "population": "286354"
-},
-"San Mateo County": {
-  "description": "San Mateo County occupies a strategic position between San Francisco and Silicon Valley, supporting a strong economy driven by technology, biotechnology, finance, healthcare, and professional services. Its highly educated workforce and business-friendly environment continue to attract innovation and investment.",
-  "population": "757423"
-},
-
-"Santa Barbara County": {
-  "description": "Santa Barbara County is known for its coastal beauty, tourism industry, wine production, higher education institutions, and technology sector. Hospitality, agriculture, healthcare, and professional services contribute to a diverse and resilient economy.",
-  "population": "448229"
-},
-
-"Santa Clara County": {
-  "description": "Santa Clara County serves as the heart of Silicon Valley and is one of the world's leading centers for technology, innovation, venture capital, and research. Its economy is supported by major technology companies, healthcare systems, universities, and advanced manufacturing.",
-  "population": "1936259"
-},
-
-"Santa Cruz County": {
-  "description": "Santa Cruz County combines coastal tourism, higher education, agriculture, and technology-related businesses within a vibrant regional economy. Its beaches, recreation opportunities, and entrepreneurial culture continue to attract residents and visitors.",
-  "population": "270861"
-},
-
-"Shasta County": {
-  "description": "Shasta County serves as a regional hub for Northern California, supporting healthcare, government services, tourism, construction, and retail industries. Outdoor recreation and natural attractions contribute significantly to economic activity.",
-  "population": "183885"
-},
-
-"Sierra County": {
-  "description": "Sierra County is one of California's least populated counties and is known for its mountain landscapes, historic communities, and recreational opportunities. Tourism, hospitality, and local services support the county's economy.",
-  "population": "3236"
-},
-
-"Siskiyou County": {
-  "description": "Siskiyou County features expansive natural landscapes, agricultural operations, forestry resources, and outdoor recreation destinations. Tourism, farming, healthcare, and government services contribute to economic activity throughout the county.",
-  "population": "44244"
-},
-
-"Solano County": {
-  "description": "Solano County occupies a key position within the San Francisco Bay Area and supports logistics, manufacturing, healthcare, government, and residential development. Its transportation infrastructure makes it an important economic corridor in Northern California.",
-  "population": "453491"
-},
-
-"Sonoma County": {
-  "description": "Sonoma County is internationally recognized for its wine industry, tourism sector, agriculture, and coastal attractions. Hospitality, healthcare, professional services, and viticulture continue to drive economic growth throughout the county.",
-  "population": "482650"
-},
-
-"Stanislaus County": {
-  "description": "Stanislaus County is a major agricultural and logistics center in California's Central Valley. Farming, food processing, healthcare, transportation, and manufacturing industries support a growing population and expanding economy.",
-  "population": "558100"
-},
-"Sutter County": {
-  "description": "Sutter County is a productive agricultural county in Northern California known for its farming operations, food production, and growing residential communities. Agriculture, healthcare, retail, and local businesses contribute to a stable and expanding economy.",
-  "population": "100961"
-},
-
-"Tehama County": {
-  "description": "Tehama County combines agricultural production, livestock operations, outdoor recreation, and natural resource industries. Its strategic location along major transportation routes supports commerce and economic activity throughout the region.",
-  "population": "65458"
-},
-
-"Trinity County": {
-  "description": "Trinity County is known for its rugged mountains, extensive forests, and outdoor recreation opportunities. Tourism, government services, forestry, and hospitality businesses support the county's largely rural economy.",
-  "population": "15982"
-},
-
-"Tulare County": {
-  "description": "Tulare County is one of the nation's leading agricultural regions and plays a critical role in food production, dairy operations, and agribusiness. Healthcare, logistics, and manufacturing industries further strengthen the county's economy.",
-  "population": "485631"
-},
-
-"Tuolumne County": {
-  "description": "Tuolumne County features historic Gold Rush communities, mountain recreation destinations, and scenic natural landscapes. Tourism, healthcare, hospitality, and local commerce contribute significantly to economic activity throughout the county.",
-  "population": "55810"
-},
-
-"Ventura County": {
-  "description": "Ventura County supports a diverse economy driven by agriculture, healthcare, biotechnology, tourism, education, and professional services. Its coastal location, strong infrastructure, and high quality of life continue to attract residents and businesses.",
-  "population": "839784"
-},
-
-"Yolo County": {
-  "description": "Yolo County benefits from a strong economy based on higher education, agriculture, healthcare, government services, and research activities. Its proximity to Sacramento supports continued population growth and business development.",
-  "population": "223612"
-},
-
-"Yuba County": {
-  "description": "Yuba County combines agricultural production, government employment, military influence, and residential growth within Northern California. Infrastructure investments and expanding communities continue to support economic development throughout the county.",
-  "population": "85387"
-}
+  "identity": {
+    "code": "ca",
+    "slug": "california",
+    "name": "California",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Alameda County": {
+      "description": "Alameda County is a major economic center in the San Francisco Bay Area, supporting technology, healthcare, education, logistics, and international trade. Its diverse communities and strong job market make it one of California's most influential counties.",
+      "population": "1682353"
+    },
+    "Alpine County": {
+      "description": "Alpine County is California's least populous county and is known for its spectacular Sierra Nevada scenery, outdoor recreation opportunities, and protected natural landscapes. Tourism and visitor-related services play important roles in the local economy.",
+      "population": "1204"
+    },
+    "Amador County": {
+      "description": "Amador County combines Gold Rush history, scenic foothill communities, and a growing wine industry. Tourism, agriculture, hospitality, and small businesses contribute to economic activity throughout the county.",
+      "population": "40916"
+    },
+    "Butte County": {
+      "description": "Butte County serves as an important educational, agricultural, and commercial center in Northern California. Higher education, healthcare, farming, and local businesses support a diverse regional economy.",
+      "population": "211632"
+    },
+    "Calaveras County": {
+      "description": "Calaveras County is known for its historic Gold Country heritage, outdoor recreation opportunities, and scenic foothill communities. Tourism, agriculture, and real estate development contribute to the county's economy.",
+      "population": "46221"
+    },
+    "Colusa County": {
+      "description": "Colusa County features extensive agricultural operations, productive farmland, and strong rural communities within California's Sacramento Valley. Farming and agribusiness remain central to local economic activity.",
+      "population": "21547"
+    },
+    "Contra Costa County": {
+      "description": "Contra Costa County is a key part of the San Francisco Bay Area economy, supporting healthcare, technology, finance, logistics, and residential development. Its growing communities and business centers continue to attract investment.",
+      "population": "1165927"
+    },
+    "Del Norte County": {
+      "description": "Del Norte County is known for its rugged Pacific coastline, redwood forests, and outdoor recreation opportunities. Tourism, healthcare, government services, and local businesses contribute to the county's economy.",
+      "population": "27812"
+    },
+    "El Dorado County": {
+      "description": "El Dorado County combines historic Gold Rush communities, mountain recreation destinations, and growing residential developments. Tourism, healthcare, real estate, and local commerce support economic growth throughout the county.",
+      "population": "191185"
+    },
+    "Fresno County": {
+      "description": "Fresno County is one of the nation's leading agricultural regions and serves as a major economic center in California's Central Valley. Agriculture, healthcare, education, logistics, and manufacturing drive the county's diverse economy.",
+      "population": "1027699"
+    },
+    "Glenn County": {
+      "description": "Glenn County is located in the northern Sacramento Valley and is recognized for its productive agricultural land, farming operations, and rural communities. Agriculture, food processing, and local businesses continue to support the county's economy.",
+      "population": "28829"
+    },
+    "Humboldt County": {
+      "description": "Humboldt County is known for its redwood forests, rugged Pacific coastline, and vibrant environmental and tourism sectors. Healthcare, education, tourism, and natural resource industries contribute to a diverse regional economy.",
+      "population": "136463"
+    },
+    "Imperial County": {
+      "description": "Imperial County occupies California's southeastern corner and plays a vital role in agriculture, renewable energy production, and international trade. Its fertile farmland and border location support significant economic activity throughout the region.",
+      "population": "179702"
+    },
+    "Inyo County": {
+      "description": "Inyo County is home to some of California's most dramatic natural landscapes, including mountain ranges, desert valleys, and outdoor recreation destinations. Tourism, government services, and hospitality businesses drive the local economy.",
+      "population": "18601"
+    },
+    "Kern County": {
+      "description": "Kern County is one of California's most important centers for energy production, agriculture, logistics, and manufacturing. Its strategic location and diverse economy make it a major contributor to statewide economic activity.",
+      "population": "918605"
+    },
+    "Kings County": {
+      "description": "Kings County supports a strong economy based on agriculture, food processing, military operations, and healthcare services. Its productive farmland and regional transportation access continue to support business growth.",
+      "population": "154706"
+    },
+    "Lake County": {
+      "description": "Lake County is known for its natural beauty, recreational opportunities, vineyards, and tourism industry. Agriculture, hospitality, healthcare, and local businesses contribute to economic activity across the county.",
+      "population": "68712"
+    },
+    "Lassen County": {
+      "description": "Lassen County combines outdoor recreation, public lands, agriculture, and government services within a largely rural setting. Tourism and natural resource industries play important roles in supporting the local economy.",
+      "population": "30015"
+    },
+    "Los Angeles County": {
+      "description": "Los Angeles County is the most populous county in the United States and a global center for entertainment, technology, healthcare, international trade, finance, and manufacturing. Its vast economy and diverse population make it one of the world's most influential regions.",
+      "population": "9721138"
+    },
+    "Madera County": {
+      "description": "Madera County benefits from a growing agricultural sector, expanding residential communities, and access to major recreation destinations. Farming, tourism, healthcare, and construction contribute significantly to the county's economy.",
+      "population": "163038"
+    },
+    "Marin County": {
+      "description": "Marin County is one of California's most affluent counties, known for its scenic coastal landscapes, high quality of life, and proximity to San Francisco. Professional services, healthcare, tourism, and retail contribute significantly to the local economy.",
+      "population": "262321"
+    },
+    "Mariposa County": {
+      "description": "Mariposa County serves as a gateway to some of California's most visited natural attractions and supports a tourism-driven economy. Hospitality, recreation services, healthcare, and local businesses play important roles throughout the county.",
+      "population": "17131"
+    },
+    "Mendocino County": {
+      "description": "Mendocino County is recognized for its rugged coastline, forests, vineyards, and outdoor recreation opportunities. Tourism, agriculture, healthcare, and hospitality industries help drive economic activity across the region.",
+      "population": "91907"
+    },
+    "Merced County": {
+      "description": "Merced County is a growing Central Valley county supported by agriculture, education, logistics, and healthcare services. Continued residential and commercial development has strengthened its position within California's economy.",
+      "population": "291920"
+    },
+    "Modoc County": {
+      "description": "Modoc County is California's northeasternmost county and is known for its open landscapes, agricultural operations, and outdoor recreation opportunities. Ranching, farming, tourism, and public services contribute to the local economy.",
+      "population": "8580"
+    },
+    "Mono County": {
+      "description": "Mono County features world-renowned mountain recreation destinations, alpine scenery, and year-round tourism opportunities. Hospitality, outdoor recreation, and visitor services remain the foundation of economic activity throughout the county.",
+      "population": "13845"
+    },
+    "Monterey County": {
+      "description": "Monterey County combines a globally recognized tourism industry with one of the nation's most productive agricultural sectors. Hospitality, farming, education, healthcare, and marine-related industries contribute to a diverse economy.",
+      "population": "437325"
+    },
+    "Napa County": {
+      "description": "Napa County is internationally known for its wine industry, luxury tourism, and hospitality sector. Vineyards, wineries, restaurants, healthcare services, and retail businesses support a strong and resilient local economy.",
+      "population": "136207"
+    },
+    "Nevada County": {
+      "description": "Nevada County blends historic Gold Rush communities, outdoor recreation opportunities, and growing residential development. Tourism, healthcare, professional services, and local commerce play important roles in the county's economy.",
+      "population": "103344"
+    },
+    "Orange County": {
+      "description": "Orange County is one of California's most populous and economically powerful regions, supporting technology, healthcare, tourism, finance, education, and international business. Its diverse economy and highly developed infrastructure continue to attract residents and investment.",
+      "population": "3176943"
+    },
+    "Placer County": {
+      "description": "Placer County is one of California's fastest-growing counties, combining thriving suburban communities, outdoor recreation destinations, and a strong business environment. Technology, healthcare, tourism, and residential development support continued economic growth.",
+      "population": "421164"
+    },
+    "Plumas County": {
+      "description": "Plumas County is known for its mountain scenery, forest resources, and outdoor recreation opportunities. Tourism, forestry, healthcare, and local businesses contribute to economic activity throughout this rural Northern California county.",
+      "population": "19690"
+    },
+    "Riverside County": {
+      "description": "Riverside County is one of the fastest-growing counties in the United States, supported by logistics, healthcare, construction, tourism, and residential development. Its strategic Southern California location continues to attract businesses and new residents.",
+      "population": "2520068"
+    },
+    "Sacramento County": {
+      "description": "Sacramento County serves as California's governmental center and supports a diverse economy driven by public administration, healthcare, education, technology, and professional services. Continued growth has strengthened its role as a major economic hub.",
+      "population": "1608529"
+    },
+    "San Benito County": {
+      "description": "San Benito County combines agricultural production, scenic landscapes, and expanding residential communities. Farming, tourism, healthcare, and local businesses contribute to a balanced and growing economy.",
+      "population": "69098"
+    },
+    "San Bernardino County": {
+      "description": "San Bernardino County is the largest county in the contiguous United States by land area and a major center for logistics, warehousing, transportation, manufacturing, and commerce. Its extensive infrastructure supports significant economic activity across Southern California.",
+      "population": "2216867"
+    },
+    "San Diego County": {
+      "description": "San Diego County is a global center for biotechnology, defense, tourism, healthcare, education, and international trade. Its strong economy, coastal location, and growing population make it one of California's most influential regions.",
+      "population": "3298634"
+    },
+    "San Francisco County": {
+      "description": "San Francisco County is a world-renowned center for finance, technology, tourism, healthcare, and innovation. Its dense urban environment and global economic influence make it one of the most recognized counties in the United States.",
+      "population": "842754"
+    },
+    "San Joaquin County": {
+      "description": "San Joaquin County serves as a key agricultural and logistics hub within California's Central Valley. Distribution centers, farming operations, healthcare, and manufacturing industries drive economic growth throughout the county.",
+      "population": "793229"
+    },
+    "San Luis Obispo County": {
+      "description": "San Luis Obispo County combines coastal tourism, agriculture, higher education, and wine production within a diverse economy. Its attractive communities and natural landscapes continue to support population and business growth.",
+      "population": "286354"
+    },
+    "San Mateo County": {
+      "description": "San Mateo County occupies a strategic position between San Francisco and Silicon Valley, supporting a strong economy driven by technology, biotechnology, finance, healthcare, and professional services. Its highly educated workforce and business-friendly environment continue to attract innovation and investment.",
+      "population": "757423"
+    },
+    "Santa Barbara County": {
+      "description": "Santa Barbara County is known for its coastal beauty, tourism industry, wine production, higher education institutions, and technology sector. Hospitality, agriculture, healthcare, and professional services contribute to a diverse and resilient economy.",
+      "population": "448229"
+    },
+    "Santa Clara County": {
+      "description": "Santa Clara County serves as the heart of Silicon Valley and is one of the world's leading centers for technology, innovation, venture capital, and research. Its economy is supported by major technology companies, healthcare systems, universities, and advanced manufacturing.",
+      "population": "1936259"
+    },
+    "Santa Cruz County": {
+      "description": "Santa Cruz County combines coastal tourism, higher education, agriculture, and technology-related businesses within a vibrant regional economy. Its beaches, recreation opportunities, and entrepreneurial culture continue to attract residents and visitors.",
+      "population": "270861"
+    },
+    "Shasta County": {
+      "description": "Shasta County serves as a regional hub for Northern California, supporting healthcare, government services, tourism, construction, and retail industries. Outdoor recreation and natural attractions contribute significantly to economic activity.",
+      "population": "183885"
+    },
+    "Sierra County": {
+      "description": "Sierra County is one of California's least populated counties and is known for its mountain landscapes, historic communities, and recreational opportunities. Tourism, hospitality, and local services support the county's economy.",
+      "population": "3236"
+    },
+    "Siskiyou County": {
+      "description": "Siskiyou County features expansive natural landscapes, agricultural operations, forestry resources, and outdoor recreation destinations. Tourism, farming, healthcare, and government services contribute to economic activity throughout the county.",
+      "population": "44244"
+    },
+    "Solano County": {
+      "description": "Solano County occupies a key position within the San Francisco Bay Area and supports logistics, manufacturing, healthcare, government, and residential development. Its transportation infrastructure makes it an important economic corridor in Northern California.",
+      "population": "453491"
+    },
+    "Sonoma County": {
+      "description": "Sonoma County is internationally recognized for its wine industry, tourism sector, agriculture, and coastal attractions. Hospitality, healthcare, professional services, and viticulture continue to drive economic growth throughout the county.",
+      "population": "482650"
+    },
+    "Stanislaus County": {
+      "description": "Stanislaus County is a major agricultural and logistics center in California's Central Valley. Farming, food processing, healthcare, transportation, and manufacturing industries support a growing population and expanding economy.",
+      "population": "558100"
+    },
+    "Sutter County": {
+      "description": "Sutter County is a productive agricultural county in Northern California known for its farming operations, food production, and growing residential communities. Agriculture, healthcare, retail, and local businesses contribute to a stable and expanding economy.",
+      "population": "100961"
+    },
+    "Tehama County": {
+      "description": "Tehama County combines agricultural production, livestock operations, outdoor recreation, and natural resource industries. Its strategic location along major transportation routes supports commerce and economic activity throughout the region.",
+      "population": "65458"
+    },
+    "Trinity County": {
+      "description": "Trinity County is known for its rugged mountains, extensive forests, and outdoor recreation opportunities. Tourism, government services, forestry, and hospitality businesses support the county's largely rural economy.",
+      "population": "15982"
+    },
+    "Tulare County": {
+      "description": "Tulare County is one of the nation's leading agricultural regions and plays a critical role in food production, dairy operations, and agribusiness. Healthcare, logistics, and manufacturing industries further strengthen the county's economy.",
+      "population": "485631"
+    },
+    "Tuolumne County": {
+      "description": "Tuolumne County features historic Gold Rush communities, mountain recreation destinations, and scenic natural landscapes. Tourism, healthcare, hospitality, and local commerce contribute significantly to economic activity throughout the county.",
+      "population": "55810"
+    },
+    "Ventura County": {
+      "description": "Ventura County supports a diverse economy driven by agriculture, healthcare, biotechnology, tourism, education, and professional services. Its coastal location, strong infrastructure, and high quality of life continue to attract residents and businesses.",
+      "population": "839784"
+    },
+    "Yolo County": {
+      "description": "Yolo County benefits from a strong economy based on higher education, agriculture, healthcare, government services, and research activities. Its proximity to Sacramento supports continued population growth and business development.",
+      "population": "223612"
+    },
+    "Yuba County": {
+      "description": "Yuba County combines agricultural production, government employment, military influence, and residential growth within Northern California. Infrastructure investments and expanding communities continue to support economic development throughout the county.",
+      "population": "85387"
+    }
+  }
 }

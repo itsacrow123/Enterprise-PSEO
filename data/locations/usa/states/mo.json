@@ -1,565 +1,471 @@
 {
-"Adair County": {
-  "description": "Adair County supports a diversified economy based on higher education, healthcare services, agriculture, retail activity, manufacturing, and local commerce. Educational institutions and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "25314"
-},
-
-"Andrew County": {
-  "description": "Andrew County benefits from agriculture, manufacturing, healthcare services, logistics, retail development, and local business activity. Its proximity to regional economic centers supports continued growth and workforce opportunities.",
-  "population": "18202"
-},
-
-"Atchison County": {
-  "description": "Atchison County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "5217"
-},
-
-"Audrain County": {
-  "description": "Audrain County supports a strong agricultural economy complemented by manufacturing, healthcare services, logistics, education, and local commerce. Agribusiness and industrial employers contribute significantly to regional economic development.",
-  "population": "24785"
-},
-
-"Barry County": {
-  "description": "Barry County combines manufacturing, tourism, agriculture, healthcare services, outdoor recreation, and local business development. Its diversified economy supports stable employment and continued growth throughout the county.",
-  "population": "35095"
-},
-
-"Barton County": {
-  "description": "Barton County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations continue to contribute significantly to economic activity throughout the county.",
-  "population": "11744"
-},
-
-"Bates County": {
-  "description": "Bates County maintains a rural economy based on agriculture, healthcare services, manufacturing, logistics, renewable energy development, and local commerce. Farming remains a key contributor to economic stability and growth.",
-  "population": "16155"
-},
-
-"Benton County": {
-  "description": "Benton County benefits from tourism, healthcare services, agriculture, manufacturing, hospitality, and local business activity. Visitor spending and recreational attractions contribute significantly to economic development throughout the county.",
-  "population": "19875"
-},
-
-"Bollinger County": {
-  "description": "Bollinger County supports a diversified economy based on agriculture, healthcare services, manufacturing, forestry, tourism, and local commerce. Community-focused businesses contribute to stable employment and regional growth.",
-  "population": "12271"
-},
-
-"Boone County": {
-  "description": "Boone County is one of Missouri's leading economic and educational centers, driven by higher education, healthcare, technology, finance, manufacturing, professional services, and retail development. Its diversified economy supports substantial employment and business investment.",
-  "population": "183610"
-},
-"Buchanan County": {
-  "description": "Buchanan County is a major economic center in northwest Missouri, supported by healthcare, manufacturing, logistics, education, finance, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "84234"
-},
-
-"Butler County": {
-  "description": "Butler County serves as an important regional hub in southeast Missouri, driven by healthcare, manufacturing, agriculture, education, retail development, and professional services. Its strong business environment supports continued economic growth.",
-  "population": "42681"
-},
-
-"Caldwell County": {
-  "description": "Caldwell County supports a rural economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain central to economic activity throughout the county.",
-  "population": "8901"
-},
-
-"Callaway County": {
-  "description": "Callaway County combines higher education, healthcare services, manufacturing, agriculture, logistics, and local business development. Its strategic location in central Missouri contributes to stable economic growth and workforce opportunities.",
-  "population": "44859"
-},
-
-"Camden County": {
-  "description": "Camden County benefits from tourism, hospitality, healthcare services, retail activity, real estate development, and outdoor recreation. Visitor spending remains a major driver of economic activity throughout the county.",
-  "population": "44528"
-},
-
-"Cape Girardeau County": {
-  "description": "Cape Girardeau County is one of southeast Missouri's strongest economic centers, driven by healthcare, higher education, manufacturing, logistics, retail development, and professional services. Its diversified economy supports substantial regional employment and investment.",
-  "population": "81595"
-},
-
-"Carroll County": {
-  "description": "Carroll County maintains a diversified economy supported by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations continue to contribute significantly to economic growth.",
-  "population": "8561"
-},
-
-"Carter County": {
-  "description": "Carter County supports an economy driven by tourism, forestry, healthcare services, outdoor recreation, agriculture, and local commerce. Natural attractions and visitor spending play important roles in regional economic activity.",
-  "population": "5611"
-},
-
-"Cass County": {
-  "description": "Cass County is one of Missouri's fastest-growing counties, supported by healthcare, manufacturing, logistics, retail development, professional services, and residential expansion. Its location within the Kansas City metropolitan area drives substantial economic investment and workforce growth.",
-  "population": "111734"
-},
-
-"Cedar County": {
-  "description": "Cedar County combines agriculture, healthcare services, manufacturing, tourism, forestry, and local business activity. Its diversified economy supports stable employment and long-term community development.",
-  "population": "15162"
-},
-"Chariton County": {
-  "description": "Chariton County supports a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "7390"
-},
-
-"Christian County": {
-  "description": "Christian County is one of Missouri's fastest-growing counties, driven by healthcare, manufacturing, retail development, professional services, logistics, and residential expansion. Its proximity to Springfield supports strong economic growth and business investment.",
-  "population": "98025"
-},
-
-"Clark County": {
-  "description": "Clark County maintains a diversified economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Farming operations contribute significantly to economic stability throughout the county.",
-  "population": "6758"
-},
-
-"Clay County": {
-  "description": "Clay County is a major economic center within the Kansas City metropolitan area, supported by healthcare, finance, logistics, technology, manufacturing, professional services, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "257454"
-},
-
-"Clinton County": {
-  "description": "Clinton County benefits from agriculture, manufacturing, healthcare services, logistics, education, and local commerce. Its strategic location in northwest Missouri supports continued economic development and workforce growth.",
-  "population": "21184"
-},
-
-"Cole County": {
-  "description": "Cole County serves as the governmental center of Missouri and supports an economy driven by government services, healthcare, education, finance, retail activity, and professional industries. Public-sector employment plays a significant role in regional economic activity.",
-  "population": "77879"
-},
-
-"Cooper County": {
-  "description": "Cooper County combines agriculture, healthcare services, manufacturing, education, tourism, and local commerce. Its diversified economy supports stable employment and continued business development throughout the county.",
-  "population": "17601"
-},
-
-"Crawford County": {
-  "description": "Crawford County supports an economy based on manufacturing, healthcare services, tourism, forestry, agriculture, and local commerce. Industrial employers and visitor-related industries contribute significantly to economic growth.",
-  "population": "23536"
-},
-
-"Dade County": {
-  "description": "Dade County maintains a rural economy centered on agriculture, healthcare services, manufacturing, agribusiness, and local commerce. Farming operations remain an important contributor to economic activity throughout the county.",
-  "population": "7484"
-},
-
-"Dallas County": {
-  "description": "Dallas County benefits from agriculture, healthcare services, manufacturing, logistics, forestry, and local business activity. Its diversified economy supports workforce opportunities and long-term economic stability.",
-  "population": "17014"
-},
-"Daviess County": {
-  "description": "Daviess County supports a diversified economy based on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain central to economic activity throughout the county.",
-  "population": "8430"
-},
-
-"DeKalb County": {
-  "description": "DeKalb County benefits from agriculture, healthcare services, manufacturing, renewable energy development, transportation, and local business activity. Its rural economy supports stable employment and community growth.",
-  "population": "11467"
-},
-
-"Dent County": {
-  "description": "Dent County combines healthcare services, tourism, forestry, manufacturing, agriculture, and local commerce. Natural attractions and community-focused industries contribute significantly to economic development throughout the county.",
-  "population": "14963"
-},
-
-"Douglas County": {
-  "description": "Douglas County maintains a rural economy centered on agriculture, forestry, healthcare services, tourism, manufacturing, and local business activity. Farming operations and natural resources support long-term economic stability.",
-  "population": "11821"
-},
-
-"Dunklin County": {
-  "description": "Dunklin County serves as an important agricultural and manufacturing center in southeast Missouri, supported by healthcare services, transportation, agribusiness, retail activity, and professional services. Its diversified economy contributes significantly to regional employment.",
-  "population": "28379"
-},
-
-"Franklin County": {
-  "description": "Franklin County is one of Missouri's fastest-growing counties, driven by manufacturing, healthcare, logistics, retail development, professional services, and residential expansion. Its location within the greater St. Louis region supports substantial economic investment and workforce growth.",
-  "population": "106090"
-},
-
-"Gasconade County": {
-  "description": "Gasconade County supports an economy based on manufacturing, healthcare services, agriculture, tourism, retail activity, and local commerce. Its diversified business base contributes to stable employment opportunities and economic development.",
-  "population": "14584"
-},
-
-"Gentry County": {
-  "description": "Gentry County maintains a strong agricultural economy complemented by healthcare services, manufacturing, agribusiness, transportation, and local commerce. Farming remains a primary contributor to economic activity throughout the county.",
-  "population": "6615"
-},
-
-"Greene County": {
-  "description": "Greene County is one of Missouri's largest economic centers and home to Springfield. Healthcare, higher education, manufacturing, finance, logistics, retail development, and professional services drive a highly diversified and rapidly growing economy.",
-  "population": "304681"
-},
-
-"Grundy County": {
-  "description": "Grundy County benefits from agriculture, healthcare services, manufacturing, transportation, education, and local business development. Its diversified economy supports stable workforce opportunities and long-term growth.",
-  "population": "9738"
-},
-"Harrison County": {
-  "description": "Harrison County supports a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "8358"
-},
-
-"Henry County": {
-  "description": "Henry County benefits from manufacturing, agriculture, healthcare services, retail activity, logistics, and local business development. Its diversified economy supports stable employment opportunities and continued economic growth.",
-  "population": "21832"
-},
-
-"Hickory County": {
-  "description": "Hickory County combines tourism, agriculture, healthcare services, manufacturing, outdoor recreation, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "8960"
-},
-
-"Holt County": {
-  "description": "Holt County maintains a strong agricultural economy supported by agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the primary driver of economic growth throughout the county.",
-  "population": "4348"
-},
-
-"Howard County": {
-  "description": "Howard County supports a diversified economy based on agriculture, healthcare services, manufacturing, education, tourism, and local business activity. Its strong agricultural sector contributes significantly to regional economic stability.",
-  "population": "10032"
-},
-
-"Howell County": {
-  "description": "Howell County serves as an important economic center in south-central Missouri, driven by healthcare, education, manufacturing, retail development, agriculture, and professional services. Its diversified economy supports substantial regional employment.",
-  "population": "40475"
-},
-
-"Iron County": {
-  "description": "Iron County benefits from tourism, healthcare services, forestry, mining-related industries, outdoor recreation, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "9617"
-},
-
-"Jackson County": {
-  "description": "Jackson County is one of Missouri's largest economic centers and home to much of Kansas City. Healthcare, finance, technology, logistics, manufacturing, professional services, education, and tourism drive a highly diversified metropolitan economy.",
-  "population": "720743"
-},
-
-"Jasper County": {
-  "description": "Jasper County is a major economic hub in southwest Missouri, supported by healthcare, manufacturing, logistics, retail development, education, and professional services. Its strong business environment contributes significantly to regional employment and investment.",
-  "population": "123532"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is one of Missouri's fastest-growing counties, driven by healthcare, manufacturing, logistics, retail development, professional services, and residential expansion. Its location within the St. Louis metropolitan area supports continued economic growth and workforce development.",
-  "population": "228560"
-},
-"Johnson County": {
-  "description": "Johnson County serves as an important economic center in west-central Missouri, supported by higher education, healthcare services, manufacturing, retail activity, agriculture, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "54803"
-},
-
-"Knox County": {
-  "description": "Knox County maintains a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "3567"
-},
-
-"Laclede County": {
-  "description": "Laclede County benefits from manufacturing, healthcare services, logistics, agriculture, retail development, and professional industries. Its growing business community supports stable employment and continued economic expansion.",
-  "population": "36500"
-},
-
-"Lafayette County": {
-  "description": "Lafayette County combines agriculture, manufacturing, healthcare services, logistics, tourism, and local commerce. Its strategic location within the Kansas City region contributes to ongoing economic growth and investment.",
-  "population": "32518"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County supports a diversified economy based on manufacturing, healthcare services, agriculture, retail activity, transportation, and local business development. Industrial employers and farming operations contribute significantly to economic activity.",
-  "population": "38747"
-},
-
-"Lewis County": {
-  "description": "Lewis County maintains a balanced economy driven by agriculture, healthcare services, manufacturing, education, transportation, and local commerce. Farming operations continue to support long-term economic stability throughout the county.",
-  "population": "9760"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County is one of Missouri's fastest-growing counties, supported by healthcare, manufacturing, logistics, retail development, professional services, and residential expansion. Its proximity to the St. Louis metropolitan area fuels continued economic growth.",
-  "population": "63341"
-},
-
-"Linn County": {
-  "description": "Linn County benefits from agriculture, healthcare services, manufacturing, transportation, education, and local commerce. Its diversified economy supports stable employment opportunities and community development.",
-  "population": "11954"
-},
-
-"Livingston County": {
-  "description": "Livingston County serves as a regional center for education, healthcare, agriculture, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to economic growth throughout north-central Missouri.",
-  "population": "15173"
-},
-
-"McDonald County": {
-  "description": "McDonald County combines manufacturing, agriculture, healthcare services, tourism, transportation, and local commerce. Its strategic location in southwest Missouri supports continued business development and workforce opportunities.",
-  "population": "23788"
-},
-"Macon County": {
-  "description": "Macon County supports a diversified economy based on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "15192"
-},
-
-"Madison County": {
-  "description": "Madison County benefits from mining-related industries, healthcare services, tourism, manufacturing, forestry, and local business development. Natural resources and visitor attractions contribute significantly to regional economic growth.",
-  "population": "12317"
-},
-
-"Maries County": {
-  "description": "Maries County maintains a rural economy centered on agriculture, forestry, healthcare services, tourism, manufacturing, and local commerce. Community-focused industries support stable employment and economic development throughout the county.",
-  "population": "8563"
-},
-
-"Marion County": {
-  "description": "Marion County serves as an important economic center in northeastern Missouri, supported by healthcare, manufacturing, education, logistics, retail activity, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "28612"
-},
-
-"Mercer County": {
-  "description": "Mercer County supports an economy driven by agriculture, healthcare services, agribusiness, transportation, renewable energy development, and local commerce. Farming remains the primary contributor to economic activity throughout the county.",
-  "population": "3528"
-},
-
-"Miller County": {
-  "description": "Miller County benefits from tourism, healthcare services, manufacturing, agriculture, retail development, and outdoor recreation. Visitor spending and local business activity contribute significantly to economic growth throughout the county.",
-  "population": "24956"
-},
-
-"Mississippi County": {
-  "description": "Mississippi County combines agriculture, manufacturing, transportation, healthcare services, logistics, and local commerce. Its strategic location along the Mississippi River supports regional business activity and economic development.",
-  "population": "12245"
-},
-
-"Moniteau County": {
-  "description": "Moniteau County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, retail activity, and local business development. Farming operations continue to contribute significantly to economic stability.",
-  "population": "16017"
-},
-
-"Monroe County": {
-  "description": "Monroe County maintains a strong agricultural economy complemented by healthcare services, manufacturing, agribusiness, transportation, and local commerce. Farming remains central to economic activity throughout the county.",
-  "population": "8485"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County benefits from manufacturing, healthcare services, agriculture, education, logistics, and local business activity. Its diversified economy supports stable employment opportunities and long-term economic growth.",
-  "population": "11503"
-},
-"Morgan County": {
-  "description": "Morgan County supports a diversified economy driven by tourism, healthcare services, manufacturing, agriculture, retail activity, and local commerce. Visitor spending and recreational amenities contribute significantly to economic activity throughout the county.",
-  "population": "21583"
-},
-
-"New Madrid County": {
-  "description": "New Madrid County benefits from agriculture, transportation, manufacturing, healthcare services, logistics, and local business development. Its location along major transportation corridors supports continued economic growth.",
-  "population": "16718"
-},
-
-"Newton County": {
-  "description": "Newton County is a growing economic center in southwest Missouri, supported by manufacturing, healthcare services, logistics, retail development, agriculture, and professional services. Its proximity to Joplin contributes significantly to regional business activity.",
-  "population": "58978"
-},
-
-"Nodaway County": {
-  "description": "Nodaway County serves as an important educational and economic center in northwest Missouri, driven by higher education, healthcare, agriculture, retail activity, manufacturing, and professional services. Its diversified economy supports regional employment and investment.",
-  "population": "21487"
-},
-
-"Oregon County": {
-  "description": "Oregon County maintains a rural economy centered on agriculture, forestry, healthcare services, tourism, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "10256"
-},
-
-"Osage County": {
-  "description": "Osage County supports an economy based on manufacturing, agriculture, healthcare services, tourism, retail activity, and local business development. Its diversified economy contributes to stable employment and long-term growth.",
-  "population": "13676"
-},
-
-"Ozark County": {
-  "description": "Ozark County benefits from tourism, agriculture, healthcare services, forestry, outdoor recreation, and local commerce. Visitor-related industries and farming operations continue to support economic development throughout the county.",
-  "population": "9043"
-},
-
-"Pemiscot County": {
-  "description": "Pemiscot County supports a strong agricultural economy complemented by manufacturing, transportation, healthcare services, logistics, and local commerce. Farming operations remain a major contributor to regional economic activity.",
-  "population": "16205"
-},
-
-"Perry County": {
-  "description": "Perry County combines manufacturing, healthcare services, agriculture, education, tourism, and local business activity. Its diversified economy supports stable workforce opportunities and continued business development.",
-  "population": "19113"
-},
-
-"Pettis County": {
-  "description": "Pettis County serves as a regional economic center in central Missouri, supported by healthcare, manufacturing, education, agriculture, retail development, and professional services. Its diversified economy contributes significantly to regional employment and growth.",
-  "population": "42506"
-},
-"Pike County": {
-  "description": "Pike County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, tourism, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "18263"
-},
-
-"Platte County": {
-  "description": "Platte County is one of Missouri's fastest-growing economic centers, driven by logistics, healthcare, finance, technology, manufacturing, professional services, and commercial development. Its location within the Kansas City metropolitan area supports substantial business investment and workforce growth.",
-  "population": "111960"
-},
-
-"Polk County": {
-  "description": "Polk County benefits from agriculture, healthcare services, manufacturing, logistics, retail activity, and local business development. Its diversified economy supports stable employment opportunities and continued economic growth.",
-  "population": "32578"
-},
-
-"Pulaski County": {
-  "description": "Pulaski County serves as a major economic center in central Missouri, supported by military-related employment, healthcare services, education, retail development, hospitality, and professional industries. Its diversified economy contributes significantly to regional business activity.",
-  "population": "53396"
-},
-
-"Putnam County": {
-  "description": "Putnam County maintains a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "4723"
-},
-
-"Ralls County": {
-  "description": "Ralls County supports an economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local business activity. Its diversified economy contributes to stable employment and community development.",
-  "population": "10024"
-},
-
-"Randolph County": {
-  "description": "Randolph County combines higher education, healthcare services, manufacturing, agriculture, retail activity, and professional services. Educational institutions and industrial employers contribute significantly to economic growth throughout the county.",
-  "population": "24531"
-},
-
-"Ray County": {
-  "description": "Ray County benefits from agriculture, manufacturing, healthcare services, logistics, retail development, and local commerce. Its proximity to the Kansas City region supports continued economic investment and workforce opportunities.",
-  "population": "22537"
-},
-
-"Reynolds County": {
-  "description": "Reynolds County supports an economy driven by tourism, forestry, healthcare services, mining-related industries, agriculture, and local commerce. Natural resources and visitor attractions contribute significantly to economic activity throughout the county.",
-  "population": "6208"
-},
-
-"Phelps County": {
-  "description": "Phelps County serves as an important economic and educational center in south-central Missouri, supported by higher education, healthcare, manufacturing, technology, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "46003"
-},
-"Ripley County": {
-  "description": "Ripley County supports a diversified economy based on agriculture, forestry, healthcare services, tourism, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "10612"
-},
-
-"St. Charles County": {
-  "description": "St. Charles County is one of Missouri's largest and fastest-growing economic centers, driven by healthcare, technology, manufacturing, finance, logistics, professional services, and residential development. Its location within the St. Louis metropolitan area supports substantial business investment and workforce growth.",
-  "population": "415824"
-},
-
-"St. Clair County": {
-  "description": "St. Clair County maintains a rural economy centered on agriculture, healthcare services, manufacturing, tourism, forestry, and local commerce. Farming operations and community-focused businesses support long-term economic stability.",
-  "population": "9264"
-},
-
-"Ste. Genevieve County": {
-  "description": "Ste. Genevieve County benefits from manufacturing, healthcare services, tourism, agriculture, retail activity, and local business development. Its historic attractions and diversified economy contribute significantly to regional growth.",
-  "population": "18511"
-},
-
-"St. Francois County": {
-  "description": "St. Francois County serves as a major economic center in southeast Missouri, supported by healthcare, manufacturing, mining-related industries, education, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "66749"
-},
-
-"St. Louis County": {
-  "description": "St. Louis County is one of Missouri's largest economic centers, anchored by healthcare, finance, technology, higher education, manufacturing, logistics, professional services, and corporate headquarters. Its highly diversified metropolitan economy drives substantial business activity and workforce development.",
-  "population": "997187"
-},
-
-"Saline County": {
-  "description": "Saline County supports a diversified economy based on agriculture, manufacturing, healthcare services, education, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "22589"
-},
-
-"Schuyler County": {
-  "description": "Schuyler County maintains a rural economy centered on agriculture, healthcare services, agribusiness, transportation, manufacturing, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "4307"
-},
-
-"Scotland County": {
-  "description": "Scotland County supports an economy driven by agriculture, healthcare services, manufacturing, agribusiness, transportation, and local business activity. Its diversified economy contributes to stable employment and community development.",
-  "population": "4610"
-},
-
-"Scott County": {
-  "description": "Scott County is an important economic center in southeast Missouri, supported by healthcare, manufacturing, logistics, agriculture, retail development, and professional services. Its strategic location contributes significantly to regional business growth and workforce opportunities.",
-  "population": "38246"
-},
-"Shannon County": {
-  "description": "Shannon County supports an economy driven by tourism, outdoor recreation, forestry, healthcare services, agriculture, and local commerce. Natural attractions and visitor spending contribute significantly to economic activity throughout the county.",
-  "population": "7982"
-},
-
-"Shelby County": {
-  "description": "Shelby County maintains a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "5951"
-},
-
-"Stoddard County": {
-  "description": "Stoddard County benefits from agriculture, manufacturing, healthcare services, logistics, transportation, and local business development. Its diversified economy supports stable employment opportunities and continued economic growth.",
-  "population": "28702"
-},
-
-"Stone County": {
-  "description": "Stone County supports a tourism-driven economy complemented by healthcare services, hospitality, retail activity, outdoor recreation, construction, and local commerce. Visitor spending plays a major role in supporting business activity throughout the county.",
-  "population": "32497"
-},
-
-"Sullivan County": {
-  "description": "Sullivan County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations continue to contribute significantly to economic stability and workforce opportunities.",
-  "population": "5890"
-},
-
-"Taney County": {
-  "description": "Taney County is one of Missouri's leading tourism economies, driven by hospitality, entertainment, healthcare services, retail development, construction, and professional services. Visitor spending and tourism-related businesses contribute substantially to regional economic growth.",
-  "population": "57177"
-},
-
-"Texas County": {
-  "description": "Texas County supports a diversified economy based on agriculture, forestry, healthcare services, manufacturing, tourism, and local business activity. Natural resources and farming operations remain important contributors to economic development.",
-  "population": "25189"
-},
-
-"Vernon County": {
-  "description": "Vernon County benefits from agriculture, manufacturing, healthcare services, logistics, retail activity, and professional services. Its diversified economy supports stable employment and long-term economic growth throughout the county.",
-  "population": "20789"
-},
-
-"Warren County": {
-  "description": "Warren County is one of Missouri's fastest-growing counties, supported by manufacturing, healthcare services, logistics, retail development, professional services, and residential expansion. Its proximity to the St. Louis metropolitan area drives continued economic investment.",
-  "population": "38500"
-},
-
-"Washington County": {
-  "description": "Washington County supports an economy driven by mining-related industries, healthcare services, manufacturing, agriculture, tourism, and local commerce. Natural resources and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "25176"
-},
-"Wayne County": {
-  "description": "Wayne County supports a diversified economy based on forestry, tourism, healthcare services, agriculture, manufacturing, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "12854"
-},
-
-"Webster County": {
-  "description": "Webster County is a growing economic center in southwest Missouri, supported by healthcare, manufacturing, logistics, agriculture, retail development, and professional services. Its proximity to Springfield contributes to continued economic expansion and workforce growth.",
-  "population": "43231"
-},
-
-"Worth County": {
-  "description": "Worth County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "1987"
-},
-
-"Wright County": {
-  "description": "Wright County benefits from agriculture, healthcare services, manufacturing, forestry, transportation, and local business activity. Its diversified economy supports stable employment opportunities and long-term economic development.",
-  "population": "19035"
-},
-
-"St. Louis City": {
-  "description": "St. Louis City is one of Missouri's most important economic centers, driven by healthcare, finance, technology, higher education, biotechnology, logistics, tourism, professional services, and corporate headquarters. Its diversified urban economy supports substantial business activity, innovation, and workforce development.",
-  "population": "281754"
-}
+  "identity": {
+    "code": "mo",
+    "slug": "missouri",
+    "name": "Missouri",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adair County": {
+      "description": "Adair County supports a diversified economy based on higher education, healthcare services, agriculture, retail activity, manufacturing, and local commerce. Educational institutions and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "25314"
+    },
+    "Andrew County": {
+      "description": "Andrew County benefits from agriculture, manufacturing, healthcare services, logistics, retail development, and local business activity. Its proximity to regional economic centers supports continued growth and workforce opportunities.",
+      "population": "18202"
+    },
+    "Atchison County": {
+      "description": "Atchison County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "5217"
+    },
+    "Audrain County": {
+      "description": "Audrain County supports a strong agricultural economy complemented by manufacturing, healthcare services, logistics, education, and local commerce. Agribusiness and industrial employers contribute significantly to regional economic development.",
+      "population": "24785"
+    },
+    "Barry County": {
+      "description": "Barry County combines manufacturing, tourism, agriculture, healthcare services, outdoor recreation, and local business development. Its diversified economy supports stable employment and continued growth throughout the county.",
+      "population": "35095"
+    },
+    "Barton County": {
+      "description": "Barton County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations continue to contribute significantly to economic activity throughout the county.",
+      "population": "11744"
+    },
+    "Bates County": {
+      "description": "Bates County maintains a rural economy based on agriculture, healthcare services, manufacturing, logistics, renewable energy development, and local commerce. Farming remains a key contributor to economic stability and growth.",
+      "population": "16155"
+    },
+    "Benton County": {
+      "description": "Benton County benefits from tourism, healthcare services, agriculture, manufacturing, hospitality, and local business activity. Visitor spending and recreational attractions contribute significantly to economic development throughout the county.",
+      "population": "19875"
+    },
+    "Bollinger County": {
+      "description": "Bollinger County supports a diversified economy based on agriculture, healthcare services, manufacturing, forestry, tourism, and local commerce. Community-focused businesses contribute to stable employment and regional growth.",
+      "population": "12271"
+    },
+    "Boone County": {
+      "description": "Boone County is one of Missouri's leading economic and educational centers, driven by higher education, healthcare, technology, finance, manufacturing, professional services, and retail development. Its diversified economy supports substantial employment and business investment.",
+      "population": "183610"
+    },
+    "Buchanan County": {
+      "description": "Buchanan County is a major economic center in northwest Missouri, supported by healthcare, manufacturing, logistics, education, finance, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "84234"
+    },
+    "Butler County": {
+      "description": "Butler County serves as an important regional hub in southeast Missouri, driven by healthcare, manufacturing, agriculture, education, retail development, and professional services. Its strong business environment supports continued economic growth.",
+      "population": "42681"
+    },
+    "Caldwell County": {
+      "description": "Caldwell County supports a rural economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain central to economic activity throughout the county.",
+      "population": "8901"
+    },
+    "Callaway County": {
+      "description": "Callaway County combines higher education, healthcare services, manufacturing, agriculture, logistics, and local business development. Its strategic location in central Missouri contributes to stable economic growth and workforce opportunities.",
+      "population": "44859"
+    },
+    "Camden County": {
+      "description": "Camden County benefits from tourism, hospitality, healthcare services, retail activity, real estate development, and outdoor recreation. Visitor spending remains a major driver of economic activity throughout the county.",
+      "population": "44528"
+    },
+    "Cape Girardeau County": {
+      "description": "Cape Girardeau County is one of southeast Missouri's strongest economic centers, driven by healthcare, higher education, manufacturing, logistics, retail development, and professional services. Its diversified economy supports substantial regional employment and investment.",
+      "population": "81595"
+    },
+    "Carroll County": {
+      "description": "Carroll County maintains a diversified economy supported by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations continue to contribute significantly to economic growth.",
+      "population": "8561"
+    },
+    "Carter County": {
+      "description": "Carter County supports an economy driven by tourism, forestry, healthcare services, outdoor recreation, agriculture, and local commerce. Natural attractions and visitor spending play important roles in regional economic activity.",
+      "population": "5611"
+    },
+    "Cass County": {
+      "description": "Cass County is one of Missouri's fastest-growing counties, supported by healthcare, manufacturing, logistics, retail development, professional services, and residential expansion. Its location within the Kansas City metropolitan area drives substantial economic investment and workforce growth.",
+      "population": "111734"
+    },
+    "Cedar County": {
+      "description": "Cedar County combines agriculture, healthcare services, manufacturing, tourism, forestry, and local business activity. Its diversified economy supports stable employment and long-term community development.",
+      "population": "15162"
+    },
+    "Chariton County": {
+      "description": "Chariton County supports a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "7390"
+    },
+    "Christian County": {
+      "description": "Christian County is one of Missouri's fastest-growing counties, driven by healthcare, manufacturing, retail development, professional services, logistics, and residential expansion. Its proximity to Springfield supports strong economic growth and business investment.",
+      "population": "98025"
+    },
+    "Clark County": {
+      "description": "Clark County maintains a diversified economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Farming operations contribute significantly to economic stability throughout the county.",
+      "population": "6758"
+    },
+    "Clay County": {
+      "description": "Clay County is a major economic center within the Kansas City metropolitan area, supported by healthcare, finance, logistics, technology, manufacturing, professional services, and retail development. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "257454"
+    },
+    "Clinton County": {
+      "description": "Clinton County benefits from agriculture, manufacturing, healthcare services, logistics, education, and local commerce. Its strategic location in northwest Missouri supports continued economic development and workforce growth.",
+      "population": "21184"
+    },
+    "Cole County": {
+      "description": "Cole County serves as the governmental center of Missouri and supports an economy driven by government services, healthcare, education, finance, retail activity, and professional industries. Public-sector employment plays a significant role in regional economic activity.",
+      "population": "77879"
+    },
+    "Cooper County": {
+      "description": "Cooper County combines agriculture, healthcare services, manufacturing, education, tourism, and local commerce. Its diversified economy supports stable employment and continued business development throughout the county.",
+      "population": "17601"
+    },
+    "Crawford County": {
+      "description": "Crawford County supports an economy based on manufacturing, healthcare services, tourism, forestry, agriculture, and local commerce. Industrial employers and visitor-related industries contribute significantly to economic growth.",
+      "population": "23536"
+    },
+    "Dade County": {
+      "description": "Dade County maintains a rural economy centered on agriculture, healthcare services, manufacturing, agribusiness, and local commerce. Farming operations remain an important contributor to economic activity throughout the county.",
+      "population": "7484"
+    },
+    "Dallas County": {
+      "description": "Dallas County benefits from agriculture, healthcare services, manufacturing, logistics, forestry, and local business activity. Its diversified economy supports workforce opportunities and long-term economic stability.",
+      "population": "17014"
+    },
+    "Daviess County": {
+      "description": "Daviess County supports a diversified economy based on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain central to economic activity throughout the county.",
+      "population": "8430"
+    },
+    "DeKalb County": {
+      "description": "DeKalb County benefits from agriculture, healthcare services, manufacturing, renewable energy development, transportation, and local business activity. Its rural economy supports stable employment and community growth.",
+      "population": "11467"
+    },
+    "Dent County": {
+      "description": "Dent County combines healthcare services, tourism, forestry, manufacturing, agriculture, and local commerce. Natural attractions and community-focused industries contribute significantly to economic development throughout the county.",
+      "population": "14963"
+    },
+    "Douglas County": {
+      "description": "Douglas County maintains a rural economy centered on agriculture, forestry, healthcare services, tourism, manufacturing, and local business activity. Farming operations and natural resources support long-term economic stability.",
+      "population": "11821"
+    },
+    "Dunklin County": {
+      "description": "Dunklin County serves as an important agricultural and manufacturing center in southeast Missouri, supported by healthcare services, transportation, agribusiness, retail activity, and professional services. Its diversified economy contributes significantly to regional employment.",
+      "population": "28379"
+    },
+    "Franklin County": {
+      "description": "Franklin County is one of Missouri's fastest-growing counties, driven by manufacturing, healthcare, logistics, retail development, professional services, and residential expansion. Its location within the greater St. Louis region supports substantial economic investment and workforce growth.",
+      "population": "106090"
+    },
+    "Gasconade County": {
+      "description": "Gasconade County supports an economy based on manufacturing, healthcare services, agriculture, tourism, retail activity, and local commerce. Its diversified business base contributes to stable employment opportunities and economic development.",
+      "population": "14584"
+    },
+    "Gentry County": {
+      "description": "Gentry County maintains a strong agricultural economy complemented by healthcare services, manufacturing, agribusiness, transportation, and local commerce. Farming remains a primary contributor to economic activity throughout the county.",
+      "population": "6615"
+    },
+    "Greene County": {
+      "description": "Greene County is one of Missouri's largest economic centers and home to Springfield. Healthcare, higher education, manufacturing, finance, logistics, retail development, and professional services drive a highly diversified and rapidly growing economy.",
+      "population": "304681"
+    },
+    "Grundy County": {
+      "description": "Grundy County benefits from agriculture, healthcare services, manufacturing, transportation, education, and local business development. Its diversified economy supports stable workforce opportunities and long-term growth.",
+      "population": "9738"
+    },
+    "Harrison County": {
+      "description": "Harrison County supports a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "8358"
+    },
+    "Henry County": {
+      "description": "Henry County benefits from manufacturing, agriculture, healthcare services, retail activity, logistics, and local business development. Its diversified economy supports stable employment opportunities and continued economic growth.",
+      "population": "21832"
+    },
+    "Hickory County": {
+      "description": "Hickory County combines tourism, agriculture, healthcare services, manufacturing, outdoor recreation, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "8960"
+    },
+    "Holt County": {
+      "description": "Holt County maintains a strong agricultural economy supported by agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the primary driver of economic growth throughout the county.",
+      "population": "4348"
+    },
+    "Howard County": {
+      "description": "Howard County supports a diversified economy based on agriculture, healthcare services, manufacturing, education, tourism, and local business activity. Its strong agricultural sector contributes significantly to regional economic stability.",
+      "population": "10032"
+    },
+    "Howell County": {
+      "description": "Howell County serves as an important economic center in south-central Missouri, driven by healthcare, education, manufacturing, retail development, agriculture, and professional services. Its diversified economy supports substantial regional employment.",
+      "population": "40475"
+    },
+    "Iron County": {
+      "description": "Iron County benefits from tourism, healthcare services, forestry, mining-related industries, outdoor recreation, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "9617"
+    },
+    "Jackson County": {
+      "description": "Jackson County is one of Missouri's largest economic centers and home to much of Kansas City. Healthcare, finance, technology, logistics, manufacturing, professional services, education, and tourism drive a highly diversified metropolitan economy.",
+      "population": "720743"
+    },
+    "Jasper County": {
+      "description": "Jasper County is a major economic hub in southwest Missouri, supported by healthcare, manufacturing, logistics, retail development, education, and professional services. Its strong business environment contributes significantly to regional employment and investment.",
+      "population": "123532"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is one of Missouri's fastest-growing counties, driven by healthcare, manufacturing, logistics, retail development, professional services, and residential expansion. Its location within the St. Louis metropolitan area supports continued economic growth and workforce development.",
+      "population": "228560"
+    },
+    "Johnson County": {
+      "description": "Johnson County serves as an important economic center in west-central Missouri, supported by higher education, healthcare services, manufacturing, retail activity, agriculture, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "54803"
+    },
+    "Knox County": {
+      "description": "Knox County maintains a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "3567"
+    },
+    "Laclede County": {
+      "description": "Laclede County benefits from manufacturing, healthcare services, logistics, agriculture, retail development, and professional industries. Its growing business community supports stable employment and continued economic expansion.",
+      "population": "36500"
+    },
+    "Lafayette County": {
+      "description": "Lafayette County combines agriculture, manufacturing, healthcare services, logistics, tourism, and local commerce. Its strategic location within the Kansas City region contributes to ongoing economic growth and investment.",
+      "population": "32518"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County supports a diversified economy based on manufacturing, healthcare services, agriculture, retail activity, transportation, and local business development. Industrial employers and farming operations contribute significantly to economic activity.",
+      "population": "38747"
+    },
+    "Lewis County": {
+      "description": "Lewis County maintains a balanced economy driven by agriculture, healthcare services, manufacturing, education, transportation, and local commerce. Farming operations continue to support long-term economic stability throughout the county.",
+      "population": "9760"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County is one of Missouri's fastest-growing counties, supported by healthcare, manufacturing, logistics, retail development, professional services, and residential expansion. Its proximity to the St. Louis metropolitan area fuels continued economic growth.",
+      "population": "63341"
+    },
+    "Linn County": {
+      "description": "Linn County benefits from agriculture, healthcare services, manufacturing, transportation, education, and local commerce. Its diversified economy supports stable employment opportunities and community development.",
+      "population": "11954"
+    },
+    "Livingston County": {
+      "description": "Livingston County serves as a regional center for education, healthcare, agriculture, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to economic growth throughout north-central Missouri.",
+      "population": "15173"
+    },
+    "McDonald County": {
+      "description": "McDonald County combines manufacturing, agriculture, healthcare services, tourism, transportation, and local commerce. Its strategic location in southwest Missouri supports continued business development and workforce opportunities.",
+      "population": "23788"
+    },
+    "Macon County": {
+      "description": "Macon County supports a diversified economy based on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "15192"
+    },
+    "Madison County": {
+      "description": "Madison County benefits from mining-related industries, healthcare services, tourism, manufacturing, forestry, and local business development. Natural resources and visitor attractions contribute significantly to regional economic growth.",
+      "population": "12317"
+    },
+    "Maries County": {
+      "description": "Maries County maintains a rural economy centered on agriculture, forestry, healthcare services, tourism, manufacturing, and local commerce. Community-focused industries support stable employment and economic development throughout the county.",
+      "population": "8563"
+    },
+    "Marion County": {
+      "description": "Marion County serves as an important economic center in northeastern Missouri, supported by healthcare, manufacturing, education, logistics, retail activity, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "28612"
+    },
+    "Mercer County": {
+      "description": "Mercer County supports an economy driven by agriculture, healthcare services, agribusiness, transportation, renewable energy development, and local commerce. Farming remains the primary contributor to economic activity throughout the county.",
+      "population": "3528"
+    },
+    "Miller County": {
+      "description": "Miller County benefits from tourism, healthcare services, manufacturing, agriculture, retail development, and outdoor recreation. Visitor spending and local business activity contribute significantly to economic growth throughout the county.",
+      "population": "24956"
+    },
+    "Mississippi County": {
+      "description": "Mississippi County combines agriculture, manufacturing, transportation, healthcare services, logistics, and local commerce. Its strategic location along the Mississippi River supports regional business activity and economic development.",
+      "population": "12245"
+    },
+    "Moniteau County": {
+      "description": "Moniteau County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, retail activity, and local business development. Farming operations continue to contribute significantly to economic stability.",
+      "population": "16017"
+    },
+    "Monroe County": {
+      "description": "Monroe County maintains a strong agricultural economy complemented by healthcare services, manufacturing, agribusiness, transportation, and local commerce. Farming remains central to economic activity throughout the county.",
+      "population": "8485"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County benefits from manufacturing, healthcare services, agriculture, education, logistics, and local business activity. Its diversified economy supports stable employment opportunities and long-term economic growth.",
+      "population": "11503"
+    },
+    "Morgan County": {
+      "description": "Morgan County supports a diversified economy driven by tourism, healthcare services, manufacturing, agriculture, retail activity, and local commerce. Visitor spending and recreational amenities contribute significantly to economic activity throughout the county.",
+      "population": "21583"
+    },
+    "New Madrid County": {
+      "description": "New Madrid County benefits from agriculture, transportation, manufacturing, healthcare services, logistics, and local business development. Its location along major transportation corridors supports continued economic growth.",
+      "population": "16718"
+    },
+    "Newton County": {
+      "description": "Newton County is a growing economic center in southwest Missouri, supported by manufacturing, healthcare services, logistics, retail development, agriculture, and professional services. Its proximity to Joplin contributes significantly to regional business activity.",
+      "population": "58978"
+    },
+    "Nodaway County": {
+      "description": "Nodaway County serves as an important educational and economic center in northwest Missouri, driven by higher education, healthcare, agriculture, retail activity, manufacturing, and professional services. Its diversified economy supports regional employment and investment.",
+      "population": "21487"
+    },
+    "Oregon County": {
+      "description": "Oregon County maintains a rural economy centered on agriculture, forestry, healthcare services, tourism, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "10256"
+    },
+    "Osage County": {
+      "description": "Osage County supports an economy based on manufacturing, agriculture, healthcare services, tourism, retail activity, and local business development. Its diversified economy contributes to stable employment and long-term growth.",
+      "population": "13676"
+    },
+    "Ozark County": {
+      "description": "Ozark County benefits from tourism, agriculture, healthcare services, forestry, outdoor recreation, and local commerce. Visitor-related industries and farming operations continue to support economic development throughout the county.",
+      "population": "9043"
+    },
+    "Pemiscot County": {
+      "description": "Pemiscot County supports a strong agricultural economy complemented by manufacturing, transportation, healthcare services, logistics, and local commerce. Farming operations remain a major contributor to regional economic activity.",
+      "population": "16205"
+    },
+    "Perry County": {
+      "description": "Perry County combines manufacturing, healthcare services, agriculture, education, tourism, and local business activity. Its diversified economy supports stable workforce opportunities and continued business development.",
+      "population": "19113"
+    },
+    "Pettis County": {
+      "description": "Pettis County serves as a regional economic center in central Missouri, supported by healthcare, manufacturing, education, agriculture, retail development, and professional services. Its diversified economy contributes significantly to regional employment and growth.",
+      "population": "42506"
+    },
+    "Pike County": {
+      "description": "Pike County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, tourism, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "18263"
+    },
+    "Platte County": {
+      "description": "Platte County is one of Missouri's fastest-growing economic centers, driven by logistics, healthcare, finance, technology, manufacturing, professional services, and commercial development. Its location within the Kansas City metropolitan area supports substantial business investment and workforce growth.",
+      "population": "111960"
+    },
+    "Polk County": {
+      "description": "Polk County benefits from agriculture, healthcare services, manufacturing, logistics, retail activity, and local business development. Its diversified economy supports stable employment opportunities and continued economic growth.",
+      "population": "32578"
+    },
+    "Pulaski County": {
+      "description": "Pulaski County serves as a major economic center in central Missouri, supported by military-related employment, healthcare services, education, retail development, hospitality, and professional industries. Its diversified economy contributes significantly to regional business activity.",
+      "population": "53396"
+    },
+    "Putnam County": {
+      "description": "Putnam County maintains a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "4723"
+    },
+    "Ralls County": {
+      "description": "Ralls County supports an economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local business activity. Its diversified economy contributes to stable employment and community development.",
+      "population": "10024"
+    },
+    "Randolph County": {
+      "description": "Randolph County combines higher education, healthcare services, manufacturing, agriculture, retail activity, and professional services. Educational institutions and industrial employers contribute significantly to economic growth throughout the county.",
+      "population": "24531"
+    },
+    "Ray County": {
+      "description": "Ray County benefits from agriculture, manufacturing, healthcare services, logistics, retail development, and local commerce. Its proximity to the Kansas City region supports continued economic investment and workforce opportunities.",
+      "population": "22537"
+    },
+    "Reynolds County": {
+      "description": "Reynolds County supports an economy driven by tourism, forestry, healthcare services, mining-related industries, agriculture, and local commerce. Natural resources and visitor attractions contribute significantly to economic activity throughout the county.",
+      "population": "6208"
+    },
+    "Phelps County": {
+      "description": "Phelps County serves as an important economic and educational center in south-central Missouri, supported by higher education, healthcare, manufacturing, technology, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "46003"
+    },
+    "Ripley County": {
+      "description": "Ripley County supports a diversified economy based on agriculture, forestry, healthcare services, tourism, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "10612"
+    },
+    "St. Charles County": {
+      "description": "St. Charles County is one of Missouri's largest and fastest-growing economic centers, driven by healthcare, technology, manufacturing, finance, logistics, professional services, and residential development. Its location within the St. Louis metropolitan area supports substantial business investment and workforce growth.",
+      "population": "415824"
+    },
+    "St. Clair County": {
+      "description": "St. Clair County maintains a rural economy centered on agriculture, healthcare services, manufacturing, tourism, forestry, and local commerce. Farming operations and community-focused businesses support long-term economic stability.",
+      "population": "9264"
+    },
+    "Ste. Genevieve County": {
+      "description": "Ste. Genevieve County benefits from manufacturing, healthcare services, tourism, agriculture, retail activity, and local business development. Its historic attractions and diversified economy contribute significantly to regional growth.",
+      "population": "18511"
+    },
+    "St. Francois County": {
+      "description": "St. Francois County serves as a major economic center in southeast Missouri, supported by healthcare, manufacturing, mining-related industries, education, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "66749"
+    },
+    "St. Louis County": {
+      "description": "St. Louis County is one of Missouri's largest economic centers, anchored by healthcare, finance, technology, higher education, manufacturing, logistics, professional services, and corporate headquarters. Its highly diversified metropolitan economy drives substantial business activity and workforce development.",
+      "population": "997187"
+    },
+    "Saline County": {
+      "description": "Saline County supports a diversified economy based on agriculture, manufacturing, healthcare services, education, transportation, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "22589"
+    },
+    "Schuyler County": {
+      "description": "Schuyler County maintains a rural economy centered on agriculture, healthcare services, agribusiness, transportation, manufacturing, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "4307"
+    },
+    "Scotland County": {
+      "description": "Scotland County supports an economy driven by agriculture, healthcare services, manufacturing, agribusiness, transportation, and local business activity. Its diversified economy contributes to stable employment and community development.",
+      "population": "4610"
+    },
+    "Scott County": {
+      "description": "Scott County is an important economic center in southeast Missouri, supported by healthcare, manufacturing, logistics, agriculture, retail development, and professional services. Its strategic location contributes significantly to regional business growth and workforce opportunities.",
+      "population": "38246"
+    },
+    "Shannon County": {
+      "description": "Shannon County supports an economy driven by tourism, outdoor recreation, forestry, healthcare services, agriculture, and local commerce. Natural attractions and visitor spending contribute significantly to economic activity throughout the county.",
+      "population": "7982"
+    },
+    "Shelby County": {
+      "description": "Shelby County maintains a rural economy centered on agriculture, agribusiness, healthcare services, manufacturing, transportation, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "5951"
+    },
+    "Stoddard County": {
+      "description": "Stoddard County benefits from agriculture, manufacturing, healthcare services, logistics, transportation, and local business development. Its diversified economy supports stable employment opportunities and continued economic growth.",
+      "population": "28702"
+    },
+    "Stone County": {
+      "description": "Stone County supports a tourism-driven economy complemented by healthcare services, hospitality, retail activity, outdoor recreation, construction, and local commerce. Visitor spending plays a major role in supporting business activity throughout the county.",
+      "population": "32497"
+    },
+    "Sullivan County": {
+      "description": "Sullivan County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations continue to contribute significantly to economic stability and workforce opportunities.",
+      "population": "5890"
+    },
+    "Taney County": {
+      "description": "Taney County is one of Missouri's leading tourism economies, driven by hospitality, entertainment, healthcare services, retail development, construction, and professional services. Visitor spending and tourism-related businesses contribute substantially to regional economic growth.",
+      "population": "57177"
+    },
+    "Texas County": {
+      "description": "Texas County supports a diversified economy based on agriculture, forestry, healthcare services, manufacturing, tourism, and local business activity. Natural resources and farming operations remain important contributors to economic development.",
+      "population": "25189"
+    },
+    "Vernon County": {
+      "description": "Vernon County benefits from agriculture, manufacturing, healthcare services, logistics, retail activity, and professional services. Its diversified economy supports stable employment and long-term economic growth throughout the county.",
+      "population": "20789"
+    },
+    "Warren County": {
+      "description": "Warren County is one of Missouri's fastest-growing counties, supported by manufacturing, healthcare services, logistics, retail development, professional services, and residential expansion. Its proximity to the St. Louis metropolitan area drives continued economic investment.",
+      "population": "38500"
+    },
+    "Washington County": {
+      "description": "Washington County supports an economy driven by mining-related industries, healthcare services, manufacturing, agriculture, tourism, and local commerce. Natural resources and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "25176"
+    },
+    "Wayne County": {
+      "description": "Wayne County supports a diversified economy based on forestry, tourism, healthcare services, agriculture, manufacturing, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "12854"
+    },
+    "Webster County": {
+      "description": "Webster County is a growing economic center in southwest Missouri, supported by healthcare, manufacturing, logistics, agriculture, retail development, and professional services. Its proximity to Springfield contributes to continued economic expansion and workforce growth.",
+      "population": "43231"
+    },
+    "Worth County": {
+      "description": "Worth County maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, renewable energy development, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "1987"
+    },
+    "Wright County": {
+      "description": "Wright County benefits from agriculture, healthcare services, manufacturing, forestry, transportation, and local business activity. Its diversified economy supports stable employment opportunities and long-term economic development.",
+      "population": "19035"
+    },
+    "St. Louis City": {
+      "description": "St. Louis City is one of Missouri's most important economic centers, driven by healthcare, finance, technology, higher education, biotechnology, logistics, tourism, professional services, and corporate headquarters. Its diversified urban economy supports substantial business activity, innovation, and workforce development.",
+      "population": "281754"
+    }
+  }
 }

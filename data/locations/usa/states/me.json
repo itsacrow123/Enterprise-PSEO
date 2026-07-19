@@ -1,80 +1,75 @@
 {
-"Androscoggin County": {
-  "description": "Androscoggin County serves as an important economic center in Maine, supported by healthcare, manufacturing, education, retail activity, logistics, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "111139"
-},
-
-"Aroostook County": {
-  "description": "Aroostook County is Maine's largest county by land area and supports an economy driven by agriculture, forestry, healthcare services, manufacturing, tourism, and cross-border commerce. Natural resources and agribusiness remain major contributors to economic activity.",
-  "population": "67105"
-},
-
-"Cumberland County": {
-  "description": "Cumberland County is Maine's largest economic center, anchored by healthcare, finance, technology, education, tourism, logistics, and professional services. Its strong business environment supports substantial employment and long-term economic growth.",
-  "population": "314245"
-},
-
-"Franklin County": {
-  "description": "Franklin County benefits from tourism, outdoor recreation, forestry, healthcare services, education, and local commerce. Natural attractions and visitor spending contribute significantly to economic activity throughout the county.",
-  "population": "30467"
-},
-
-"Hancock County": {
-  "description": "Hancock County supports a diversified economy based on tourism, healthcare services, marine industries, education, forestry, and local business development. Its coastal attractions play a major role in regional economic growth.",
-  "population": "55901"
-},
-
-"Kennebec County": {
-  "description": "Kennebec County serves as a major government, healthcare, education, and commercial center in Maine. Public-sector employment, professional services, manufacturing, and retail activity contribute significantly to economic development.",
-  "population": "123642"
-},
-
-"Knox County": {
-  "description": "Knox County combines tourism, maritime industries, healthcare services, manufacturing, hospitality, and local commerce. Its coastal economy supports substantial visitor spending and business activity throughout the region.",
-  "population": "40607"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County benefits from tourism, marine industries, healthcare services, real estate development, hospitality, and local commerce. Waterfront communities and visitor attractions contribute significantly to economic growth.",
-  "population": "35812"
-},
-
-"Oxford County": {
-  "description": "Oxford County supports an economy driven by tourism, outdoor recreation, manufacturing, forestry, healthcare services, and local commerce. Natural resources and visitor-related industries remain important contributors to economic activity.",
-  "population": "60366"
-},
-
-"Penobscot County": {
-  "description": "Penobscot County is one of Maine's largest economic centers, supported by healthcare, higher education, manufacturing, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "154949"
-},
-"Piscataquis County": {
-  "description": "Piscataquis County supports a rural economy based on forestry, tourism, outdoor recreation, healthcare services, agriculture, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "16789"
-},
-
-"Sagadahoc County": {
-  "description": "Sagadahoc County benefits from shipbuilding, maritime industries, healthcare services, tourism, retail activity, and professional services. Its coastal economy and skilled workforce support long-term economic growth and investment.",
-  "population": "38917"
-},
-
-"Somerset County": {
-  "description": "Somerset County is one of Maine's largest counties by land area and supports a diversified economy based on forestry, manufacturing, healthcare services, agriculture, tourism, and local commerce. Natural resource industries remain key contributors to regional economic activity.",
-  "population": "50888"
-},
-
-"Waldo County": {
-  "description": "Waldo County combines tourism, agriculture, healthcare services, marine industries, manufacturing, and local business development. Its coastal communities and diversified economy contribute to stable employment and economic growth.",
-  "population": "40805"
-},
-
-"Washington County": {
-  "description": "Washington County supports an economy driven by fisheries, aquaculture, forestry, tourism, healthcare services, agriculture, and cross-border commerce. Natural resources and maritime industries play important roles in regional economic development.",
-  "population": "31612"
-},
-
-"York County": {
-  "description": "York County is one of Maine's largest and fastest-growing economic centers, supported by healthcare, tourism, manufacturing, professional services, retail development, education, and residential growth. Its proximity to the Boston metropolitan area contributes significantly to business activity and investment.",
-  "population": "222255"
-}
+  "identity": {
+    "code": "me",
+    "slug": "maine",
+    "name": "Maine",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Androscoggin County": {
+      "description": "Androscoggin County serves as an important economic center in Maine, supported by healthcare, manufacturing, education, retail activity, logistics, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "111139"
+    },
+    "Aroostook County": {
+      "description": "Aroostook County is Maine's largest county by land area and supports an economy driven by agriculture, forestry, healthcare services, manufacturing, tourism, and cross-border commerce. Natural resources and agribusiness remain major contributors to economic activity.",
+      "population": "67105"
+    },
+    "Cumberland County": {
+      "description": "Cumberland County is Maine's largest economic center, anchored by healthcare, finance, technology, education, tourism, logistics, and professional services. Its strong business environment supports substantial employment and long-term economic growth.",
+      "population": "314245"
+    },
+    "Franklin County": {
+      "description": "Franklin County benefits from tourism, outdoor recreation, forestry, healthcare services, education, and local commerce. Natural attractions and visitor spending contribute significantly to economic activity throughout the county.",
+      "population": "30467"
+    },
+    "Hancock County": {
+      "description": "Hancock County supports a diversified economy based on tourism, healthcare services, marine industries, education, forestry, and local business development. Its coastal attractions play a major role in regional economic growth.",
+      "population": "55901"
+    },
+    "Kennebec County": {
+      "description": "Kennebec County serves as a major government, healthcare, education, and commercial center in Maine. Public-sector employment, professional services, manufacturing, and retail activity contribute significantly to economic development.",
+      "population": "123642"
+    },
+    "Knox County": {
+      "description": "Knox County combines tourism, maritime industries, healthcare services, manufacturing, hospitality, and local commerce. Its coastal economy supports substantial visitor spending and business activity throughout the region.",
+      "population": "40607"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County benefits from tourism, marine industries, healthcare services, real estate development, hospitality, and local commerce. Waterfront communities and visitor attractions contribute significantly to economic growth.",
+      "population": "35812"
+    },
+    "Oxford County": {
+      "description": "Oxford County supports an economy driven by tourism, outdoor recreation, manufacturing, forestry, healthcare services, and local commerce. Natural resources and visitor-related industries remain important contributors to economic activity.",
+      "population": "60366"
+    },
+    "Penobscot County": {
+      "description": "Penobscot County is one of Maine's largest economic centers, supported by healthcare, higher education, manufacturing, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "154949"
+    },
+    "Piscataquis County": {
+      "description": "Piscataquis County supports a rural economy based on forestry, tourism, outdoor recreation, healthcare services, agriculture, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "16789"
+    },
+    "Sagadahoc County": {
+      "description": "Sagadahoc County benefits from shipbuilding, maritime industries, healthcare services, tourism, retail activity, and professional services. Its coastal economy and skilled workforce support long-term economic growth and investment.",
+      "population": "38917"
+    },
+    "Somerset County": {
+      "description": "Somerset County is one of Maine's largest counties by land area and supports a diversified economy based on forestry, manufacturing, healthcare services, agriculture, tourism, and local commerce. Natural resource industries remain key contributors to regional economic activity.",
+      "population": "50888"
+    },
+    "Waldo County": {
+      "description": "Waldo County combines tourism, agriculture, healthcare services, marine industries, manufacturing, and local business development. Its coastal communities and diversified economy contribute to stable employment and economic growth.",
+      "population": "40805"
+    },
+    "Washington County": {
+      "description": "Washington County supports an economy driven by fisheries, aquaculture, forestry, tourism, healthcare services, agriculture, and cross-border commerce. Natural resources and maritime industries play important roles in regional economic development.",
+      "population": "31612"
+    },
+    "York County": {
+      "description": "York County is one of Maine's largest and fastest-growing economic centers, supported by healthcare, tourism, manufacturing, professional services, retail development, education, and residential growth. Its proximity to the Boston metropolitan area contributes significantly to business activity and investment.",
+      "population": "222255"
+    }
+  }
 }

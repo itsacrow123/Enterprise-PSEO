@@ -1,119 +1,107 @@
 {
-"Allegany County": {
-  "description": "Allegany County supports a diversified economy based on healthcare, education, manufacturing, tourism, transportation, and professional services. Its strategic location in western Maryland contributes to regional economic activity and workforce development.",
-  "population": "68067"
-},
-
-"Anne Arundel County": {
-  "description": "Anne Arundel County is one of Maryland's largest economic centers, driven by government services, healthcare, technology, defense-related industries, logistics, tourism, and professional services. Its location between Baltimore and Washington supports substantial business growth.",
-  "population": "607391"
-},
-
-"Baltimore County": {
-  "description": "Baltimore County is a major economic hub in Maryland, supported by healthcare, education, finance, technology, manufacturing, logistics, and professional industries. Its diversified economy contributes significantly to statewide employment and investment.",
-  "population": "854535"
-},
-
-"Calvert County": {
-  "description": "Calvert County benefits from energy-related industries, healthcare services, government employment, tourism, retail development, and residential growth. Its waterfront location and growing population support continued economic expansion.",
-  "population": "93955"
-},
-
-"Caroline County": {
-  "description": "Caroline County maintains a balanced economy based on agriculture, manufacturing, healthcare services, logistics, education, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "33668"
-},
-
-"Carroll County": {
-  "description": "Carroll County supports a diversified economy driven by healthcare, manufacturing, agriculture, professional services, retail development, and residential growth. Its strong workforce and business-friendly environment contribute to long-term economic success.",
-  "population": "172891"
-},
-
-"Cecil County": {
-  "description": "Cecil County benefits from logistics, manufacturing, healthcare services, agriculture, transportation, and commercial development. Its strategic location along the Interstate 95 corridor supports substantial business activity and investment.",
-  "population": "106990"
-},
-
-"Charles County": {
-  "description": "Charles County is one of Maryland's fastest-growing counties, supported by government employment, healthcare, education, retail development, professional services, and residential expansion. Its proximity to Washington, D.C. drives continued economic growth.",
-  "population": "170191"
-},
-
-"Dorchester County": {
-  "description": "Dorchester County combines tourism, healthcare, agriculture, seafood industries, manufacturing, and local commerce. Its waterfront economy and natural resources contribute significantly to regional economic activity.",
-  "population": "32618"
-},
-
-"Frederick County": {
-  "description": "Frederick County is one of Maryland's strongest economic centers, driven by biotechnology, healthcare, manufacturing, logistics, education, professional services, and technology industries. Continued population growth supports substantial business investment and workforce development.",
-  "population": "306068"
-},
-"Garrett County": {
-  "description": "Garrett County supports an economy driven by tourism, outdoor recreation, healthcare services, education, forestry, and local commerce. Its mountain landscapes and visitor attractions contribute significantly to regional economic activity.",
-  "population": "28971"
-},
-
-"Harford County": {
-  "description": "Harford County is a major economic center in northeastern Maryland, supported by defense-related industries, healthcare, logistics, manufacturing, education, and professional services. Its strategic location contributes to strong business growth and workforce development.",
-  "population": "263068"
-},
-
-"Howard County": {
-  "description": "Howard County is one of the most affluent and economically dynamic counties in the United States, driven by technology, healthcare, biotechnology, education, finance, and professional services. Its highly skilled workforce supports substantial innovation and investment.",
-  "population": "344057"
-},
-
-"Kent County": {
-  "description": "Kent County combines tourism, agriculture, healthcare services, education, maritime industries, and local commerce. Its waterfront location and historic communities contribute to a diverse and stable economy.",
-  "population": "19412"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County is Maryland's largest economic center and one of the nation's leading hubs for biotechnology, healthcare, technology, government contracting, finance, and professional services. Its highly educated workforce drives innovation and sustained economic growth.",
-  "population": "1083530"
-},
-
-"Prince George's County": {
-  "description": "Prince George's County is one of Maryland's largest and fastest-growing economies, supported by government employment, healthcare, education, technology, transportation, retail development, and professional industries. Its location near Washington, D.C. contributes to substantial business activity.",
-  "population": "967201"
-},
-
-"Queen Anne's County": {
-  "description": "Queen Anne's County benefits from agriculture, tourism, healthcare services, maritime industries, retail activity, and residential growth. Its strategic location on Maryland's Eastern Shore supports continued economic development.",
-  "population": "52731"
-},
-
-"St. Mary's County": {
-  "description": "St. Mary's County is a major center for defense-related industries, aerospace, healthcare, education, technology, and professional services. Its strong connection to military and research activities supports significant economic growth and workforce opportunities.",
-  "population": "116281"
-},
-
-"Somerset County": {
-  "description": "Somerset County supports a diversified economy based on healthcare, agriculture, seafood industries, education, tourism, and local commerce. Natural resources and community-focused businesses contribute significantly to economic activity throughout the county.",
-  "population": "24531"
-},
-
-"Talbot County": {
-  "description": "Talbot County combines tourism, healthcare services, maritime industries, agriculture, real estate development, and local commerce. Its waterfront communities and visitor attractions support a strong service-based economy.",
-  "population": "37784"
-},
-"Washington County": {
-  "description": "Washington County is a major economic center in western Maryland, supported by logistics, manufacturing, healthcare, education, transportation, retail development, and professional services. Its strategic location along major interstate corridors contributes significantly to regional business growth.",
-  "population": "157430"
-},
-
-"Wicomico County": {
-  "description": "Wicomico County serves as the commercial hub of Maryland's Eastern Shore, driven by healthcare, higher education, agriculture, manufacturing, retail activity, tourism, and professional services. Its diversified economy supports substantial regional employment and investment.",
-  "population": "103588"
-},
-
-"Worcester County": {
-  "description": "Worcester County benefits from tourism, hospitality, healthcare services, real estate development, retail activity, maritime industries, and local commerce. Visitor spending and coastal attractions play major roles in supporting economic growth throughout the county.",
-  "population": "53318"
-},
-
-"Baltimore City": {
-  "description": "Baltimore City is one of the largest economic centers in the Mid-Atlantic region, driven by healthcare, higher education, biotechnology, finance, logistics, technology, tourism, and professional services. Its diversified urban economy supports significant business activity, innovation, and workforce development.",
-  "population": "565708"
-}
+  "identity": {
+    "code": "md",
+    "slug": "maryland",
+    "name": "Maryland",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Allegany County": {
+      "description": "Allegany County supports a diversified economy based on healthcare, education, manufacturing, tourism, transportation, and professional services. Its strategic location in western Maryland contributes to regional economic activity and workforce development.",
+      "population": "68067"
+    },
+    "Anne Arundel County": {
+      "description": "Anne Arundel County is one of Maryland's largest economic centers, driven by government services, healthcare, technology, defense-related industries, logistics, tourism, and professional services. Its location between Baltimore and Washington supports substantial business growth.",
+      "population": "607391"
+    },
+    "Baltimore County": {
+      "description": "Baltimore County is a major economic hub in Maryland, supported by healthcare, education, finance, technology, manufacturing, logistics, and professional industries. Its diversified economy contributes significantly to statewide employment and investment.",
+      "population": "854535"
+    },
+    "Calvert County": {
+      "description": "Calvert County benefits from energy-related industries, healthcare services, government employment, tourism, retail development, and residential growth. Its waterfront location and growing population support continued economic expansion.",
+      "population": "93955"
+    },
+    "Caroline County": {
+      "description": "Caroline County maintains a balanced economy based on agriculture, manufacturing, healthcare services, logistics, education, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "33668"
+    },
+    "Carroll County": {
+      "description": "Carroll County supports a diversified economy driven by healthcare, manufacturing, agriculture, professional services, retail development, and residential growth. Its strong workforce and business-friendly environment contribute to long-term economic success.",
+      "population": "172891"
+    },
+    "Cecil County": {
+      "description": "Cecil County benefits from logistics, manufacturing, healthcare services, agriculture, transportation, and commercial development. Its strategic location along the Interstate 95 corridor supports substantial business activity and investment.",
+      "population": "106990"
+    },
+    "Charles County": {
+      "description": "Charles County is one of Maryland's fastest-growing counties, supported by government employment, healthcare, education, retail development, professional services, and residential expansion. Its proximity to Washington, D.C. drives continued economic growth.",
+      "population": "170191"
+    },
+    "Dorchester County": {
+      "description": "Dorchester County combines tourism, healthcare, agriculture, seafood industries, manufacturing, and local commerce. Its waterfront economy and natural resources contribute significantly to regional economic activity.",
+      "population": "32618"
+    },
+    "Frederick County": {
+      "description": "Frederick County is one of Maryland's strongest economic centers, driven by biotechnology, healthcare, manufacturing, logistics, education, professional services, and technology industries. Continued population growth supports substantial business investment and workforce development.",
+      "population": "306068"
+    },
+    "Garrett County": {
+      "description": "Garrett County supports an economy driven by tourism, outdoor recreation, healthcare services, education, forestry, and local commerce. Its mountain landscapes and visitor attractions contribute significantly to regional economic activity.",
+      "population": "28971"
+    },
+    "Harford County": {
+      "description": "Harford County is a major economic center in northeastern Maryland, supported by defense-related industries, healthcare, logistics, manufacturing, education, and professional services. Its strategic location contributes to strong business growth and workforce development.",
+      "population": "263068"
+    },
+    "Howard County": {
+      "description": "Howard County is one of the most affluent and economically dynamic counties in the United States, driven by technology, healthcare, biotechnology, education, finance, and professional services. Its highly skilled workforce supports substantial innovation and investment.",
+      "population": "344057"
+    },
+    "Kent County": {
+      "description": "Kent County combines tourism, agriculture, healthcare services, education, maritime industries, and local commerce. Its waterfront location and historic communities contribute to a diverse and stable economy.",
+      "population": "19412"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County is Maryland's largest economic center and one of the nation's leading hubs for biotechnology, healthcare, technology, government contracting, finance, and professional services. Its highly educated workforce drives innovation and sustained economic growth.",
+      "population": "1083530"
+    },
+    "Prince George's County": {
+      "description": "Prince George's County is one of Maryland's largest and fastest-growing economies, supported by government employment, healthcare, education, technology, transportation, retail development, and professional industries. Its location near Washington, D.C. contributes to substantial business activity.",
+      "population": "967201"
+    },
+    "Queen Anne's County": {
+      "description": "Queen Anne's County benefits from agriculture, tourism, healthcare services, maritime industries, retail activity, and residential growth. Its strategic location on Maryland's Eastern Shore supports continued economic development.",
+      "population": "52731"
+    },
+    "St. Mary's County": {
+      "description": "St. Mary's County is a major center for defense-related industries, aerospace, healthcare, education, technology, and professional services. Its strong connection to military and research activities supports significant economic growth and workforce opportunities.",
+      "population": "116281"
+    },
+    "Somerset County": {
+      "description": "Somerset County supports a diversified economy based on healthcare, agriculture, seafood industries, education, tourism, and local commerce. Natural resources and community-focused businesses contribute significantly to economic activity throughout the county.",
+      "population": "24531"
+    },
+    "Talbot County": {
+      "description": "Talbot County combines tourism, healthcare services, maritime industries, agriculture, real estate development, and local commerce. Its waterfront communities and visitor attractions support a strong service-based economy.",
+      "population": "37784"
+    },
+    "Washington County": {
+      "description": "Washington County is a major economic center in western Maryland, supported by logistics, manufacturing, healthcare, education, transportation, retail development, and professional services. Its strategic location along major interstate corridors contributes significantly to regional business growth.",
+      "population": "157430"
+    },
+    "Wicomico County": {
+      "description": "Wicomico County serves as the commercial hub of Maryland's Eastern Shore, driven by healthcare, higher education, agriculture, manufacturing, retail activity, tourism, and professional services. Its diversified economy supports substantial regional employment and investment.",
+      "population": "103588"
+    },
+    "Worcester County": {
+      "description": "Worcester County benefits from tourism, hospitality, healthcare services, real estate development, retail activity, maritime industries, and local commerce. Visitor spending and coastal attractions play major roles in supporting economic growth throughout the county.",
+      "population": "53318"
+    },
+    "Baltimore City": {
+      "description": "Baltimore City is one of the largest economic centers in the Mid-Atlantic region, driven by healthcare, higher education, biotechnology, finance, logistics, technology, tourism, and professional services. Its diversified urban economy supports significant business activity, innovation, and workforce development.",
+      "population": "565708"
+    }
+  }
 }

@@ -1,149 +1,131 @@
 {
-	"Aleutians East Borough": {
-  "description": "Aleutians East Borough is a remote coastal region in southwestern Alaska known for its world-class fishing industry, rugged landscapes, and maritime economy. Commercial seafood harvesting and processing serve as the primary economic drivers throughout the borough.",
-  "population": "3385"
-},
-
-"Anchorage Municipality": {
-  "description": "Anchorage Municipality is Alaska's largest population center and economic hub, supporting transportation, healthcare, government, tourism, and logistics industries. Its strategic location makes it the primary gateway for commerce and travel across the state.",
-  "population": "291247"
-},
-
-"Bristol Bay Borough": {
-  "description": "Bristol Bay Borough is internationally recognized for its salmon fisheries and pristine natural environment. Fishing, tourism, and outdoor recreation play vital roles in supporting the borough's economy and seasonal workforce.",
-  "population": "844"
-},
-
-"Denali Borough": {
-  "description": "Denali Borough is home to some of Alaska's most famous wilderness areas and tourism destinations. Visitor services, hospitality businesses, and outdoor recreation industries contribute significantly to local economic activity.",
-  "population": "1680"
-},
-
-"Fairbanks North Star Borough": {
-  "description": "Fairbanks North Star Borough serves as the primary economic and educational center of Alaska's interior region. Government services, higher education, military operations, healthcare, and tourism support a diverse local economy.",
-  "population": "95192"
-},
-
-"Haines Borough": {
-  "description": "Haines Borough is known for its scenic mountain landscapes, coastal access, and tourism-based economy. Outdoor recreation, fishing, and visitor services contribute to the borough's economic foundation.",
-  "population": "2080"
-},
-
-"Juneau City and Borough": {
-  "description": "Juneau City and Borough serves as Alaska's capital and an important center for government, tourism, and transportation. Its economy benefits from public administration, cruise tourism, fishing, and professional services.",
-  "population": "31973"
-},
-
-"Kenai Peninsula Borough": {
-  "description": "Kenai Peninsula Borough combines tourism, fishing, energy production, and outdoor recreation within one of Alaska's most popular regions. Its communities attract visitors and residents seeking access to natural resources and scenic landscapes.",
-  "population": "60331"
-},
-
-"Ketchikan Gateway Borough": {
-  "description": "Ketchikan Gateway Borough is a major tourism and fishing destination in Southeast Alaska. Cruise tourism, seafood processing, transportation services, and hospitality businesses drive the local economy.",
-  "population": "13935"
-},
-
-"Kodiak Island Borough": {
-  "description": "Kodiak Island Borough is one of Alaska's leading fishing regions and supports a strong maritime economy. Seafood harvesting, processing, transportation, and tourism contribute significantly to local employment and economic growth.",
-  "population": "12827"
-},
-"Lake and Peninsula Borough": {
-  "description": "Lake and Peninsula Borough covers a vast region of southwestern Alaska known for its remote communities, abundant fisheries, volcanic landscapes, and natural resources. Commercial fishing, subsistence activities, and tourism support the borough's economy.",
-  "population": "1459"
-},
-
-"Matanuska-Susitna Borough": {
-  "description": "Matanuska-Susitna Borough is one of Alaska's fastest-growing regions, featuring expanding residential communities, transportation infrastructure, and outdoor recreation opportunities. Its proximity to Anchorage has fueled continued population and economic growth.",
-  "population": "116903"
-},
-
-"Nome Census Area": {
-  "description": "Nome Census Area occupies a large portion of western Alaska and is known for its mining history, coastal communities, and cultural significance. Government services, transportation, mining, and subsistence activities contribute to the local economy.",
-  "population": "10077"
-},
-
-"North Slope Borough": {
-  "description": "North Slope Borough is home to Alaska's largest oil-producing region and plays a critical role in the state's energy sector. Petroleum development, local government, and community services provide the foundation for economic activity across the borough.",
-  "population": "11201"
-},
-
-"Northwest Arctic Borough": {
-  "description": "Northwest Arctic Borough is located above the Arctic Circle and supports a mix of mining, subsistence activities, government services, and local commerce. Its communities maintain strong cultural traditions while benefiting from natural resource development.",
-  "population": "7814"
-},
-
-"Petersburg Borough": {
-  "description": "Petersburg Borough is a coastal Southeast Alaska community known for its commercial fishing industry, maritime heritage, and scenic natural surroundings. Seafood harvesting and tourism play important roles in the borough's economy.",
-  "population": "3364"
-},
-
-"Prince of Wales-Hyder Census Area": {
-  "description": "Prince of Wales-Hyder Census Area includes island communities, forest resources, and extensive coastline in Southeast Alaska. Fishing, tourism, forestry, and transportation services contribute to economic activity throughout the region.",
-  "population": "6341"
-},
-
-"Sitka City and Borough": {
-  "description": "Sitka City and Borough combines rich cultural heritage with a strong economy based on fishing, healthcare, education, tourism, and government services. Its coastal location and historic significance attract visitors from around the world.",
-  "population": "8426"
-},
-
-"Skagway Municipality": {
-  "description": "Skagway Municipality is a major tourism gateway for Alaska's Inside Passage and Yukon-bound travelers. Cruise tourism, hospitality services, transportation, and outdoor recreation form the backbone of the local economy.",
-  "population": "1240"
-},
-
-"Southeast Fairbanks Census Area": {
-  "description": "Southeast Fairbanks Census Area covers a large interior region characterized by remote communities, military influence, outdoor recreation, and natural resource development. Government services and transportation play important economic roles.",
-  "population": "6704"
-},
-"Wrangell City and Borough": {
-  "description": "Wrangell City and Borough is one of Southeast Alaska's historic coastal communities, supporting a maritime economy built on fishing, tourism, transportation, and public services. Its scenic waterfront and rich history continue to attract visitors and residents alike.",
-  "population": "2127"
-},
-
-"Yakutat City and Borough": {
-  "description": "Yakutat City and Borough is renowned for its dramatic coastal scenery, world-class fishing opportunities, and outdoor recreation. Tourism, commercial fishing, and government services form the foundation of the local economy.",
-  "population": "662"
-},
-
-"Yukon-Koyukuk Census Area": {
-  "description": "Yukon-Koyukuk Census Area is the largest census area in the United States by land area and encompasses vast wilderness regions, remote communities, and significant natural resources. Subsistence activities, government services, and transportation support local residents.",
-  "population": "5238"
-},
-
-"Aleutians West Census Area": {
-  "description": "Aleutians West Census Area stretches across a remote chain of islands in the North Pacific and supports a strong economy based on commercial fishing, seafood processing, transportation, and maritime services.",
-  "population": "5456"
-},
-
-"Bethel Census Area": {
-  "description": "Bethel Census Area serves as an important regional center for western Alaska, providing healthcare, education, transportation, and government services to numerous remote communities. Subsistence lifestyles remain deeply connected to local culture.",
-  "population": "18818"
-},
-
-"Chugach Census Area": {
-  "description": "Chugach Census Area encompasses some of Alaska's most scenic coastal and mountainous landscapes. Tourism, fishing, transportation, and outdoor recreation contribute significantly to economic activity throughout the region.",
-  "population": "7432"
-},
-
-"Copper River Census Area": {
-  "description": "Copper River Census Area is known for its spectacular wilderness, salmon fisheries, and transportation corridors connecting interior and coastal Alaska. Tourism, resource industries, and public services support the local economy.",
-  "population": "2607"
-},
-
-"Dillingham Census Area": {
-  "description": "Dillingham Census Area is a major center for Alaska's commercial salmon fishing industry and serves as a hub for surrounding communities. Fishing, transportation, healthcare, and tourism contribute to economic growth in the region.",
-  "population": "4791"
-},
-
-"Hoonah-Angoon Census Area": {
-  "description": "Hoonah-Angoon Census Area features island communities, rich Native heritage, and thriving tourism opportunities throughout Southeast Alaska. Fishing, visitor services, and government employment remain important economic sectors.",
-  "population": "8365"
-},
-
-"Kusilvak Census Area": {
-  "description": "Kusilvak Census Area occupies a remote section of western Alaska and is characterized by strong Indigenous cultural traditions, subsistence activities, and community-based economies. Public services and transportation provide essential support throughout the region.",
-  "population": "8402"
-}
+  "identity": {
+    "code": "ak",
+    "slug": "alaska",
+    "name": "Alaska",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Aleutians East Borough": {
+      "description": "Aleutians East Borough is a remote coastal region in southwestern Alaska known for its world-class fishing industry, rugged landscapes, and maritime economy. Commercial seafood harvesting and processing serve as the primary economic drivers throughout the borough.",
+      "population": "3385"
+    },
+    "Anchorage Municipality": {
+      "description": "Anchorage Municipality is Alaska's largest population center and economic hub, supporting transportation, healthcare, government, tourism, and logistics industries. Its strategic location makes it the primary gateway for commerce and travel across the state.",
+      "population": "291247"
+    },
+    "Bristol Bay Borough": {
+      "description": "Bristol Bay Borough is internationally recognized for its salmon fisheries and pristine natural environment. Fishing, tourism, and outdoor recreation play vital roles in supporting the borough's economy and seasonal workforce.",
+      "population": "844"
+    },
+    "Denali Borough": {
+      "description": "Denali Borough is home to some of Alaska's most famous wilderness areas and tourism destinations. Visitor services, hospitality businesses, and outdoor recreation industries contribute significantly to local economic activity.",
+      "population": "1680"
+    },
+    "Fairbanks North Star Borough": {
+      "description": "Fairbanks North Star Borough serves as the primary economic and educational center of Alaska's interior region. Government services, higher education, military operations, healthcare, and tourism support a diverse local economy.",
+      "population": "95192"
+    },
+    "Haines Borough": {
+      "description": "Haines Borough is known for its scenic mountain landscapes, coastal access, and tourism-based economy. Outdoor recreation, fishing, and visitor services contribute to the borough's economic foundation.",
+      "population": "2080"
+    },
+    "Juneau City and Borough": {
+      "description": "Juneau City and Borough serves as Alaska's capital and an important center for government, tourism, and transportation. Its economy benefits from public administration, cruise tourism, fishing, and professional services.",
+      "population": "31973"
+    },
+    "Kenai Peninsula Borough": {
+      "description": "Kenai Peninsula Borough combines tourism, fishing, energy production, and outdoor recreation within one of Alaska's most popular regions. Its communities attract visitors and residents seeking access to natural resources and scenic landscapes.",
+      "population": "60331"
+    },
+    "Ketchikan Gateway Borough": {
+      "description": "Ketchikan Gateway Borough is a major tourism and fishing destination in Southeast Alaska. Cruise tourism, seafood processing, transportation services, and hospitality businesses drive the local economy.",
+      "population": "13935"
+    },
+    "Kodiak Island Borough": {
+      "description": "Kodiak Island Borough is one of Alaska's leading fishing regions and supports a strong maritime economy. Seafood harvesting, processing, transportation, and tourism contribute significantly to local employment and economic growth.",
+      "population": "12827"
+    },
+    "Lake and Peninsula Borough": {
+      "description": "Lake and Peninsula Borough covers a vast region of southwestern Alaska known for its remote communities, abundant fisheries, volcanic landscapes, and natural resources. Commercial fishing, subsistence activities, and tourism support the borough's economy.",
+      "population": "1459"
+    },
+    "Matanuska-Susitna Borough": {
+      "description": "Matanuska-Susitna Borough is one of Alaska's fastest-growing regions, featuring expanding residential communities, transportation infrastructure, and outdoor recreation opportunities. Its proximity to Anchorage has fueled continued population and economic growth.",
+      "population": "116903"
+    },
+    "Nome Census Area": {
+      "description": "Nome Census Area occupies a large portion of western Alaska and is known for its mining history, coastal communities, and cultural significance. Government services, transportation, mining, and subsistence activities contribute to the local economy.",
+      "population": "10077"
+    },
+    "North Slope Borough": {
+      "description": "North Slope Borough is home to Alaska's largest oil-producing region and plays a critical role in the state's energy sector. Petroleum development, local government, and community services provide the foundation for economic activity across the borough.",
+      "population": "11201"
+    },
+    "Northwest Arctic Borough": {
+      "description": "Northwest Arctic Borough is located above the Arctic Circle and supports a mix of mining, subsistence activities, government services, and local commerce. Its communities maintain strong cultural traditions while benefiting from natural resource development.",
+      "population": "7814"
+    },
+    "Petersburg Borough": {
+      "description": "Petersburg Borough is a coastal Southeast Alaska community known for its commercial fishing industry, maritime heritage, and scenic natural surroundings. Seafood harvesting and tourism play important roles in the borough's economy.",
+      "population": "3364"
+    },
+    "Prince of Wales-Hyder Census Area": {
+      "description": "Prince of Wales-Hyder Census Area includes island communities, forest resources, and extensive coastline in Southeast Alaska. Fishing, tourism, forestry, and transportation services contribute to economic activity throughout the region.",
+      "population": "6341"
+    },
+    "Sitka City and Borough": {
+      "description": "Sitka City and Borough combines rich cultural heritage with a strong economy based on fishing, healthcare, education, tourism, and government services. Its coastal location and historic significance attract visitors from around the world.",
+      "population": "8426"
+    },
+    "Skagway Municipality": {
+      "description": "Skagway Municipality is a major tourism gateway for Alaska's Inside Passage and Yukon-bound travelers. Cruise tourism, hospitality services, transportation, and outdoor recreation form the backbone of the local economy.",
+      "population": "1240"
+    },
+    "Southeast Fairbanks Census Area": {
+      "description": "Southeast Fairbanks Census Area covers a large interior region characterized by remote communities, military influence, outdoor recreation, and natural resource development. Government services and transportation play important economic roles.",
+      "population": "6704"
+    },
+    "Wrangell City and Borough": {
+      "description": "Wrangell City and Borough is one of Southeast Alaska's historic coastal communities, supporting a maritime economy built on fishing, tourism, transportation, and public services. Its scenic waterfront and rich history continue to attract visitors and residents alike.",
+      "population": "2127"
+    },
+    "Yakutat City and Borough": {
+      "description": "Yakutat City and Borough is renowned for its dramatic coastal scenery, world-class fishing opportunities, and outdoor recreation. Tourism, commercial fishing, and government services form the foundation of the local economy.",
+      "population": "662"
+    },
+    "Yukon-Koyukuk Census Area": {
+      "description": "Yukon-Koyukuk Census Area is the largest census area in the United States by land area and encompasses vast wilderness regions, remote communities, and significant natural resources. Subsistence activities, government services, and transportation support local residents.",
+      "population": "5238"
+    },
+    "Aleutians West Census Area": {
+      "description": "Aleutians West Census Area stretches across a remote chain of islands in the North Pacific and supports a strong economy based on commercial fishing, seafood processing, transportation, and maritime services.",
+      "population": "5456"
+    },
+    "Bethel Census Area": {
+      "description": "Bethel Census Area serves as an important regional center for western Alaska, providing healthcare, education, transportation, and government services to numerous remote communities. Subsistence lifestyles remain deeply connected to local culture.",
+      "population": "18818"
+    },
+    "Chugach Census Area": {
+      "description": "Chugach Census Area encompasses some of Alaska's most scenic coastal and mountainous landscapes. Tourism, fishing, transportation, and outdoor recreation contribute significantly to economic activity throughout the region.",
+      "population": "7432"
+    },
+    "Copper River Census Area": {
+      "description": "Copper River Census Area is known for its spectacular wilderness, salmon fisheries, and transportation corridors connecting interior and coastal Alaska. Tourism, resource industries, and public services support the local economy.",
+      "population": "2607"
+    },
+    "Dillingham Census Area": {
+      "description": "Dillingham Census Area is a major center for Alaska's commercial salmon fishing industry and serves as a hub for surrounding communities. Fishing, transportation, healthcare, and tourism contribute to economic growth in the region.",
+      "population": "4791"
+    },
+    "Hoonah-Angoon Census Area": {
+      "description": "Hoonah-Angoon Census Area features island communities, rich Native heritage, and thriving tourism opportunities throughout Southeast Alaska. Fishing, visitor services, and government employment remain important economic sectors.",
+      "population": "8365"
+    },
+    "Kusilvak Census Area": {
+      "description": "Kusilvak Census Area occupies a remote section of western Alaska and is characterized by strong Indigenous cultural traditions, subsistence activities, and community-based economies. Public services and transportation provide essential support throughout the region.",
+      "population": "8402"
+    }
+  }
 }

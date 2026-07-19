@@ -1,305 +1,259 @@
 {
-"Albany County": {
-  "description": "Albany County is one of New York's most important government and economic centers, supported by healthcare, higher education, technology, finance, professional services, logistics, and public-sector employment. Its diversified economy contributes substantially to regional growth and workforce development.",
-  "population": "314848"
-},
-
-"Allegany County": {
-  "description": "Allegany County supports a diversified economy based on healthcare services, higher education, agriculture, manufacturing, tourism, and local commerce. Educational institutions and regional businesses contribute significantly to economic activity throughout the county.",
-  "population": "45885"
-},
-
-"Bronx County": {
-  "description": "Bronx County is one of New York City's major economic centers, driven by healthcare, education, transportation, retail development, professional services, logistics, and residential investment. Its highly urbanized economy supports substantial employment and business activity.",
-  "population": "1472654"
-},
-
-"Broome County": {
-  "description": "Broome County serves as an important economic hub in southern New York, anchored by healthcare, higher education, technology, manufacturing, professional services, and retail development. Its diversified economy contributes significantly to regional employment and innovation.",
-  "population": "198683"
-},
-
-"Cattaraugus County": {
-  "description": "Cattaraugus County benefits from healthcare services, manufacturing, tourism, agriculture, outdoor recreation, and local business development. Natural attractions and industrial employers contribute significantly to economic growth throughout the county.",
-  "population": "77042"
-},
-
-"Cayuga County": {
-  "description": "Cayuga County supports an economy driven by manufacturing, healthcare services, agriculture, tourism, logistics, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional business growth.",
-  "population": "76849"
-},
-
-"Chautauqua County": {
-  "description": "Chautauqua County is a major regional economic center in western New York, supported by healthcare, manufacturing, tourism, agriculture, education, and professional services. Its diversified economy contributes significantly to employment and investment.",
-  "population": "125859"
-},
-
-"Chemung County": {
-  "description": "Chemung County benefits from healthcare, manufacturing, transportation, higher education, retail development, and professional services. Its strategic location supports continued economic activity and workforce development.",
-  "population": "83934"
-},
-
-"Chenango County": {
-  "description": "Chenango County supports a diversified economy based on agriculture, manufacturing, healthcare services, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic growth throughout the county.",
-  "population": "47220"
-},
-
-"Clinton County": {
-  "description": "Clinton County serves as an important economic center in northern New York, supported by healthcare, manufacturing, transportation, higher education, tourism, and professional services. Its border-region location contributes significantly to business activity and workforce opportunities.",
-  "population": "80460"
-},
-"Columbia County": {
-  "description": "Columbia County supports a diversified economy driven by healthcare services, tourism, agriculture, professional services, retail development, and real estate activity. Its growing business community contributes significantly to regional economic growth and workforce opportunities.",
-  "population": "61612"
-},
-
-"Cortland County": {
-  "description": "Cortland County benefits from higher education, healthcare services, manufacturing, tourism, transportation, and local commerce. Educational institutions and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "46809"
-},
-
-"Delaware County": {
-  "description": "Delaware County maintains a diversified economy based on agriculture, tourism, healthcare services, manufacturing, outdoor recreation, and local business development. Natural attractions and farming operations contribute substantially to economic growth.",
-  "population": "44408"
-},
-
-"Dutchess County": {
-  "description": "Dutchess County is one of New York's strongest economic centers outside New York City, supported by healthcare, technology, higher education, finance, professional services, manufacturing, and tourism. Its strategic Hudson Valley location contributes significantly to business investment and workforce growth.",
-  "population": "300669"
-},
-
-"Erie County": {
-  "description": "Erie County is one of New York's largest economic centers and home to Buffalo. Healthcare, finance, advanced manufacturing, logistics, higher education, professional services, and technology drive a highly diversified economy that supports substantial regional employment and business investment.",
-  "population": "954236"
-},
-
-"Essex County": {
-  "description": "Essex County supports an economy driven by tourism, healthcare services, outdoor recreation, hospitality, education, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
-  "population": "37384"
-},
-
-"Franklin County": {
-  "description": "Franklin County benefits from healthcare services, tourism, education, agriculture, transportation, and local business development. Its diversified economy contributes to stable workforce opportunities and continued regional growth.",
-  "population": "47292"
-},
-
-"Fulton County": {
-  "description": "Fulton County supports a diversified economy based on healthcare services, manufacturing, tourism, transportation, retail activity, and professional services. Its business environment contributes significantly to regional economic development.",
-  "population": "53324"
-},
-
-"Genesee County": {
-  "description": "Genesee County combines agriculture, manufacturing, healthcare services, logistics, retail development, and professional industries. Its strategic location contributes significantly to economic activity and workforce opportunities throughout the county.",
-  "population": "57991"
-},
-
-"Greene County": {
-  "description": "Greene County benefits from tourism, healthcare services, hospitality, outdoor recreation, construction, and local commerce. Visitor spending and natural attractions play major roles in supporting economic growth throughout the county.",
-  "population": "47824"
-},
-"Hamilton County": {
-  "description": "Hamilton County supports an economy driven by tourism, outdoor recreation, hospitality, healthcare services, forestry, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
-  "population": "5107"
-},
-
-"Herkimer County": {
-  "description": "Herkimer County benefits from healthcare services, manufacturing, tourism, transportation, agriculture, and professional industries. Its diversified economy contributes significantly to workforce opportunities and regional business growth.",
-  "population": "62089"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is a major economic center in northern New York, supported by military-related industries, healthcare services, education, tourism, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "116721"
-},
-
-"Kings County": {
-  "description": "Kings County, home to Brooklyn, is one of the largest urban economies in the United States. Healthcare, technology, finance, media, education, professional services, transportation, and retail development drive a highly diversified economy supporting millions of residents and businesses.",
-  "population": "2736074"
-},
-
-"Lewis County": {
-  "description": "Lewis County supports a diversified economy based on agriculture, healthcare services, tourism, manufacturing, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic development throughout the county.",
-  "population": "26473"
-},
-
-"Livingston County": {
-  "description": "Livingston County benefits from healthcare services, higher education, agriculture, manufacturing, logistics, and professional services. Its diversified economy supports stable employment opportunities and continued growth.",
-  "population": "61711"
-},
-
-"Madison County": {
-  "description": "Madison County supports an economy driven by healthcare services, education, agriculture, manufacturing, tourism, and local business activity. Educational institutions and diversified industries contribute significantly to regional economic growth.",
-  "population": "68375"
-},
-
-"Monroe County": {
-  "description": "Monroe County is one of New York's largest economic centers and home to Rochester. Healthcare, higher education, technology, optics, advanced manufacturing, finance, and professional services drive a highly diversified economy that contributes substantially to regional employment and innovation.",
-  "population": "759443"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County combines manufacturing, healthcare services, logistics, tourism, agriculture, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional development.",
-  "population": "49681"
-},
-
-"Nassau County": {
-  "description": "Nassau County is one of New York's most affluent and economically powerful counties, supported by healthcare, finance, technology, professional services, higher education, retail development, and corporate headquarters. Its proximity to New York City drives substantial business investment and workforce growth.",
-  "population": "1395774"
-},
-"New York County": {
-  "description": "New York County, home to Manhattan, is one of the world's most important economic centers. Finance, technology, media, healthcare, higher education, tourism, professional services, and corporate headquarters drive a globally influential economy supporting millions of jobs and businesses.",
-  "population": "1694251"
-},
-
-"Niagara County": {
-  "description": "Niagara County supports a diversified economy based on healthcare services, tourism, manufacturing, logistics, education, and professional services. Its strategic location and visitor attractions contribute significantly to regional economic growth.",
-  "population": "210358"
-},
-
-"Oneida County": {
-  "description": "Oneida County serves as a major economic center in central New York, supported by healthcare, manufacturing, higher education, logistics, technology, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "232125"
-},
-
-"Onondaga County": {
-  "description": "Onondaga County is one of New York's largest economic centers and home to Syracuse. Healthcare, higher education, technology, manufacturing, finance, logistics, professional services, and retail development drive a highly diversified economy supporting substantial workforce growth and business investment.",
-  "population": "476516"
-},
-
-"Ontario County": {
-  "description": "Ontario County benefits from healthcare services, tourism, agriculture, manufacturing, professional services, and retail activity. Its diversified economy contributes significantly to regional employment opportunities and continued business growth.",
-  "population": "114006"
-},
-
-"Orange County": {
-  "description": "Orange County is a rapidly growing economic center in the Hudson Valley, supported by healthcare, logistics, tourism, manufacturing, professional services, retail development, and residential expansion. Its strategic location contributes substantially to business investment and workforce growth.",
-  "population": "410422"
-},
-
-"Orleans County": {
-  "description": "Orleans County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
-  "population": "39612"
-},
-
-"Oswego County": {
-  "description": "Oswego County benefits from energy production, healthcare services, manufacturing, higher education, tourism, and professional services. Its diversified economy supports stable employment opportunities and regional economic development.",
-  "population": "117525"
-},
-
-"Otsego County": {
-  "description": "Otsego County supports an economy driven by healthcare services, higher education, tourism, agriculture, professional services, and retail development. Educational institutions and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "58524"
-},
-
-"Putnam County": {
-  "description": "Putnam County benefits from healthcare, finance, professional services, retail activity, construction, and residential development. Its proximity to the New York metropolitan area supports continued economic investment and workforce opportunities.",
-  "population": "98839"
-},
-"Queens County": {
-  "description": "Queens County is one of the largest and most diverse urban economies in the United States, supported by healthcare, transportation, technology, finance, international trade, professional services, tourism, and retail development. Its strategic location within New York City drives substantial business investment and workforce growth.",
-  "population": "2405464"
-},
-
-"Rensselaer County": {
-  "description": "Rensselaer County serves as an important economic center in New York's Capital Region, supported by healthcare, higher education, technology, manufacturing, logistics, and professional services. Its diversified economy contributes significantly to regional employment and innovation.",
-  "population": "161130"
-},
-
-"Richmond County": {
-  "description": "Richmond County, home to Staten Island, supports a diversified economy based on healthcare, transportation, logistics, professional services, retail development, education, and construction. Its strategic location within New York City contributes substantially to economic activity and workforce opportunities.",
-  "population": "500976"
-},
-
-"Rockland County": {
-  "description": "Rockland County is a major suburban economic center in the New York metropolitan area, driven by healthcare, finance, technology, professional services, retail activity, and residential development. Its highly diversified economy supports substantial business growth and investment.",
-  "population": "338329"
-},
-
-"St. Lawrence County": {
-  "description": "St. Lawrence County supports a diversified economy based on higher education, healthcare services, manufacturing, agriculture, tourism, and professional services. Educational institutions and regional industries contribute significantly to economic development throughout the county.",
-  "population": "108505"
-},
-
-"Saratoga County": {
-  "description": "Saratoga County is one of New York's fastest-growing and most affluent economic centers, supported by technology, healthcare, tourism, finance, manufacturing, professional services, and residential expansion. Its strong business environment contributes substantially to workforce growth and investment.",
-  "population": "241366"
-},
-
-"Schenectady County": {
-  "description": "Schenectady County is a major technology and healthcare hub in New York's Capital Region, anchored by advanced manufacturing, healthcare services, energy-related industries, professional services, and education. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "159973"
-},
-
-"Schoharie County": {
-  "description": "Schoharie County benefits from agriculture, healthcare services, tourism, manufacturing, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "29714"
-},
-
-"Schuyler County": {
-  "description": "Schuyler County supports an economy driven by tourism, agriculture, healthcare services, hospitality, transportation, and local business development. Visitor spending and agricultural production contribute substantially to regional economic growth.",
-  "population": "17898"
-},
-
-"Seneca County": {
-  "description": "Seneca County combines agriculture, healthcare services, manufacturing, tourism, logistics, and professional services. Its diversified economy supports stable employment opportunities and continued business development.",
-  "population": "33211"
-},
-"Steuben County": {
-  "description": "Steuben County serves as an important economic center in southern New York, supported by healthcare, advanced manufacturing, technology, agriculture, higher education, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "91934"
-},
-
-"Suffolk County": {
-  "description": "Suffolk County is one of New York's largest and most economically powerful counties, driven by healthcare, technology, finance, tourism, higher education, professional services, retail development, and real estate activity. Its diversified economy supports substantial business investment and workforce growth.",
-  "population": "1525920"
-},
-
-"Sullivan County": {
-  "description": "Sullivan County benefits from tourism, healthcare services, hospitality, gaming-related industries, retail activity, and professional services. Visitor spending and recreation-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "80871"
-},
-
-"Tioga County": {
-  "description": "Tioga County supports a diversified economy based on manufacturing, healthcare services, agriculture, transportation, professional services, and local commerce. Industrial employers and farming operations contribute significantly to economic development throughout the county.",
-  "population": "47576"
-},
-
-"Tompkins County": {
-  "description": "Tompkins County is one of New York's leading education and innovation economies, supported by higher education, technology, healthcare, research, professional services, and entrepreneurship. Its highly skilled workforce contributes substantially to economic growth and business development.",
-  "population": "106684"
-},
-
-"Ulster County": {
-  "description": "Ulster County supports a diversified economy driven by healthcare, tourism, technology, professional services, agriculture, retail activity, and arts-related industries. Its growing business community contributes significantly to regional economic growth.",
-  "population": "181851"
-},
-
-"Warren County": {
-  "description": "Warren County benefits from tourism, healthcare services, manufacturing, hospitality, outdoor recreation, and professional services. Visitor spending and diversified industries contribute significantly to economic activity throughout the county.",
-  "population": "68428"
-},
-
-"Washington County": {
-  "description": "Washington County supports an economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic development throughout the county.",
-  "population": "63752"
-},
-
-"Wayne County": {
-  "description": "Wayne County combines agriculture, healthcare services, manufacturing, logistics, food processing, and professional services. Its strong agribusiness sector contributes substantially to workforce opportunities and regional economic growth.",
-  "population": "93324"
-},
-
-"Westchester County": {
-  "description": "Westchester County is one of New York's most affluent and economically significant counties, anchored by healthcare, finance, technology, professional services, higher education, corporate headquarters, and real estate development. Its proximity to New York City supports substantial business investment and workforce growth.",
-  "population": "1004457"
-},
-"Wyoming County": {
-  "description": "Wyoming County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic activity and workforce opportunities throughout the county.",
-  "population": "40136"
-},
-
-"Yates County": {
-  "description": "Yates County benefits from agriculture, tourism, healthcare services, hospitality, viticulture, retail activity, and professional services. Its growing visitor economy and agricultural industries contribute substantially to regional economic growth and business development.",
-  "population": "25039"
-}
+  "identity": {
+    "code": "ny",
+    "slug": "new-york",
+    "name": "New York",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Albany County": {
+      "description": "Albany County is one of New York's most important government and economic centers, supported by healthcare, higher education, technology, finance, professional services, logistics, and public-sector employment. Its diversified economy contributes substantially to regional growth and workforce development.",
+      "population": "314848"
+    },
+    "Allegany County": {
+      "description": "Allegany County supports a diversified economy based on healthcare services, higher education, agriculture, manufacturing, tourism, and local commerce. Educational institutions and regional businesses contribute significantly to economic activity throughout the county.",
+      "population": "45885"
+    },
+    "Bronx County": {
+      "description": "Bronx County is one of New York City's major economic centers, driven by healthcare, education, transportation, retail development, professional services, logistics, and residential investment. Its highly urbanized economy supports substantial employment and business activity.",
+      "population": "1472654"
+    },
+    "Broome County": {
+      "description": "Broome County serves as an important economic hub in southern New York, anchored by healthcare, higher education, technology, manufacturing, professional services, and retail development. Its diversified economy contributes significantly to regional employment and innovation.",
+      "population": "198683"
+    },
+    "Cattaraugus County": {
+      "description": "Cattaraugus County benefits from healthcare services, manufacturing, tourism, agriculture, outdoor recreation, and local business development. Natural attractions and industrial employers contribute significantly to economic growth throughout the county.",
+      "population": "77042"
+    },
+    "Cayuga County": {
+      "description": "Cayuga County supports an economy driven by manufacturing, healthcare services, agriculture, tourism, logistics, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional business growth.",
+      "population": "76849"
+    },
+    "Chautauqua County": {
+      "description": "Chautauqua County is a major regional economic center in western New York, supported by healthcare, manufacturing, tourism, agriculture, education, and professional services. Its diversified economy contributes significantly to employment and investment.",
+      "population": "125859"
+    },
+    "Chemung County": {
+      "description": "Chemung County benefits from healthcare, manufacturing, transportation, higher education, retail development, and professional services. Its strategic location supports continued economic activity and workforce development.",
+      "population": "83934"
+    },
+    "Chenango County": {
+      "description": "Chenango County supports a diversified economy based on agriculture, manufacturing, healthcare services, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic growth throughout the county.",
+      "population": "47220"
+    },
+    "Clinton County": {
+      "description": "Clinton County serves as an important economic center in northern New York, supported by healthcare, manufacturing, transportation, higher education, tourism, and professional services. Its border-region location contributes significantly to business activity and workforce opportunities.",
+      "population": "80460"
+    },
+    "Columbia County": {
+      "description": "Columbia County supports a diversified economy driven by healthcare services, tourism, agriculture, professional services, retail development, and real estate activity. Its growing business community contributes significantly to regional economic growth and workforce opportunities.",
+      "population": "61612"
+    },
+    "Cortland County": {
+      "description": "Cortland County benefits from higher education, healthcare services, manufacturing, tourism, transportation, and local commerce. Educational institutions and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "46809"
+    },
+    "Delaware County": {
+      "description": "Delaware County maintains a diversified economy based on agriculture, tourism, healthcare services, manufacturing, outdoor recreation, and local business development. Natural attractions and farming operations contribute substantially to economic growth.",
+      "population": "44408"
+    },
+    "Dutchess County": {
+      "description": "Dutchess County is one of New York's strongest economic centers outside New York City, supported by healthcare, technology, higher education, finance, professional services, manufacturing, and tourism. Its strategic Hudson Valley location contributes significantly to business investment and workforce growth.",
+      "population": "300669"
+    },
+    "Erie County": {
+      "description": "Erie County is one of New York's largest economic centers and home to Buffalo. Healthcare, finance, advanced manufacturing, logistics, higher education, professional services, and technology drive a highly diversified economy that supports substantial regional employment and business investment.",
+      "population": "954236"
+    },
+    "Essex County": {
+      "description": "Essex County supports an economy driven by tourism, healthcare services, outdoor recreation, hospitality, education, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
+      "population": "37384"
+    },
+    "Franklin County": {
+      "description": "Franklin County benefits from healthcare services, tourism, education, agriculture, transportation, and local business development. Its diversified economy contributes to stable workforce opportunities and continued regional growth.",
+      "population": "47292"
+    },
+    "Fulton County": {
+      "description": "Fulton County supports a diversified economy based on healthcare services, manufacturing, tourism, transportation, retail activity, and professional services. Its business environment contributes significantly to regional economic development.",
+      "population": "53324"
+    },
+    "Genesee County": {
+      "description": "Genesee County combines agriculture, manufacturing, healthcare services, logistics, retail development, and professional industries. Its strategic location contributes significantly to economic activity and workforce opportunities throughout the county.",
+      "population": "57991"
+    },
+    "Greene County": {
+      "description": "Greene County benefits from tourism, healthcare services, hospitality, outdoor recreation, construction, and local commerce. Visitor spending and natural attractions play major roles in supporting economic growth throughout the county.",
+      "population": "47824"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County supports an economy driven by tourism, outdoor recreation, hospitality, healthcare services, forestry, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
+      "population": "5107"
+    },
+    "Herkimer County": {
+      "description": "Herkimer County benefits from healthcare services, manufacturing, tourism, transportation, agriculture, and professional industries. Its diversified economy contributes significantly to workforce opportunities and regional business growth.",
+      "population": "62089"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is a major economic center in northern New York, supported by military-related industries, healthcare services, education, tourism, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "116721"
+    },
+    "Kings County": {
+      "description": "Kings County, home to Brooklyn, is one of the largest urban economies in the United States. Healthcare, technology, finance, media, education, professional services, transportation, and retail development drive a highly diversified economy supporting millions of residents and businesses.",
+      "population": "2736074"
+    },
+    "Lewis County": {
+      "description": "Lewis County supports a diversified economy based on agriculture, healthcare services, tourism, manufacturing, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic development throughout the county.",
+      "population": "26473"
+    },
+    "Livingston County": {
+      "description": "Livingston County benefits from healthcare services, higher education, agriculture, manufacturing, logistics, and professional services. Its diversified economy supports stable employment opportunities and continued growth.",
+      "population": "61711"
+    },
+    "Madison County": {
+      "description": "Madison County supports an economy driven by healthcare services, education, agriculture, manufacturing, tourism, and local business activity. Educational institutions and diversified industries contribute significantly to regional economic growth.",
+      "population": "68375"
+    },
+    "Monroe County": {
+      "description": "Monroe County is one of New York's largest economic centers and home to Rochester. Healthcare, higher education, technology, optics, advanced manufacturing, finance, and professional services drive a highly diversified economy that contributes substantially to regional employment and innovation.",
+      "population": "759443"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County combines manufacturing, healthcare services, logistics, tourism, agriculture, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional development.",
+      "population": "49681"
+    },
+    "Nassau County": {
+      "description": "Nassau County is one of New York's most affluent and economically powerful counties, supported by healthcare, finance, technology, professional services, higher education, retail development, and corporate headquarters. Its proximity to New York City drives substantial business investment and workforce growth.",
+      "population": "1395774"
+    },
+    "New York County": {
+      "description": "New York County, home to Manhattan, is one of the world's most important economic centers. Finance, technology, media, healthcare, higher education, tourism, professional services, and corporate headquarters drive a globally influential economy supporting millions of jobs and businesses.",
+      "population": "1694251"
+    },
+    "Niagara County": {
+      "description": "Niagara County supports a diversified economy based on healthcare services, tourism, manufacturing, logistics, education, and professional services. Its strategic location and visitor attractions contribute significantly to regional economic growth.",
+      "population": "210358"
+    },
+    "Oneida County": {
+      "description": "Oneida County serves as a major economic center in central New York, supported by healthcare, manufacturing, higher education, logistics, technology, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "232125"
+    },
+    "Onondaga County": {
+      "description": "Onondaga County is one of New York's largest economic centers and home to Syracuse. Healthcare, higher education, technology, manufacturing, finance, logistics, professional services, and retail development drive a highly diversified economy supporting substantial workforce growth and business investment.",
+      "population": "476516"
+    },
+    "Ontario County": {
+      "description": "Ontario County benefits from healthcare services, tourism, agriculture, manufacturing, professional services, and retail activity. Its diversified economy contributes significantly to regional employment opportunities and continued business growth.",
+      "population": "114006"
+    },
+    "Orange County": {
+      "description": "Orange County is a rapidly growing economic center in the Hudson Valley, supported by healthcare, logistics, tourism, manufacturing, professional services, retail development, and residential expansion. Its strategic location contributes substantially to business investment and workforce growth.",
+      "population": "410422"
+    },
+    "Orleans County": {
+      "description": "Orleans County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic activity throughout the county.",
+      "population": "39612"
+    },
+    "Oswego County": {
+      "description": "Oswego County benefits from energy production, healthcare services, manufacturing, higher education, tourism, and professional services. Its diversified economy supports stable employment opportunities and regional economic development.",
+      "population": "117525"
+    },
+    "Otsego County": {
+      "description": "Otsego County supports an economy driven by healthcare services, higher education, tourism, agriculture, professional services, and retail development. Educational institutions and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "58524"
+    },
+    "Putnam County": {
+      "description": "Putnam County benefits from healthcare, finance, professional services, retail activity, construction, and residential development. Its proximity to the New York metropolitan area supports continued economic investment and workforce opportunities.",
+      "population": "98839"
+    },
+    "Queens County": {
+      "description": "Queens County is one of the largest and most diverse urban economies in the United States, supported by healthcare, transportation, technology, finance, international trade, professional services, tourism, and retail development. Its strategic location within New York City drives substantial business investment and workforce growth.",
+      "population": "2405464"
+    },
+    "Rensselaer County": {
+      "description": "Rensselaer County serves as an important economic center in New York's Capital Region, supported by healthcare, higher education, technology, manufacturing, logistics, and professional services. Its diversified economy contributes significantly to regional employment and innovation.",
+      "population": "161130"
+    },
+    "Richmond County": {
+      "description": "Richmond County, home to Staten Island, supports a diversified economy based on healthcare, transportation, logistics, professional services, retail development, education, and construction. Its strategic location within New York City contributes substantially to economic activity and workforce opportunities.",
+      "population": "500976"
+    },
+    "Rockland County": {
+      "description": "Rockland County is a major suburban economic center in the New York metropolitan area, driven by healthcare, finance, technology, professional services, retail activity, and residential development. Its highly diversified economy supports substantial business growth and investment.",
+      "population": "338329"
+    },
+    "St. Lawrence County": {
+      "description": "St. Lawrence County supports a diversified economy based on higher education, healthcare services, manufacturing, agriculture, tourism, and professional services. Educational institutions and regional industries contribute significantly to economic development throughout the county.",
+      "population": "108505"
+    },
+    "Saratoga County": {
+      "description": "Saratoga County is one of New York's fastest-growing and most affluent economic centers, supported by technology, healthcare, tourism, finance, manufacturing, professional services, and residential expansion. Its strong business environment contributes substantially to workforce growth and investment.",
+      "population": "241366"
+    },
+    "Schenectady County": {
+      "description": "Schenectady County is a major technology and healthcare hub in New York's Capital Region, anchored by advanced manufacturing, healthcare services, energy-related industries, professional services, and education. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "159973"
+    },
+    "Schoharie County": {
+      "description": "Schoharie County benefits from agriculture, healthcare services, tourism, manufacturing, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "29714"
+    },
+    "Schuyler County": {
+      "description": "Schuyler County supports an economy driven by tourism, agriculture, healthcare services, hospitality, transportation, and local business development. Visitor spending and agricultural production contribute substantially to regional economic growth.",
+      "population": "17898"
+    },
+    "Seneca County": {
+      "description": "Seneca County combines agriculture, healthcare services, manufacturing, tourism, logistics, and professional services. Its diversified economy supports stable employment opportunities and continued business development.",
+      "population": "33211"
+    },
+    "Steuben County": {
+      "description": "Steuben County serves as an important economic center in southern New York, supported by healthcare, advanced manufacturing, technology, agriculture, higher education, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "91934"
+    },
+    "Suffolk County": {
+      "description": "Suffolk County is one of New York's largest and most economically powerful counties, driven by healthcare, technology, finance, tourism, higher education, professional services, retail development, and real estate activity. Its diversified economy supports substantial business investment and workforce growth.",
+      "population": "1525920"
+    },
+    "Sullivan County": {
+      "description": "Sullivan County benefits from tourism, healthcare services, hospitality, gaming-related industries, retail activity, and professional services. Visitor spending and recreation-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "80871"
+    },
+    "Tioga County": {
+      "description": "Tioga County supports a diversified economy based on manufacturing, healthcare services, agriculture, transportation, professional services, and local commerce. Industrial employers and farming operations contribute significantly to economic development throughout the county.",
+      "population": "47576"
+    },
+    "Tompkins County": {
+      "description": "Tompkins County is one of New York's leading education and innovation economies, supported by higher education, technology, healthcare, research, professional services, and entrepreneurship. Its highly skilled workforce contributes substantially to economic growth and business development.",
+      "population": "106684"
+    },
+    "Ulster County": {
+      "description": "Ulster County supports a diversified economy driven by healthcare, tourism, technology, professional services, agriculture, retail activity, and arts-related industries. Its growing business community contributes significantly to regional economic growth.",
+      "population": "181851"
+    },
+    "Warren County": {
+      "description": "Warren County benefits from tourism, healthcare services, manufacturing, hospitality, outdoor recreation, and professional services. Visitor spending and diversified industries contribute significantly to economic activity throughout the county.",
+      "population": "68428"
+    },
+    "Washington County": {
+      "description": "Washington County supports an economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic development throughout the county.",
+      "population": "63752"
+    },
+    "Wayne County": {
+      "description": "Wayne County combines agriculture, healthcare services, manufacturing, logistics, food processing, and professional services. Its strong agribusiness sector contributes substantially to workforce opportunities and regional economic growth.",
+      "population": "93324"
+    },
+    "Westchester County": {
+      "description": "Westchester County is one of New York's most affluent and economically significant counties, anchored by healthcare, finance, technology, professional services, higher education, corporate headquarters, and real estate development. Its proximity to New York City supports substantial business investment and workforce growth.",
+      "population": "1004457"
+    },
+    "Wyoming County": {
+      "description": "Wyoming County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional businesses contribute significantly to economic activity and workforce opportunities throughout the county.",
+      "population": "40136"
+    },
+    "Yates County": {
+      "description": "Yates County benefits from agriculture, tourism, healthcare services, hospitality, viticulture, retail activity, and professional services. Its growing visitor economy and agricultural industries contribute substantially to regional economic growth and business development.",
+      "population": "25039"
+    }
+  }
 }

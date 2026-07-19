@@ -1,217 +1,187 @@
 {
-"Ada County": {
-  "description": "Ada County is Idaho's most populous county and the economic center of the state. Technology, healthcare, finance, government services, education, logistics, and professional industries drive a diverse and rapidly expanding economy throughout the Boise metropolitan area.",
-  "population": "511931"
-},
-
-"Adams County": {
-  "description": "Adams County supports a rural economy centered on agriculture, ranching, forestry, tourism, and local commerce. Outdoor recreation and natural resource industries contribute significantly to economic activity throughout the county.",
-  "population": "4325"
-},
-
-"Bannock County": {
-  "description": "Bannock County serves as a major educational, healthcare, manufacturing, and commercial center in southeastern Idaho. Higher education institutions, healthcare providers, and industrial employers support a strong regional economy.",
-  "population": "90211"
-},
-
-"Bear Lake County": {
-  "description": "Bear Lake County is known for tourism, outdoor recreation, agriculture, and hospitality industries. Its scenic landscapes and recreational opportunities attract visitors while supporting local businesses and economic growth.",
-  "population": "6467"
-},
-
-"Benewah County": {
-  "description": "Benewah County combines forestry, agriculture, tourism, outdoor recreation, and manufacturing within northern Idaho. Natural resource industries and local businesses continue to support economic activity throughout the county.",
-  "population": "10198"
-},
-
-"Bingham County": {
-  "description": "Bingham County supports a diverse economy based on agriculture, food processing, energy production, manufacturing, and transportation. Farming operations and industrial employers contribute significantly to regional economic development.",
-  "population": "50148"
-},
-
-"Blaine County": {
-  "description": "Blaine County is internationally recognized for tourism, outdoor recreation, hospitality, and real estate development. Visitor spending, professional services, and recreation-based industries play major roles in the county's economy.",
-  "population": "25127"
-},
-
-"Boise County": {
-  "description": "Boise County features mountain communities, tourism attractions, outdoor recreation opportunities, and growing residential development. Hospitality, construction, and local services contribute to economic activity throughout the county.",
-  "population": "8257"
-},
-
-"Bonner County": {
-  "description": "Bonner County is known for tourism, outdoor recreation, healthcare services, forestry, and residential growth. Its lakes, forests, and recreational amenities support a diverse and expanding local economy.",
-  "population": "53378"
-},
-
-"Bonneville County": {
-  "description": "Bonneville County is one of Idaho's largest economic centers, supporting healthcare, education, technology, energy, manufacturing, and professional services. Continued population growth contributes to strong business and commercial development.",
-  "population": "131992"
-},
-"Boundary County": {
-  "description": "Boundary County is Idaho's northernmost county and supports an economy driven by forestry, tourism, outdoor recreation, agriculture, and local commerce. Its natural landscapes and resource industries contribute significantly to economic activity throughout the region.",
-  "population": "13792"
-},
-
-"Butte County": {
-  "description": "Butte County maintains a rural economy centered on agriculture, livestock production, energy-related industries, and local services. Farming and ranching operations continue to play important roles in supporting economic stability.",
-  "population": "2891"
-},
-
-"Camas County": {
-  "description": "Camas County is one of Idaho's least populated counties and supports a rural economy based on ranching, agriculture, tourism, and outdoor recreation. Local businesses and agricultural operations remain central to economic activity.",
-  "population": "1249"
-},
-
-"Canyon County": {
-  "description": "Canyon County is one of Idaho's fastest-growing counties, benefiting from manufacturing, agriculture, healthcare, logistics, retail development, and residential expansion. Continued population growth drives strong economic activity throughout the county.",
-  "population": "247323"
-},
-
-"Caribou County": {
-  "description": "Caribou County supports an economy driven by agriculture, mining, energy production, livestock operations, and local commerce. Natural resources and agribusiness remain important contributors to regional economic development.",
-  "population": "7424"
-},
-
-"Cassia County": {
-  "description": "Cassia County combines agriculture, food processing, manufacturing, transportation, and energy-related industries within a diversified southern Idaho economy. Farming and industrial employers provide significant employment opportunities.",
-  "population": "25410"
-},
-
-"Clark County": {
-  "description": "Clark County is Idaho's least populous county and supports a rural economy focused on ranching, agriculture, tourism, and outdoor recreation. Natural resource industries and community-based businesses contribute to local economic activity.",
-  "population": "790"
-},
-
-"Clearwater County": {
-  "description": "Clearwater County is known for its forests, outdoor recreation opportunities, tourism industry, and timber-related economy. Forestry, hospitality, and local commerce continue to support economic growth throughout the county.",
-  "population": "8853"
-},
-
-"Custer County": {
-  "description": "Custer County combines tourism, mining heritage, ranching, outdoor recreation, and local services within central Idaho. Visitor spending and natural resource industries contribute significantly to economic activity.",
-  "population": "4392"
-},
-
-"Elmore County": {
-  "description": "Elmore County benefits from military-related employment, agriculture, tourism, healthcare services, and transportation access. Its diverse economic base supports both residential growth and regional business development.",
-  "population": "29312"
-},
-"Franklin County": {
-  "description": "Franklin County supports a strong agricultural economy based on crop production, livestock operations, food processing, and agribusiness. Farming remains the primary economic driver, complemented by local businesses and community services.",
-  "population": "14689"
-},
-
-"Fremont County": {
-  "description": "Fremont County benefits from tourism, outdoor recreation, agriculture, hospitality, and retail activity. Its proximity to major natural attractions contributes significantly to visitor spending and economic growth.",
-  "population": "14278"
-},
-
-"Gem County": {
-  "description": "Gem County combines agriculture, manufacturing, healthcare, tourism, and residential development within a growing southwest Idaho economy. Continued population growth supports expanding business opportunities.",
-  "population": "19646"
-},
-
-"Gooding County": {
-  "description": "Gooding County supports a diversified economy based on agriculture, dairy production, food processing, healthcare, and transportation services. Agribusiness remains a cornerstone of economic activity throughout the county.",
-  "population": "15598"
-},
-
-"Idaho County": {
-  "description": "Idaho County is the largest county in Idaho by land area and supports an economy driven by forestry, agriculture, tourism, outdoor recreation, and natural resource industries. Its expansive landscapes contribute to both economic activity and visitor appeal.",
-  "population": "17487"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County combines agriculture, manufacturing, healthcare, education, and residential growth within eastern Idaho. Its strong workforce and expanding communities continue to support economic development.",
-  "population": "33901"
-},
-
-"Jerome County": {
-  "description": "Jerome County is a major agricultural and food-processing center in southern Idaho, supporting dairy operations, manufacturing, logistics, and healthcare services. Its diverse economy contributes significantly to regional employment.",
-  "population": "25584"
-},
-
-"Kootenai County": {
-  "description": "Kootenai County is one of Idaho's most dynamic economic centers, driven by tourism, healthcare, technology, construction, retail, and professional services. Continued residential and commercial growth strengthens its regional influence.",
-  "population": "183578"
-},
-
-"Latah County": {
-  "description": "Latah County serves as a major educational and research center in Idaho, supported by higher education, healthcare, technology, agriculture, and professional services. Its innovation-driven economy contributes to long-term growth.",
-  "population": "41020"
-},
-
-"Lemhi County": {
-  "description": "Lemhi County combines tourism, ranching, mining heritage, outdoor recreation, and local commerce within central Idaho. Visitor-related businesses and agricultural operations play important roles in the county's economy.",
-  "population": "8352"
-},
-"Lewis County": {
-  "description": "Lewis County supports a rural economy based on agriculture, livestock production, forestry, and local commerce. Farming operations and community-focused businesses continue to provide economic stability throughout the county.",
-  "population": "3864"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County combines agriculture, ranching, renewable energy development, healthcare services, and local business activity. Its agricultural heritage remains a key driver of economic growth and employment opportunities.",
-  "population": "5370"
-},
-
-"Madison County": {
-  "description": "Madison County serves as a major educational and economic center in eastern Idaho, supported by higher education, healthcare, agriculture, technology, and professional services. Its growing population contributes to continued business development.",
-  "population": "56412"
-},
-
-"Minidoka County": {
-  "description": "Minidoka County supports a diversified economy driven by agriculture, food processing, manufacturing, transportation, and healthcare services. Agribusiness remains a significant contributor to economic activity throughout the county.",
-  "population": "22481"
-},
-
-"Nez Perce County": {
-  "description": "Nez Perce County is one of north-central Idaho's leading economic centers, supporting healthcare, manufacturing, education, transportation, logistics, and professional services. Its regional influence contributes to strong economic growth.",
-  "population": "42429"
-},
-
-"Oneida County": {
-  "description": "Oneida County maintains a rural economy centered on agriculture, livestock production, agribusiness, and local commerce. Farming and ranching operations continue to support economic activity across the county.",
-  "population": "4694"
-},
-
-"Owyhee County": {
-  "description": "Owyhee County is Idaho's second-largest county by land area and supports an economy based on ranching, agriculture, mining, tourism, and outdoor recreation. Natural resources and agricultural enterprises remain important economic drivers.",
-  "population": "12787"
-},
-
-"Payette County": {
-  "description": "Payette County benefits from agriculture, food processing, manufacturing, healthcare services, and transportation access. Its diverse economy supports continued growth and workforce opportunities throughout the county.",
-  "population": "25726"
-},
-
-"Power County": {
-  "description": "Power County combines agriculture, food production, energy-related industries, transportation, and local commerce within a stable southern Idaho economy. Farming operations remain central to economic activity throughout the region.",
-  "population": "8238"
-},
-
-"Shoshone County": {
-  "description": "Shoshone County is known for its mining heritage, tourism attractions, outdoor recreation opportunities, and forestry resources. Hospitality, recreation, and natural resource industries contribute significantly to economic activity throughout the county.",
-  "population": "13467"
-},
-"Teton County": {
-  "description": "Teton County is one of Idaho's fastest-growing counties, known for outdoor recreation, tourism, hospitality, construction, and residential development. Its proximity to world-class recreation destinations continues to support strong economic growth and investment.",
-  "population": "12983"
-},
-
-"Twin Falls County": {
-  "description": "Twin Falls County is one of southern Idaho's largest economic centers, supporting agriculture, food processing, healthcare, manufacturing, education, retail, and professional services. Its diversified economy drives significant regional business activity.",
-  "population": "92845"
-},
-
-"Valley County": {
-  "description": "Valley County is a premier tourism and recreation destination known for mountain communities, outdoor adventure, hospitality, and real estate development. Visitor spending and service-based industries contribute substantially to the county's economy.",
-  "population": "13135"
-},
-
-"Washington County": {
-  "description": "Washington County maintains a rural economy centered on agriculture, ranching, agribusiness, healthcare services, and local commerce. Farming operations continue to provide the foundation for economic activity throughout the county.",
-  "population": "10613"
-}
+  "identity": {
+    "code": "id",
+    "slug": "idaho",
+    "name": "Idaho",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Ada County": {
+      "description": "Ada County is Idaho's most populous county and the economic center of the state. Technology, healthcare, finance, government services, education, logistics, and professional industries drive a diverse and rapidly expanding economy throughout the Boise metropolitan area.",
+      "population": "511931"
+    },
+    "Adams County": {
+      "description": "Adams County supports a rural economy centered on agriculture, ranching, forestry, tourism, and local commerce. Outdoor recreation and natural resource industries contribute significantly to economic activity throughout the county.",
+      "population": "4325"
+    },
+    "Bannock County": {
+      "description": "Bannock County serves as a major educational, healthcare, manufacturing, and commercial center in southeastern Idaho. Higher education institutions, healthcare providers, and industrial employers support a strong regional economy.",
+      "population": "90211"
+    },
+    "Bear Lake County": {
+      "description": "Bear Lake County is known for tourism, outdoor recreation, agriculture, and hospitality industries. Its scenic landscapes and recreational opportunities attract visitors while supporting local businesses and economic growth.",
+      "population": "6467"
+    },
+    "Benewah County": {
+      "description": "Benewah County combines forestry, agriculture, tourism, outdoor recreation, and manufacturing within northern Idaho. Natural resource industries and local businesses continue to support economic activity throughout the county.",
+      "population": "10198"
+    },
+    "Bingham County": {
+      "description": "Bingham County supports a diverse economy based on agriculture, food processing, energy production, manufacturing, and transportation. Farming operations and industrial employers contribute significantly to regional economic development.",
+      "population": "50148"
+    },
+    "Blaine County": {
+      "description": "Blaine County is internationally recognized for tourism, outdoor recreation, hospitality, and real estate development. Visitor spending, professional services, and recreation-based industries play major roles in the county's economy.",
+      "population": "25127"
+    },
+    "Boise County": {
+      "description": "Boise County features mountain communities, tourism attractions, outdoor recreation opportunities, and growing residential development. Hospitality, construction, and local services contribute to economic activity throughout the county.",
+      "population": "8257"
+    },
+    "Bonner County": {
+      "description": "Bonner County is known for tourism, outdoor recreation, healthcare services, forestry, and residential growth. Its lakes, forests, and recreational amenities support a diverse and expanding local economy.",
+      "population": "53378"
+    },
+    "Bonneville County": {
+      "description": "Bonneville County is one of Idaho's largest economic centers, supporting healthcare, education, technology, energy, manufacturing, and professional services. Continued population growth contributes to strong business and commercial development.",
+      "population": "131992"
+    },
+    "Boundary County": {
+      "description": "Boundary County is Idaho's northernmost county and supports an economy driven by forestry, tourism, outdoor recreation, agriculture, and local commerce. Its natural landscapes and resource industries contribute significantly to economic activity throughout the region.",
+      "population": "13792"
+    },
+    "Butte County": {
+      "description": "Butte County maintains a rural economy centered on agriculture, livestock production, energy-related industries, and local services. Farming and ranching operations continue to play important roles in supporting economic stability.",
+      "population": "2891"
+    },
+    "Camas County": {
+      "description": "Camas County is one of Idaho's least populated counties and supports a rural economy based on ranching, agriculture, tourism, and outdoor recreation. Local businesses and agricultural operations remain central to economic activity.",
+      "population": "1249"
+    },
+    "Canyon County": {
+      "description": "Canyon County is one of Idaho's fastest-growing counties, benefiting from manufacturing, agriculture, healthcare, logistics, retail development, and residential expansion. Continued population growth drives strong economic activity throughout the county.",
+      "population": "247323"
+    },
+    "Caribou County": {
+      "description": "Caribou County supports an economy driven by agriculture, mining, energy production, livestock operations, and local commerce. Natural resources and agribusiness remain important contributors to regional economic development.",
+      "population": "7424"
+    },
+    "Cassia County": {
+      "description": "Cassia County combines agriculture, food processing, manufacturing, transportation, and energy-related industries within a diversified southern Idaho economy. Farming and industrial employers provide significant employment opportunities.",
+      "population": "25410"
+    },
+    "Clark County": {
+      "description": "Clark County is Idaho's least populous county and supports a rural economy focused on ranching, agriculture, tourism, and outdoor recreation. Natural resource industries and community-based businesses contribute to local economic activity.",
+      "population": "790"
+    },
+    "Clearwater County": {
+      "description": "Clearwater County is known for its forests, outdoor recreation opportunities, tourism industry, and timber-related economy. Forestry, hospitality, and local commerce continue to support economic growth throughout the county.",
+      "population": "8853"
+    },
+    "Custer County": {
+      "description": "Custer County combines tourism, mining heritage, ranching, outdoor recreation, and local services within central Idaho. Visitor spending and natural resource industries contribute significantly to economic activity.",
+      "population": "4392"
+    },
+    "Elmore County": {
+      "description": "Elmore County benefits from military-related employment, agriculture, tourism, healthcare services, and transportation access. Its diverse economic base supports both residential growth and regional business development.",
+      "population": "29312"
+    },
+    "Franklin County": {
+      "description": "Franklin County supports a strong agricultural economy based on crop production, livestock operations, food processing, and agribusiness. Farming remains the primary economic driver, complemented by local businesses and community services.",
+      "population": "14689"
+    },
+    "Fremont County": {
+      "description": "Fremont County benefits from tourism, outdoor recreation, agriculture, hospitality, and retail activity. Its proximity to major natural attractions contributes significantly to visitor spending and economic growth.",
+      "population": "14278"
+    },
+    "Gem County": {
+      "description": "Gem County combines agriculture, manufacturing, healthcare, tourism, and residential development within a growing southwest Idaho economy. Continued population growth supports expanding business opportunities.",
+      "population": "19646"
+    },
+    "Gooding County": {
+      "description": "Gooding County supports a diversified economy based on agriculture, dairy production, food processing, healthcare, and transportation services. Agribusiness remains a cornerstone of economic activity throughout the county.",
+      "population": "15598"
+    },
+    "Idaho County": {
+      "description": "Idaho County is the largest county in Idaho by land area and supports an economy driven by forestry, agriculture, tourism, outdoor recreation, and natural resource industries. Its expansive landscapes contribute to both economic activity and visitor appeal.",
+      "population": "17487"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County combines agriculture, manufacturing, healthcare, education, and residential growth within eastern Idaho. Its strong workforce and expanding communities continue to support economic development.",
+      "population": "33901"
+    },
+    "Jerome County": {
+      "description": "Jerome County is a major agricultural and food-processing center in southern Idaho, supporting dairy operations, manufacturing, logistics, and healthcare services. Its diverse economy contributes significantly to regional employment.",
+      "population": "25584"
+    },
+    "Kootenai County": {
+      "description": "Kootenai County is one of Idaho's most dynamic economic centers, driven by tourism, healthcare, technology, construction, retail, and professional services. Continued residential and commercial growth strengthens its regional influence.",
+      "population": "183578"
+    },
+    "Latah County": {
+      "description": "Latah County serves as a major educational and research center in Idaho, supported by higher education, healthcare, technology, agriculture, and professional services. Its innovation-driven economy contributes to long-term growth.",
+      "population": "41020"
+    },
+    "Lemhi County": {
+      "description": "Lemhi County combines tourism, ranching, mining heritage, outdoor recreation, and local commerce within central Idaho. Visitor-related businesses and agricultural operations play important roles in the county's economy.",
+      "population": "8352"
+    },
+    "Lewis County": {
+      "description": "Lewis County supports a rural economy based on agriculture, livestock production, forestry, and local commerce. Farming operations and community-focused businesses continue to provide economic stability throughout the county.",
+      "population": "3864"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County combines agriculture, ranching, renewable energy development, healthcare services, and local business activity. Its agricultural heritage remains a key driver of economic growth and employment opportunities.",
+      "population": "5370"
+    },
+    "Madison County": {
+      "description": "Madison County serves as a major educational and economic center in eastern Idaho, supported by higher education, healthcare, agriculture, technology, and professional services. Its growing population contributes to continued business development.",
+      "population": "56412"
+    },
+    "Minidoka County": {
+      "description": "Minidoka County supports a diversified economy driven by agriculture, food processing, manufacturing, transportation, and healthcare services. Agribusiness remains a significant contributor to economic activity throughout the county.",
+      "population": "22481"
+    },
+    "Nez Perce County": {
+      "description": "Nez Perce County is one of north-central Idaho's leading economic centers, supporting healthcare, manufacturing, education, transportation, logistics, and professional services. Its regional influence contributes to strong economic growth.",
+      "population": "42429"
+    },
+    "Oneida County": {
+      "description": "Oneida County maintains a rural economy centered on agriculture, livestock production, agribusiness, and local commerce. Farming and ranching operations continue to support economic activity across the county.",
+      "population": "4694"
+    },
+    "Owyhee County": {
+      "description": "Owyhee County is Idaho's second-largest county by land area and supports an economy based on ranching, agriculture, mining, tourism, and outdoor recreation. Natural resources and agricultural enterprises remain important economic drivers.",
+      "population": "12787"
+    },
+    "Payette County": {
+      "description": "Payette County benefits from agriculture, food processing, manufacturing, healthcare services, and transportation access. Its diverse economy supports continued growth and workforce opportunities throughout the county.",
+      "population": "25726"
+    },
+    "Power County": {
+      "description": "Power County combines agriculture, food production, energy-related industries, transportation, and local commerce within a stable southern Idaho economy. Farming operations remain central to economic activity throughout the region.",
+      "population": "8238"
+    },
+    "Shoshone County": {
+      "description": "Shoshone County is known for its mining heritage, tourism attractions, outdoor recreation opportunities, and forestry resources. Hospitality, recreation, and natural resource industries contribute significantly to economic activity throughout the county.",
+      "population": "13467"
+    },
+    "Teton County": {
+      "description": "Teton County is one of Idaho's fastest-growing counties, known for outdoor recreation, tourism, hospitality, construction, and residential development. Its proximity to world-class recreation destinations continues to support strong economic growth and investment.",
+      "population": "12983"
+    },
+    "Twin Falls County": {
+      "description": "Twin Falls County is one of southern Idaho's largest economic centers, supporting agriculture, food processing, healthcare, manufacturing, education, retail, and professional services. Its diversified economy drives significant regional business activity.",
+      "population": "92845"
+    },
+    "Valley County": {
+      "description": "Valley County is a premier tourism and recreation destination known for mountain communities, outdoor adventure, hospitality, and real estate development. Visitor spending and service-based industries contribute substantially to the county's economy.",
+      "population": "13135"
+    },
+    "Washington County": {
+      "description": "Washington County maintains a rural economy centered on agriculture, ranching, agribusiness, healthcare services, and local commerce. Farming operations continue to provide the foundation for economic activity throughout the county.",
+      "population": "10613"
+    }
+  }
 }

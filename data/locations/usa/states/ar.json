@@ -1,369 +1,311 @@
 {
-"Arkansas County": {
-  "description": "Arkansas County is one of the state's oldest counties and is known for its strong agricultural economy, extensive farmland, and rich natural resources. Farming, hunting tourism, and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "17149"
-},
-
-"Ashley County": {
-  "description": "Ashley County is located in southeastern Arkansas and supports a diverse economy centered on timber production, agriculture, manufacturing, and healthcare services. Its rural communities maintain strong ties to the region's natural resources.",
-  "population": "19062"
-},
-
-"Baxter County": {
-  "description": "Baxter County is a popular destination for retirees, outdoor enthusiasts, and visitors seeking access to lakes, rivers, and recreational opportunities. Tourism, healthcare, and retail services play important roles in the local economy.",
-  "population": "42628"
-},
-
-"Benton County": {
-  "description": "Benton County is one of the fastest-growing counties in Arkansas and serves as a major economic center within Northwest Arkansas. Corporate headquarters, technology firms, retail development, and residential growth continue to drive expansion throughout the county.",
-  "population": "307471"
-},
-
-"Boone County": {
-  "description": "Boone County is located in the Ozark Mountains and is known for its scenic landscapes, outdoor recreation opportunities, and growing tourism industry. Healthcare, education, and local businesses support the county's economy.",
-  "population": "37809"
-},
-
-"Bradley County": {
-  "description": "Bradley County maintains a strong connection to Arkansas' timber and manufacturing industries. Forestry operations, healthcare services, and local commerce contribute to a stable economic base throughout the county.",
-  "population": "10358"
-},
-
-"Calhoun County": {
-  "description": "Calhoun County is characterized by its forest resources, rural communities, and agricultural heritage. Timber production and local businesses remain important contributors to economic activity within the county.",
-  "population": "4742"
-},
-
-"Carroll County": {
-  "description": "Carroll County combines scenic mountain landscapes, tourism attractions, and historic communities in northwestern Arkansas. Hospitality, retail, agriculture, and recreation-related industries support the local economy.",
-  "population": "28259"
-},
-
-"Chicot County": {
-  "description": "Chicot County is situated along the Mississippi River and benefits from fertile agricultural land, outdoor recreation opportunities, and regional transportation access. Farming remains a cornerstone of the county's economy.",
-  "population": "10035"
-},
-
-"Clark County": {
-  "description": "Clark County supports a mix of higher education, manufacturing, healthcare, and agriculture. Its central location and established communities contribute to a balanced and resilient local economy.",
-  "population": "21646"
-},
-"Clay County": {
-  "description": "Clay County is located in northeastern Arkansas and is known for its productive agricultural land, farming operations, and rural communities. Agriculture remains the primary economic driver, supported by local businesses and regional trade.",
-  "population": "14526"
-},
-
-"Cleburne County": {
-  "description": "Cleburne County is centered around outdoor recreation opportunities, scenic landscapes, and one of Arkansas' most popular lakes. Tourism, healthcare, retail, and residential development contribute to the county's economy.",
-  "population": "25970"
-},
-
-"Cleveland County": {
-  "description": "Cleveland County features extensive timber resources, agricultural operations, and small-town communities. Forestry, farming, and local commerce continue to support economic activity throughout the county.",
-  "population": "7580"
-},
-
-"Columbia County": {
-  "description": "Columbia County benefits from a diversified economy that includes energy production, manufacturing, healthcare, and agriculture. Its strategic location in southern Arkansas supports business activity and regional connectivity.",
-  "population": "22611"
-},
-
-"Conway County": {
-  "description": "Conway County combines agricultural productivity, manufacturing, and transportation access in central Arkansas. Its communities support a balanced economy driven by farming, industry, and local commerce.",
-  "population": "20596"
-},
-
-"Craighead County": {
-  "description": "Craighead County is one of northeastern Arkansas' leading economic centers, anchored by healthcare, education, manufacturing, and retail development. Population growth and business investment continue to strengthen the county's regional influence.",
-  "population": "111231"
-},
-
-"Crawford County": {
-  "description": "Crawford County is part of the rapidly growing Arkansas River Valley region and benefits from transportation infrastructure, manufacturing, healthcare, and residential growth. Its proximity to major employment centers supports continued development.",
-  "population": "66834"
-},
-
-"Crittenden County": {
-  "description": "Crittenden County occupies a strategic location along the Mississippi River near Memphis, creating opportunities in transportation, logistics, agriculture, and commerce. The county serves as an important economic gateway for eastern Arkansas.",
-  "population": "47422"
-},
-
-"Cross County": {
-  "description": "Cross County is characterized by fertile farmland, agricultural production, and strong community ties. Farming operations, agribusinesses, and local services remain central to the county's economy.",
-  "population": "16487"
-},
-
-"Dallas County": {
-  "description": "Dallas County supports a rural economy built on forestry, agriculture, and local commerce. Its natural resources and longstanding agricultural traditions continue to influence economic activity across the county.",
-  "population": "6178"
-},
-"Desha County": {
-  "description": "Desha County is located in southeastern Arkansas and benefits from fertile Delta farmland, river access, and a strong agricultural economy. Farming, agribusiness, and transportation-related industries support local communities throughout the county.",
-  "population": "10645"
-},
-
-"Drew County": {
-  "description": "Drew County serves as an educational and commercial center for southeastern Arkansas. Higher education, healthcare, agriculture, and local businesses contribute to a diversified and stable economy.",
-  "population": "17318"
-},
-
-"Faulkner County": {
-  "description": "Faulkner County is one of the fastest-growing counties in Arkansas, driven by expanding residential communities, higher education institutions, healthcare facilities, and commercial development. Its strategic location near Little Rock continues to attract new residents and businesses.",
-  "population": "135230"
-},
-
-"Franklin County": {
-  "description": "Franklin County combines scenic mountain landscapes, agricultural production, and manufacturing activity in western Arkansas. Tourism, farming, and local industry support economic growth throughout the county.",
-  "population": "17173"
-},
-
-"Fulton County": {
-  "description": "Fulton County is known for its rolling hills, outdoor recreation opportunities, and rural communities. Agriculture, tourism, and small businesses contribute to the county's economic foundation.",
-  "population": "12459"
-},
-
-"Garland County": {
-  "description": "Garland County is a major tourism destination anchored by Hot Springs and its hospitality industry. Healthcare, retail, tourism, and service-related businesses play significant roles in the local economy.",
-  "population": "101147"
-},
-
-"Grant County": {
-  "description": "Grant County supports a growing residential population while maintaining strong agricultural and forestry traditions. Its proximity to central Arkansas employment centers contributes to steady economic development.",
-  "population": "18640"
-},
-
-"Greene County": {
-  "description": "Greene County is one of northeastern Arkansas' fastest-growing counties and supports manufacturing, healthcare, education, and agricultural industries. Continued business investment and residential expansion strengthen the county's economy.",
-  "population": "47078"
-},
-
-"Hempstead County": {
-  "description": "Hempstead County combines agriculture, manufacturing, education, and transportation access within a diverse regional economy. Its communities continue to benefit from a mix of traditional industries and new business development.",
-  "population": "20128"
-},
-
-"Hot Spring County": {
-  "description": "Hot Spring County features manufacturing operations, healthcare services, and growing residential communities in central Arkansas. Its location along key transportation routes supports economic activity and business growth.",
-  "population": "33148"
-},
-"Howard County": {
-  "description": "Howard County is located in southwestern Arkansas and supports a diverse economy based on agriculture, poultry production, manufacturing, and local commerce. Its communities benefit from strong regional connections and a stable business environment.",
-  "population": "12457"
-},
-
-"Independence County": {
-  "description": "Independence County serves as an educational, healthcare, and commercial center for north-central Arkansas. The county combines historic communities, higher education institutions, and a growing local economy.",
-  "population": "38418"
-},
-
-"Izard County": {
-  "description": "Izard County is known for its scenic Ozark landscapes, outdoor recreation opportunities, and rural lifestyle. Agriculture, tourism, and small businesses contribute to economic activity throughout the county.",
-  "population": "13577"
-},
-
-"Jackson County": {
-  "description": "Jackson County features fertile agricultural land, farming operations, and strong community traditions. Agriculture remains the primary economic driver, supported by agribusiness and local commerce.",
-  "population": "16571"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is a major economic center in southeastern Arkansas, supported by manufacturing, healthcare, education, transportation, and government services. Its urban communities play an important role in the regional economy.",
-  "population": "67005"
-},
-
-"Johnson County": {
-  "description": "Johnson County combines mountain scenery, outdoor recreation, agriculture, and higher education. Tourism, farming, and local businesses help support a diverse and stable economy.",
-  "population": "26578"
-},
-
-"Lafayette County": {
-  "description": "Lafayette County is characterized by agricultural production, timber resources, and rural communities. Forestry, farming, and local services remain central to the county's economic foundation.",
-  "population": "6164"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County supports a balanced economy driven by agriculture, manufacturing, healthcare, and local commerce. Its established communities provide a stable environment for residents and businesses alike.",
-  "population": "16139"
-},
-
-"Lee County": {
-  "description": "Lee County is located in the Arkansas Delta and is known for its agricultural heritage, fertile farmland, and strong community connections. Farming and related industries continue to play a vital role in the local economy.",
-  "population": "8165"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County combines agricultural production, government employment, and local business activity within southeastern Arkansas. Its economy benefits from farming operations and regional service industries.",
-  "population": "12941"
-},
-"Little River County": {
-  "description": "Little River County is situated in southwestern Arkansas and benefits from agriculture, timber resources, manufacturing, and transportation access. Its communities maintain strong economic ties to regional markets and neighboring states.",
-  "population": "11802"
-},
-
-"Logan County": {
-  "description": "Logan County combines agricultural production, outdoor recreation, and manufacturing within the Arkansas River Valley region. Farming, local businesses, and tourism contribute to the county's economic stability.",
-  "population": "21735"
-},
-
-"Lonoke County": {
-  "description": "Lonoke County is one of central Arkansas' fastest-growing counties, supported by expanding residential communities, agriculture, logistics, and commercial development. Its proximity to Little Rock continues to attract families and businesses.",
-  "population": "76953"
-},
-
-"Madison County": {
-  "description": "Madison County is known for its scenic Ozark Mountain landscapes, outdoor recreation opportunities, and agricultural heritage. Tourism, farming, and small businesses support the county's economy and quality of life.",
-  "population": "16807"
-},
-
-"Marion County": {
-  "description": "Marion County features beautiful mountain scenery, lakes, and recreational destinations that attract visitors year-round. Tourism, healthcare, agriculture, and local commerce contribute to economic activity throughout the county.",
-  "population": "16790"
-},
-
-"Miller County": {
-  "description": "Miller County serves as a regional transportation, healthcare, and commercial hub in southwestern Arkansas. Its strategic location near state borders supports trade, manufacturing, and business development.",
-  "population": "43454"
-},
-
-"Mississippi County": {
-  "description": "Mississippi County is one of Arkansas' leading agricultural and manufacturing regions, benefiting from fertile Delta farmland and significant industrial investment. Farming, steel production, logistics, and commerce drive the local economy.",
-  "population": "38742"
-},
-
-"Monroe County": {
-  "description": "Monroe County is characterized by rich agricultural land, hunting opportunities, and strong rural traditions. Farming and agribusiness remain the primary economic engines supporting local communities.",
-  "population": "6571"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County is located in the Ouachita Mountains and offers abundant outdoor recreation, tourism attractions, and natural resources. Hospitality, forestry, and local businesses contribute to the county's economy.",
-  "population": "8227"
-},
-
-"Nevada County": {
-  "description": "Nevada County supports a mix of agriculture, manufacturing, and local commerce within southwestern Arkansas. Its established communities and transportation access help maintain economic activity throughout the region.",
-  "population": "8241"
-},
-"Newton County": {
-  "description": "Newton County is located in the heart of the Ozark Mountains and is known for its rugged natural beauty, outdoor recreation opportunities, and tourism appeal. Hospitality, small businesses, and visitor-related services contribute to the county's economy.",
-  "population": "7704"
-},
-
-"Ouachita County": {
-  "description": "Ouachita County supports a diverse economy driven by manufacturing, healthcare, education, and local commerce. Its established communities and industrial base continue to provide employment opportunities throughout south Arkansas.",
-  "population": "22261"
-},
-
-"Perry County": {
-  "description": "Perry County combines rural landscapes, agricultural operations, and growing residential communities within central Arkansas. Agriculture, forestry, and local businesses remain important economic contributors.",
-  "population": "10196"
-},
-
-"Phillips County": {
-  "description": "Phillips County is located within the Arkansas Delta and has a long history of agricultural production, river commerce, and cultural significance. Farming, healthcare, and regional services support the county's economy.",
-  "population": "15942"
-},
-
-"Pike County": {
-  "description": "Pike County is internationally known for its diamond-bearing geology and outdoor recreation opportunities. Tourism, forestry, agriculture, and local commerce contribute to economic activity throughout the county.",
-  "population": "10041"
-},
-
-"Poinsett County": {
-  "description": "Poinsett County benefits from fertile farmland, agricultural production, and manufacturing operations. Farming, agribusiness, and local industries continue to play key roles in supporting the county's economy.",
-  "population": "22954"
-},
-
-"Polk County": {
-  "description": "Polk County is surrounded by scenic mountain landscapes and outdoor recreation destinations in western Arkansas. Tourism, healthcare, forestry, and retail services support economic growth across the county.",
-  "population": "19632"
-},
-
-"Pope County": {
-  "description": "Pope County is one of the fastest-growing counties in Arkansas, supported by higher education, manufacturing, healthcare, and commercial development. Its strategic location along Interstate 40 continues to attract investment and population growth.",
-  "population": "66596"
-},
-
-"Prairie County": {
-  "description": "Prairie County is known for its productive agricultural land, waterfowl habitat, and rural communities. Farming and related industries remain the foundation of economic activity throughout the county.",
-  "population": "8064"
-},
-
-"Pulaski County": {
-  "description": "Pulaski County is Arkansas' most populous county and serves as the state's governmental, healthcare, financial, and commercial center. Anchored by Little Rock, the county supports a diverse economy with strong public and private sector employment.",
-  "population": "399125"
-},
-"Randolph County": {
-  "description": "Randolph County is located in northeastern Arkansas and is known for its agricultural production, outdoor recreation opportunities, and historic communities. Farming, manufacturing, and local businesses support the county's economy.",
-  "population": "17681"
-},
-
-"St. Francis County": {
-  "description": "St. Francis County occupies a strategic location in eastern Arkansas and benefits from agriculture, transportation access, and regional commerce. Farming and agribusiness remain major contributors to local economic activity.",
-  "population": "23090"
-},
-
-"Saline County": {
-  "description": "Saline County is one of central Arkansas' fastest-growing counties, featuring expanding residential communities, healthcare facilities, retail development, and manufacturing operations. Its proximity to Little Rock continues to drive growth and investment.",
-  "population": "128523"
-},
-
-"Scott County": {
-  "description": "Scott County is situated within the Ouachita Mountains and offers scenic landscapes, outdoor recreation opportunities, and a strong connection to agriculture and forestry. Tourism and local businesses contribute to the county's economy.",
-  "population": "9483"
-},
-
-"Searcy County": {
-  "description": "Searcy County is known for its rugged Ozark terrain, natural attractions, and outdoor recreation opportunities. Tourism, agriculture, and small businesses support economic activity throughout the county.",
-  "population": "7802"
-},
-
-"Sebastian County": {
-  "description": "Sebastian County is a major economic center in western Arkansas, anchored by manufacturing, healthcare, education, logistics, and retail industries. Its urban communities play a significant role in regional economic development.",
-  "population": "131927"
-},
-
-"Sevier County": {
-  "description": "Sevier County combines agriculture, manufacturing, and tourism within a diverse local economy. Its strategic location and growing business activity support employment opportunities throughout the region.",
-  "population": "15839"
-},
-
-"Sharp County": {
-  "description": "Sharp County features scenic landscapes, recreational opportunities, and a growing retirement population. Tourism, healthcare, retail services, and local businesses contribute to the county's economy.",
-  "population": "17184"
-},
-
-"Stone County": {
-  "description": "Stone County is characterized by rolling hills, natural beauty, and outdoor recreation opportunities in north-central Arkansas. Tourism, agriculture, and small businesses provide economic support for local communities.",
-  "population": "12394"
-},
-
-"Union County": {
-  "description": "Union County is a significant industrial and healthcare center in southern Arkansas. Energy production, manufacturing, education, and medical services continue to drive economic activity throughout the county.",
-  "population": "39054"
-},
-"Van Buren County": {
-  "description": "Van Buren County is known for its scenic Ozark landscapes, outdoor recreation opportunities, and growing tourism industry. Fishing, boating, hospitality services, and local businesses contribute significantly to the county's economy.",
-  "population": "15824"
-},
-
-"Washington County": {
-  "description": "Washington County is one of Arkansas' most dynamic and rapidly growing counties, anchored by higher education, technology, healthcare, retail, and corporate investment. Its role within the Northwest Arkansas region continues to drive strong economic and population growth.",
-  "population": "256083"
-},
-
-"White County": {
-  "description": "White County supports a diverse economy that includes manufacturing, healthcare, education, agriculture, and commercial development. Its central location and growing communities make it an important regional center within Arkansas.",
-  "population": "80577"
-},
-
-"Woodruff County": {
-  "description": "Woodruff County is characterized by fertile Delta farmland, agricultural production, and strong rural traditions. Farming and agribusiness remain the foundation of economic activity throughout the county.",
-  "population": "6041"
-},
-
-"Yell County": {
-  "description": "Yell County combines agricultural productivity, outdoor recreation, and manufacturing activity within western Arkansas. Its communities benefit from a balanced economy supported by farming, local businesses, and regional commerce.",
-  "population": "20987"
-}
+  "identity": {
+    "code": "ar",
+    "slug": "arkansas",
+    "name": "Arkansas",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Arkansas County": {
+      "description": "Arkansas County is one of the state's oldest counties and is known for its strong agricultural economy, extensive farmland, and rich natural resources. Farming, hunting tourism, and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "17149"
+    },
+    "Ashley County": {
+      "description": "Ashley County is located in southeastern Arkansas and supports a diverse economy centered on timber production, agriculture, manufacturing, and healthcare services. Its rural communities maintain strong ties to the region's natural resources.",
+      "population": "19062"
+    },
+    "Baxter County": {
+      "description": "Baxter County is a popular destination for retirees, outdoor enthusiasts, and visitors seeking access to lakes, rivers, and recreational opportunities. Tourism, healthcare, and retail services play important roles in the local economy.",
+      "population": "42628"
+    },
+    "Benton County": {
+      "description": "Benton County is one of the fastest-growing counties in Arkansas and serves as a major economic center within Northwest Arkansas. Corporate headquarters, technology firms, retail development, and residential growth continue to drive expansion throughout the county.",
+      "population": "307471"
+    },
+    "Boone County": {
+      "description": "Boone County is located in the Ozark Mountains and is known for its scenic landscapes, outdoor recreation opportunities, and growing tourism industry. Healthcare, education, and local businesses support the county's economy.",
+      "population": "37809"
+    },
+    "Bradley County": {
+      "description": "Bradley County maintains a strong connection to Arkansas' timber and manufacturing industries. Forestry operations, healthcare services, and local commerce contribute to a stable economic base throughout the county.",
+      "population": "10358"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County is characterized by its forest resources, rural communities, and agricultural heritage. Timber production and local businesses remain important contributors to economic activity within the county.",
+      "population": "4742"
+    },
+    "Carroll County": {
+      "description": "Carroll County combines scenic mountain landscapes, tourism attractions, and historic communities in northwestern Arkansas. Hospitality, retail, agriculture, and recreation-related industries support the local economy.",
+      "population": "28259"
+    },
+    "Chicot County": {
+      "description": "Chicot County is situated along the Mississippi River and benefits from fertile agricultural land, outdoor recreation opportunities, and regional transportation access. Farming remains a cornerstone of the county's economy.",
+      "population": "10035"
+    },
+    "Clark County": {
+      "description": "Clark County supports a mix of higher education, manufacturing, healthcare, and agriculture. Its central location and established communities contribute to a balanced and resilient local economy.",
+      "population": "21646"
+    },
+    "Clay County": {
+      "description": "Clay County is located in northeastern Arkansas and is known for its productive agricultural land, farming operations, and rural communities. Agriculture remains the primary economic driver, supported by local businesses and regional trade.",
+      "population": "14526"
+    },
+    "Cleburne County": {
+      "description": "Cleburne County is centered around outdoor recreation opportunities, scenic landscapes, and one of Arkansas' most popular lakes. Tourism, healthcare, retail, and residential development contribute to the county's economy.",
+      "population": "25970"
+    },
+    "Cleveland County": {
+      "description": "Cleveland County features extensive timber resources, agricultural operations, and small-town communities. Forestry, farming, and local commerce continue to support economic activity throughout the county.",
+      "population": "7580"
+    },
+    "Columbia County": {
+      "description": "Columbia County benefits from a diversified economy that includes energy production, manufacturing, healthcare, and agriculture. Its strategic location in southern Arkansas supports business activity and regional connectivity.",
+      "population": "22611"
+    },
+    "Conway County": {
+      "description": "Conway County combines agricultural productivity, manufacturing, and transportation access in central Arkansas. Its communities support a balanced economy driven by farming, industry, and local commerce.",
+      "population": "20596"
+    },
+    "Craighead County": {
+      "description": "Craighead County is one of northeastern Arkansas' leading economic centers, anchored by healthcare, education, manufacturing, and retail development. Population growth and business investment continue to strengthen the county's regional influence.",
+      "population": "111231"
+    },
+    "Crawford County": {
+      "description": "Crawford County is part of the rapidly growing Arkansas River Valley region and benefits from transportation infrastructure, manufacturing, healthcare, and residential growth. Its proximity to major employment centers supports continued development.",
+      "population": "66834"
+    },
+    "Crittenden County": {
+      "description": "Crittenden County occupies a strategic location along the Mississippi River near Memphis, creating opportunities in transportation, logistics, agriculture, and commerce. The county serves as an important economic gateway for eastern Arkansas.",
+      "population": "47422"
+    },
+    "Cross County": {
+      "description": "Cross County is characterized by fertile farmland, agricultural production, and strong community ties. Farming operations, agribusinesses, and local services remain central to the county's economy.",
+      "population": "16487"
+    },
+    "Dallas County": {
+      "description": "Dallas County supports a rural economy built on forestry, agriculture, and local commerce. Its natural resources and longstanding agricultural traditions continue to influence economic activity across the county.",
+      "population": "6178"
+    },
+    "Desha County": {
+      "description": "Desha County is located in southeastern Arkansas and benefits from fertile Delta farmland, river access, and a strong agricultural economy. Farming, agribusiness, and transportation-related industries support local communities throughout the county.",
+      "population": "10645"
+    },
+    "Drew County": {
+      "description": "Drew County serves as an educational and commercial center for southeastern Arkansas. Higher education, healthcare, agriculture, and local businesses contribute to a diversified and stable economy.",
+      "population": "17318"
+    },
+    "Faulkner County": {
+      "description": "Faulkner County is one of the fastest-growing counties in Arkansas, driven by expanding residential communities, higher education institutions, healthcare facilities, and commercial development. Its strategic location near Little Rock continues to attract new residents and businesses.",
+      "population": "135230"
+    },
+    "Franklin County": {
+      "description": "Franklin County combines scenic mountain landscapes, agricultural production, and manufacturing activity in western Arkansas. Tourism, farming, and local industry support economic growth throughout the county.",
+      "population": "17173"
+    },
+    "Fulton County": {
+      "description": "Fulton County is known for its rolling hills, outdoor recreation opportunities, and rural communities. Agriculture, tourism, and small businesses contribute to the county's economic foundation.",
+      "population": "12459"
+    },
+    "Garland County": {
+      "description": "Garland County is a major tourism destination anchored by Hot Springs and its hospitality industry. Healthcare, retail, tourism, and service-related businesses play significant roles in the local economy.",
+      "population": "101147"
+    },
+    "Grant County": {
+      "description": "Grant County supports a growing residential population while maintaining strong agricultural and forestry traditions. Its proximity to central Arkansas employment centers contributes to steady economic development.",
+      "population": "18640"
+    },
+    "Greene County": {
+      "description": "Greene County is one of northeastern Arkansas' fastest-growing counties and supports manufacturing, healthcare, education, and agricultural industries. Continued business investment and residential expansion strengthen the county's economy.",
+      "population": "47078"
+    },
+    "Hempstead County": {
+      "description": "Hempstead County combines agriculture, manufacturing, education, and transportation access within a diverse regional economy. Its communities continue to benefit from a mix of traditional industries and new business development.",
+      "population": "20128"
+    },
+    "Hot Spring County": {
+      "description": "Hot Spring County features manufacturing operations, healthcare services, and growing residential communities in central Arkansas. Its location along key transportation routes supports economic activity and business growth.",
+      "population": "33148"
+    },
+    "Howard County": {
+      "description": "Howard County is located in southwestern Arkansas and supports a diverse economy based on agriculture, poultry production, manufacturing, and local commerce. Its communities benefit from strong regional connections and a stable business environment.",
+      "population": "12457"
+    },
+    "Independence County": {
+      "description": "Independence County serves as an educational, healthcare, and commercial center for north-central Arkansas. The county combines historic communities, higher education institutions, and a growing local economy.",
+      "population": "38418"
+    },
+    "Izard County": {
+      "description": "Izard County is known for its scenic Ozark landscapes, outdoor recreation opportunities, and rural lifestyle. Agriculture, tourism, and small businesses contribute to economic activity throughout the county.",
+      "population": "13577"
+    },
+    "Jackson County": {
+      "description": "Jackson County features fertile agricultural land, farming operations, and strong community traditions. Agriculture remains the primary economic driver, supported by agribusiness and local commerce.",
+      "population": "16571"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is a major economic center in southeastern Arkansas, supported by manufacturing, healthcare, education, transportation, and government services. Its urban communities play an important role in the regional economy.",
+      "population": "67005"
+    },
+    "Johnson County": {
+      "description": "Johnson County combines mountain scenery, outdoor recreation, agriculture, and higher education. Tourism, farming, and local businesses help support a diverse and stable economy.",
+      "population": "26578"
+    },
+    "Lafayette County": {
+      "description": "Lafayette County is characterized by agricultural production, timber resources, and rural communities. Forestry, farming, and local services remain central to the county's economic foundation.",
+      "population": "6164"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County supports a balanced economy driven by agriculture, manufacturing, healthcare, and local commerce. Its established communities provide a stable environment for residents and businesses alike.",
+      "population": "16139"
+    },
+    "Lee County": {
+      "description": "Lee County is located in the Arkansas Delta and is known for its agricultural heritage, fertile farmland, and strong community connections. Farming and related industries continue to play a vital role in the local economy.",
+      "population": "8165"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County combines agricultural production, government employment, and local business activity within southeastern Arkansas. Its economy benefits from farming operations and regional service industries.",
+      "population": "12941"
+    },
+    "Little River County": {
+      "description": "Little River County is situated in southwestern Arkansas and benefits from agriculture, timber resources, manufacturing, and transportation access. Its communities maintain strong economic ties to regional markets and neighboring states.",
+      "population": "11802"
+    },
+    "Logan County": {
+      "description": "Logan County combines agricultural production, outdoor recreation, and manufacturing within the Arkansas River Valley region. Farming, local businesses, and tourism contribute to the county's economic stability.",
+      "population": "21735"
+    },
+    "Lonoke County": {
+      "description": "Lonoke County is one of central Arkansas' fastest-growing counties, supported by expanding residential communities, agriculture, logistics, and commercial development. Its proximity to Little Rock continues to attract families and businesses.",
+      "population": "76953"
+    },
+    "Madison County": {
+      "description": "Madison County is known for its scenic Ozark Mountain landscapes, outdoor recreation opportunities, and agricultural heritage. Tourism, farming, and small businesses support the county's economy and quality of life.",
+      "population": "16807"
+    },
+    "Marion County": {
+      "description": "Marion County features beautiful mountain scenery, lakes, and recreational destinations that attract visitors year-round. Tourism, healthcare, agriculture, and local commerce contribute to economic activity throughout the county.",
+      "population": "16790"
+    },
+    "Miller County": {
+      "description": "Miller County serves as a regional transportation, healthcare, and commercial hub in southwestern Arkansas. Its strategic location near state borders supports trade, manufacturing, and business development.",
+      "population": "43454"
+    },
+    "Mississippi County": {
+      "description": "Mississippi County is one of Arkansas' leading agricultural and manufacturing regions, benefiting from fertile Delta farmland and significant industrial investment. Farming, steel production, logistics, and commerce drive the local economy.",
+      "population": "38742"
+    },
+    "Monroe County": {
+      "description": "Monroe County is characterized by rich agricultural land, hunting opportunities, and strong rural traditions. Farming and agribusiness remain the primary economic engines supporting local communities.",
+      "population": "6571"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County is located in the Ouachita Mountains and offers abundant outdoor recreation, tourism attractions, and natural resources. Hospitality, forestry, and local businesses contribute to the county's economy.",
+      "population": "8227"
+    },
+    "Nevada County": {
+      "description": "Nevada County supports a mix of agriculture, manufacturing, and local commerce within southwestern Arkansas. Its established communities and transportation access help maintain economic activity throughout the region.",
+      "population": "8241"
+    },
+    "Newton County": {
+      "description": "Newton County is located in the heart of the Ozark Mountains and is known for its rugged natural beauty, outdoor recreation opportunities, and tourism appeal. Hospitality, small businesses, and visitor-related services contribute to the county's economy.",
+      "population": "7704"
+    },
+    "Ouachita County": {
+      "description": "Ouachita County supports a diverse economy driven by manufacturing, healthcare, education, and local commerce. Its established communities and industrial base continue to provide employment opportunities throughout south Arkansas.",
+      "population": "22261"
+    },
+    "Perry County": {
+      "description": "Perry County combines rural landscapes, agricultural operations, and growing residential communities within central Arkansas. Agriculture, forestry, and local businesses remain important economic contributors.",
+      "population": "10196"
+    },
+    "Phillips County": {
+      "description": "Phillips County is located within the Arkansas Delta and has a long history of agricultural production, river commerce, and cultural significance. Farming, healthcare, and regional services support the county's economy.",
+      "population": "15942"
+    },
+    "Pike County": {
+      "description": "Pike County is internationally known for its diamond-bearing geology and outdoor recreation opportunities. Tourism, forestry, agriculture, and local commerce contribute to economic activity throughout the county.",
+      "population": "10041"
+    },
+    "Poinsett County": {
+      "description": "Poinsett County benefits from fertile farmland, agricultural production, and manufacturing operations. Farming, agribusiness, and local industries continue to play key roles in supporting the county's economy.",
+      "population": "22954"
+    },
+    "Polk County": {
+      "description": "Polk County is surrounded by scenic mountain landscapes and outdoor recreation destinations in western Arkansas. Tourism, healthcare, forestry, and retail services support economic growth across the county.",
+      "population": "19632"
+    },
+    "Pope County": {
+      "description": "Pope County is one of the fastest-growing counties in Arkansas, supported by higher education, manufacturing, healthcare, and commercial development. Its strategic location along Interstate 40 continues to attract investment and population growth.",
+      "population": "66596"
+    },
+    "Prairie County": {
+      "description": "Prairie County is known for its productive agricultural land, waterfowl habitat, and rural communities. Farming and related industries remain the foundation of economic activity throughout the county.",
+      "population": "8064"
+    },
+    "Pulaski County": {
+      "description": "Pulaski County is Arkansas' most populous county and serves as the state's governmental, healthcare, financial, and commercial center. Anchored by Little Rock, the county supports a diverse economy with strong public and private sector employment.",
+      "population": "399125"
+    },
+    "Randolph County": {
+      "description": "Randolph County is located in northeastern Arkansas and is known for its agricultural production, outdoor recreation opportunities, and historic communities. Farming, manufacturing, and local businesses support the county's economy.",
+      "population": "17681"
+    },
+    "St. Francis County": {
+      "description": "St. Francis County occupies a strategic location in eastern Arkansas and benefits from agriculture, transportation access, and regional commerce. Farming and agribusiness remain major contributors to local economic activity.",
+      "population": "23090"
+    },
+    "Saline County": {
+      "description": "Saline County is one of central Arkansas' fastest-growing counties, featuring expanding residential communities, healthcare facilities, retail development, and manufacturing operations. Its proximity to Little Rock continues to drive growth and investment.",
+      "population": "128523"
+    },
+    "Scott County": {
+      "description": "Scott County is situated within the Ouachita Mountains and offers scenic landscapes, outdoor recreation opportunities, and a strong connection to agriculture and forestry. Tourism and local businesses contribute to the county's economy.",
+      "population": "9483"
+    },
+    "Searcy County": {
+      "description": "Searcy County is known for its rugged Ozark terrain, natural attractions, and outdoor recreation opportunities. Tourism, agriculture, and small businesses support economic activity throughout the county.",
+      "population": "7802"
+    },
+    "Sebastian County": {
+      "description": "Sebastian County is a major economic center in western Arkansas, anchored by manufacturing, healthcare, education, logistics, and retail industries. Its urban communities play a significant role in regional economic development.",
+      "population": "131927"
+    },
+    "Sevier County": {
+      "description": "Sevier County combines agriculture, manufacturing, and tourism within a diverse local economy. Its strategic location and growing business activity support employment opportunities throughout the region.",
+      "population": "15839"
+    },
+    "Sharp County": {
+      "description": "Sharp County features scenic landscapes, recreational opportunities, and a growing retirement population. Tourism, healthcare, retail services, and local businesses contribute to the county's economy.",
+      "population": "17184"
+    },
+    "Stone County": {
+      "description": "Stone County is characterized by rolling hills, natural beauty, and outdoor recreation opportunities in north-central Arkansas. Tourism, agriculture, and small businesses provide economic support for local communities.",
+      "population": "12394"
+    },
+    "Union County": {
+      "description": "Union County is a significant industrial and healthcare center in southern Arkansas. Energy production, manufacturing, education, and medical services continue to drive economic activity throughout the county.",
+      "population": "39054"
+    },
+    "Van Buren County": {
+      "description": "Van Buren County is known for its scenic Ozark landscapes, outdoor recreation opportunities, and growing tourism industry. Fishing, boating, hospitality services, and local businesses contribute significantly to the county's economy.",
+      "population": "15824"
+    },
+    "Washington County": {
+      "description": "Washington County is one of Arkansas' most dynamic and rapidly growing counties, anchored by higher education, technology, healthcare, retail, and corporate investment. Its role within the Northwest Arkansas region continues to drive strong economic and population growth.",
+      "population": "256083"
+    },
+    "White County": {
+      "description": "White County supports a diverse economy that includes manufacturing, healthcare, education, agriculture, and commercial development. Its central location and growing communities make it an important regional center within Arkansas.",
+      "population": "80577"
+    },
+    "Woodruff County": {
+      "description": "Woodruff County is characterized by fertile Delta farmland, agricultural production, and strong rural traditions. Farming and agribusiness remain the foundation of economic activity throughout the county.",
+      "population": "6041"
+    },
+    "Yell County": {
+      "description": "Yell County combines agricultural productivity, outdoor recreation, and manufacturing activity within western Arkansas. Its communities benefit from a balanced economy supported by farming, local businesses, and regional commerce.",
+      "population": "20987"
+    }
+  }
 }

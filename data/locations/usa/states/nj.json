@@ -1,104 +1,95 @@
 {
-"Atlantic County": {
-  "description": "Atlantic County is a major tourism and entertainment economy in New Jersey, supported by hospitality, gaming, healthcare services, retail development, transportation, and professional services. Visitor spending contributes substantially to regional employment and business activity.",
-  "population": "279579"
-},
-
-"Bergen County": {
-  "description": "Bergen County is one of New Jersey's largest and most affluent economic centers, driven by healthcare, finance, technology, logistics, retail development, professional services, and corporate headquarters. Its highly diversified economy supports substantial business investment and workforce growth.",
-  "population": "971996"
-},
-
-"Burlington County": {
-  "description": "Burlington County supports a diversified economy based on healthcare, logistics, manufacturing, defense-related industries, retail activity, professional services, and residential development. Its strategic location contributes significantly to regional economic growth.",
-  "population": "466103"
-},
-
-"Camden County": {
-  "description": "Camden County is a major economic center in southern New Jersey, anchored by healthcare, education, transportation, logistics, manufacturing, professional services, and government-related industries. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "524907"
-},
-
-"Cape May County": {
-  "description": "Cape May County benefits from tourism, hospitality, healthcare services, real estate development, retail activity, and local commerce. Visitor spending and seasonal tourism play major roles in supporting economic activity throughout the county.",
-  "population": "95263"
-},
-
-"Cumberland County": {
-  "description": "Cumberland County supports an economy driven by agriculture, manufacturing, healthcare services, logistics, food processing, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional development.",
-  "population": "154152"
-},
-
-"Essex County": {
-  "description": "Essex County is one of New Jersey's largest economic centers, supported by healthcare, finance, transportation, higher education, technology, professional services, and logistics. Its highly diversified urban economy contributes substantially to statewide employment and business investment.",
-  "population": "863728"
-},
-
-"Gloucester County": {
-  "description": "Gloucester County is a growing economic center in southern New Jersey, driven by healthcare, logistics, manufacturing, education, retail development, and professional services. Its strategic location supports continued economic expansion and workforce growth.",
-  "population": "314635"
-},
-
-"Hudson County": {
-  "description": "Hudson County is one of the most economically dynamic counties in the United States, anchored by finance, technology, transportation, healthcare, professional services, real estate development, and international commerce. Its proximity to New York City drives substantial business investment and employment.",
-  "population": "724854"
-},
-
-"Hunterdon County": {
-  "description": "Hunterdon County supports a diversified economy based on healthcare, finance, professional services, agriculture, technology, and local business development. Its strong quality of life and business environment contribute significantly to economic growth.",
-  "population": "129924"
-},
-"Mercer County": {
-  "description": "Mercer County is a major government, education, and business center in New Jersey, supported by healthcare, higher education, finance, technology, professional services, and logistics. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "387340"
-},
-
-"Middlesex County": {
-  "description": "Middlesex County is one of New Jersey's largest economic centers, driven by healthcare, pharmaceuticals, technology, logistics, higher education, manufacturing, and professional services. Its strategic location between New York City and Philadelphia supports substantial business growth and workforce development.",
-  "population": "872351"
-},
-
-"Monmouth County": {
-  "description": "Monmouth County supports a highly diversified economy based on healthcare, finance, technology, tourism, professional services, retail development, and real estate. Its coastal location and strong business environment contribute significantly to economic growth.",
-  "population": "647935"
-},
-
-"Morris County": {
-  "description": "Morris County is one of New Jersey's most affluent and economically powerful counties, anchored by finance, healthcare, technology, manufacturing, professional services, and corporate headquarters. Its highly educated workforce supports substantial innovation and business investment.",
-  "population": "514423"
-},
-
-"Ocean County": {
-  "description": "Ocean County benefits from healthcare, tourism, retail development, construction, professional services, and real estate activity. Its coastal economy and growing population contribute significantly to regional employment and business growth.",
-  "population": "659197"
-},
-
-"Passaic County": {
-  "description": "Passaic County is a major urban economic center supported by healthcare, manufacturing, logistics, finance, retail activity, professional services, and transportation. Its diversified economy contributes substantially to statewide employment and investment.",
-  "population": "524118"
-},
-
-"Salem County": {
-  "description": "Salem County supports an economy driven by agriculture, manufacturing, healthcare services, energy-related industries, logistics, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional development.",
-  "population": "66039"
-},
-
-"Somerset County": {
-  "description": "Somerset County is one of New Jersey's strongest economic centers, supported by pharmaceuticals, healthcare, finance, technology, professional services, logistics, and corporate headquarters. Its highly diversified economy contributes substantially to business investment and workforce growth.",
-  "population": "351843"
-},
-
-"Sussex County": {
-  "description": "Sussex County benefits from healthcare, tourism, manufacturing, agriculture, professional services, retail activity, and outdoor recreation. Its diversified economy supports stable employment opportunities and continued business development.",
-  "population": "145211"
-},
-
-"Union County": {
-  "description": "Union County is a major economic hub in northern New Jersey, driven by healthcare, transportation, logistics, finance, manufacturing, professional services, and retail development. Its strategic location within the New York metropolitan area supports substantial business activity and investment.",
-  "population": "582301"
-},
-"Warren County": {
-  "description": "Warren County supports a diversified economy based on healthcare services, manufacturing, logistics, agriculture, professional services, retail development, and tourism. Its strategic location and strong business environment contribute significantly to regional economic growth and workforce opportunities.",
-  "population": "111149"
-}
+  "identity": {
+    "code": "nj",
+    "slug": "new-jersey",
+    "name": "New Jersey",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Atlantic County": {
+      "description": "Atlantic County is a major tourism and entertainment economy in New Jersey, supported by hospitality, gaming, healthcare services, retail development, transportation, and professional services. Visitor spending contributes substantially to regional employment and business activity.",
+      "population": "279579"
+    },
+    "Bergen County": {
+      "description": "Bergen County is one of New Jersey's largest and most affluent economic centers, driven by healthcare, finance, technology, logistics, retail development, professional services, and corporate headquarters. Its highly diversified economy supports substantial business investment and workforce growth.",
+      "population": "971996"
+    },
+    "Burlington County": {
+      "description": "Burlington County supports a diversified economy based on healthcare, logistics, manufacturing, defense-related industries, retail activity, professional services, and residential development. Its strategic location contributes significantly to regional economic growth.",
+      "population": "466103"
+    },
+    "Camden County": {
+      "description": "Camden County is a major economic center in southern New Jersey, anchored by healthcare, education, transportation, logistics, manufacturing, professional services, and government-related industries. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "524907"
+    },
+    "Cape May County": {
+      "description": "Cape May County benefits from tourism, hospitality, healthcare services, real estate development, retail activity, and local commerce. Visitor spending and seasonal tourism play major roles in supporting economic activity throughout the county.",
+      "population": "95263"
+    },
+    "Cumberland County": {
+      "description": "Cumberland County supports an economy driven by agriculture, manufacturing, healthcare services, logistics, food processing, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional development.",
+      "population": "154152"
+    },
+    "Essex County": {
+      "description": "Essex County is one of New Jersey's largest economic centers, supported by healthcare, finance, transportation, higher education, technology, professional services, and logistics. Its highly diversified urban economy contributes substantially to statewide employment and business investment.",
+      "population": "863728"
+    },
+    "Gloucester County": {
+      "description": "Gloucester County is a growing economic center in southern New Jersey, driven by healthcare, logistics, manufacturing, education, retail development, and professional services. Its strategic location supports continued economic expansion and workforce growth.",
+      "population": "314635"
+    },
+    "Hudson County": {
+      "description": "Hudson County is one of the most economically dynamic counties in the United States, anchored by finance, technology, transportation, healthcare, professional services, real estate development, and international commerce. Its proximity to New York City drives substantial business investment and employment.",
+      "population": "724854"
+    },
+    "Hunterdon County": {
+      "description": "Hunterdon County supports a diversified economy based on healthcare, finance, professional services, agriculture, technology, and local business development. Its strong quality of life and business environment contribute significantly to economic growth.",
+      "population": "129924"
+    },
+    "Mercer County": {
+      "description": "Mercer County is a major government, education, and business center in New Jersey, supported by healthcare, higher education, finance, technology, professional services, and logistics. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "387340"
+    },
+    "Middlesex County": {
+      "description": "Middlesex County is one of New Jersey's largest economic centers, driven by healthcare, pharmaceuticals, technology, logistics, higher education, manufacturing, and professional services. Its strategic location between New York City and Philadelphia supports substantial business growth and workforce development.",
+      "population": "872351"
+    },
+    "Monmouth County": {
+      "description": "Monmouth County supports a highly diversified economy based on healthcare, finance, technology, tourism, professional services, retail development, and real estate. Its coastal location and strong business environment contribute significantly to economic growth.",
+      "population": "647935"
+    },
+    "Morris County": {
+      "description": "Morris County is one of New Jersey's most affluent and economically powerful counties, anchored by finance, healthcare, technology, manufacturing, professional services, and corporate headquarters. Its highly educated workforce supports substantial innovation and business investment.",
+      "population": "514423"
+    },
+    "Ocean County": {
+      "description": "Ocean County benefits from healthcare, tourism, retail development, construction, professional services, and real estate activity. Its coastal economy and growing population contribute significantly to regional employment and business growth.",
+      "population": "659197"
+    },
+    "Passaic County": {
+      "description": "Passaic County is a major urban economic center supported by healthcare, manufacturing, logistics, finance, retail activity, professional services, and transportation. Its diversified economy contributes substantially to statewide employment and investment.",
+      "population": "524118"
+    },
+    "Salem County": {
+      "description": "Salem County supports an economy driven by agriculture, manufacturing, healthcare services, energy-related industries, logistics, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional development.",
+      "population": "66039"
+    },
+    "Somerset County": {
+      "description": "Somerset County is one of New Jersey's strongest economic centers, supported by pharmaceuticals, healthcare, finance, technology, professional services, logistics, and corporate headquarters. Its highly diversified economy contributes substantially to business investment and workforce growth.",
+      "population": "351843"
+    },
+    "Sussex County": {
+      "description": "Sussex County benefits from healthcare, tourism, manufacturing, agriculture, professional services, retail activity, and outdoor recreation. Its diversified economy supports stable employment opportunities and continued business development.",
+      "population": "145211"
+    },
+    "Union County": {
+      "description": "Union County is a major economic hub in northern New Jersey, driven by healthcare, transportation, logistics, finance, manufacturing, professional services, and retail development. Its strategic location within the New York metropolitan area supports substantial business activity and investment.",
+      "population": "582301"
+    },
+    "Warren County": {
+      "description": "Warren County supports a diversified economy based on healthcare services, manufacturing, logistics, agriculture, professional services, retail development, and tourism. Its strategic location and strong business environment contribute significantly to regional economic growth and workforce opportunities.",
+      "population": "111149"
+    }
+  }
 }

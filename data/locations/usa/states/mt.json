@@ -1,276 +1,235 @@
 {
-"Beaverhead County": {
-  "description": "Beaverhead County supports a diversified economy driven by agriculture, tourism, outdoor recreation, healthcare services, education, and local commerce. Ranching operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "9684"
-},
-
-"Big Horn County": {
-  "description": "Big Horn County benefits from agriculture, healthcare services, energy-related industries, education, tourism, and local business development. Natural resources and farming operations play important roles in supporting regional economic growth.",
-  "population": "13309"
-},
-
-"Blaine County": {
-  "description": "Blaine County maintains a rural economy centered on agriculture, healthcare services, transportation, education, renewable energy development, and local commerce. Farming remains a primary contributor to economic activity throughout the county.",
-  "population": "6668"
-},
-
-"Broadwater County": {
-  "description": "Broadwater County supports an economy based on agriculture, tourism, healthcare services, mining-related industries, construction, and local commerce. Its growing population and business environment contribute to continued economic development.",
-  "population": "7747"
-},
-
-"Carbon County": {
-  "description": "Carbon County combines tourism, agriculture, healthcare services, energy-related industries, outdoor recreation, and local business activity. Natural attractions and resource-based industries contribute significantly to economic growth.",
-  "population": "10938"
-},
-
-"Carter County": {
-  "description": "Carter County maintains a rural economy driven by agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Farming and natural resources remain key contributors to economic stability.",
-  "population": "1415"
-},
-
-"Cascade County": {
-  "description": "Cascade County is one of Montana's largest economic centers, supported by healthcare, manufacturing, defense-related industries, education, logistics, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "84814"
-},
-
-"Chouteau County": {
-  "description": "Chouteau County supports a strong agricultural economy complemented by healthcare services, transportation, energy development, agribusiness, and local commerce. Farming operations remain central to economic activity throughout the county.",
-  "population": "5842"
-},
-
-"Custer County": {
-  "description": "Custer County serves as an important regional center in eastern Montana, driven by healthcare, agriculture, education, tourism, transportation, and professional services. Its diversified economy supports stable workforce opportunities and business growth.",
-  "population": "11729"
-},
-
-"Daniels County": {
-  "description": "Daniels County supports a rural economy based on agriculture, healthcare services, transportation, energy-related industries, agribusiness, and local commerce. Farming operations continue to contribute significantly to economic activity throughout the county.",
-  "population": "1721"
-},
-"Dawson County": {
-  "description": "Dawson County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, retail activity, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
-  "population": "8654"
-},
-
-"Deer Lodge County": {
-  "description": "Deer Lodge County benefits from healthcare services, education, government employment, tourism, manufacturing, and local business development. Its diversified economy supports stable employment opportunities and continued community growth.",
-  "population": "9364"
-},
-
-"Fallon County": {
-  "description": "Fallon County maintains a rural economy centered on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Ranching and natural resource industries remain key contributors to economic stability.",
-  "population": "3098"
-},
-
-"Fergus County": {
-  "description": "Fergus County serves as an important regional economic center in central Montana, supported by agriculture, healthcare services, education, energy-related industries, retail activity, and professional services. Its diversified economy contributes substantially to regional employment.",
-  "population": "11738"
-},
-
-"Flathead County": {
-  "description": "Flathead County is one of Montana's fastest-growing economic centers, driven by tourism, healthcare, construction, professional services, retail development, manufacturing, and outdoor recreation. Its strong business environment supports substantial economic investment and workforce growth.",
-  "population": "116814"
-},
-
-"Gallatin County": {
-  "description": "Gallatin County is one of the most dynamic economies in the Rocky Mountain region, supported by technology, higher education, healthcare, tourism, finance, construction, and professional services. Its rapidly growing population drives significant business development and innovation.",
-  "population": "126739"
-},
-
-"Garfield County": {
-  "description": "Garfield County supports a rural economy based on agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "1173"
-},
-
-"Glacier County": {
-  "description": "Glacier County benefits from tourism, healthcare services, agriculture, education, energy-related industries, and local business activity. Visitor spending and natural attractions play important roles in supporting economic growth.",
-  "population": "13962"
-},
-
-"Golden Valley County": {
-  "description": "Golden Valley County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations remain a primary contributor to economic stability.",
-  "population": "823"
-},
-
-"Granite County": {
-  "description": "Granite County supports an economy driven by tourism, healthcare services, mining-related industries, forestry, outdoor recreation, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity.",
-  "population": "3379"
-},
-"Hill County": {
-  "description": "Hill County serves as a major regional center in north-central Montana, supported by agriculture, healthcare services, education, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "16357"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County benefits from healthcare services, tourism, mining-related industries, construction, agriculture, and local commerce. Its growing population and strategic location support continued economic development and workforce growth.",
-  "population": "12942"
-},
-
-"Judith Basin County": {
-  "description": "Judith Basin County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "2120"
-},
-
-"Lake County": {
-  "description": "Lake County supports a diversified economy based on agriculture, tourism, healthcare services, education, manufacturing, and local business activity. Natural attractions and farming operations contribute significantly to regional economic growth.",
-  "population": "32084"
-},
-
-"Lewis and Clark County": {
-  "description": "Lewis and Clark County is one of Montana's most important economic centers and home to Helena. Government services, healthcare, education, finance, technology, professional services, and retail development drive a highly diversified economy and strong workforce growth.",
-  "population": "76468"
-},
-
-"Liberty County": {
-  "description": "Liberty County supports a rural economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain central to economic stability and employment throughout the county.",
-  "population": "1962"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County benefits from tourism, forestry, healthcare services, manufacturing, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity and community development.",
-  "population": "21492"
-},
-
-"McCone County": {
-  "description": "McCone County maintains a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business activity. Ranching and natural resources continue to support economic growth.",
-  "population": "1729"
-},
-
-"Madison County": {
-  "description": "Madison County supports an economy driven by tourism, agriculture, healthcare services, construction, mining-related industries, and local commerce. Visitor spending and natural attractions play major roles in supporting regional economic activity.",
-  "population": "9424"
-},
-
-"Meagher County": {
-  "description": "Meagher County combines agriculture, ranching, healthcare services, tourism, energy-related industries, and local commerce. Its rural economy benefits from natural resources and community-focused business development.",
-  "population": "1880"
-},
-"Mineral County": {
-  "description": "Mineral County supports an economy driven by tourism, forestry, healthcare services, outdoor recreation, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "5345"
-},
-
-"Missoula County": {
-  "description": "Missoula County is one of Montana's largest and fastest-growing economic centers, supported by healthcare, higher education, technology, finance, tourism, professional services, and retail development. Its diversified economy contributes substantially to regional employment and innovation.",
-  "population": "123720"
-},
-
-"Musselshell County": {
-  "description": "Musselshell County maintains a rural economy centered on agriculture, ranching, healthcare services, energy-related industries, transportation, and local commerce. Natural resources and farming operations remain key contributors to economic stability.",
-  "population": "4718"
-},
-
-"Park County": {
-  "description": "Park County benefits from tourism, healthcare services, agriculture, outdoor recreation, hospitality, and local business development. Visitor spending and natural attractions contribute significantly to economic growth throughout the county.",
-  "population": "17738"
-},
-
-"Petroleum County": {
-  "description": "Petroleum County supports a rural economy based on agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Natural resources remain important contributors to economic activity throughout the county.",
-  "population": "496"
-},
-
-"Phillips County": {
-  "description": "Phillips County combines agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local commerce. Ranching and farming operations continue to support economic development throughout the county.",
-  "population": "4177"
-},
-
-"Pondera County": {
-  "description": "Pondera County supports a diversified economy driven by agriculture, healthcare services, renewable energy development, transportation, agribusiness, and local business activity. Farming remains a primary contributor to regional economic growth.",
-  "population": "5868"
-},
-
-"Powder River County": {
-  "description": "Powder River County benefits from ranching, agriculture, energy-related industries, healthcare services, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "1708"
-},
-
-"Powell County": {
-  "description": "Powell County supports an economy based on healthcare services, education, tourism, government employment, agriculture, and local commerce. Its diversified economy contributes to stable workforce opportunities and continued community growth.",
-  "population": "6863"
-},
-
-"Prairie County": {
-  "description": "Prairie County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "1112"
-},
-"Ravalli County": {
-  "description": "Ravalli County is one of western Montana's fastest-growing counties, supported by healthcare, tourism, professional services, construction, retail development, agriculture, and outdoor recreation. Its expanding population contributes significantly to economic growth and business investment.",
-  "population": "48980"
-},
-
-"Richland County": {
-  "description": "Richland County serves as an important energy and agricultural center in eastern Montana, driven by oil and gas production, healthcare services, transportation, agribusiness, retail activity, and professional services. Natural resource industries contribute substantially to economic activity.",
-  "population": "11522"
-},
-
-"Roosevelt County": {
-  "description": "Roosevelt County supports a diversified economy based on energy-related industries, agriculture, healthcare services, education, transportation, and local commerce. Natural resources and farming operations remain important contributors to regional economic growth.",
-  "population": "11113"
-},
-
-"Rosebud County": {
-  "description": "Rosebud County benefits from energy production, agriculture, healthcare services, transportation, mining-related industries, and local business development. Its natural resources support substantial economic activity and workforce opportunities.",
-  "population": "8589"
-},
-
-"Sanders County": {
-  "description": "Sanders County supports an economy driven by forestry, tourism, healthcare services, agriculture, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic development throughout the county.",
-  "population": "13257"
-},
-
-"Sheridan County": {
-  "description": "Sheridan County maintains a rural economy centered on agriculture, healthcare services, transportation, energy-related industries, agribusiness, and local commerce. Farming operations remain a primary driver of economic activity throughout the county.",
-  "population": "3414"
-},
-
-"Silver Bow County": {
-  "description": "Silver Bow County is a major economic center in southwest Montana, anchored by healthcare, education, mining-related industries, technology, manufacturing, professional services, and retail development. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "36835"
-},
-
-"Stillwater County": {
-  "description": "Stillwater County combines agriculture, mining-related industries, healthcare services, tourism, construction, and local commerce. Natural resources and business development contribute substantially to economic growth throughout the county.",
-  "population": "9641"
-},
-
-"Sweet Grass County": {
-  "description": "Sweet Grass County supports a rural economy based on agriculture, ranching, healthcare services, tourism, transportation, and local business activity. Farming operations remain central to economic stability and workforce opportunities.",
-  "population": "3828"
-},
-
-"Teton County": {
-  "description": "Teton County benefits from agriculture, healthcare services, renewable energy development, transportation, agribusiness, and local commerce. Its strong agricultural sector contributes significantly to regional economic activity.",
-  "population": "6164"
-},
-"Toole County": {
-  "description": "Toole County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
-  "population": "4960"
-},
-
-"Treasure County": {
-  "description": "Treasure County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "718"
-},
-
-"Valley County": {
-  "description": "Valley County serves as an important regional center in northeastern Montana, supported by agriculture, healthcare services, transportation, education, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "7600"
-},
-
-"Wheatland County": {
-  "description": "Wheatland County supports a rural economy driven by agriculture, ranching, healthcare services, renewable energy development, transportation, and local commerce. Farming operations remain central to economic stability and growth.",
-  "population": "2259"
-},
-
-"Wibaux County": {
-  "description": "Wibaux County benefits from agriculture, ranching, energy-related industries, healthcare services, transportation, and local business activity. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "937"
-},
-
-"Yellowstone County": {
-  "description": "Yellowstone County is Montana's largest economic center and home to Billings. Healthcare, energy, finance, transportation, professional services, manufacturing, retail development, and technology drive a highly diversified economy that supports substantial business investment and workforce growth.",
-  "population": "170463"
-}
+  "identity": {
+    "code": "mt",
+    "slug": "montana",
+    "name": "Montana",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Beaverhead County": {
+      "description": "Beaverhead County supports a diversified economy driven by agriculture, tourism, outdoor recreation, healthcare services, education, and local commerce. Ranching operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "9684"
+    },
+    "Big Horn County": {
+      "description": "Big Horn County benefits from agriculture, healthcare services, energy-related industries, education, tourism, and local business development. Natural resources and farming operations play important roles in supporting regional economic growth.",
+      "population": "13309"
+    },
+    "Blaine County": {
+      "description": "Blaine County maintains a rural economy centered on agriculture, healthcare services, transportation, education, renewable energy development, and local commerce. Farming remains a primary contributor to economic activity throughout the county.",
+      "population": "6668"
+    },
+    "Broadwater County": {
+      "description": "Broadwater County supports an economy based on agriculture, tourism, healthcare services, mining-related industries, construction, and local commerce. Its growing population and business environment contribute to continued economic development.",
+      "population": "7747"
+    },
+    "Carbon County": {
+      "description": "Carbon County combines tourism, agriculture, healthcare services, energy-related industries, outdoor recreation, and local business activity. Natural attractions and resource-based industries contribute significantly to economic growth.",
+      "population": "10938"
+    },
+    "Carter County": {
+      "description": "Carter County maintains a rural economy driven by agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Farming and natural resources remain key contributors to economic stability.",
+      "population": "1415"
+    },
+    "Cascade County": {
+      "description": "Cascade County is one of Montana's largest economic centers, supported by healthcare, manufacturing, defense-related industries, education, logistics, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "84814"
+    },
+    "Chouteau County": {
+      "description": "Chouteau County supports a strong agricultural economy complemented by healthcare services, transportation, energy development, agribusiness, and local commerce. Farming operations remain central to economic activity throughout the county.",
+      "population": "5842"
+    },
+    "Custer County": {
+      "description": "Custer County serves as an important regional center in eastern Montana, driven by healthcare, agriculture, education, tourism, transportation, and professional services. Its diversified economy supports stable workforce opportunities and business growth.",
+      "population": "11729"
+    },
+    "Daniels County": {
+      "description": "Daniels County supports a rural economy based on agriculture, healthcare services, transportation, energy-related industries, agribusiness, and local commerce. Farming operations continue to contribute significantly to economic activity throughout the county.",
+      "population": "1721"
+    },
+    "Dawson County": {
+      "description": "Dawson County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, retail activity, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
+      "population": "8654"
+    },
+    "Deer Lodge County": {
+      "description": "Deer Lodge County benefits from healthcare services, education, government employment, tourism, manufacturing, and local business development. Its diversified economy supports stable employment opportunities and continued community growth.",
+      "population": "9364"
+    },
+    "Fallon County": {
+      "description": "Fallon County maintains a rural economy centered on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Ranching and natural resource industries remain key contributors to economic stability.",
+      "population": "3098"
+    },
+    "Fergus County": {
+      "description": "Fergus County serves as an important regional economic center in central Montana, supported by agriculture, healthcare services, education, energy-related industries, retail activity, and professional services. Its diversified economy contributes substantially to regional employment.",
+      "population": "11738"
+    },
+    "Flathead County": {
+      "description": "Flathead County is one of Montana's fastest-growing economic centers, driven by tourism, healthcare, construction, professional services, retail development, manufacturing, and outdoor recreation. Its strong business environment supports substantial economic investment and workforce growth.",
+      "population": "116814"
+    },
+    "Gallatin County": {
+      "description": "Gallatin County is one of the most dynamic economies in the Rocky Mountain region, supported by technology, higher education, healthcare, tourism, finance, construction, and professional services. Its rapidly growing population drives significant business development and innovation.",
+      "population": "126739"
+    },
+    "Garfield County": {
+      "description": "Garfield County supports a rural economy based on agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "1173"
+    },
+    "Glacier County": {
+      "description": "Glacier County benefits from tourism, healthcare services, agriculture, education, energy-related industries, and local business activity. Visitor spending and natural attractions play important roles in supporting economic growth.",
+      "population": "13962"
+    },
+    "Golden Valley County": {
+      "description": "Golden Valley County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations remain a primary contributor to economic stability.",
+      "population": "823"
+    },
+    "Granite County": {
+      "description": "Granite County supports an economy driven by tourism, healthcare services, mining-related industries, forestry, outdoor recreation, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity.",
+      "population": "3379"
+    },
+    "Hill County": {
+      "description": "Hill County serves as a major regional center in north-central Montana, supported by agriculture, healthcare services, education, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "16357"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County benefits from healthcare services, tourism, mining-related industries, construction, agriculture, and local commerce. Its growing population and strategic location support continued economic development and workforce growth.",
+      "population": "12942"
+    },
+    "Judith Basin County": {
+      "description": "Judith Basin County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "2120"
+    },
+    "Lake County": {
+      "description": "Lake County supports a diversified economy based on agriculture, tourism, healthcare services, education, manufacturing, and local business activity. Natural attractions and farming operations contribute significantly to regional economic growth.",
+      "population": "32084"
+    },
+    "Lewis and Clark County": {
+      "description": "Lewis and Clark County is one of Montana's most important economic centers and home to Helena. Government services, healthcare, education, finance, technology, professional services, and retail development drive a highly diversified economy and strong workforce growth.",
+      "population": "76468"
+    },
+    "Liberty County": {
+      "description": "Liberty County supports a rural economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain central to economic stability and employment throughout the county.",
+      "population": "1962"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County benefits from tourism, forestry, healthcare services, manufacturing, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity and community development.",
+      "population": "21492"
+    },
+    "McCone County": {
+      "description": "McCone County maintains a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business activity. Ranching and natural resources continue to support economic growth.",
+      "population": "1729"
+    },
+    "Madison County": {
+      "description": "Madison County supports an economy driven by tourism, agriculture, healthcare services, construction, mining-related industries, and local commerce. Visitor spending and natural attractions play major roles in supporting regional economic activity.",
+      "population": "9424"
+    },
+    "Meagher County": {
+      "description": "Meagher County combines agriculture, ranching, healthcare services, tourism, energy-related industries, and local commerce. Its rural economy benefits from natural resources and community-focused business development.",
+      "population": "1880"
+    },
+    "Mineral County": {
+      "description": "Mineral County supports an economy driven by tourism, forestry, healthcare services, outdoor recreation, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "5345"
+    },
+    "Missoula County": {
+      "description": "Missoula County is one of Montana's largest and fastest-growing economic centers, supported by healthcare, higher education, technology, finance, tourism, professional services, and retail development. Its diversified economy contributes substantially to regional employment and innovation.",
+      "population": "123720"
+    },
+    "Musselshell County": {
+      "description": "Musselshell County maintains a rural economy centered on agriculture, ranching, healthcare services, energy-related industries, transportation, and local commerce. Natural resources and farming operations remain key contributors to economic stability.",
+      "population": "4718"
+    },
+    "Park County": {
+      "description": "Park County benefits from tourism, healthcare services, agriculture, outdoor recreation, hospitality, and local business development. Visitor spending and natural attractions contribute significantly to economic growth throughout the county.",
+      "population": "17738"
+    },
+    "Petroleum County": {
+      "description": "Petroleum County supports a rural economy based on agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Natural resources remain important contributors to economic activity throughout the county.",
+      "population": "496"
+    },
+    "Phillips County": {
+      "description": "Phillips County combines agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local commerce. Ranching and farming operations continue to support economic development throughout the county.",
+      "population": "4177"
+    },
+    "Pondera County": {
+      "description": "Pondera County supports a diversified economy driven by agriculture, healthcare services, renewable energy development, transportation, agribusiness, and local business activity. Farming remains a primary contributor to regional economic growth.",
+      "population": "5868"
+    },
+    "Powder River County": {
+      "description": "Powder River County benefits from ranching, agriculture, energy-related industries, healthcare services, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "1708"
+    },
+    "Powell County": {
+      "description": "Powell County supports an economy based on healthcare services, education, tourism, government employment, agriculture, and local commerce. Its diversified economy contributes to stable workforce opportunities and continued community growth.",
+      "population": "6863"
+    },
+    "Prairie County": {
+      "description": "Prairie County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "1112"
+    },
+    "Ravalli County": {
+      "description": "Ravalli County is one of western Montana's fastest-growing counties, supported by healthcare, tourism, professional services, construction, retail development, agriculture, and outdoor recreation. Its expanding population contributes significantly to economic growth and business investment.",
+      "population": "48980"
+    },
+    "Richland County": {
+      "description": "Richland County serves as an important energy and agricultural center in eastern Montana, driven by oil and gas production, healthcare services, transportation, agribusiness, retail activity, and professional services. Natural resource industries contribute substantially to economic activity.",
+      "population": "11522"
+    },
+    "Roosevelt County": {
+      "description": "Roosevelt County supports a diversified economy based on energy-related industries, agriculture, healthcare services, education, transportation, and local commerce. Natural resources and farming operations remain important contributors to regional economic growth.",
+      "population": "11113"
+    },
+    "Rosebud County": {
+      "description": "Rosebud County benefits from energy production, agriculture, healthcare services, transportation, mining-related industries, and local business development. Its natural resources support substantial economic activity and workforce opportunities.",
+      "population": "8589"
+    },
+    "Sanders County": {
+      "description": "Sanders County supports an economy driven by forestry, tourism, healthcare services, agriculture, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic development throughout the county.",
+      "population": "13257"
+    },
+    "Sheridan County": {
+      "description": "Sheridan County maintains a rural economy centered on agriculture, healthcare services, transportation, energy-related industries, agribusiness, and local commerce. Farming operations remain a primary driver of economic activity throughout the county.",
+      "population": "3414"
+    },
+    "Silver Bow County": {
+      "description": "Silver Bow County is a major economic center in southwest Montana, anchored by healthcare, education, mining-related industries, technology, manufacturing, professional services, and retail development. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "36835"
+    },
+    "Stillwater County": {
+      "description": "Stillwater County combines agriculture, mining-related industries, healthcare services, tourism, construction, and local commerce. Natural resources and business development contribute substantially to economic growth throughout the county.",
+      "population": "9641"
+    },
+    "Sweet Grass County": {
+      "description": "Sweet Grass County supports a rural economy based on agriculture, ranching, healthcare services, tourism, transportation, and local business activity. Farming operations remain central to economic stability and workforce opportunities.",
+      "population": "3828"
+    },
+    "Teton County": {
+      "description": "Teton County benefits from agriculture, healthcare services, renewable energy development, transportation, agribusiness, and local commerce. Its strong agricultural sector contributes significantly to regional economic activity.",
+      "population": "6164"
+    },
+    "Toole County": {
+      "description": "Toole County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
+      "population": "4960"
+    },
+    "Treasure County": {
+      "description": "Treasure County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "718"
+    },
+    "Valley County": {
+      "description": "Valley County serves as an important regional center in northeastern Montana, supported by agriculture, healthcare services, transportation, education, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "7600"
+    },
+    "Wheatland County": {
+      "description": "Wheatland County supports a rural economy driven by agriculture, ranching, healthcare services, renewable energy development, transportation, and local commerce. Farming operations remain central to economic stability and growth.",
+      "population": "2259"
+    },
+    "Wibaux County": {
+      "description": "Wibaux County benefits from agriculture, ranching, energy-related industries, healthcare services, transportation, and local business activity. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "937"
+    },
+    "Yellowstone County": {
+      "description": "Yellowstone County is Montana's largest economic center and home to Billings. Healthcare, energy, finance, transportation, professional services, manufacturing, retail development, and technology drive a highly diversified economy that supports substantial business investment and workforce growth.",
+      "population": "170463"
+    }
+  }
 }

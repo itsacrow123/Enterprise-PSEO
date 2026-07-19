@@ -1,144 +1,127 @@
 {
-"Beaver County": {
-  "description": "Beaver County supports a diversified economy based on agriculture, energy production, tourism, healthcare services, transportation, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
-  "population": "7280"
-},
-
-"Box Elder County": {
-  "description": "Box Elder County is one of northern Utah's strongest economic centers, supported by manufacturing, agriculture, logistics, healthcare services, aerospace-related industries, professional services, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "61300"
-},
-
-"Cache County": {
-  "description": "Cache County is one of Utah's leading education and innovation economies, anchored by higher education, technology, healthcare services, manufacturing, agriculture, professional services, and research-related industries. Its diversified economy contributes significantly to employment and business growth.",
-  "population": "140173"
-},
-
-"Carbon County": {
-  "description": "Carbon County supports an economy driven by energy production, healthcare services, education, tourism, transportation, and local business development. Natural resources and regional employers contribute substantially to economic activity throughout the county.",
-  "population": "20412"
-},
-
-"Daggett County": {
-  "description": "Daggett County benefits from tourism, outdoor recreation, healthcare services, transportation, hospitality, and local commerce. Visitor spending and natural attractions contribute significantly to workforce opportunities and economic growth.",
-  "population": "935"
-},
-
-"Davis County": {
-  "description": "Davis County is one of Utah's largest economic centers, driven by aerospace and defense industries, healthcare services, technology, professional services, logistics, retail development, and residential growth. Its location within the Salt Lake metropolitan area supports substantial business investment and workforce expansion.",
-  "population": "372679"
-},
-
-"Duchesne County": {
-  "description": "Duchesne County supports a diversified economy based on energy production, agriculture, healthcare services, transportation, tourism, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "19796"
-},
-
-"Emery County": {
-  "description": "Emery County benefits from energy production, mining, tourism, healthcare services, transportation, and local business development. Natural resources and visitor-related industries contribute substantially to economic growth throughout the county.",
-  "population": "9518"
-},
-
-"Garfield County": {
-  "description": "Garfield County is one of Utah's strongest tourism economies, supported by outdoor recreation, hospitality, healthcare services, transportation, retail activity, and professional services. Visitor spending contributes significantly to employment and business investment throughout the county.",
-  "population": "5083"
-},
-
-"Grand County": {
-  "description": "Grand County supports an economy driven by tourism, outdoor recreation, hospitality, healthcare services, transportation, and local commerce. Visitor-related industries contribute substantially to workforce opportunities and economic activity throughout the county.",
-  "population": "9746"
-},
-"Iron County": {
-  "description": "Iron County is one of southern Utah's fastest-growing economic centers, supported by healthcare services, higher education, manufacturing, tourism, professional services, retail development, and residential expansion. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "63900"
-},
-
-"Juab County": {
-  "description": "Juab County supports a diversified economy based on mining, agriculture, healthcare services, transportation, energy-related industries, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "12900"
-},
-
-"Kane County": {
-  "description": "Kane County benefits from tourism, outdoor recreation, hospitality, healthcare services, transportation, and local business development. Visitor spending and natural attractions contribute substantially to workforce opportunities and economic growth.",
-  "population": "8200"
-},
-
-"Millard County": {
-  "description": "Millard County supports an economy driven by agriculture, energy production, mining, healthcare services, transportation, and agribusiness. Farming operations and natural resource industries contribute significantly to economic development throughout the county.",
-  "population": "13300"
-},
-
-"Morgan County": {
-  "description": "Morgan County is a growing economic center in northern Utah, supported by healthcare services, professional services, tourism, construction, retail development, and residential growth. Its proximity to the Wasatch Front contributes significantly to workforce expansion and business investment.",
-  "population": "13400"
-},
-
-"Piute County": {
-  "description": "Piute County maintains a rural economy centered on agriculture, ranching, tourism, healthcare services, transportation, and local commerce. Livestock operations and visitor-related industries contribute substantially to economic activity throughout the county.",
-  "population": "1600"
-},
-
-"Rich County": {
-  "description": "Rich County benefits from tourism, agriculture, ranching, healthcare services, transportation, and local business development. Visitor spending and agricultural operations contribute significantly to economic growth throughout the county.",
-  "population": "2600"
-},
-
-"Salt Lake County": {
-  "description": "Salt Lake County is Utah's largest economic center and home to Salt Lake City. Technology, healthcare, finance, professional services, logistics, higher education, tourism, manufacturing, and corporate headquarters drive a highly diversified economy supporting substantial employment, innovation, and business investment.",
-  "population": "1181210"
-},
-
-"San Juan County": {
-  "description": "San Juan County supports a diversified economy based on tourism, energy production, healthcare services, transportation, government-related employment, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "14500"
-},
-
-"Sanpete County": {
-  "description": "Sanpete County benefits from higher education, agriculture, healthcare services, manufacturing, transportation, and local business development. Educational institutions and farming operations contribute substantially to workforce opportunities and economic growth.",
-  "population": "32000"
-},
-"Sevier County": {
-  "description": "Sevier County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "22500"
-},
-
-"Summit County": {
-  "description": "Summit County is one of Utah's most affluent economic centers, driven by tourism, hospitality, healthcare services, professional services, real estate, outdoor recreation, and technology-related businesses. Visitor spending and business investment contribute substantially to workforce growth and economic development.",
-  "population": "45000"
-},
-
-"Tooele County": {
-  "description": "Tooele County is a growing economic center in northern Utah, supported by manufacturing, logistics, defense-related industries, healthcare services, transportation, and residential development. Its proximity to Salt Lake City contributes significantly to business growth and workforce expansion.",
-  "population": "79000"
-},
-
-"Uintah County": {
-  "description": "Uintah County supports an economy driven by energy production, healthcare services, transportation, agriculture, professional services, and local commerce. Natural resources contribute substantially to employment opportunities and economic growth throughout the county.",
-  "population": "36000"
-},
-
-"Utah County": {
-  "description": "Utah County is one of the fastest-growing technology and innovation economies in the United States. Technology, higher education, healthcare, finance, professional services, advanced manufacturing, startups, and corporate investment drive a highly diversified economy supporting substantial employment and business growth.",
-  "population": "730000"
-},
-
-"Wasatch County": {
-  "description": "Wasatch County benefits from tourism, healthcare services, professional services, construction, hospitality, and residential development. Its growing economy contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "38000"
-},
-
-"Washington County": {
-  "description": "Washington County is one of Utah's fastest-growing economic centers, supported by healthcare services, tourism, professional services, retail development, construction, technology-related industries, and residential expansion. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "205000"
-},
-
-"Wayne County": {
-  "description": "Wayne County supports a rural economy based on tourism, agriculture, healthcare services, transportation, hospitality, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "2800"
-},
-
-"Weber County": {
-  "description": "Weber County is one of northern Utah's largest economic centers and home to Ogden. Healthcare, aerospace, manufacturing, logistics, professional services, higher education, retail development, and technology-related industries drive a diversified economy supporting substantial employment and business investment.",
-  "population": "275000"
-}
+  "identity": {
+    "code": "ut",
+    "slug": "utah",
+    "name": "Utah",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Beaver County": {
+      "description": "Beaver County supports a diversified economy based on agriculture, energy production, tourism, healthcare services, transportation, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
+      "population": "7280"
+    },
+    "Box Elder County": {
+      "description": "Box Elder County is one of northern Utah's strongest economic centers, supported by manufacturing, agriculture, logistics, healthcare services, aerospace-related industries, professional services, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "61300"
+    },
+    "Cache County": {
+      "description": "Cache County is one of Utah's leading education and innovation economies, anchored by higher education, technology, healthcare services, manufacturing, agriculture, professional services, and research-related industries. Its diversified economy contributes significantly to employment and business growth.",
+      "population": "140173"
+    },
+    "Carbon County": {
+      "description": "Carbon County supports an economy driven by energy production, healthcare services, education, tourism, transportation, and local business development. Natural resources and regional employers contribute substantially to economic activity throughout the county.",
+      "population": "20412"
+    },
+    "Daggett County": {
+      "description": "Daggett County benefits from tourism, outdoor recreation, healthcare services, transportation, hospitality, and local commerce. Visitor spending and natural attractions contribute significantly to workforce opportunities and economic growth.",
+      "population": "935"
+    },
+    "Davis County": {
+      "description": "Davis County is one of Utah's largest economic centers, driven by aerospace and defense industries, healthcare services, technology, professional services, logistics, retail development, and residential growth. Its location within the Salt Lake metropolitan area supports substantial business investment and workforce expansion.",
+      "population": "372679"
+    },
+    "Duchesne County": {
+      "description": "Duchesne County supports a diversified economy based on energy production, agriculture, healthcare services, transportation, tourism, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "19796"
+    },
+    "Emery County": {
+      "description": "Emery County benefits from energy production, mining, tourism, healthcare services, transportation, and local business development. Natural resources and visitor-related industries contribute substantially to economic growth throughout the county.",
+      "population": "9518"
+    },
+    "Garfield County": {
+      "description": "Garfield County is one of Utah's strongest tourism economies, supported by outdoor recreation, hospitality, healthcare services, transportation, retail activity, and professional services. Visitor spending contributes significantly to employment and business investment throughout the county.",
+      "population": "5083"
+    },
+    "Grand County": {
+      "description": "Grand County supports an economy driven by tourism, outdoor recreation, hospitality, healthcare services, transportation, and local commerce. Visitor-related industries contribute substantially to workforce opportunities and economic activity throughout the county.",
+      "population": "9746"
+    },
+    "Iron County": {
+      "description": "Iron County is one of southern Utah's fastest-growing economic centers, supported by healthcare services, higher education, manufacturing, tourism, professional services, retail development, and residential expansion. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "63900"
+    },
+    "Juab County": {
+      "description": "Juab County supports a diversified economy based on mining, agriculture, healthcare services, transportation, energy-related industries, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "12900"
+    },
+    "Kane County": {
+      "description": "Kane County benefits from tourism, outdoor recreation, hospitality, healthcare services, transportation, and local business development. Visitor spending and natural attractions contribute substantially to workforce opportunities and economic growth.",
+      "population": "8200"
+    },
+    "Millard County": {
+      "description": "Millard County supports an economy driven by agriculture, energy production, mining, healthcare services, transportation, and agribusiness. Farming operations and natural resource industries contribute significantly to economic development throughout the county.",
+      "population": "13300"
+    },
+    "Morgan County": {
+      "description": "Morgan County is a growing economic center in northern Utah, supported by healthcare services, professional services, tourism, construction, retail development, and residential growth. Its proximity to the Wasatch Front contributes significantly to workforce expansion and business investment.",
+      "population": "13400"
+    },
+    "Piute County": {
+      "description": "Piute County maintains a rural economy centered on agriculture, ranching, tourism, healthcare services, transportation, and local commerce. Livestock operations and visitor-related industries contribute substantially to economic activity throughout the county.",
+      "population": "1600"
+    },
+    "Rich County": {
+      "description": "Rich County benefits from tourism, agriculture, ranching, healthcare services, transportation, and local business development. Visitor spending and agricultural operations contribute significantly to economic growth throughout the county.",
+      "population": "2600"
+    },
+    "Salt Lake County": {
+      "description": "Salt Lake County is Utah's largest economic center and home to Salt Lake City. Technology, healthcare, finance, professional services, logistics, higher education, tourism, manufacturing, and corporate headquarters drive a highly diversified economy supporting substantial employment, innovation, and business investment.",
+      "population": "1181210"
+    },
+    "San Juan County": {
+      "description": "San Juan County supports a diversified economy based on tourism, energy production, healthcare services, transportation, government-related employment, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "14500"
+    },
+    "Sanpete County": {
+      "description": "Sanpete County benefits from higher education, agriculture, healthcare services, manufacturing, transportation, and local business development. Educational institutions and farming operations contribute substantially to workforce opportunities and economic growth.",
+      "population": "32000"
+    },
+    "Sevier County": {
+      "description": "Sevier County supports a diversified economy based on agriculture, healthcare services, manufacturing, tourism, transportation, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "22500"
+    },
+    "Summit County": {
+      "description": "Summit County is one of Utah's most affluent economic centers, driven by tourism, hospitality, healthcare services, professional services, real estate, outdoor recreation, and technology-related businesses. Visitor spending and business investment contribute substantially to workforce growth and economic development.",
+      "population": "45000"
+    },
+    "Tooele County": {
+      "description": "Tooele County is a growing economic center in northern Utah, supported by manufacturing, logistics, defense-related industries, healthcare services, transportation, and residential development. Its proximity to Salt Lake City contributes significantly to business growth and workforce expansion.",
+      "population": "79000"
+    },
+    "Uintah County": {
+      "description": "Uintah County supports an economy driven by energy production, healthcare services, transportation, agriculture, professional services, and local commerce. Natural resources contribute substantially to employment opportunities and economic growth throughout the county.",
+      "population": "36000"
+    },
+    "Utah County": {
+      "description": "Utah County is one of the fastest-growing technology and innovation economies in the United States. Technology, higher education, healthcare, finance, professional services, advanced manufacturing, startups, and corporate investment drive a highly diversified economy supporting substantial employment and business growth.",
+      "population": "730000"
+    },
+    "Wasatch County": {
+      "description": "Wasatch County benefits from tourism, healthcare services, professional services, construction, hospitality, and residential development. Its growing economy contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "38000"
+    },
+    "Washington County": {
+      "description": "Washington County is one of Utah's fastest-growing economic centers, supported by healthcare services, tourism, professional services, retail development, construction, technology-related industries, and residential expansion. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "205000"
+    },
+    "Wayne County": {
+      "description": "Wayne County supports a rural economy based on tourism, agriculture, healthcare services, transportation, hospitality, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "2800"
+    },
+    "Weber County": {
+      "description": "Weber County is one of northern Utah's largest economic centers and home to Ogden. Healthcare, aerospace, manufacturing, logistics, professional services, higher education, retail development, and technology-related industries drive a diversified economy supporting substantial employment and business investment.",
+      "population": "275000"
+    }
+  }
 }

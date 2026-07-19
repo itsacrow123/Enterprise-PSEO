@@ -1,163 +1,143 @@
 {
-"Bernalillo County": {
-  "description": "Bernalillo County is New Mexico's largest economic center, anchored by healthcare, technology, government services, higher education, aerospace, logistics, professional services, and retail development. Its diversified economy contributes substantially to statewide employment and business investment.",
-  "population": "676444"
-},
-
-"Catron County": {
-  "description": "Catron County supports a rural economy driven by ranching, agriculture, tourism, healthcare services, forestry, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "3579"
-},
-
-"Chaves County": {
-  "description": "Chaves County serves as an important economic center in southeastern New Mexico, supported by agriculture, energy-related industries, healthcare services, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "65157"
-},
-
-"Cibola County": {
-  "description": "Cibola County benefits from healthcare services, government employment, tourism, transportation, energy-related industries, and local business development. Natural attractions and public-sector employment contribute significantly to economic activity throughout the county.",
-  "population": "26718"
-},
-
-"Colfax County": {
-  "description": "Colfax County supports a diversified economy based on tourism, ranching, healthcare services, energy-related industries, outdoor recreation, and local commerce. Visitor spending and agricultural operations contribute substantially to economic growth.",
-  "population": "12387"
-},
-
-"Curry County": {
-  "description": "Curry County is a major agricultural and military-related economic center, supported by dairy production, healthcare services, logistics, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to regional workforce development.",
-  "population": "48781"
-},
-
-"De Baca County": {
-  "description": "De Baca County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains the primary driver of economic activity throughout the county.",
-  "population": "1698"
-},
-
-"Doña Ana County": {
-  "description": "Doña Ana County is one of New Mexico's largest and fastest-growing economic centers, driven by higher education, healthcare, technology, agriculture, logistics, international trade, and professional services. Its strategic location near the U.S.-Mexico border supports substantial business activity and workforce growth.",
-  "population": "224870"
-},
-
-"Eddy County": {
-  "description": "Eddy County is one of New Mexico's strongest energy-producing regions, supported by oil and gas development, healthcare services, transportation, construction, manufacturing, and professional industries. Its resource-driven economy contributes substantially to statewide economic growth and investment.",
-  "population": "63331"
-},
-
-"Grant County": {
-  "description": "Grant County benefits from healthcare services, mining-related industries, tourism, higher education, outdoor recreation, and local commerce. Its diversified economy supports stable employment opportunities and continued business development.",
-  "population": "28035"
-},
-"Guadalupe County": {
-  "description": "Guadalupe County supports a rural economy based on ranching, agriculture, healthcare services, tourism, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "4366"
-},
-
-"Harding County": {
-  "description": "Harding County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Livestock production remains central to economic stability throughout the county.",
-  "population": "657"
-},
-
-"Hidalgo County": {
-  "description": "Hidalgo County benefits from ranching, mining-related industries, healthcare services, tourism, transportation, and local commerce. Natural resources and agricultural operations contribute significantly to economic growth throughout the county.",
-  "population": "4117"
-},
-
-"Lea County": {
-  "description": "Lea County is one of New Mexico's most important economic centers, anchored by oil and gas development, healthcare services, logistics, manufacturing, construction, retail activity, and professional industries. Its energy-driven economy contributes substantially to statewide employment and business investment.",
-  "population": "75797"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County supports a diversified economy driven by tourism, healthcare services, ranching, outdoor recreation, hospitality, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
-  "population": "20269"
-},
-
-"Los Alamos County": {
-  "description": "Los Alamos County is one of the nation's leading science and technology centers, supported by research, engineering, healthcare services, education, professional services, and innovation-driven industries. Its highly skilled workforce contributes substantially to economic growth and technological advancement.",
-  "population": "19630"
-},
-
-"Luna County": {
-  "description": "Luna County benefits from agriculture, healthcare services, transportation, international trade, manufacturing, and local business development. Its border-region economy supports workforce opportunities and continued economic expansion.",
-  "population": "25541"
-},
-
-"McKinley County": {
-  "description": "McKinley County serves as a major regional economic center in western New Mexico, supported by healthcare, retail development, transportation, tourism, education, and professional services. Its diversified economy contributes significantly to regional employment and business activity.",
-  "population": "71813"
-},
-
-"Mora County": {
-  "description": "Mora County maintains a rural economy centered on ranching, agriculture, healthcare services, tourism, forestry, and local commerce. Natural resources and farming operations contribute significantly to economic development throughout the county.",
-  "population": "4180"
-},
-
-"Otero County": {
-  "description": "Otero County supports an economy driven by military-related industries, healthcare services, tourism, aerospace activities, retail development, and professional services. Its diversified economy contributes substantially to regional workforce growth and business investment.",
-  "population": "68319"
-},
-"Quay County": {
-  "description": "Quay County supports a diversified economy based on agriculture, transportation, tourism, healthcare services, logistics, and local commerce. Its location along historic travel corridors contributes significantly to regional economic activity.",
-  "population": "8398"
-},
-
-"Rio Arriba County": {
-  "description": "Rio Arriba County benefits from healthcare services, government employment, tourism, energy-related industries, agriculture, and local business development. Natural attractions and public-sector employment contribute significantly to economic growth throughout the county.",
-  "population": "39277"
-},
-
-"Roosevelt County": {
-  "description": "Roosevelt County serves as an important educational and agricultural center in eastern New Mexico, supported by higher education, healthcare services, agriculture, retail activity, transportation, and professional services. Its diversified economy contributes substantially to regional employment and workforce development.",
-  "population": "18472"
-},
-
-"Sandoval County": {
-  "description": "Sandoval County is one of New Mexico's fastest-growing economic centers, driven by healthcare, technology, professional services, retail development, construction, tourism, and residential expansion. Its proximity to the Albuquerque metropolitan area supports substantial business investment and workforce growth.",
-  "population": "151150"
-},
-
-"San Juan County": {
-  "description": "San Juan County is one of New Mexico's largest economic centers, supported by energy production, healthcare services, transportation, manufacturing, retail development, professional services, and tourism. Its diversified economy contributes significantly to regional employment and business activity.",
-  "population": "121661"
-},
-
-"San Miguel County": {
-  "description": "San Miguel County supports an economy driven by healthcare services, higher education, tourism, government employment, agriculture, and local commerce. Educational institutions and visitor-related industries contribute significantly to economic development throughout the county.",
-  "population": "27388"
-},
-
-"Santa Fe County": {
-  "description": "Santa Fe County is one of New Mexico's most important economic and cultural centers, anchored by government services, tourism, healthcare, arts-related industries, technology, professional services, and retail development. Its diversified economy supports substantial employment and business investment.",
-  "population": "154823"
-},
-
-"Sierra County": {
-  "description": "Sierra County benefits from tourism, healthcare services, outdoor recreation, agriculture, mining-related industries, and local business development. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
-  "population": "11293"
-},
-
-"Socorro County": {
-  "description": "Socorro County supports a diversified economy based on higher education, research, healthcare services, tourism, transportation, and local commerce. Educational institutions and scientific research contribute significantly to regional economic growth.",
-  "population": "16595"
-},
-
-"Taos County": {
-  "description": "Taos County is a major tourism and arts economy in northern New Mexico, supported by healthcare services, hospitality, outdoor recreation, professional services, retail activity, and cultural industries. Visitor spending contributes substantially to regional employment and business growth.",
-  "population": "34584"
-},
-"Torrance County": {
-  "description": "Torrance County supports a diversified economy based on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations and growing energy projects contribute significantly to economic activity throughout the county.",
-  "population": "15989"
-},
-
-"Union County": {
-  "description": "Union County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, tourism, agribusiness, and local business activity. Livestock production remains central to economic stability and workforce opportunities throughout the county.",
-  "population": "3937"
-},
-
-"Valencia County": {
-  "description": "Valencia County is one of New Mexico's fastest-growing economic centers, driven by healthcare, logistics, manufacturing, retail development, professional services, agriculture, and residential expansion. Its strategic location within the Albuquerque metropolitan region supports substantial business investment and workforce growth.",
-  "population": "78389"
-}
+  "identity": {
+    "code": "nm",
+    "slug": "new-mexico",
+    "name": "New Mexico",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Bernalillo County": {
+      "description": "Bernalillo County is New Mexico's largest economic center, anchored by healthcare, technology, government services, higher education, aerospace, logistics, professional services, and retail development. Its diversified economy contributes substantially to statewide employment and business investment.",
+      "population": "676444"
+    },
+    "Catron County": {
+      "description": "Catron County supports a rural economy driven by ranching, agriculture, tourism, healthcare services, forestry, outdoor recreation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "3579"
+    },
+    "Chaves County": {
+      "description": "Chaves County serves as an important economic center in southeastern New Mexico, supported by agriculture, energy-related industries, healthcare services, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "65157"
+    },
+    "Cibola County": {
+      "description": "Cibola County benefits from healthcare services, government employment, tourism, transportation, energy-related industries, and local business development. Natural attractions and public-sector employment contribute significantly to economic activity throughout the county.",
+      "population": "26718"
+    },
+    "Colfax County": {
+      "description": "Colfax County supports a diversified economy based on tourism, ranching, healthcare services, energy-related industries, outdoor recreation, and local commerce. Visitor spending and agricultural operations contribute substantially to economic growth.",
+      "population": "12387"
+    },
+    "Curry County": {
+      "description": "Curry County is a major agricultural and military-related economic center, supported by dairy production, healthcare services, logistics, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to regional workforce development.",
+      "population": "48781"
+    },
+    "De Baca County": {
+      "description": "De Baca County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains the primary driver of economic activity throughout the county.",
+      "population": "1698"
+    },
+    "Doña Ana County": {
+      "description": "Doña Ana County is one of New Mexico's largest and fastest-growing economic centers, driven by higher education, healthcare, technology, agriculture, logistics, international trade, and professional services. Its strategic location near the U.S.-Mexico border supports substantial business activity and workforce growth.",
+      "population": "224870"
+    },
+    "Eddy County": {
+      "description": "Eddy County is one of New Mexico's strongest energy-producing regions, supported by oil and gas development, healthcare services, transportation, construction, manufacturing, and professional industries. Its resource-driven economy contributes substantially to statewide economic growth and investment.",
+      "population": "63331"
+    },
+    "Grant County": {
+      "description": "Grant County benefits from healthcare services, mining-related industries, tourism, higher education, outdoor recreation, and local commerce. Its diversified economy supports stable employment opportunities and continued business development.",
+      "population": "28035"
+    },
+    "Guadalupe County": {
+      "description": "Guadalupe County supports a rural economy based on ranching, agriculture, healthcare services, tourism, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "4366"
+    },
+    "Harding County": {
+      "description": "Harding County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Livestock production remains central to economic stability throughout the county.",
+      "population": "657"
+    },
+    "Hidalgo County": {
+      "description": "Hidalgo County benefits from ranching, mining-related industries, healthcare services, tourism, transportation, and local commerce. Natural resources and agricultural operations contribute significantly to economic growth throughout the county.",
+      "population": "4117"
+    },
+    "Lea County": {
+      "description": "Lea County is one of New Mexico's most important economic centers, anchored by oil and gas development, healthcare services, logistics, manufacturing, construction, retail activity, and professional industries. Its energy-driven economy contributes substantially to statewide employment and business investment.",
+      "population": "75797"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County supports a diversified economy driven by tourism, healthcare services, ranching, outdoor recreation, hospitality, and local commerce. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
+      "population": "20269"
+    },
+    "Los Alamos County": {
+      "description": "Los Alamos County is one of the nation's leading science and technology centers, supported by research, engineering, healthcare services, education, professional services, and innovation-driven industries. Its highly skilled workforce contributes substantially to economic growth and technological advancement.",
+      "population": "19630"
+    },
+    "Luna County": {
+      "description": "Luna County benefits from agriculture, healthcare services, transportation, international trade, manufacturing, and local business development. Its border-region economy supports workforce opportunities and continued economic expansion.",
+      "population": "25541"
+    },
+    "McKinley County": {
+      "description": "McKinley County serves as a major regional economic center in western New Mexico, supported by healthcare, retail development, transportation, tourism, education, and professional services. Its diversified economy contributes significantly to regional employment and business activity.",
+      "population": "71813"
+    },
+    "Mora County": {
+      "description": "Mora County maintains a rural economy centered on ranching, agriculture, healthcare services, tourism, forestry, and local commerce. Natural resources and farming operations contribute significantly to economic development throughout the county.",
+      "population": "4180"
+    },
+    "Otero County": {
+      "description": "Otero County supports an economy driven by military-related industries, healthcare services, tourism, aerospace activities, retail development, and professional services. Its diversified economy contributes substantially to regional workforce growth and business investment.",
+      "population": "68319"
+    },
+    "Quay County": {
+      "description": "Quay County supports a diversified economy based on agriculture, transportation, tourism, healthcare services, logistics, and local commerce. Its location along historic travel corridors contributes significantly to regional economic activity.",
+      "population": "8398"
+    },
+    "Rio Arriba County": {
+      "description": "Rio Arriba County benefits from healthcare services, government employment, tourism, energy-related industries, agriculture, and local business development. Natural attractions and public-sector employment contribute significantly to economic growth throughout the county.",
+      "population": "39277"
+    },
+    "Roosevelt County": {
+      "description": "Roosevelt County serves as an important educational and agricultural center in eastern New Mexico, supported by higher education, healthcare services, agriculture, retail activity, transportation, and professional services. Its diversified economy contributes substantially to regional employment and workforce development.",
+      "population": "18472"
+    },
+    "Sandoval County": {
+      "description": "Sandoval County is one of New Mexico's fastest-growing economic centers, driven by healthcare, technology, professional services, retail development, construction, tourism, and residential expansion. Its proximity to the Albuquerque metropolitan area supports substantial business investment and workforce growth.",
+      "population": "151150"
+    },
+    "San Juan County": {
+      "description": "San Juan County is one of New Mexico's largest economic centers, supported by energy production, healthcare services, transportation, manufacturing, retail development, professional services, and tourism. Its diversified economy contributes significantly to regional employment and business activity.",
+      "population": "121661"
+    },
+    "San Miguel County": {
+      "description": "San Miguel County supports an economy driven by healthcare services, higher education, tourism, government employment, agriculture, and local commerce. Educational institutions and visitor-related industries contribute significantly to economic development throughout the county.",
+      "population": "27388"
+    },
+    "Santa Fe County": {
+      "description": "Santa Fe County is one of New Mexico's most important economic and cultural centers, anchored by government services, tourism, healthcare, arts-related industries, technology, professional services, and retail development. Its diversified economy supports substantial employment and business investment.",
+      "population": "154823"
+    },
+    "Sierra County": {
+      "description": "Sierra County benefits from tourism, healthcare services, outdoor recreation, agriculture, mining-related industries, and local business development. Visitor spending and natural attractions contribute significantly to economic activity throughout the county.",
+      "population": "11293"
+    },
+    "Socorro County": {
+      "description": "Socorro County supports a diversified economy based on higher education, research, healthcare services, tourism, transportation, and local commerce. Educational institutions and scientific research contribute significantly to regional economic growth.",
+      "population": "16595"
+    },
+    "Taos County": {
+      "description": "Taos County is a major tourism and arts economy in northern New Mexico, supported by healthcare services, hospitality, outdoor recreation, professional services, retail activity, and cultural industries. Visitor spending contributes substantially to regional employment and business growth.",
+      "population": "34584"
+    },
+    "Torrance County": {
+      "description": "Torrance County supports a diversified economy based on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations and growing energy projects contribute significantly to economic activity throughout the county.",
+      "population": "15989"
+    },
+    "Union County": {
+      "description": "Union County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, tourism, agribusiness, and local business activity. Livestock production remains central to economic stability and workforce opportunities throughout the county.",
+      "population": "3937"
+    },
+    "Valencia County": {
+      "description": "Valencia County is one of New Mexico's fastest-growing economic centers, driven by healthcare, logistics, manufacturing, retail development, professional services, agriculture, and residential expansion. Its strategic location within the Albuquerque metropolitan region supports substantial business investment and workforce growth.",
+      "population": "78389"
+    }
+  }
 }

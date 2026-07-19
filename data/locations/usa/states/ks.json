@@ -1,517 +1,431 @@
 {
-"Allen County": {
-  "description": "Allen County supports a diversified economy based on manufacturing, healthcare, agriculture, education, and local commerce. Community institutions and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "12451"
-},
-
-"Anderson County": {
-  "description": "Anderson County maintains a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local businesses. Farming operations remain the primary driver of economic activity across the county.",
-  "population": "7591"
-},
-
-"Atchison County": {
-  "description": "Atchison County combines manufacturing, education, healthcare, transportation, and local commerce within northeast Kansas. Its strategic location and diversified economy support continued business development and workforce growth.",
-  "population": "15870"
-},
-
-"Barber County": {
-  "description": "Barber County supports an economy driven by agriculture, ranching, energy production, tourism, and local commerce. Natural resources and farming operations continue to play important roles in regional economic activity.",
-  "population": "4434"
-},
-
-"Barton County": {
-  "description": "Barton County serves as a regional economic center supported by healthcare, manufacturing, agriculture, energy-related industries, and transportation services. Its diverse business base contributes to long-term economic stability.",
-  "population": "25570"
-},
-
-"Bourbon County": {
-  "description": "Bourbon County combines agriculture, manufacturing, healthcare, education, and local commerce within southeast Kansas. Community-focused businesses and industrial employers contribute significantly to economic development.",
-  "population": "14023"
-},
-
-"Brown County": {
-  "description": "Brown County benefits from agriculture, food production, healthcare services, education, and small business activity. Farming operations and local industries continue to support economic growth throughout the county.",
-  "population": "9483"
-},
-
-"Butler County": {
-  "description": "Butler County is one of Kansas' fastest-growing counties, driven by manufacturing, aerospace, healthcare, logistics, retail development, and residential expansion. Its proximity to Wichita supports substantial economic growth and investment.",
-  "population": "68736"
-},
-
-"Chase County": {
-  "description": "Chase County is known for ranching, agriculture, tourism, and outdoor recreation opportunities within the Flint Hills region. Visitor spending and agricultural enterprises contribute significantly to economic activity throughout the county.",
-  "population": "2587"
-},
-
-"Chautauqua County": {
-  "description": "Chautauqua County maintains a rural economy supported by agriculture, ranching, energy-related industries, healthcare services, and local commerce. Natural resource industries continue to play an important role in economic stability.",
-  "population": "3246"
-},
-"Cherokee County": {
-  "description": "Cherokee County supports a diversified economy driven by manufacturing, healthcare, education, agriculture, tourism, and local commerce. Its strategic location in southeast Kansas contributes to continued business activity and regional development.",
-  "population": "19431"
-},
-
-"Cheyenne County": {
-  "description": "Cheyenne County maintains a strong agricultural economy centered on crop production, livestock operations, agribusiness, and transportation services. Farming remains the foundation of economic activity throughout the county.",
-  "population": "2616"
-},
-
-"Clark County": {
-  "description": "Clark County supports a rural economy based on ranching, agriculture, energy-related industries, healthcare services, and local commerce. Natural resource industries and farming operations contribute significantly to regional economic stability.",
-  "population": "1986"
-},
-
-"Clay County": {
-  "description": "Clay County combines agriculture, manufacturing, healthcare, education, and local business activity within north-central Kansas. Its diversified economy supports stable employment and community development.",
-  "population": "8002"
-},
-
-"Cloud County": {
-  "description": "Cloud County serves as a regional center for agriculture, healthcare, education, manufacturing, and retail activity. Community institutions and business investment continue to support economic growth throughout the county.",
-  "population": "9068"
-},
-
-"Coffey County": {
-  "description": "Coffey County benefits from agriculture, energy production, manufacturing, healthcare services, and local commerce. Its diverse economic base contributes to workforce opportunities and long-term stability.",
-  "population": "7905"
-},
-
-"Comanche County": {
-  "description": "Comanche County supports a rural economy driven by ranching, agriculture, tourism, hunting-related recreation, and community-focused businesses. Farming and natural resource industries remain important contributors to economic activity.",
-  "population": "1705"
-},
-
-"Cowley County": {
-  "description": "Cowley County is a major regional economic center in south-central Kansas, supporting manufacturing, healthcare, education, aviation-related industries, agriculture, and professional services. Its diversified economy drives significant regional employment.",
-  "population": "34549"
-},
-
-"Crawford County": {
-  "description": "Crawford County serves as an important educational, healthcare, manufacturing, and commercial center in southeast Kansas. Higher education institutions and industrial employers contribute substantially to economic development.",
-  "population": "38830"
-},
-
-"Decatur County": {
-  "description": "Decatur County maintains a strong agricultural economy supported by crop production, livestock operations, agribusiness, healthcare services, and local commerce. Farming remains the primary economic driver throughout the county.",
-  "population": "2757"
-},
-"Dickinson County": {
-  "description": "Dickinson County supports a diverse economy based on agriculture, manufacturing, transportation, healthcare, tourism, and local commerce. Its strategic location along major transportation corridors contributes to continued economic growth and business development.",
-  "population": "18402"
-},
-
-"Doniphan County": {
-  "description": "Doniphan County combines agriculture, food production, healthcare services, tourism, and local business activity within northeast Kansas. Farming operations and community-focused enterprises continue to support economic stability.",
-  "population": "7488"
-},
-
-"Douglas County": {
-  "description": "Douglas County is one of Kansas' leading educational and innovation centers, driven by higher education, healthcare, technology, research, professional services, and entrepreneurship. Its highly skilled workforce supports strong economic growth and investment.",
-  "population": "121436"
-},
-
-"Edwards County": {
-  "description": "Edwards County maintains a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local commerce. Farming remains the primary contributor to economic activity throughout the county.",
-  "population": "2851"
-},
-
-"Elk County": {
-  "description": "Elk County supports an economy based on ranching, agriculture, energy-related industries, outdoor recreation, and local businesses. Natural resources and farming operations continue to play important roles in economic development.",
-  "population": "2470"
-},
-
-"Ellis County": {
-  "description": "Ellis County serves as a regional center for education, healthcare, manufacturing, agriculture, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business activity.",
-  "population": "28853"
-},
-
-"Ellsworth County": {
-  "description": "Ellsworth County combines agriculture, energy production, healthcare services, tourism, and local commerce within central Kansas. Community-focused industries and natural resource sectors contribute to economic stability.",
-  "population": "6053"
-},
-
-"Finney County": {
-  "description": "Finney County is a major agricultural and food-processing hub in western Kansas, supporting agribusiness, manufacturing, healthcare, logistics, and professional services. Its strong industrial base contributes significantly to regional economic growth.",
-  "population": "38733"
-},
-
-"Ford County": {
-  "description": "Ford County is one of western Kansas' most important economic centers, driven by agriculture, food processing, healthcare, transportation, manufacturing, and retail development. Its diversified economy supports substantial regional employment.",
-  "population": "33487"
-},
-
-"Franklin County": {
-  "description": "Franklin County benefits from manufacturing, healthcare, agriculture, logistics, retail activity, and residential growth. Its location within the Kansas City region supports continued business investment and economic expansion.",
-  "population": "26194"
-},
-"Geary County": {
-  "description": "Geary County serves as a major economic center in northeast Kansas, supported by military-related employment, healthcare services, education, retail development, and professional industries. Its diverse economy contributes significantly to regional business activity and workforce growth.",
-  "population": "36186"
-},
-
-"Gove County": {
-  "description": "Gove County maintains a rural economy centered on agriculture, livestock production, agribusiness, renewable energy development, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "2628"
-},
-
-"Graham County": {
-  "description": "Graham County supports an economy based on agriculture, ranching, healthcare services, community businesses, and agribusiness operations. Farming and livestock production continue to provide the foundation for economic stability.",
-  "population": "2415"
-},
-
-"Grant County": {
-  "description": "Grant County benefits from agriculture, energy production, food processing, healthcare services, and transportation-related industries. Its diversified economic base supports employment opportunities throughout southwest Kansas.",
-  "population": "7286"
-},
-
-"Gray County": {
-  "description": "Gray County combines agriculture, livestock production, energy-related industries, healthcare, and local business activity. Farming and natural resource sectors continue to contribute significantly to regional economic growth.",
-  "population": "5846"
-},
-
-"Greeley County": {
-  "description": "Greeley County is one of Kansas' least populated counties and supports a rural economy focused on agriculture, ranching, agribusiness, and community services. Farming operations remain central to economic activity throughout the county.",
-  "population": "1257"
-},
-
-"Greenwood County": {
-  "description": "Greenwood County supports a balanced economy driven by ranching, agriculture, energy production, tourism, healthcare services, and local commerce. Natural resources and agricultural enterprises remain important contributors to economic development.",
-  "population": "5927"
-},
-
-"Hamilton County": {
-  "description": "Hamilton County maintains a strong agricultural economy based on crop production, livestock operations, agribusiness, transportation services, and local businesses. Farming remains the primary economic driver throughout the county.",
-  "population": "2518"
-},
-
-"Harper County": {
-  "description": "Harper County combines agriculture, energy-related industries, healthcare services, manufacturing, and local commerce within south-central Kansas. Its diversified economy supports stable employment and long-term growth.",
-  "population": "5485"
-},
-
-"Harvey County": {
-  "description": "Harvey County is an important economic center in south-central Kansas, supported by manufacturing, healthcare, education, agriculture, professional services, and transportation industries. Its growing business community contributes significantly to regional economic activity.",
-  "population": "34304"
-},
-"Haskell County": {
-  "description": "Haskell County supports a strong agricultural economy centered on crop production, livestock operations, food processing, agribusiness, and transportation services. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "3780"
-},
-
-"Hodgeman County": {
-  "description": "Hodgeman County maintains a rural economy based on ranching, agriculture, healthcare services, agribusiness, and local commerce. Farming operations and natural resource industries continue to support economic stability across the county.",
-  "population": "1723"
-},
-
-"Jackson County": {
-  "description": "Jackson County combines agriculture, manufacturing, healthcare services, education, and local business activity within northeast Kansas. Its diversified economy contributes to stable employment opportunities and community growth.",
-  "population": "13115"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County benefits from agriculture, manufacturing, healthcare, tourism, retail development, and residential growth. Its proximity to the Topeka metropolitan area supports continued business investment and economic expansion.",
-  "population": "18453"
-},
-
-"Jewell County": {
-  "description": "Jewell County supports a rural economy driven by agriculture, livestock production, healthcare services, agribusiness, and local commerce. Farming remains the foundation of economic activity throughout the county.",
-  "population": "2868"
-},
-
-"Johnson County": {
-  "description": "Johnson County is the largest and most affluent county in Kansas, serving as a major economic engine for the Kansas City metropolitan area. Technology, healthcare, finance, professional services, education, logistics, and corporate headquarters drive a highly diversified and prosperous economy.",
-  "population": "620999"
-},
-
-"Kearny County": {
-  "description": "Kearny County combines agriculture, food production, energy-related industries, transportation services, and healthcare within western Kansas. Agribusiness operations continue to play a major role in supporting economic activity.",
-  "population": "3838"
-},
-
-"Kingman County": {
-  "description": "Kingman County supports a balanced economy based on agriculture, manufacturing, healthcare services, energy production, and local business development. Farming and industrial employers contribute significantly to regional growth.",
-  "population": "7444"
-},
-
-"Kiowa County": {
-  "description": "Kiowa County maintains a rural economy centered on agriculture, ranching, healthcare services, tourism, and local commerce. Farming operations and community institutions continue to provide economic stability.",
-  "population": "2446"
-},
-
-"Labette County": {
-  "description": "Labette County serves as an important regional center for healthcare, manufacturing, education, agriculture, retail activity, and professional services. Its diversified economy supports workforce development and long-term business growth.",
-  "population": "19674"
-},
-"Lane County": {
-  "description": "Lane County supports a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local commerce. Farming operations continue to serve as the foundation of economic activity throughout the county.",
-  "population": "1549"
-},
-
-"Leavenworth County": {
-  "description": "Leavenworth County is a major economic center in northeast Kansas, supported by government services, military-related employment, healthcare, manufacturing, logistics, and residential development. Its proximity to the Kansas City metropolitan area contributes to strong business growth.",
-  "population": "82726"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County combines agriculture, ranching, healthcare services, tourism, and local business activity within central Kansas. Farming and community-focused industries continue to support long-term economic stability.",
-  "population": "2939"
-},
-
-"Linn County": {
-  "description": "Linn County benefits from agriculture, manufacturing, healthcare services, tourism, and residential growth. Its location within the greater Kansas City region supports continued economic development and investment.",
-  "population": "9668"
-},
-
-"Logan County": {
-  "description": "Logan County maintains a strong agricultural economy driven by crop production, livestock operations, agribusiness, renewable energy development, and local commerce. Farming remains central to economic activity throughout the county.",
-  "population": "2732"
-},
-
-"Lyon County": {
-  "description": "Lyon County serves as a regional hub for higher education, healthcare, manufacturing, agriculture, retail activity, and professional services. Its diversified economy contributes significantly to workforce development and business expansion.",
-  "population": "31565"
-},
-
-"McPherson County": {
-  "description": "McPherson County is one of Kansas' leading economic centers, supported by manufacturing, agriculture, energy production, healthcare, logistics, and professional services. Its strong industrial base and skilled workforce drive substantial economic growth.",
-  "population": "30327"
-},
-
-"Marion County": {
-  "description": "Marion County combines agriculture, manufacturing, healthcare services, tourism, and local commerce within central Kansas. Community institutions and agribusiness operations continue to support economic activity throughout the county.",
-  "population": "11823"
-},
-
-"Marshall County": {
-  "description": "Marshall County supports a diversified economy based on agriculture, livestock production, manufacturing, healthcare services, and local business development. Farming and industrial employers contribute to long-term economic stability.",
-  "population": "9696"
-},
-
-"Meade County": {
-  "description": "Meade County maintains a rural economy centered on agriculture, ranching, energy-related industries, healthcare services, and local commerce. Farming operations remain a primary contributor to economic activity across the county.",
-  "population": "4031"
-},
-"Miami County": {
-  "description": "Miami County is one of the fastest-growing counties in the Kansas City metropolitan area, supported by residential development, healthcare services, logistics, manufacturing, agriculture, and professional industries. Continued population growth contributes to strong economic expansion.",
-  "population": "36280"
-},
-
-"Mitchell County": {
-  "description": "Mitchell County combines agriculture, manufacturing, healthcare services, renewable energy development, and local commerce within north-central Kansas. Farming and industrial employers continue to support economic growth throughout the county.",
-  "population": "5770"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County serves as a major economic center in southeast Kansas, driven by manufacturing, healthcare, education, energy-related industries, retail activity, and professional services. Its diversified economy supports regional employment and business development.",
-  "population": "31336"
-},
-
-"Morris County": {
-  "description": "Morris County supports a rural economy based on ranching, agriculture, tourism, healthcare services, and local businesses. Natural resources and farming operations remain important contributors to economic activity throughout the county.",
-  "population": "5567"
-},
-
-"Morton County": {
-  "description": "Morton County maintains an economy centered on agriculture, energy production, transportation services, ranching, and local commerce. Natural resource industries and agribusiness contribute significantly to regional economic stability.",
-  "population": "2685"
-},
-
-"Nemaha County": {
-  "description": "Nemaha County benefits from agriculture, manufacturing, healthcare services, food production, and local business activity. Its diversified economy supports stable employment and long-term community development.",
-  "population": "10016"
-},
-
-"Neosho County": {
-  "description": "Neosho County combines manufacturing, agriculture, healthcare, energy-related industries, and local commerce within southeast Kansas. Industrial employers and agribusiness operations contribute significantly to economic growth.",
-  "population": "15731"
-},
-
-"Ness County": {
-  "description": "Ness County supports a strong agricultural economy based on crop production, livestock operations, agribusiness, healthcare services, and community-focused businesses. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "2687"
-},
-
-"Norton County": {
-  "description": "Norton County maintains a rural economy supported by agriculture, healthcare services, manufacturing, education, and local commerce. Farming operations and community institutions contribute to economic stability across the county.",
-  "population": "5275"
-},
-
-"Osage County": {
-  "description": "Osage County combines agriculture, manufacturing, healthcare services, tourism, and residential growth within northeast Kansas. Its strategic location and diversified economy support continued business development and investment.",
-  "population": "15709"
-},
-"Osborne County": {
-  "description": "Osborne County supports a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local commerce. Farming operations continue to provide the foundation for economic activity throughout the county.",
-  "population": "3435"
-},
-
-"Ottawa County": {
-  "description": "Ottawa County combines agriculture, manufacturing, healthcare services, renewable energy development, and community-focused businesses within north-central Kansas. Its diversified economy supports stable employment and long-term growth.",
-  "population": "5723"
-},
-
-"Pawnee County": {
-  "description": "Pawnee County benefits from agriculture, healthcare services, energy-related industries, manufacturing, and local commerce. Farming operations and business development contribute significantly to economic activity throughout the county.",
-  "population": "6470"
-},
-
-"Phillips County": {
-  "description": "Phillips County maintains a strong agricultural economy driven by crop production, livestock operations, agribusiness, healthcare services, and local businesses. Farming remains the primary economic driver across the county.",
-  "population": "4916"
-},
-
-"Pottawatomie County": {
-  "description": "Pottawatomie County is one of Kansas' fastest-growing counties, supported by agriculture, manufacturing, healthcare, education, logistics, and residential development. Continued population growth contributes to strong economic expansion.",
-  "population": "25940"
-},
-
-"Pratt County": {
-  "description": "Pratt County serves as a regional center for agriculture, energy production, healthcare services, manufacturing, and retail activity. Its diversified economy supports workforce development and business growth throughout south-central Kansas.",
-  "population": "9348"
-},
-
-"Rawlins County": {
-  "description": "Rawlins County supports a rural economy based on agriculture, ranching, healthcare services, agribusiness, and local commerce. Farming and livestock operations continue to contribute significantly to economic stability.",
-  "population": "2525"
-},
-
-"Reno County": {
-  "description": "Reno County is one of central Kansas' largest economic centers, driven by manufacturing, healthcare, agriculture, aviation-related industries, logistics, and professional services. Its diverse economy supports substantial regional employment.",
-  "population": "61998"
-},
-
-"Republic County": {
-  "description": "Republic County combines agriculture, renewable energy development, healthcare services, local business activity, and community-focused industries. Farming remains central to economic growth and employment throughout the county.",
-  "population": "4594"
-},
-
-"Rice County": {
-  "description": "Rice County supports a balanced economy driven by agriculture, manufacturing, energy production, healthcare services, and transportation-related industries. Its diversified business base contributes to long-term economic stability.",
-  "population": "9490"
-},
-"Riley County": {
-  "description": "Riley County is a major educational, research, and economic center in Kansas, supported by higher education, healthcare, technology, government services, and professional industries. Its innovation-driven economy contributes significantly to regional growth and workforce development.",
-  "population": "73008"
-},
-
-"Rooks County": {
-  "description": "Rooks County supports a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "4756"
-},
-
-"Rush County": {
-  "description": "Rush County combines agriculture, ranching, healthcare services, agribusiness, and community-focused businesses within central Kansas. Farming and livestock operations continue to provide economic stability and employment opportunities.",
-  "population": "2953"
-},
-
-"Russell County": {
-  "description": "Russell County benefits from agriculture, energy production, manufacturing, healthcare services, tourism, and local commerce. Its diversified economy supports long-term business development and regional economic activity.",
-  "population": "6677"
-},
-
-"Saline County": {
-  "description": "Saline County serves as one of central Kansas' most important economic centers, supporting manufacturing, healthcare, transportation, education, retail activity, and professional services. Its strong business environment contributes significantly to regional growth.",
-  "population": "54224"
-},
-
-"Scott County": {
-  "description": "Scott County maintains a strong agricultural economy driven by crop production, livestock operations, agribusiness, healthcare services, and local commerce. Farming remains the foundation of economic activity throughout the county.",
-  "population": "4955"
-},
-
-"Sedgwick County": {
-  "description": "Sedgwick County is the largest economic center in Kansas and home to Wichita. Aerospace manufacturing, healthcare, finance, logistics, education, professional services, and technology industries drive one of the most diversified economies in the Great Plains region.",
-  "population": "525880"
-},
-
-"Seward County": {
-  "description": "Seward County supports a diversified economy based on agriculture, food processing, energy production, healthcare services, transportation, and manufacturing. Its strong industrial and agribusiness sectors contribute significantly to regional employment.",
-  "population": "22077"
-},
-
-"Shawnee County": {
-  "description": "Shawnee County is home to Kansas' capital city and serves as a major center for government services, healthcare, education, finance, logistics, and professional industries. Its diverse economy supports substantial business and workforce development.",
-  "population": "177252"
-},
-
-"Sheridan County": {
-  "description": "Sheridan County supports a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local business activity. Farming operations continue to play a vital role in economic stability throughout the county.",
-  "population": "2439"
-},
-"Sherman County": {
-  "description": "Sherman County supports a strong economy based on agriculture, transportation, logistics, healthcare services, and agribusiness. Its location along Interstate 70 contributes significantly to commercial activity and regional economic growth.",
-  "population": "5759"
-},
-
-"Smith County": {
-  "description": "Smith County maintains a rural economy centered on agriculture, livestock production, healthcare services, agribusiness, and local commerce. Farming operations continue to provide the foundation for economic activity throughout the county.",
-  "population": "3570"
-},
-
-"Stafford County": {
-  "description": "Stafford County combines agriculture, energy-related industries, healthcare services, manufacturing, and community-focused businesses. Its diversified economy supports stable employment and long-term economic development.",
-  "population": "4035"
-},
-
-"Stanton County": {
-  "description": "Stanton County supports an economy driven by agriculture, energy production, agribusiness, transportation services, and local commerce. Farming and natural resource industries remain key contributors to regional economic activity.",
-  "population": "2049"
-},
-
-"Stevens County": {
-  "description": "Stevens County benefits from agriculture, energy production, food processing, healthcare services, and local business activity. Its strong agribusiness sector contributes significantly to economic growth throughout the county.",
-  "population": "5521"
-},
-
-"Sumner County": {
-  "description": "Sumner County serves as an important economic center in south-central Kansas, supported by manufacturing, agriculture, healthcare services, transportation, and retail development. Its diverse economy contributes to regional employment and business growth.",
-  "population": "22382"
-},
-
-"Thomas County": {
-  "description": "Thomas County combines agriculture, transportation, healthcare services, manufacturing, and local commerce within western Kansas. Its strategic location supports continued business investment and workforce development.",
-  "population": "7613"
-},
-
-"Trego County": {
-  "description": "Trego County maintains a rural economy based on agriculture, ranching, healthcare services, tourism, and local business development. Farming operations remain central to economic activity throughout the county.",
-  "population": "2780"
-},
-
-"Wabaunsee County": {
-  "description": "Wabaunsee County supports a balanced economy driven by agriculture, tourism, healthcare services, education, and local commerce. Its scenic Flint Hills location contributes to both economic activity and visitor interest.",
-  "population": "6860"
-},
-
-"Wallace County": {
-  "description": "Wallace County is one of western Kansas' least populated counties and supports an economy centered on agriculture, ranching, agribusiness, transportation, and community services. Farming remains the primary economic driver.",
-  "population": "1512"
-},
-
-"Washington County": {
-  "description": "Washington County combines agriculture, manufacturing, healthcare services, agribusiness, and local commerce within north-central Kansas. Its diversified economy supports stable employment and community development.",
-  "population": "5401"
-},
-
-"Wichita County": {
-  "description": "Wichita County supports a rural economy based on agriculture, livestock production, healthcare services, transportation, and local business activity. Farming operations continue to contribute significantly to economic stability throughout the county.",
-  "population": "2133"
-},
-
-"Wilson County": {
-  "description": "Wilson County benefits from agriculture, energy production, manufacturing, healthcare services, tourism, and local commerce. Its diverse economic base supports long-term business growth and workforce opportunities.",
-  "population": "8508"
-},
-
-"Woodson County": {
-  "description": "Woodson County maintains a rural economy centered on agriculture, ranching, healthcare services, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "3090"
-},
-
-"Wyandotte County": {
-  "description": "Wyandotte County is a major economic center within the Kansas City metropolitan area, driven by healthcare, logistics, manufacturing, education, government services, and professional industries. Its urban economy supports substantial commercial development and regional employment.",
-  "population": "169245"
-}
+  "identity": {
+    "code": "ks",
+    "slug": "kansas",
+    "name": "Kansas",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Allen County": {
+      "description": "Allen County supports a diversified economy based on manufacturing, healthcare, agriculture, education, and local commerce. Community institutions and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "12451"
+    },
+    "Anderson County": {
+      "description": "Anderson County maintains a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local businesses. Farming operations remain the primary driver of economic activity across the county.",
+      "population": "7591"
+    },
+    "Atchison County": {
+      "description": "Atchison County combines manufacturing, education, healthcare, transportation, and local commerce within northeast Kansas. Its strategic location and diversified economy support continued business development and workforce growth.",
+      "population": "15870"
+    },
+    "Barber County": {
+      "description": "Barber County supports an economy driven by agriculture, ranching, energy production, tourism, and local commerce. Natural resources and farming operations continue to play important roles in regional economic activity.",
+      "population": "4434"
+    },
+    "Barton County": {
+      "description": "Barton County serves as a regional economic center supported by healthcare, manufacturing, agriculture, energy-related industries, and transportation services. Its diverse business base contributes to long-term economic stability.",
+      "population": "25570"
+    },
+    "Bourbon County": {
+      "description": "Bourbon County combines agriculture, manufacturing, healthcare, education, and local commerce within southeast Kansas. Community-focused businesses and industrial employers contribute significantly to economic development.",
+      "population": "14023"
+    },
+    "Brown County": {
+      "description": "Brown County benefits from agriculture, food production, healthcare services, education, and small business activity. Farming operations and local industries continue to support economic growth throughout the county.",
+      "population": "9483"
+    },
+    "Butler County": {
+      "description": "Butler County is one of Kansas' fastest-growing counties, driven by manufacturing, aerospace, healthcare, logistics, retail development, and residential expansion. Its proximity to Wichita supports substantial economic growth and investment.",
+      "population": "68736"
+    },
+    "Chase County": {
+      "description": "Chase County is known for ranching, agriculture, tourism, and outdoor recreation opportunities within the Flint Hills region. Visitor spending and agricultural enterprises contribute significantly to economic activity throughout the county.",
+      "population": "2587"
+    },
+    "Chautauqua County": {
+      "description": "Chautauqua County maintains a rural economy supported by agriculture, ranching, energy-related industries, healthcare services, and local commerce. Natural resource industries continue to play an important role in economic stability.",
+      "population": "3246"
+    },
+    "Cherokee County": {
+      "description": "Cherokee County supports a diversified economy driven by manufacturing, healthcare, education, agriculture, tourism, and local commerce. Its strategic location in southeast Kansas contributes to continued business activity and regional development.",
+      "population": "19431"
+    },
+    "Cheyenne County": {
+      "description": "Cheyenne County maintains a strong agricultural economy centered on crop production, livestock operations, agribusiness, and transportation services. Farming remains the foundation of economic activity throughout the county.",
+      "population": "2616"
+    },
+    "Clark County": {
+      "description": "Clark County supports a rural economy based on ranching, agriculture, energy-related industries, healthcare services, and local commerce. Natural resource industries and farming operations contribute significantly to regional economic stability.",
+      "population": "1986"
+    },
+    "Clay County": {
+      "description": "Clay County combines agriculture, manufacturing, healthcare, education, and local business activity within north-central Kansas. Its diversified economy supports stable employment and community development.",
+      "population": "8002"
+    },
+    "Cloud County": {
+      "description": "Cloud County serves as a regional center for agriculture, healthcare, education, manufacturing, and retail activity. Community institutions and business investment continue to support economic growth throughout the county.",
+      "population": "9068"
+    },
+    "Coffey County": {
+      "description": "Coffey County benefits from agriculture, energy production, manufacturing, healthcare services, and local commerce. Its diverse economic base contributes to workforce opportunities and long-term stability.",
+      "population": "7905"
+    },
+    "Comanche County": {
+      "description": "Comanche County supports a rural economy driven by ranching, agriculture, tourism, hunting-related recreation, and community-focused businesses. Farming and natural resource industries remain important contributors to economic activity.",
+      "population": "1705"
+    },
+    "Cowley County": {
+      "description": "Cowley County is a major regional economic center in south-central Kansas, supporting manufacturing, healthcare, education, aviation-related industries, agriculture, and professional services. Its diversified economy drives significant regional employment.",
+      "population": "34549"
+    },
+    "Crawford County": {
+      "description": "Crawford County serves as an important educational, healthcare, manufacturing, and commercial center in southeast Kansas. Higher education institutions and industrial employers contribute substantially to economic development.",
+      "population": "38830"
+    },
+    "Decatur County": {
+      "description": "Decatur County maintains a strong agricultural economy supported by crop production, livestock operations, agribusiness, healthcare services, and local commerce. Farming remains the primary economic driver throughout the county.",
+      "population": "2757"
+    },
+    "Dickinson County": {
+      "description": "Dickinson County supports a diverse economy based on agriculture, manufacturing, transportation, healthcare, tourism, and local commerce. Its strategic location along major transportation corridors contributes to continued economic growth and business development.",
+      "population": "18402"
+    },
+    "Doniphan County": {
+      "description": "Doniphan County combines agriculture, food production, healthcare services, tourism, and local business activity within northeast Kansas. Farming operations and community-focused enterprises continue to support economic stability.",
+      "population": "7488"
+    },
+    "Douglas County": {
+      "description": "Douglas County is one of Kansas' leading educational and innovation centers, driven by higher education, healthcare, technology, research, professional services, and entrepreneurship. Its highly skilled workforce supports strong economic growth and investment.",
+      "population": "121436"
+    },
+    "Edwards County": {
+      "description": "Edwards County maintains a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local commerce. Farming remains the primary contributor to economic activity throughout the county.",
+      "population": "2851"
+    },
+    "Elk County": {
+      "description": "Elk County supports an economy based on ranching, agriculture, energy-related industries, outdoor recreation, and local businesses. Natural resources and farming operations continue to play important roles in economic development.",
+      "population": "2470"
+    },
+    "Ellis County": {
+      "description": "Ellis County serves as a regional center for education, healthcare, manufacturing, agriculture, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business activity.",
+      "population": "28853"
+    },
+    "Ellsworth County": {
+      "description": "Ellsworth County combines agriculture, energy production, healthcare services, tourism, and local commerce within central Kansas. Community-focused industries and natural resource sectors contribute to economic stability.",
+      "population": "6053"
+    },
+    "Finney County": {
+      "description": "Finney County is a major agricultural and food-processing hub in western Kansas, supporting agribusiness, manufacturing, healthcare, logistics, and professional services. Its strong industrial base contributes significantly to regional economic growth.",
+      "population": "38733"
+    },
+    "Ford County": {
+      "description": "Ford County is one of western Kansas' most important economic centers, driven by agriculture, food processing, healthcare, transportation, manufacturing, and retail development. Its diversified economy supports substantial regional employment.",
+      "population": "33487"
+    },
+    "Franklin County": {
+      "description": "Franklin County benefits from manufacturing, healthcare, agriculture, logistics, retail activity, and residential growth. Its location within the Kansas City region supports continued business investment and economic expansion.",
+      "population": "26194"
+    },
+    "Geary County": {
+      "description": "Geary County serves as a major economic center in northeast Kansas, supported by military-related employment, healthcare services, education, retail development, and professional industries. Its diverse economy contributes significantly to regional business activity and workforce growth.",
+      "population": "36186"
+    },
+    "Gove County": {
+      "description": "Gove County maintains a rural economy centered on agriculture, livestock production, agribusiness, renewable energy development, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "2628"
+    },
+    "Graham County": {
+      "description": "Graham County supports an economy based on agriculture, ranching, healthcare services, community businesses, and agribusiness operations. Farming and livestock production continue to provide the foundation for economic stability.",
+      "population": "2415"
+    },
+    "Grant County": {
+      "description": "Grant County benefits from agriculture, energy production, food processing, healthcare services, and transportation-related industries. Its diversified economic base supports employment opportunities throughout southwest Kansas.",
+      "population": "7286"
+    },
+    "Gray County": {
+      "description": "Gray County combines agriculture, livestock production, energy-related industries, healthcare, and local business activity. Farming and natural resource sectors continue to contribute significantly to regional economic growth.",
+      "population": "5846"
+    },
+    "Greeley County": {
+      "description": "Greeley County is one of Kansas' least populated counties and supports a rural economy focused on agriculture, ranching, agribusiness, and community services. Farming operations remain central to economic activity throughout the county.",
+      "population": "1257"
+    },
+    "Greenwood County": {
+      "description": "Greenwood County supports a balanced economy driven by ranching, agriculture, energy production, tourism, healthcare services, and local commerce. Natural resources and agricultural enterprises remain important contributors to economic development.",
+      "population": "5927"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County maintains a strong agricultural economy based on crop production, livestock operations, agribusiness, transportation services, and local businesses. Farming remains the primary economic driver throughout the county.",
+      "population": "2518"
+    },
+    "Harper County": {
+      "description": "Harper County combines agriculture, energy-related industries, healthcare services, manufacturing, and local commerce within south-central Kansas. Its diversified economy supports stable employment and long-term growth.",
+      "population": "5485"
+    },
+    "Harvey County": {
+      "description": "Harvey County is an important economic center in south-central Kansas, supported by manufacturing, healthcare, education, agriculture, professional services, and transportation industries. Its growing business community contributes significantly to regional economic activity.",
+      "population": "34304"
+    },
+    "Haskell County": {
+      "description": "Haskell County supports a strong agricultural economy centered on crop production, livestock operations, food processing, agribusiness, and transportation services. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "3780"
+    },
+    "Hodgeman County": {
+      "description": "Hodgeman County maintains a rural economy based on ranching, agriculture, healthcare services, agribusiness, and local commerce. Farming operations and natural resource industries continue to support economic stability across the county.",
+      "population": "1723"
+    },
+    "Jackson County": {
+      "description": "Jackson County combines agriculture, manufacturing, healthcare services, education, and local business activity within northeast Kansas. Its diversified economy contributes to stable employment opportunities and community growth.",
+      "population": "13115"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County benefits from agriculture, manufacturing, healthcare, tourism, retail development, and residential growth. Its proximity to the Topeka metropolitan area supports continued business investment and economic expansion.",
+      "population": "18453"
+    },
+    "Jewell County": {
+      "description": "Jewell County supports a rural economy driven by agriculture, livestock production, healthcare services, agribusiness, and local commerce. Farming remains the foundation of economic activity throughout the county.",
+      "population": "2868"
+    },
+    "Johnson County": {
+      "description": "Johnson County is the largest and most affluent county in Kansas, serving as a major economic engine for the Kansas City metropolitan area. Technology, healthcare, finance, professional services, education, logistics, and corporate headquarters drive a highly diversified and prosperous economy.",
+      "population": "620999"
+    },
+    "Kearny County": {
+      "description": "Kearny County combines agriculture, food production, energy-related industries, transportation services, and healthcare within western Kansas. Agribusiness operations continue to play a major role in supporting economic activity.",
+      "population": "3838"
+    },
+    "Kingman County": {
+      "description": "Kingman County supports a balanced economy based on agriculture, manufacturing, healthcare services, energy production, and local business development. Farming and industrial employers contribute significantly to regional growth.",
+      "population": "7444"
+    },
+    "Kiowa County": {
+      "description": "Kiowa County maintains a rural economy centered on agriculture, ranching, healthcare services, tourism, and local commerce. Farming operations and community institutions continue to provide economic stability.",
+      "population": "2446"
+    },
+    "Labette County": {
+      "description": "Labette County serves as an important regional center for healthcare, manufacturing, education, agriculture, retail activity, and professional services. Its diversified economy supports workforce development and long-term business growth.",
+      "population": "19674"
+    },
+    "Lane County": {
+      "description": "Lane County supports a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local commerce. Farming operations continue to serve as the foundation of economic activity throughout the county.",
+      "population": "1549"
+    },
+    "Leavenworth County": {
+      "description": "Leavenworth County is a major economic center in northeast Kansas, supported by government services, military-related employment, healthcare, manufacturing, logistics, and residential development. Its proximity to the Kansas City metropolitan area contributes to strong business growth.",
+      "population": "82726"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County combines agriculture, ranching, healthcare services, tourism, and local business activity within central Kansas. Farming and community-focused industries continue to support long-term economic stability.",
+      "population": "2939"
+    },
+    "Linn County": {
+      "description": "Linn County benefits from agriculture, manufacturing, healthcare services, tourism, and residential growth. Its location within the greater Kansas City region supports continued economic development and investment.",
+      "population": "9668"
+    },
+    "Logan County": {
+      "description": "Logan County maintains a strong agricultural economy driven by crop production, livestock operations, agribusiness, renewable energy development, and local commerce. Farming remains central to economic activity throughout the county.",
+      "population": "2732"
+    },
+    "Lyon County": {
+      "description": "Lyon County serves as a regional hub for higher education, healthcare, manufacturing, agriculture, retail activity, and professional services. Its diversified economy contributes significantly to workforce development and business expansion.",
+      "population": "31565"
+    },
+    "McPherson County": {
+      "description": "McPherson County is one of Kansas' leading economic centers, supported by manufacturing, agriculture, energy production, healthcare, logistics, and professional services. Its strong industrial base and skilled workforce drive substantial economic growth.",
+      "population": "30327"
+    },
+    "Marion County": {
+      "description": "Marion County combines agriculture, manufacturing, healthcare services, tourism, and local commerce within central Kansas. Community institutions and agribusiness operations continue to support economic activity throughout the county.",
+      "population": "11823"
+    },
+    "Marshall County": {
+      "description": "Marshall County supports a diversified economy based on agriculture, livestock production, manufacturing, healthcare services, and local business development. Farming and industrial employers contribute to long-term economic stability.",
+      "population": "9696"
+    },
+    "Meade County": {
+      "description": "Meade County maintains a rural economy centered on agriculture, ranching, energy-related industries, healthcare services, and local commerce. Farming operations remain a primary contributor to economic activity across the county.",
+      "population": "4031"
+    },
+    "Miami County": {
+      "description": "Miami County is one of the fastest-growing counties in the Kansas City metropolitan area, supported by residential development, healthcare services, logistics, manufacturing, agriculture, and professional industries. Continued population growth contributes to strong economic expansion.",
+      "population": "36280"
+    },
+    "Mitchell County": {
+      "description": "Mitchell County combines agriculture, manufacturing, healthcare services, renewable energy development, and local commerce within north-central Kansas. Farming and industrial employers continue to support economic growth throughout the county.",
+      "population": "5770"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County serves as a major economic center in southeast Kansas, driven by manufacturing, healthcare, education, energy-related industries, retail activity, and professional services. Its diversified economy supports regional employment and business development.",
+      "population": "31336"
+    },
+    "Morris County": {
+      "description": "Morris County supports a rural economy based on ranching, agriculture, tourism, healthcare services, and local businesses. Natural resources and farming operations remain important contributors to economic activity throughout the county.",
+      "population": "5567"
+    },
+    "Morton County": {
+      "description": "Morton County maintains an economy centered on agriculture, energy production, transportation services, ranching, and local commerce. Natural resource industries and agribusiness contribute significantly to regional economic stability.",
+      "population": "2685"
+    },
+    "Nemaha County": {
+      "description": "Nemaha County benefits from agriculture, manufacturing, healthcare services, food production, and local business activity. Its diversified economy supports stable employment and long-term community development.",
+      "population": "10016"
+    },
+    "Neosho County": {
+      "description": "Neosho County combines manufacturing, agriculture, healthcare, energy-related industries, and local commerce within southeast Kansas. Industrial employers and agribusiness operations contribute significantly to economic growth.",
+      "population": "15731"
+    },
+    "Ness County": {
+      "description": "Ness County supports a strong agricultural economy based on crop production, livestock operations, agribusiness, healthcare services, and community-focused businesses. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "2687"
+    },
+    "Norton County": {
+      "description": "Norton County maintains a rural economy supported by agriculture, healthcare services, manufacturing, education, and local commerce. Farming operations and community institutions contribute to economic stability across the county.",
+      "population": "5275"
+    },
+    "Osage County": {
+      "description": "Osage County combines agriculture, manufacturing, healthcare services, tourism, and residential growth within northeast Kansas. Its strategic location and diversified economy support continued business development and investment.",
+      "population": "15709"
+    },
+    "Osborne County": {
+      "description": "Osborne County supports a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local commerce. Farming operations continue to provide the foundation for economic activity throughout the county.",
+      "population": "3435"
+    },
+    "Ottawa County": {
+      "description": "Ottawa County combines agriculture, manufacturing, healthcare services, renewable energy development, and community-focused businesses within north-central Kansas. Its diversified economy supports stable employment and long-term growth.",
+      "population": "5723"
+    },
+    "Pawnee County": {
+      "description": "Pawnee County benefits from agriculture, healthcare services, energy-related industries, manufacturing, and local commerce. Farming operations and business development contribute significantly to economic activity throughout the county.",
+      "population": "6470"
+    },
+    "Phillips County": {
+      "description": "Phillips County maintains a strong agricultural economy driven by crop production, livestock operations, agribusiness, healthcare services, and local businesses. Farming remains the primary economic driver across the county.",
+      "population": "4916"
+    },
+    "Pottawatomie County": {
+      "description": "Pottawatomie County is one of Kansas' fastest-growing counties, supported by agriculture, manufacturing, healthcare, education, logistics, and residential development. Continued population growth contributes to strong economic expansion.",
+      "population": "25940"
+    },
+    "Pratt County": {
+      "description": "Pratt County serves as a regional center for agriculture, energy production, healthcare services, manufacturing, and retail activity. Its diversified economy supports workforce development and business growth throughout south-central Kansas.",
+      "population": "9348"
+    },
+    "Rawlins County": {
+      "description": "Rawlins County supports a rural economy based on agriculture, ranching, healthcare services, agribusiness, and local commerce. Farming and livestock operations continue to contribute significantly to economic stability.",
+      "population": "2525"
+    },
+    "Reno County": {
+      "description": "Reno County is one of central Kansas' largest economic centers, driven by manufacturing, healthcare, agriculture, aviation-related industries, logistics, and professional services. Its diverse economy supports substantial regional employment.",
+      "population": "61998"
+    },
+    "Republic County": {
+      "description": "Republic County combines agriculture, renewable energy development, healthcare services, local business activity, and community-focused industries. Farming remains central to economic growth and employment throughout the county.",
+      "population": "4594"
+    },
+    "Rice County": {
+      "description": "Rice County supports a balanced economy driven by agriculture, manufacturing, energy production, healthcare services, and transportation-related industries. Its diversified business base contributes to long-term economic stability.",
+      "population": "9490"
+    },
+    "Riley County": {
+      "description": "Riley County is a major educational, research, and economic center in Kansas, supported by higher education, healthcare, technology, government services, and professional industries. Its innovation-driven economy contributes significantly to regional growth and workforce development.",
+      "population": "73008"
+    },
+    "Rooks County": {
+      "description": "Rooks County supports a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "4756"
+    },
+    "Rush County": {
+      "description": "Rush County combines agriculture, ranching, healthcare services, agribusiness, and community-focused businesses within central Kansas. Farming and livestock operations continue to provide economic stability and employment opportunities.",
+      "population": "2953"
+    },
+    "Russell County": {
+      "description": "Russell County benefits from agriculture, energy production, manufacturing, healthcare services, tourism, and local commerce. Its diversified economy supports long-term business development and regional economic activity.",
+      "population": "6677"
+    },
+    "Saline County": {
+      "description": "Saline County serves as one of central Kansas' most important economic centers, supporting manufacturing, healthcare, transportation, education, retail activity, and professional services. Its strong business environment contributes significantly to regional growth.",
+      "population": "54224"
+    },
+    "Scott County": {
+      "description": "Scott County maintains a strong agricultural economy driven by crop production, livestock operations, agribusiness, healthcare services, and local commerce. Farming remains the foundation of economic activity throughout the county.",
+      "population": "4955"
+    },
+    "Sedgwick County": {
+      "description": "Sedgwick County is the largest economic center in Kansas and home to Wichita. Aerospace manufacturing, healthcare, finance, logistics, education, professional services, and technology industries drive one of the most diversified economies in the Great Plains region.",
+      "population": "525880"
+    },
+    "Seward County": {
+      "description": "Seward County supports a diversified economy based on agriculture, food processing, energy production, healthcare services, transportation, and manufacturing. Its strong industrial and agribusiness sectors contribute significantly to regional employment.",
+      "population": "22077"
+    },
+    "Shawnee County": {
+      "description": "Shawnee County is home to Kansas' capital city and serves as a major center for government services, healthcare, education, finance, logistics, and professional industries. Its diverse economy supports substantial business and workforce development.",
+      "population": "177252"
+    },
+    "Sheridan County": {
+      "description": "Sheridan County supports a rural economy centered on agriculture, livestock production, agribusiness, healthcare services, and local business activity. Farming operations continue to play a vital role in economic stability throughout the county.",
+      "population": "2439"
+    },
+    "Sherman County": {
+      "description": "Sherman County supports a strong economy based on agriculture, transportation, logistics, healthcare services, and agribusiness. Its location along Interstate 70 contributes significantly to commercial activity and regional economic growth.",
+      "population": "5759"
+    },
+    "Smith County": {
+      "description": "Smith County maintains a rural economy centered on agriculture, livestock production, healthcare services, agribusiness, and local commerce. Farming operations continue to provide the foundation for economic activity throughout the county.",
+      "population": "3570"
+    },
+    "Stafford County": {
+      "description": "Stafford County combines agriculture, energy-related industries, healthcare services, manufacturing, and community-focused businesses. Its diversified economy supports stable employment and long-term economic development.",
+      "population": "4035"
+    },
+    "Stanton County": {
+      "description": "Stanton County supports an economy driven by agriculture, energy production, agribusiness, transportation services, and local commerce. Farming and natural resource industries remain key contributors to regional economic activity.",
+      "population": "2049"
+    },
+    "Stevens County": {
+      "description": "Stevens County benefits from agriculture, energy production, food processing, healthcare services, and local business activity. Its strong agribusiness sector contributes significantly to economic growth throughout the county.",
+      "population": "5521"
+    },
+    "Sumner County": {
+      "description": "Sumner County serves as an important economic center in south-central Kansas, supported by manufacturing, agriculture, healthcare services, transportation, and retail development. Its diverse economy contributes to regional employment and business growth.",
+      "population": "22382"
+    },
+    "Thomas County": {
+      "description": "Thomas County combines agriculture, transportation, healthcare services, manufacturing, and local commerce within western Kansas. Its strategic location supports continued business investment and workforce development.",
+      "population": "7613"
+    },
+    "Trego County": {
+      "description": "Trego County maintains a rural economy based on agriculture, ranching, healthcare services, tourism, and local business development. Farming operations remain central to economic activity throughout the county.",
+      "population": "2780"
+    },
+    "Wabaunsee County": {
+      "description": "Wabaunsee County supports a balanced economy driven by agriculture, tourism, healthcare services, education, and local commerce. Its scenic Flint Hills location contributes to both economic activity and visitor interest.",
+      "population": "6860"
+    },
+    "Wallace County": {
+      "description": "Wallace County is one of western Kansas' least populated counties and supports an economy centered on agriculture, ranching, agribusiness, transportation, and community services. Farming remains the primary economic driver.",
+      "population": "1512"
+    },
+    "Washington County": {
+      "description": "Washington County combines agriculture, manufacturing, healthcare services, agribusiness, and local commerce within north-central Kansas. Its diversified economy supports stable employment and community development.",
+      "population": "5401"
+    },
+    "Wichita County": {
+      "description": "Wichita County supports a rural economy based on agriculture, livestock production, healthcare services, transportation, and local business activity. Farming operations continue to contribute significantly to economic stability throughout the county.",
+      "population": "2133"
+    },
+    "Wilson County": {
+      "description": "Wilson County benefits from agriculture, energy production, manufacturing, healthcare services, tourism, and local commerce. Its diverse economic base supports long-term business growth and workforce opportunities.",
+      "population": "8508"
+    },
+    "Woodson County": {
+      "description": "Woodson County maintains a rural economy centered on agriculture, ranching, healthcare services, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "3090"
+    },
+    "Wyandotte County": {
+      "description": "Wyandotte County is a major economic center within the Kansas City metropolitan area, driven by healthcare, logistics, manufacturing, education, government services, and professional industries. Its urban economy supports substantial commercial development and regional employment.",
+      "population": "169245"
+    }
+  }
 }

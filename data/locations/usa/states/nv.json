@@ -1,85 +1,79 @@
 {
-"Carson City": {
-  "description": "Carson City is Nevada's capital and an important economic center, supported by government services, healthcare, technology, manufacturing, tourism, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business investment.",
-  "population": "59376"
-},
-
-"Churchill County": {
-  "description": "Churchill County supports a diversified economy based on agriculture, military-related industries, healthcare services, manufacturing, transportation, and local commerce. Its strategic location contributes significantly to regional economic development.",
-  "population": "26061"
-},
-
-"Clark County": {
-  "description": "Clark County is Nevada's largest economic center and home to Las Vegas. Tourism, hospitality, entertainment, healthcare, logistics, technology, construction, professional services, and retail development drive one of the fastest-growing economies in the United States.",
-  "population": "2381376"
-},
-
-"Douglas County": {
-  "description": "Douglas County benefits from healthcare services, tourism, manufacturing, logistics, professional services, and residential development. Its proximity to the Lake Tahoe region contributes significantly to economic growth and workforce opportunities.",
-  "population": "50161"
-},
-
-"Elko County": {
-  "description": "Elko County serves as a major economic center in northeastern Nevada, supported by mining, healthcare services, transportation, agriculture, retail activity, and professional services. Natural resource industries contribute substantially to regional employment and investment.",
-  "population": "53915"
-},
-
-"Esmeralda County": {
-  "description": "Esmeralda County maintains a rural economy centered on mining-related industries, tourism, healthcare services, transportation, and local commerce. Natural resources remain important contributors to economic activity throughout the county.",
-  "population": "729"
-},
-
-"Eureka County": {
-  "description": "Eureka County supports an economy driven by mining, transportation, healthcare services, agriculture, energy-related industries, and local business activity. Resource development contributes significantly to economic growth throughout the county.",
-  "population": "1855"
-},
-
-"Humboldt County": {
-  "description": "Humboldt County benefits from mining, agriculture, healthcare services, transportation, manufacturing, and local commerce. Its diversified economy supports stable workforce opportunities and continued business development.",
-  "population": "17658"
-},
-
-"Lander County": {
-  "description": "Lander County supports a diversified economy based on mining, ranching, healthcare services, transportation, tourism, and local commerce. Natural resources and agricultural operations contribute significantly to economic activity throughout the county.",
-  "population": "5862"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County maintains a rural economy centered on tourism, ranching, healthcare services, transportation, energy-related industries, and local business development. Visitor spending and natural resources contribute significantly to economic growth.",
-  "population": "4593"
-},
-"Lyon County": {
-  "description": "Lyon County is one of Nevada's fastest-growing economic centers, supported by manufacturing, logistics, healthcare services, technology, retail development, and residential expansion. Its strategic location contributes significantly to regional business investment and workforce growth.",
-  "population": "65402"
-},
-
-"Mineral County": {
-  "description": "Mineral County supports a rural economy based on mining-related industries, tourism, healthcare services, transportation, agriculture, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "4525"
-},
-
-"Nye County": {
-  "description": "Nye County benefits from energy-related industries, tourism, healthcare services, mining, transportation, professional services, and local business development. Its diversified economy supports stable employment opportunities and continued economic growth.",
-  "population": "55044"
-},
-
-"Pershing County": {
-  "description": "Pershing County supports an economy driven by mining, agriculture, healthcare services, transportation, manufacturing, and local commerce. Natural resources and farming operations contribute substantially to economic development throughout the county.",
-  "population": "7015"
-},
-
-"Storey County": {
-  "description": "Storey County is one of Nevada's fastest-growing industrial economies, anchored by advanced manufacturing, technology, logistics, professional services, construction, and business development. Major industrial investment contributes substantially to regional employment and economic expansion.",
-  "population": "4380"
-},
-
-"Washoe County": {
-  "description": "Washoe County is one of Nevada's largest economic centers and home to Reno. Technology, logistics, healthcare, manufacturing, tourism, finance, professional services, and retail development drive a highly diversified economy that supports substantial business investment and workforce growth.",
-  "population": "503038"
-},
-
-"White Pine County": {
-  "description": "White Pine County supports a diversified economy based on mining, tourism, healthcare services, transportation, ranching, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "8961"
-}
+  "identity": {
+    "code": "nv",
+    "slug": "nevada",
+    "name": "Nevada",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Carson City": {
+      "description": "Carson City is Nevada's capital and an important economic center, supported by government services, healthcare, technology, manufacturing, tourism, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business investment.",
+      "population": "59376"
+    },
+    "Churchill County": {
+      "description": "Churchill County supports a diversified economy based on agriculture, military-related industries, healthcare services, manufacturing, transportation, and local commerce. Its strategic location contributes significantly to regional economic development.",
+      "population": "26061"
+    },
+    "Clark County": {
+      "description": "Clark County is Nevada's largest economic center and home to Las Vegas. Tourism, hospitality, entertainment, healthcare, logistics, technology, construction, professional services, and retail development drive one of the fastest-growing economies in the United States.",
+      "population": "2381376"
+    },
+    "Douglas County": {
+      "description": "Douglas County benefits from healthcare services, tourism, manufacturing, logistics, professional services, and residential development. Its proximity to the Lake Tahoe region contributes significantly to economic growth and workforce opportunities.",
+      "population": "50161"
+    },
+    "Elko County": {
+      "description": "Elko County serves as a major economic center in northeastern Nevada, supported by mining, healthcare services, transportation, agriculture, retail activity, and professional services. Natural resource industries contribute substantially to regional employment and investment.",
+      "population": "53915"
+    },
+    "Esmeralda County": {
+      "description": "Esmeralda County maintains a rural economy centered on mining-related industries, tourism, healthcare services, transportation, and local commerce. Natural resources remain important contributors to economic activity throughout the county.",
+      "population": "729"
+    },
+    "Eureka County": {
+      "description": "Eureka County supports an economy driven by mining, transportation, healthcare services, agriculture, energy-related industries, and local business activity. Resource development contributes significantly to economic growth throughout the county.",
+      "population": "1855"
+    },
+    "Humboldt County": {
+      "description": "Humboldt County benefits from mining, agriculture, healthcare services, transportation, manufacturing, and local commerce. Its diversified economy supports stable workforce opportunities and continued business development.",
+      "population": "17658"
+    },
+    "Lander County": {
+      "description": "Lander County supports a diversified economy based on mining, ranching, healthcare services, transportation, tourism, and local commerce. Natural resources and agricultural operations contribute significantly to economic activity throughout the county.",
+      "population": "5862"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County maintains a rural economy centered on tourism, ranching, healthcare services, transportation, energy-related industries, and local business development. Visitor spending and natural resources contribute significantly to economic growth.",
+      "population": "4593"
+    },
+    "Lyon County": {
+      "description": "Lyon County is one of Nevada's fastest-growing economic centers, supported by manufacturing, logistics, healthcare services, technology, retail development, and residential expansion. Its strategic location contributes significantly to regional business investment and workforce growth.",
+      "population": "65402"
+    },
+    "Mineral County": {
+      "description": "Mineral County supports a rural economy based on mining-related industries, tourism, healthcare services, transportation, agriculture, and local commerce. Natural resources and visitor-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "4525"
+    },
+    "Nye County": {
+      "description": "Nye County benefits from energy-related industries, tourism, healthcare services, mining, transportation, professional services, and local business development. Its diversified economy supports stable employment opportunities and continued economic growth.",
+      "population": "55044"
+    },
+    "Pershing County": {
+      "description": "Pershing County supports an economy driven by mining, agriculture, healthcare services, transportation, manufacturing, and local commerce. Natural resources and farming operations contribute substantially to economic development throughout the county.",
+      "population": "7015"
+    },
+    "Storey County": {
+      "description": "Storey County is one of Nevada's fastest-growing industrial economies, anchored by advanced manufacturing, technology, logistics, professional services, construction, and business development. Major industrial investment contributes substantially to regional employment and economic expansion.",
+      "population": "4380"
+    },
+    "Washoe County": {
+      "description": "Washoe County is one of Nevada's largest economic centers and home to Reno. Technology, logistics, healthcare, manufacturing, tourism, finance, professional services, and retail development drive a highly diversified economy that supports substantial business investment and workforce growth.",
+      "population": "503038"
+    },
+    "White Pine County": {
+      "description": "White Pine County supports a diversified economy based on mining, tourism, healthcare services, transportation, ranching, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "8961"
+    }
+  }
 }

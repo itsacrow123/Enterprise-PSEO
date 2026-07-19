@@ -1,315 +1,267 @@
 {
-"Adams County": {
-  "description": "Adams County is one of Colorado's largest counties and a key part of the Denver metropolitan area. The county supports a diverse economy driven by logistics, healthcare, aerospace, manufacturing, and residential development, making it an important economic center along the Front Range.",
-  "population": "527458"
-},
-
-"Alamosa County": {
-  "description": "Alamosa County serves as a regional hub in southern Colorado, supporting agriculture, higher education, healthcare, and tourism. Its location near major natural attractions and outdoor recreation destinations contributes to a stable local economy.",
-  "population": "16376"
-},
-
-"Arapahoe County": {
-  "description": "Arapahoe County is a major economic engine within the Denver metropolitan region, supporting technology, healthcare, finance, education, and professional services. Continued residential and commercial growth has strengthened its position as one of Colorado's most influential counties.",
-  "population": "655070"
-},
-
-"Archuleta County": {
-  "description": "Archuleta County is known for its mountain scenery, outdoor recreation opportunities, and tourism industry. Hospitality, healthcare, construction, and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "14029"
-},
-
-"Baca County": {
-  "description": "Baca County occupies Colorado's southeastern plains and is characterized by agricultural production, ranching operations, and rural communities. Farming and related industries remain central to the county's economy.",
-  "population": "3504"
-},
-
-"Bent County": {
-  "description": "Bent County supports a rural economy based on agriculture, livestock production, transportation, and local commerce. Its communities maintain strong ties to the region's farming heritage and economic traditions.",
-  "population": "5650"
-},
-
-"Boulder County": {
-  "description": "Boulder County is internationally recognized for its innovation economy, technology sector, higher education institutions, and outdoor lifestyle. Research, aerospace, biotechnology, and professional services contribute to one of Colorado's strongest economies.",
-  "population": "335684"
-},
-
-"Broomfield County": {
-  "description": "Broomfield County is a consolidated city-county strategically located between Denver and Boulder. Technology companies, corporate headquarters, healthcare providers, and retail development support a thriving and highly educated workforce.",
-  "population": "76039"
-},
-
-"Chaffee County": {
-  "description": "Chaffee County is known for its mountain recreation opportunities, scenic landscapes, and tourism-driven economy. Outdoor activities, hospitality services, healthcare, and local businesses play important roles in supporting economic growth.",
-  "population": "20938"
-},
-
-"Cheyenne County": {
-  "description": "Cheyenne County is located on Colorado's eastern plains and is characterized by agriculture, ranching, and strong rural communities. Farming operations and local businesses continue to serve as the foundation of economic activity throughout the county.",
-  "population": "1760"
-},
-"Clear Creek County": {
-  "description": "Clear Creek County is located in Colorado's central Rocky Mountains and is known for its historic mining communities, mountain recreation, and tourism industry. Hospitality, outdoor recreation, and local businesses play significant roles in the county's economy.",
-  "population": "9705"
-},
-
-"Conejos County": {
-  "description": "Conejos County is situated in the San Luis Valley and supports a rural economy centered on agriculture, livestock production, and local commerce. Its rich cultural heritage and scenic surroundings contribute to the county's unique character.",
-  "population": "7584"
-},
-
-"Costilla County": {
-  "description": "Costilla County is Colorado's oldest county and features agricultural operations, historic communities, and access to outdoor recreation opportunities. Farming, tourism, and local services support economic activity throughout the region.",
-  "population": "3808"
-},
-
-"Crowley County": {
-  "description": "Crowley County is located on Colorado's eastern plains and maintains an economy supported by agriculture, government services, and local businesses. Its rural communities continue to preserve the county's farming traditions.",
-  "population": "5758"
-},
-
-"Custer County": {
-  "description": "Custer County is known for its mountain scenery, outdoor recreation opportunities, and small-town lifestyle. Tourism, hospitality, construction, and local services contribute to the county's economy.",
-  "population": "5108"
-},
-
-"Delta County": {
-  "description": "Delta County combines productive agricultural land, outdoor recreation, and growing residential communities on Colorado's Western Slope. Farming, healthcare, tourism, and local businesses support a diversified economy.",
-  "population": "32320"
-},
-
-"Denver County": {
-  "description": "Denver County serves as Colorado's capital and largest urban economic center, supporting finance, technology, healthcare, government, education, and professional services. Its diverse economy and strong population growth make it a major hub for business and innovation.",
-  "population": "715891"
-},
-
-"Dolores County": {
-  "description": "Dolores County is one of Colorado's least populated counties and is known for its vast natural landscapes, outdoor recreation opportunities, and rural character. Tourism, agriculture, and local businesses contribute to the county's economy.",
-  "population": "2378"
-},
-
-"Douglas County": {
-  "description": "Douglas County is one of Colorado's fastest-growing counties, featuring affluent communities, strong business development, and a highly educated workforce. Technology, healthcare, professional services, and residential growth continue to drive economic expansion.",
-  "population": "380512"
-},
-
-"Eagle County": {
-  "description": "Eagle County is internationally recognized for its world-class mountain resorts, outdoor recreation, and tourism economy. Hospitality, real estate, construction, and visitor services support substantial economic activity throughout the county.",
-  "population": "55659"
-},
-"Elbert County": {
-  "description": "Elbert County is a growing county on Colorado's eastern plains that combines rural landscapes with increasing residential development. Agriculture, construction, small businesses, and commuting access to nearby metropolitan areas support the local economy.",
-  "population": "27869"
-},
-
-"El Paso County": {
-  "description": "El Paso County is home to Colorado Springs and serves as one of Colorado's largest economic centers. Defense, aerospace, healthcare, technology, education, and tourism industries contribute to a strong and diversified regional economy.",
-  "population": "748731"
-},
-
-"Fremont County": {
-  "description": "Fremont County combines outdoor recreation, correctional facilities, healthcare services, and tourism within a scenic central Colorado setting. Its diverse economic base supports both residents and businesses throughout the county.",
-  "population": "49975"
-},
-
-"Garfield County": {
-  "description": "Garfield County benefits from energy production, tourism, outdoor recreation, and growing residential communities. Its location on Colorado's Western Slope supports economic activity across multiple industries.",
-  "population": "62365"
-},
-
-"Gilpin County": {
-  "description": "Gilpin County is known for its historic mining heritage, mountain scenery, and gaming industry. Tourism, hospitality, entertainment, and local services play major roles in supporting the county's economy.",
-  "population": "5857"
-},
-
-"Grand County": {
-  "description": "Grand County features world-class outdoor recreation, mountain communities, and a strong tourism industry. Hospitality, construction, real estate, and visitor services contribute significantly to economic growth.",
-  "population": "15717"
-},
-
-"Gunnison County": {
-  "description": "Gunnison County is recognized for its outdoor recreation opportunities, higher education presence, and tourism-driven economy. Hospitality, education, healthcare, and recreation industries support the county's continued development.",
-  "population": "17321"
-},
-
-"Hinsdale County": {
-  "description": "Hinsdale County is one of Colorado's most remote and least populated counties, known for its rugged mountain landscapes and recreational opportunities. Tourism, hospitality, and local services form the foundation of economic activity.",
-  "population": "788"
-},
-
-"Huerfano County": {
-  "description": "Huerfano County combines scenic mountain views, agricultural operations, and growing tourism activity. Ranching, hospitality, healthcare, and local businesses contribute to the county's economy.",
-  "population": "6974"
-},
-
-"Jackson County": {
-  "description": "Jackson County is located in north-central Colorado and is characterized by ranching, outdoor recreation, and expansive natural landscapes. Agriculture, tourism, and local commerce remain important economic drivers.",
-  "population": "1365"
-},
-"Jefferson County": {
-  "description": "Jefferson County is one of Colorado's most populous counties and a major part of the Denver metropolitan area. Technology, healthcare, education, aerospace, retail, and professional services contribute to a diverse and highly developed local economy.",
-  "population": "585773"
-},
-
-"Kiowa County": {
-  "description": "Kiowa County is located on Colorado's southeastern plains and supports a rural economy based on agriculture, ranching, and local commerce. Farming operations and community-focused businesses remain central to economic activity throughout the county.",
-  "population": "1396"
-},
-
-"Kit Carson County": {
-  "description": "Kit Carson County serves as an important agricultural center in eastern Colorado, supporting farming, livestock production, transportation, and agribusiness. Its location along major transportation corridors contributes to regional economic activity.",
-  "population": "7052"
-},
-
-"Lake County": {
-  "description": "Lake County is known for its high-elevation mountain communities, outdoor recreation opportunities, and tourism-driven economy. Hospitality, recreation, healthcare, and local businesses support economic growth throughout the county.",
-  "population": "7396"
-},
-
-"La Plata County": {
-  "description": "La Plata County combines higher education, tourism, healthcare, and outdoor recreation within one of southwestern Colorado's most dynamic economies. Its scenic landscapes and growing communities continue to attract residents and visitors alike.",
-  "population": "56343"
-},
-
-"Larimer County": {
-  "description": "Larimer County is home to Fort Collins and supports a thriving economy driven by education, technology, healthcare, manufacturing, and research. Continued population growth and business development make it one of Colorado's leading economic centers.",
-  "population": "371111"
-},
-
-"Las Animas County": {
-  "description": "Las Animas County is Colorado's largest county by land area and features a mix of ranching, tourism, energy development, and outdoor recreation. Its diverse natural resources support economic activity across the region.",
-  "population": "14545"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County is characterized by agricultural production, ranching operations, and rural communities across eastern Colorado. Farming and related industries remain important contributors to the county's economy.",
-  "population": "5652"
-},
-
-"Logan County": {
-  "description": "Logan County serves as a regional agricultural and commercial hub in northeastern Colorado. Farming, food processing, education, healthcare, and local businesses contribute to a stable and diversified economy.",
-  "population": "22186"
-},
-
-"Mesa County": {
-  "description": "Mesa County is the largest economic center on Colorado's Western Slope, supporting healthcare, energy, tourism, agriculture, and professional services. Grand Junction serves as a regional hub for commerce and economic development.",
-  "population": "157519"
-},
-"Mineral County": {
-  "description": "Mineral County is one of Colorado's smallest counties and is known for its mountain landscapes, outdoor recreation opportunities, and tourism-focused economy. Hospitality, recreation, and local services support economic activity throughout the county.",
-  "population": "896"
-},
-
-"Moffat County": {
-  "description": "Moffat County occupies a large area of northwestern Colorado and supports an economy based on energy production, agriculture, outdoor recreation, and tourism. Its natural resources and scenic landscapes contribute to long-term economic stability.",
-  "population": "13184"
-},
-
-"Montezuma County": {
-  "description": "Montezuma County combines agriculture, tourism, outdoor recreation, and cultural heritage attractions in southwestern Colorado. Hospitality, farming, healthcare, and local businesses contribute to a diverse local economy.",
-  "population": "26765"
-},
-
-"Montrose County": {
-  "description": "Montrose County is a growing economic center on Colorado's Western Slope, supporting healthcare, tourism, agriculture, manufacturing, and construction. Its expanding communities continue to attract residents and businesses.",
-  "population": "43837"
-},
-
-"Morgan County": {
-  "description": "Morgan County serves as an important agricultural and manufacturing center in northeastern Colorado. Farming, food processing, logistics, and healthcare industries contribute significantly to economic activity throughout the county.",
-  "population": "29547"
-},
-
-"Otero County": {
-  "description": "Otero County features strong agricultural traditions, transportation access, and historic communities across southeastern Colorado. Farming, government services, healthcare, and local commerce support the county's economy.",
-  "population": "18292"
-},
-
-"Ouray County": {
-  "description": "Ouray County is internationally recognized for its mountain scenery, outdoor recreation opportunities, and tourism industry. Hospitality, real estate, construction, and visitor services drive much of the local economy.",
-  "population": "5058"
-},
-
-"Park County": {
-  "description": "Park County combines mountain recreation, residential growth, tourism, and outdoor lifestyle opportunities. Its proximity to major Front Range cities has contributed to continued population and economic growth.",
-  "population": "18845"
-},
-
-"Phillips County": {
-  "description": "Phillips County is located on Colorado's eastern plains and supports a rural economy centered on agriculture, ranching, and agribusiness. Local businesses and farming operations remain key contributors to economic activity.",
-  "population": "4326"
-},
-
-"Pitkin County": {
-  "description": "Pitkin County is home to Aspen and one of the most recognized mountain tourism destinations in the United States. Luxury tourism, hospitality, real estate, recreation, and professional services support a highly active local economy.",
-  "population": "17767"
-},
-"Prowers County": {
-  "description": "Prowers County is a major agricultural county in southeastern Colorado, supporting farming, livestock production, food processing, and transportation-related industries. Its fertile plains and strong agribusiness sector contribute significantly to the local economy.",
-  "population": "11999"
-},
-
-"Pueblo County": {
-  "description": "Pueblo County is a major economic center in southern Colorado, driven by manufacturing, healthcare, education, logistics, and government services. Its diverse industrial base and growing population continue to support regional economic development.",
-  "population": "170237"
-},
-
-"Rio Blanco County": {
-  "description": "Rio Blanco County is known for its energy production, ranching operations, outdoor recreation opportunities, and vast natural landscapes. Natural resources, tourism, and agriculture remain important pillars of the local economy.",
-  "population": "6417"
-},
-
-"Rio Grande County": {
-  "description": "Rio Grande County serves as an agricultural and commercial center within Colorado's San Luis Valley. Farming, healthcare, tourism, and local businesses contribute to a balanced and resilient economy.",
-  "population": "11812"
-},
-
-"Routt County": {
-  "description": "Routt County is internationally recognized for outdoor recreation, mountain tourism, and world-class skiing destinations. Hospitality, real estate, construction, and visitor services drive strong economic activity throughout the county.",
-  "population": "25276"
-},
-
-"Saguache County": {
-  "description": "Saguache County features expansive mountain and valley landscapes, agricultural operations, and outdoor recreation opportunities. Ranching, tourism, and local businesses contribute to economic activity across this rural region.",
-  "population": "6820"
-},
-
-"San Juan County": {
-  "description": "San Juan County is Colorado's least populated county and is renowned for its historic mining communities, rugged mountain scenery, and tourism appeal. Hospitality, recreation, and visitor-related services support the local economy.",
-  "population": "742"
-},
-
-"San Miguel County": {
-  "description": "San Miguel County is home to renowned mountain communities and a thriving tourism industry. Outdoor recreation, hospitality, real estate, and professional services contribute to one of Colorado's strongest destination-based economies.",
-  "population": "8256"
-},
-
-"Sedgwick County": {
-  "description": "Sedgwick County is located in northeastern Colorado and supports an economy based on agriculture, livestock production, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "2284"
-},
-
-"Summit County": {
-  "description": "Summit County is one of Colorado's premier mountain tourism destinations, attracting visitors year-round for skiing, recreation, and outdoor adventure. Hospitality, real estate, retail, and tourism-related services dominate the county's economy.",
-  "population": "31564"
-},
-"Teller County": {
-  "description": "Teller County is known for its mountain scenery, historic communities, outdoor recreation opportunities, and tourism-driven economy. Hospitality, healthcare, construction, and visitor-related businesses contribute significantly to economic activity throughout the county.",
-  "population": "25091"
-},
-
-"Washington County": {
-  "description": "Washington County occupies a large portion of Colorado's eastern plains and supports a rural economy centered on agriculture, ranching, grain production, and local commerce. Farming operations remain the backbone of economic activity across the county.",
-  "population": "4815"
-},
-
-"Weld County": {
-  "description": "Weld County is one of Colorado's largest and fastest-growing counties, serving as a major center for agriculture, energy production, manufacturing, logistics, and residential development. Its diverse economy and strategic Front Range location continue to attract substantial business investment.",
-  "population": "374574"
-},
-
-"Yuma County": {
-  "description": "Yuma County is a leading agricultural county in northeastern Colorado, known for crop production, livestock operations, and agribusiness activity. Farming, transportation, and local businesses support a stable and productive rural economy.",
-  "population": "10043"
-}
+  "identity": {
+    "code": "co",
+    "slug": "colorado",
+    "name": "Colorado",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County is one of Colorado's largest counties and a key part of the Denver metropolitan area. The county supports a diverse economy driven by logistics, healthcare, aerospace, manufacturing, and residential development, making it an important economic center along the Front Range.",
+      "population": "527458"
+    },
+    "Alamosa County": {
+      "description": "Alamosa County serves as a regional hub in southern Colorado, supporting agriculture, higher education, healthcare, and tourism. Its location near major natural attractions and outdoor recreation destinations contributes to a stable local economy.",
+      "population": "16376"
+    },
+    "Arapahoe County": {
+      "description": "Arapahoe County is a major economic engine within the Denver metropolitan region, supporting technology, healthcare, finance, education, and professional services. Continued residential and commercial growth has strengthened its position as one of Colorado's most influential counties.",
+      "population": "655070"
+    },
+    "Archuleta County": {
+      "description": "Archuleta County is known for its mountain scenery, outdoor recreation opportunities, and tourism industry. Hospitality, healthcare, construction, and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "14029"
+    },
+    "Baca County": {
+      "description": "Baca County occupies Colorado's southeastern plains and is characterized by agricultural production, ranching operations, and rural communities. Farming and related industries remain central to the county's economy.",
+      "population": "3504"
+    },
+    "Bent County": {
+      "description": "Bent County supports a rural economy based on agriculture, livestock production, transportation, and local commerce. Its communities maintain strong ties to the region's farming heritage and economic traditions.",
+      "population": "5650"
+    },
+    "Boulder County": {
+      "description": "Boulder County is internationally recognized for its innovation economy, technology sector, higher education institutions, and outdoor lifestyle. Research, aerospace, biotechnology, and professional services contribute to one of Colorado's strongest economies.",
+      "population": "335684"
+    },
+    "Broomfield County": {
+      "description": "Broomfield County is a consolidated city-county strategically located between Denver and Boulder. Technology companies, corporate headquarters, healthcare providers, and retail development support a thriving and highly educated workforce.",
+      "population": "76039"
+    },
+    "Chaffee County": {
+      "description": "Chaffee County is known for its mountain recreation opportunities, scenic landscapes, and tourism-driven economy. Outdoor activities, hospitality services, healthcare, and local businesses play important roles in supporting economic growth.",
+      "population": "20938"
+    },
+    "Cheyenne County": {
+      "description": "Cheyenne County is located on Colorado's eastern plains and is characterized by agriculture, ranching, and strong rural communities. Farming operations and local businesses continue to serve as the foundation of economic activity throughout the county.",
+      "population": "1760"
+    },
+    "Clear Creek County": {
+      "description": "Clear Creek County is located in Colorado's central Rocky Mountains and is known for its historic mining communities, mountain recreation, and tourism industry. Hospitality, outdoor recreation, and local businesses play significant roles in the county's economy.",
+      "population": "9705"
+    },
+    "Conejos County": {
+      "description": "Conejos County is situated in the San Luis Valley and supports a rural economy centered on agriculture, livestock production, and local commerce. Its rich cultural heritage and scenic surroundings contribute to the county's unique character.",
+      "population": "7584"
+    },
+    "Costilla County": {
+      "description": "Costilla County is Colorado's oldest county and features agricultural operations, historic communities, and access to outdoor recreation opportunities. Farming, tourism, and local services support economic activity throughout the region.",
+      "population": "3808"
+    },
+    "Crowley County": {
+      "description": "Crowley County is located on Colorado's eastern plains and maintains an economy supported by agriculture, government services, and local businesses. Its rural communities continue to preserve the county's farming traditions.",
+      "population": "5758"
+    },
+    "Custer County": {
+      "description": "Custer County is known for its mountain scenery, outdoor recreation opportunities, and small-town lifestyle. Tourism, hospitality, construction, and local services contribute to the county's economy.",
+      "population": "5108"
+    },
+    "Delta County": {
+      "description": "Delta County combines productive agricultural land, outdoor recreation, and growing residential communities on Colorado's Western Slope. Farming, healthcare, tourism, and local businesses support a diversified economy.",
+      "population": "32320"
+    },
+    "Denver County": {
+      "description": "Denver County serves as Colorado's capital and largest urban economic center, supporting finance, technology, healthcare, government, education, and professional services. Its diverse economy and strong population growth make it a major hub for business and innovation.",
+      "population": "715891"
+    },
+    "Dolores County": {
+      "description": "Dolores County is one of Colorado's least populated counties and is known for its vast natural landscapes, outdoor recreation opportunities, and rural character. Tourism, agriculture, and local businesses contribute to the county's economy.",
+      "population": "2378"
+    },
+    "Douglas County": {
+      "description": "Douglas County is one of Colorado's fastest-growing counties, featuring affluent communities, strong business development, and a highly educated workforce. Technology, healthcare, professional services, and residential growth continue to drive economic expansion.",
+      "population": "380512"
+    },
+    "Eagle County": {
+      "description": "Eagle County is internationally recognized for its world-class mountain resorts, outdoor recreation, and tourism economy. Hospitality, real estate, construction, and visitor services support substantial economic activity throughout the county.",
+      "population": "55659"
+    },
+    "Elbert County": {
+      "description": "Elbert County is a growing county on Colorado's eastern plains that combines rural landscapes with increasing residential development. Agriculture, construction, small businesses, and commuting access to nearby metropolitan areas support the local economy.",
+      "population": "27869"
+    },
+    "El Paso County": {
+      "description": "El Paso County is home to Colorado Springs and serves as one of Colorado's largest economic centers. Defense, aerospace, healthcare, technology, education, and tourism industries contribute to a strong and diversified regional economy.",
+      "population": "748731"
+    },
+    "Fremont County": {
+      "description": "Fremont County combines outdoor recreation, correctional facilities, healthcare services, and tourism within a scenic central Colorado setting. Its diverse economic base supports both residents and businesses throughout the county.",
+      "population": "49975"
+    },
+    "Garfield County": {
+      "description": "Garfield County benefits from energy production, tourism, outdoor recreation, and growing residential communities. Its location on Colorado's Western Slope supports economic activity across multiple industries.",
+      "population": "62365"
+    },
+    "Gilpin County": {
+      "description": "Gilpin County is known for its historic mining heritage, mountain scenery, and gaming industry. Tourism, hospitality, entertainment, and local services play major roles in supporting the county's economy.",
+      "population": "5857"
+    },
+    "Grand County": {
+      "description": "Grand County features world-class outdoor recreation, mountain communities, and a strong tourism industry. Hospitality, construction, real estate, and visitor services contribute significantly to economic growth.",
+      "population": "15717"
+    },
+    "Gunnison County": {
+      "description": "Gunnison County is recognized for its outdoor recreation opportunities, higher education presence, and tourism-driven economy. Hospitality, education, healthcare, and recreation industries support the county's continued development.",
+      "population": "17321"
+    },
+    "Hinsdale County": {
+      "description": "Hinsdale County is one of Colorado's most remote and least populated counties, known for its rugged mountain landscapes and recreational opportunities. Tourism, hospitality, and local services form the foundation of economic activity.",
+      "population": "788"
+    },
+    "Huerfano County": {
+      "description": "Huerfano County combines scenic mountain views, agricultural operations, and growing tourism activity. Ranching, hospitality, healthcare, and local businesses contribute to the county's economy.",
+      "population": "6974"
+    },
+    "Jackson County": {
+      "description": "Jackson County is located in north-central Colorado and is characterized by ranching, outdoor recreation, and expansive natural landscapes. Agriculture, tourism, and local commerce remain important economic drivers.",
+      "population": "1365"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is one of Colorado's most populous counties and a major part of the Denver metropolitan area. Technology, healthcare, education, aerospace, retail, and professional services contribute to a diverse and highly developed local economy.",
+      "population": "585773"
+    },
+    "Kiowa County": {
+      "description": "Kiowa County is located on Colorado's southeastern plains and supports a rural economy based on agriculture, ranching, and local commerce. Farming operations and community-focused businesses remain central to economic activity throughout the county.",
+      "population": "1396"
+    },
+    "Kit Carson County": {
+      "description": "Kit Carson County serves as an important agricultural center in eastern Colorado, supporting farming, livestock production, transportation, and agribusiness. Its location along major transportation corridors contributes to regional economic activity.",
+      "population": "7052"
+    },
+    "Lake County": {
+      "description": "Lake County is known for its high-elevation mountain communities, outdoor recreation opportunities, and tourism-driven economy. Hospitality, recreation, healthcare, and local businesses support economic growth throughout the county.",
+      "population": "7396"
+    },
+    "La Plata County": {
+      "description": "La Plata County combines higher education, tourism, healthcare, and outdoor recreation within one of southwestern Colorado's most dynamic economies. Its scenic landscapes and growing communities continue to attract residents and visitors alike.",
+      "population": "56343"
+    },
+    "Larimer County": {
+      "description": "Larimer County is home to Fort Collins and supports a thriving economy driven by education, technology, healthcare, manufacturing, and research. Continued population growth and business development make it one of Colorado's leading economic centers.",
+      "population": "371111"
+    },
+    "Las Animas County": {
+      "description": "Las Animas County is Colorado's largest county by land area and features a mix of ranching, tourism, energy development, and outdoor recreation. Its diverse natural resources support economic activity across the region.",
+      "population": "14545"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County is characterized by agricultural production, ranching operations, and rural communities across eastern Colorado. Farming and related industries remain important contributors to the county's economy.",
+      "population": "5652"
+    },
+    "Logan County": {
+      "description": "Logan County serves as a regional agricultural and commercial hub in northeastern Colorado. Farming, food processing, education, healthcare, and local businesses contribute to a stable and diversified economy.",
+      "population": "22186"
+    },
+    "Mesa County": {
+      "description": "Mesa County is the largest economic center on Colorado's Western Slope, supporting healthcare, energy, tourism, agriculture, and professional services. Grand Junction serves as a regional hub for commerce and economic development.",
+      "population": "157519"
+    },
+    "Mineral County": {
+      "description": "Mineral County is one of Colorado's smallest counties and is known for its mountain landscapes, outdoor recreation opportunities, and tourism-focused economy. Hospitality, recreation, and local services support economic activity throughout the county.",
+      "population": "896"
+    },
+    "Moffat County": {
+      "description": "Moffat County occupies a large area of northwestern Colorado and supports an economy based on energy production, agriculture, outdoor recreation, and tourism. Its natural resources and scenic landscapes contribute to long-term economic stability.",
+      "population": "13184"
+    },
+    "Montezuma County": {
+      "description": "Montezuma County combines agriculture, tourism, outdoor recreation, and cultural heritage attractions in southwestern Colorado. Hospitality, farming, healthcare, and local businesses contribute to a diverse local economy.",
+      "population": "26765"
+    },
+    "Montrose County": {
+      "description": "Montrose County is a growing economic center on Colorado's Western Slope, supporting healthcare, tourism, agriculture, manufacturing, and construction. Its expanding communities continue to attract residents and businesses.",
+      "population": "43837"
+    },
+    "Morgan County": {
+      "description": "Morgan County serves as an important agricultural and manufacturing center in northeastern Colorado. Farming, food processing, logistics, and healthcare industries contribute significantly to economic activity throughout the county.",
+      "population": "29547"
+    },
+    "Otero County": {
+      "description": "Otero County features strong agricultural traditions, transportation access, and historic communities across southeastern Colorado. Farming, government services, healthcare, and local commerce support the county's economy.",
+      "population": "18292"
+    },
+    "Ouray County": {
+      "description": "Ouray County is internationally recognized for its mountain scenery, outdoor recreation opportunities, and tourism industry. Hospitality, real estate, construction, and visitor services drive much of the local economy.",
+      "population": "5058"
+    },
+    "Park County": {
+      "description": "Park County combines mountain recreation, residential growth, tourism, and outdoor lifestyle opportunities. Its proximity to major Front Range cities has contributed to continued population and economic growth.",
+      "population": "18845"
+    },
+    "Phillips County": {
+      "description": "Phillips County is located on Colorado's eastern plains and supports a rural economy centered on agriculture, ranching, and agribusiness. Local businesses and farming operations remain key contributors to economic activity.",
+      "population": "4326"
+    },
+    "Pitkin County": {
+      "description": "Pitkin County is home to Aspen and one of the most recognized mountain tourism destinations in the United States. Luxury tourism, hospitality, real estate, recreation, and professional services support a highly active local economy.",
+      "population": "17767"
+    },
+    "Prowers County": {
+      "description": "Prowers County is a major agricultural county in southeastern Colorado, supporting farming, livestock production, food processing, and transportation-related industries. Its fertile plains and strong agribusiness sector contribute significantly to the local economy.",
+      "population": "11999"
+    },
+    "Pueblo County": {
+      "description": "Pueblo County is a major economic center in southern Colorado, driven by manufacturing, healthcare, education, logistics, and government services. Its diverse industrial base and growing population continue to support regional economic development.",
+      "population": "170237"
+    },
+    "Rio Blanco County": {
+      "description": "Rio Blanco County is known for its energy production, ranching operations, outdoor recreation opportunities, and vast natural landscapes. Natural resources, tourism, and agriculture remain important pillars of the local economy.",
+      "population": "6417"
+    },
+    "Rio Grande County": {
+      "description": "Rio Grande County serves as an agricultural and commercial center within Colorado's San Luis Valley. Farming, healthcare, tourism, and local businesses contribute to a balanced and resilient economy.",
+      "population": "11812"
+    },
+    "Routt County": {
+      "description": "Routt County is internationally recognized for outdoor recreation, mountain tourism, and world-class skiing destinations. Hospitality, real estate, construction, and visitor services drive strong economic activity throughout the county.",
+      "population": "25276"
+    },
+    "Saguache County": {
+      "description": "Saguache County features expansive mountain and valley landscapes, agricultural operations, and outdoor recreation opportunities. Ranching, tourism, and local businesses contribute to economic activity across this rural region.",
+      "population": "6820"
+    },
+    "San Juan County": {
+      "description": "San Juan County is Colorado's least populated county and is renowned for its historic mining communities, rugged mountain scenery, and tourism appeal. Hospitality, recreation, and visitor-related services support the local economy.",
+      "population": "742"
+    },
+    "San Miguel County": {
+      "description": "San Miguel County is home to renowned mountain communities and a thriving tourism industry. Outdoor recreation, hospitality, real estate, and professional services contribute to one of Colorado's strongest destination-based economies.",
+      "population": "8256"
+    },
+    "Sedgwick County": {
+      "description": "Sedgwick County is located in northeastern Colorado and supports an economy based on agriculture, livestock production, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "2284"
+    },
+    "Summit County": {
+      "description": "Summit County is one of Colorado's premier mountain tourism destinations, attracting visitors year-round for skiing, recreation, and outdoor adventure. Hospitality, real estate, retail, and tourism-related services dominate the county's economy.",
+      "population": "31564"
+    },
+    "Teller County": {
+      "description": "Teller County is known for its mountain scenery, historic communities, outdoor recreation opportunities, and tourism-driven economy. Hospitality, healthcare, construction, and visitor-related businesses contribute significantly to economic activity throughout the county.",
+      "population": "25091"
+    },
+    "Washington County": {
+      "description": "Washington County occupies a large portion of Colorado's eastern plains and supports a rural economy centered on agriculture, ranching, grain production, and local commerce. Farming operations remain the backbone of economic activity across the county.",
+      "population": "4815"
+    },
+    "Weld County": {
+      "description": "Weld County is one of Colorado's largest and fastest-growing counties, serving as a major center for agriculture, energy production, manufacturing, logistics, and residential development. Its diverse economy and strategic Front Range location continue to attract substantial business investment.",
+      "population": "374574"
+    },
+    "Yuma County": {
+      "description": "Yuma County is a leading agricultural county in northeastern Colorado, known for crop production, livestock operations, and agribusiness activity. Farming, transportation, and local businesses support a stable and productive rural economy.",
+      "population": "10043"
+    }
+  }
 }

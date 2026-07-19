@@ -1,114 +1,103 @@
 {
-"Albany County": {
-  "description": "Albany County is one of Wyoming's leading education and innovation economies, anchored by higher education, healthcare services, technology-related industries, research, professional services, tourism, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "38000"
-},
-
-"Big Horn County": {
-  "description": "Big Horn County supports a diversified economy based on agriculture, energy production, healthcare services, tourism, transportation, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "11600"
-},
-
-"Campbell County": {
-  "description": "Campbell County is one of Wyoming's strongest economic centers, driven by energy production, healthcare services, manufacturing, transportation, professional services, logistics, and retail development. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "47000"
-},
-
-"Carbon County": {
-  "description": "Carbon County supports an economy driven by energy production, tourism, transportation, healthcare services, outdoor recreation, professional services, and local commerce. Natural resources contribute significantly to workforce opportunities and economic growth.",
-  "population": "14500"
-},
-
-"Converse County": {
-  "description": "Converse County benefits from energy production, agriculture, healthcare services, transportation, professional services, and local business development. Natural resources and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "13800"
-},
-
-"Crook County": {
-  "description": "Crook County supports a diversified economy based on agriculture, tourism, healthcare services, energy-related industries, transportation, and local commerce. Farming operations and visitor-related businesses contribute significantly to economic growth throughout the county.",
-  "population": "7600"
-},
-
-"Fremont County": {
-  "description": "Fremont County is one of Wyoming's largest regional economies, supported by tourism, healthcare services, energy production, agriculture, professional services, transportation, and retail development. Its diversified economy contributes significantly to employment and business growth.",
-  "population": "40000"
-},
-
-"Goshen County": {
-  "description": "Goshen County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations contribute substantially to workforce opportunities and economic activity throughout the county.",
-  "population": "11700"
-},
-
-"Hot Springs County": {
-  "description": "Hot Springs County benefits from tourism, healthcare services, hospitality, agriculture, transportation, and local business development. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "4600"
-},
-
-"Johnson County": {
-  "description": "Johnson County supports a diversified economy based on agriculture, tourism, healthcare services, energy-related industries, transportation, and local commerce. Natural resources and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "8600"
-},
-"Laramie County": {
-  "description": "Laramie County is Wyoming's largest economic center and home to Cheyenne. Government-related employment, healthcare services, logistics, professional services, technology-related industries, manufacturing, and retail development drive a diversified economy supporting substantial workforce growth and business investment.",
-  "population": "101000"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County supports a diversified economy based on energy production, agriculture, tourism, healthcare services, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "20000"
-},
-
-"Natrona County": {
-  "description": "Natrona County is one of Wyoming's strongest economic centers and home to Casper. Energy production, healthcare services, finance, logistics, professional services, manufacturing, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "80000"
-},
-
-"Niobrara County": {
-  "description": "Niobrara County supports a rural economy based on agriculture, energy-related industries, healthcare services, transportation, tourism, and local commerce. Farming operations and natural resources contribute significantly to economic growth throughout the county.",
-  "population": "2400"
-},
-
-"Park County": {
-  "description": "Park County is one of Wyoming's leading tourism economies, supported by outdoor recreation, hospitality, healthcare services, professional services, transportation, and retail development. Visitor spending contributes substantially to workforce opportunities and economic activity.",
-  "population": "30000"
-},
-
-"Platte County": {
-  "description": "Platte County benefits from agriculture, energy production, healthcare services, transportation, manufacturing, and local business development. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "8700"
-},
-
-"Sheridan County": {
-  "description": "Sheridan County is one of northern Wyoming's strongest economic centers, supported by healthcare services, tourism, professional services, energy-related industries, manufacturing, retail development, and transportation. Its diversified economy contributes substantially to employment and business growth.",
-  "population": "32000"
-},
-
-"Sublette County": {
-  "description": "Sublette County supports an economy driven by energy production, tourism, agriculture, healthcare services, transportation, and local commerce. Natural resources and outdoor recreation contribute significantly to workforce opportunities and economic development.",
-  "population": "8600"
-},
-
-"Sweetwater County": {
-  "description": "Sweetwater County is one of Wyoming's largest industrial economies, supported by energy production, mining, manufacturing, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "42000"
-},
-
-"Teton County": {
-  "description": "Teton County is one of Wyoming's strongest tourism and service economies, driven by hospitality, outdoor recreation, healthcare services, professional services, real estate, retail development, and tourism-related businesses. Visitor spending contributes substantially to workforce growth and economic activity.",
-  "population": "24000"
-},
-"Uinta County": {
-  "description": "Uinta County supports a diversified economy based on energy production, transportation, healthcare services, tourism, agriculture, professional services, and local commerce. Its strategic location along major transportation corridors contributes significantly to workforce opportunities and economic growth.",
-  "population": "20400"
-},
-
-"Washakie County": {
-  "description": "Washakie County benefits from agriculture, healthcare services, energy-related industries, manufacturing, transportation, and local business development. Farming operations and regional employers contribute substantially to economic activity throughout the county.",
-  "population": "7700"
-},
-
-"Weston County": {
-  "description": "Weston County supports an economy driven by energy production, agriculture, healthcare services, tourism, transportation, and local commerce. Natural resources, ranching operations, and visitor-related industries contribute significantly to workforce opportunities and economic development.",
-  "population": "6800"
-}
+  "identity": {
+    "code": "wy",
+    "slug": "wyoming",
+    "name": "Wyoming",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Albany County": {
+      "description": "Albany County is one of Wyoming's leading education and innovation economies, anchored by higher education, healthcare services, technology-related industries, research, professional services, tourism, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "38000"
+    },
+    "Big Horn County": {
+      "description": "Big Horn County supports a diversified economy based on agriculture, energy production, healthcare services, tourism, transportation, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "11600"
+    },
+    "Campbell County": {
+      "description": "Campbell County is one of Wyoming's strongest economic centers, driven by energy production, healthcare services, manufacturing, transportation, professional services, logistics, and retail development. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "47000"
+    },
+    "Carbon County": {
+      "description": "Carbon County supports an economy driven by energy production, tourism, transportation, healthcare services, outdoor recreation, professional services, and local commerce. Natural resources contribute significantly to workforce opportunities and economic growth.",
+      "population": "14500"
+    },
+    "Converse County": {
+      "description": "Converse County benefits from energy production, agriculture, healthcare services, transportation, professional services, and local business development. Natural resources and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "13800"
+    },
+    "Crook County": {
+      "description": "Crook County supports a diversified economy based on agriculture, tourism, healthcare services, energy-related industries, transportation, and local commerce. Farming operations and visitor-related businesses contribute significantly to economic growth throughout the county.",
+      "population": "7600"
+    },
+    "Fremont County": {
+      "description": "Fremont County is one of Wyoming's largest regional economies, supported by tourism, healthcare services, energy production, agriculture, professional services, transportation, and retail development. Its diversified economy contributes significantly to employment and business growth.",
+      "population": "40000"
+    },
+    "Goshen County": {
+      "description": "Goshen County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations contribute substantially to workforce opportunities and economic activity throughout the county.",
+      "population": "11700"
+    },
+    "Hot Springs County": {
+      "description": "Hot Springs County benefits from tourism, healthcare services, hospitality, agriculture, transportation, and local business development. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "4600"
+    },
+    "Johnson County": {
+      "description": "Johnson County supports a diversified economy based on agriculture, tourism, healthcare services, energy-related industries, transportation, and local commerce. Natural resources and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "8600"
+    },
+    "Laramie County": {
+      "description": "Laramie County is Wyoming's largest economic center and home to Cheyenne. Government-related employment, healthcare services, logistics, professional services, technology-related industries, manufacturing, and retail development drive a diversified economy supporting substantial workforce growth and business investment.",
+      "population": "101000"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County supports a diversified economy based on energy production, agriculture, tourism, healthcare services, transportation, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "20000"
+    },
+    "Natrona County": {
+      "description": "Natrona County is one of Wyoming's strongest economic centers and home to Casper. Energy production, healthcare services, finance, logistics, professional services, manufacturing, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "80000"
+    },
+    "Niobrara County": {
+      "description": "Niobrara County supports a rural economy based on agriculture, energy-related industries, healthcare services, transportation, tourism, and local commerce. Farming operations and natural resources contribute significantly to economic growth throughout the county.",
+      "population": "2400"
+    },
+    "Park County": {
+      "description": "Park County is one of Wyoming's leading tourism economies, supported by outdoor recreation, hospitality, healthcare services, professional services, transportation, and retail development. Visitor spending contributes substantially to workforce opportunities and economic activity.",
+      "population": "30000"
+    },
+    "Platte County": {
+      "description": "Platte County benefits from agriculture, energy production, healthcare services, transportation, manufacturing, and local business development. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "8700"
+    },
+    "Sheridan County": {
+      "description": "Sheridan County is one of northern Wyoming's strongest economic centers, supported by healthcare services, tourism, professional services, energy-related industries, manufacturing, retail development, and transportation. Its diversified economy contributes substantially to employment and business growth.",
+      "population": "32000"
+    },
+    "Sublette County": {
+      "description": "Sublette County supports an economy driven by energy production, tourism, agriculture, healthcare services, transportation, and local commerce. Natural resources and outdoor recreation contribute significantly to workforce opportunities and economic development.",
+      "population": "8600"
+    },
+    "Sweetwater County": {
+      "description": "Sweetwater County is one of Wyoming's largest industrial economies, supported by energy production, mining, manufacturing, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "42000"
+    },
+    "Teton County": {
+      "description": "Teton County is one of Wyoming's strongest tourism and service economies, driven by hospitality, outdoor recreation, healthcare services, professional services, real estate, retail development, and tourism-related businesses. Visitor spending contributes substantially to workforce growth and economic activity.",
+      "population": "24000"
+    },
+    "Uinta County": {
+      "description": "Uinta County supports a diversified economy based on energy production, transportation, healthcare services, tourism, agriculture, professional services, and local commerce. Its strategic location along major transportation corridors contributes significantly to workforce opportunities and economic growth.",
+      "population": "20400"
+    },
+    "Washakie County": {
+      "description": "Washakie County benefits from agriculture, healthcare services, energy-related industries, manufacturing, transportation, and local business development. Farming operations and regional employers contribute substantially to economic activity throughout the county.",
+      "population": "7700"
+    },
+    "Weston County": {
+      "description": "Weston County supports an economy driven by energy production, agriculture, healthcare services, tourism, transportation, and local commerce. Natural resources, ranching operations, and visitor-related industries contribute significantly to workforce opportunities and economic development.",
+      "population": "6800"
+    }
+  }
 }

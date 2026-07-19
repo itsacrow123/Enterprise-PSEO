@@ -1,315 +1,267 @@
 {
-"Acadia Parish": {
-  "description": "Acadia Parish supports a diverse economy based on agriculture, energy-related industries, healthcare services, manufacturing, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the parish.",
-  "population": "57456"
-},
-
-"Allen Parish": {
-  "description": "Allen Parish combines forestry, agriculture, manufacturing, healthcare services, tourism, and local business development within southwest Louisiana. Natural resource industries continue to play an important role in supporting economic growth.",
-  "population": "22340"
-},
-
-"Ascension Parish": {
-  "description": "Ascension Parish is one of Louisiana's fastest-growing parishes, driven by petrochemical manufacturing, healthcare, logistics, retail development, professional services, and residential expansion. Continued investment supports substantial economic growth and workforce development.",
-  "population": "130460"
-},
-
-"Assumption Parish": {
-  "description": "Assumption Parish supports an economy based on energy production, agriculture, seafood-related industries, healthcare services, and local commerce. Its strategic location along major waterways contributes to regional business activity.",
-  "population": "21039"
-},
-
-"Avoyelles Parish": {
-  "description": "Avoyelles Parish maintains a diversified economy supported by agriculture, healthcare services, manufacturing, tourism, and retail activity. Farming operations and community-focused businesses continue to contribute to economic stability throughout the parish.",
-  "population": "39128"
-},
-
-"Beauregard Parish": {
-  "description": "Beauregard Parish benefits from forestry, agriculture, manufacturing, healthcare services, energy-related industries, and local commerce. Natural resource sectors and industrial employers remain important contributors to economic activity.",
-  "population": "36695"
-},
-
-"Bienville Parish": {
-  "description": "Bienville Parish supports a rural economy centered on forestry, agriculture, energy production, healthcare services, and community-based businesses. Natural resource industries continue to play a significant role in local economic development.",
-  "population": "12809"
-},
-
-"Bossier Parish": {
-  "description": "Bossier Parish is one of northwest Louisiana's largest economic centers, supported by military-related employment, healthcare, technology, gaming, logistics, retail development, and professional services. Its growing economy contributes substantially to regional growth.",
-  "population": "131822"
-},
-
-"Caddo Parish": {
-  "description": "Caddo Parish is a major economic hub in Louisiana, anchored by healthcare, education, energy-related industries, finance, manufacturing, logistics, and professional services. Its diversified economy supports substantial employment and business activity throughout the region.",
-  "population": "233361"
-},
-
-"Calcasieu Parish": {
-  "description": "Calcasieu Parish serves as one of Louisiana's strongest economic centers, driven by petrochemical manufacturing, energy production, healthcare, gaming, tourism, logistics, and professional services. Its industrial base contributes significantly to statewide economic growth.",
-  "population": "203436"
-},
-"Caldwell Parish": {
-  "description": "Caldwell Parish supports a rural economy based on agriculture, forestry, healthcare services, manufacturing, and local commerce. Natural resource industries and farming operations continue to contribute significantly to economic activity throughout the parish.",
-  "population": "9689"
-},
-
-"Cameron Parish": {
-  "description": "Cameron Parish benefits from energy production, seafood industries, tourism, agriculture, transportation, and outdoor recreation. Its coastal location plays a major role in supporting regional economic activity and industrial development.",
-  "population": "5148"
-},
-
-"Catahoula Parish": {
-  "description": "Catahoula Parish maintains a diversified economy supported by agriculture, forestry, energy-related industries, healthcare services, tourism, and local business activity. Farming and natural resource sectors remain key contributors to economic stability.",
-  "population": "8774"
-},
-
-"Claiborne Parish": {
-  "description": "Claiborne Parish combines healthcare, education, forestry, manufacturing, agriculture, and local commerce within northern Louisiana. Community institutions and industrial employers contribute significantly to economic development.",
-  "population": "14257"
-},
-
-"Concordia Parish": {
-  "description": "Concordia Parish supports an economy driven by agriculture, transportation, healthcare services, tourism, manufacturing, and river-related commerce. Its location along the Mississippi River contributes to regional business activity.",
-  "population": "18436"
-},
-
-"DeSoto Parish": {
-  "description": "DeSoto Parish benefits from energy production, agriculture, healthcare services, manufacturing, logistics, and local commerce. Natural resource industries and business investment continue to support economic growth throughout the parish.",
-  "population": "26630"
-},
-
-"East Baton Rouge Parish": {
-  "description": "East Baton Rouge Parish is one of Louisiana's largest economic centers and home to Baton Rouge. Government services, healthcare, higher education, petrochemical industries, technology, finance, and professional services drive a highly diversified economy.",
-  "population": "456781"
-},
-
-"East Carroll Parish": {
-  "description": "East Carroll Parish maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, and local commerce. Farming operations remain the primary driver of economic activity throughout the parish.",
-  "population": "6743"
-},
-
-"East Feliciana Parish": {
-  "description": "East Feliciana Parish combines agriculture, healthcare services, education, tourism, manufacturing, and local business development. Its diversified economy contributes to stable employment opportunities and community growth.",
-  "population": "19265"
-},
-
-"Evangeline Parish": {
-  "description": "Evangeline Parish supports an economy based on agriculture, healthcare, manufacturing, forestry, retail activity, and local commerce. Farming operations and community-focused industries continue to contribute significantly to economic development.",
-  "population": "32264"
-},
-"Franklin Parish": {
-  "description": "Franklin Parish supports a strong agricultural economy based on crop production, agribusiness, healthcare services, manufacturing, and local commerce. Farming operations continue to serve as the foundation of economic activity throughout the parish.",
-  "population": "19654"
-},
-
-"Grant Parish": {
-  "description": "Grant Parish combines forestry, agriculture, healthcare services, manufacturing, tourism, and local business activity within central Louisiana. Natural resource industries remain important contributors to economic growth and employment.",
-  "population": "22349"
-},
-
-"Iberia Parish": {
-  "description": "Iberia Parish serves as a major economic center in south Louisiana, driven by energy production, healthcare, manufacturing, transportation, seafood industries, tourism, and professional services. Its diversified economy supports substantial regional employment.",
-  "population": "68566"
-},
-
-"Iberville Parish": {
-  "description": "Iberville Parish benefits from petrochemical manufacturing, energy production, agriculture, healthcare services, transportation, and local commerce. Industrial investment continues to drive significant economic growth throughout the parish.",
-  "population": "29948"
-},
-
-"Jackson Parish": {
-  "description": "Jackson Parish supports an economy based on forestry, manufacturing, healthcare services, education, agriculture, and local commerce. Community institutions and natural resource industries contribute significantly to economic stability.",
-  "population": "15191"
-},
-
-"Jefferson Parish": {
-  "description": "Jefferson Parish is one of Louisiana's largest economic centers, anchored by healthcare, logistics, tourism, manufacturing, education, finance, and professional services. Its location within the New Orleans metropolitan area supports substantial commercial activity and workforce growth.",
-  "population": "434051"
-},
-
-"Jefferson Davis Parish": {
-  "description": "Jefferson Davis Parish maintains a diversified economy supported by agriculture, energy-related industries, healthcare services, manufacturing, and local commerce. Farming operations and industrial employers continue to contribute significantly to economic activity.",
-  "population": "31172"
-},
-
-"Lafayette Parish": {
-  "description": "Lafayette Parish is one of Louisiana's strongest economic hubs, driven by healthcare, technology, energy-related industries, education, finance, logistics, and professional services. Its growing business environment supports innovation and long-term economic expansion.",
-  "population": "247617"
-},
-
-"Lafourche Parish": {
-  "description": "Lafourche Parish benefits from energy production, marine services, seafood industries, healthcare, tourism, and transportation-related businesses. Its coastal economy plays a vital role in supporting regional and statewide economic activity.",
-  "population": "97943"
-},
-
-"LaSalle Parish": {
-  "description": "LaSalle Parish supports a rural economy centered on forestry, agriculture, healthcare services, energy-related industries, and local commerce. Natural resource sectors continue to contribute significantly to economic development throughout the parish.",
-  "population": "14753"
-},
-"Lincoln Parish": {
-  "description": "Lincoln Parish serves as an important educational and economic center in northern Louisiana, supported by higher education, healthcare, manufacturing, technology, retail activity, and professional services. Its innovation-driven economy contributes significantly to regional growth.",
-  "population": "48782"
-},
-
-"Livingston Parish": {
-  "description": "Livingston Parish is one of Louisiana's fastest-growing parishes, driven by healthcare, logistics, manufacturing, retail development, professional services, and residential expansion. Continued population growth supports strong economic investment and workforce development.",
-  "population": "154674"
-},
-
-"Madison Parish": {
-  "description": "Madison Parish supports a rural economy based on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations remain a primary contributor to economic activity throughout the parish.",
-  "population": "10017"
-},
-
-"Morehouse Parish": {
-  "description": "Morehouse Parish combines manufacturing, agriculture, healthcare services, forestry, education, and local business activity within northeast Louisiana. Its diversified economy contributes to stable employment and community growth.",
-  "population": "25564"
-},
-
-"Natchitoches Parish": {
-  "description": "Natchitoches Parish benefits from higher education, tourism, healthcare services, manufacturing, agriculture, and professional industries. Its historic significance and diverse economy support substantial regional economic activity.",
-  "population": "37627"
-},
-
-"Orleans Parish": {
-  "description": "Orleans Parish is home to New Orleans and serves as one of the most important economic centers in the Gulf South. Tourism, healthcare, logistics, maritime industries, education, finance, technology, and professional services drive a highly diversified economy.",
-  "population": "364136"
-},
-
-"Ouachita Parish": {
-  "description": "Ouachita Parish is a major economic hub in northern Louisiana, supported by healthcare, education, manufacturing, finance, retail development, logistics, and professional services. Its strong business environment contributes significantly to regional employment.",
-  "population": "158368"
-},
-
-"Plaquemines Parish": {
-  "description": "Plaquemines Parish supports an economy driven by energy production, maritime industries, seafood harvesting, transportation, tourism, and local commerce. Its strategic coastal location plays a vital role in Louisiana's economy.",
-  "population": "22820"
-},
-
-"Pointe Coupee Parish": {
-  "description": "Pointe Coupee Parish combines agriculture, manufacturing, healthcare services, tourism, transportation, and local business activity. Farming operations and community-focused industries continue to support economic development throughout the parish.",
-  "population": "20977"
-},
-
-"Rapides Parish": {
-  "description": "Rapides Parish is one of central Louisiana's largest economic centers, driven by healthcare, education, manufacturing, transportation, retail development, and professional services. Its diversified economy supports substantial regional growth and employment.",
-  "population": "128239"
-},
-"Red River Parish": {
-  "description": "Red River Parish supports a rural economy based on agriculture, forestry, healthcare services, manufacturing, and local commerce. Farming operations and natural resource industries continue to contribute significantly to economic activity throughout the parish.",
-  "population": "7417"
-},
-
-"Richland Parish": {
-  "description": "Richland Parish maintains a diversified economy supported by agriculture, manufacturing, healthcare services, transportation, retail activity, and local commerce. Agribusiness remains an important contributor to regional economic growth.",
-  "population": "20137"
-},
-
-"Sabine Parish": {
-  "description": "Sabine Parish benefits from forestry, tourism, outdoor recreation, healthcare services, agriculture, and local business development. Natural resources and visitor-related industries play important roles in supporting economic activity.",
-  "population": "23243"
-},
-
-"St. Bernard Parish": {
-  "description": "St. Bernard Parish supports an economy driven by maritime industries, energy production, tourism, healthcare services, logistics, and local commerce. Its strategic coastal location contributes significantly to regional business activity.",
-  "population": "43484"
-},
-
-"St. Charles Parish": {
-  "description": "St. Charles Parish is one of Louisiana's strongest industrial economies, anchored by petrochemical manufacturing, energy production, logistics, healthcare services, and professional industries. Its location within the New Orleans metropolitan area supports substantial economic growth.",
-  "population": "52449"
-},
-
-"St. Helena Parish": {
-  "description": "St. Helena Parish maintains a rural economy centered on agriculture, forestry, healthcare services, education, and local commerce. Community-focused businesses and natural resource industries contribute to economic stability throughout the parish.",
-  "population": "10053"
-},
-
-"St. James Parish": {
-  "description": "St. James Parish benefits from petrochemical manufacturing, energy production, transportation, agriculture, healthcare services, and local commerce. Industrial investment continues to play a major role in supporting economic activity throughout the parish.",
-  "population": "20558"
-},
-
-"St. John the Baptist Parish": {
-  "description": "St. John the Baptist Parish supports a diversified economy based on energy production, manufacturing, logistics, healthcare services, retail development, and professional industries. Its strategic location between Baton Rouge and New Orleans contributes to strong economic activity.",
-  "population": "41761"
-},
-
-"St. Landry Parish": {
-  "description": "St. Landry Parish is one of Louisiana's largest parishes, supported by healthcare, agriculture, manufacturing, education, retail activity, tourism, and professional services. Its diverse economy contributes significantly to regional employment and business growth.",
-  "population": "82279"
-},
-
-"St. Martin Parish": {
-  "description": "St. Martin Parish combines energy-related industries, agriculture, tourism, healthcare services, seafood production, and local commerce. Its unique cultural heritage and diversified economy support continued economic development.",
-  "population": "51767"
-},
-"St. Mary Parish": {
-  "description": "St. Mary Parish supports a diverse economy driven by energy production, maritime industries, healthcare services, manufacturing, seafood processing, and local commerce. Its coastal location contributes significantly to regional economic activity and workforce development.",
-  "population": "49749"
-},
-
-"St. Tammany Parish": {
-  "description": "St. Tammany Parish is one of Louisiana's fastest-growing and most affluent parishes, supported by healthcare, professional services, education, technology, retail development, tourism, and residential expansion. Its strong business environment continues to attract substantial investment and population growth.",
-  "population": "275263"
-},
-
-"Tangipahoa Parish": {
-  "description": "Tangipahoa Parish serves as a major economic center in southeast Louisiana, driven by healthcare, higher education, logistics, manufacturing, agriculture, retail activity, and professional services. Its diversified economy supports strong regional employment and business development.",
-  "population": "136784"
-},
-
-"Tensas Parish": {
-  "description": "Tensas Parish maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, tourism, and local commerce. Farming operations remain the primary driver of economic activity throughout the parish.",
-  "population": "4147"
-},
-
-"Terrebonne Parish": {
-  "description": "Terrebonne Parish is one of Louisiana's most important coastal economies, anchored by energy production, marine services, seafood industries, healthcare, transportation, and tourism. Its diversified business base contributes significantly to statewide economic growth.",
-  "population": "104503"
-},
-
-"Union Parish": {
-  "description": "Union Parish supports an economy based on healthcare, education, agriculture, forestry, manufacturing, and local commerce. Community institutions and natural resource industries continue to play important roles in economic development.",
-  "population": "21412"
-},
-
-"Vermilion Parish": {
-  "description": "Vermilion Parish benefits from agriculture, seafood production, energy-related industries, healthcare services, tourism, and local business activity. Its coastal resources and diversified economy support long-term economic growth.",
-  "population": "57994"
-},
-
-"Vernon Parish": {
-  "description": "Vernon Parish serves as an important economic center in western Louisiana, supported by military-related employment, healthcare, education, manufacturing, retail development, and professional services. Its diverse economy contributes significantly to regional workforce growth.",
-  "population": "48350"
-},
-
-"Washington Parish": {
-  "description": "Washington Parish combines agriculture, forestry, healthcare services, manufacturing, tourism, and local commerce within southeast Louisiana. Natural resource industries and community-focused businesses continue to support economic stability.",
-  "population": "45812"
-},
-
-"Webster Parish": {
-  "description": "Webster Parish supports a diversified economy based on manufacturing, healthcare services, education, agriculture, retail activity, and local commerce. Industrial employers and business investment contribute significantly to regional economic activity.",
-  "population": "36790"
-},
-"West Baton Rouge Parish": {
-  "description": "West Baton Rouge Parish is a growing economic center within the Baton Rouge metropolitan region, supported by petrochemical manufacturing, logistics, healthcare services, transportation, retail development, and professional industries. Its strategic location along the Mississippi River contributes significantly to regional business activity.",
-  "population": "27992"
-},
-
-"West Carroll Parish": {
-  "description": "West Carroll Parish maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations continue to serve as the foundation of economic activity throughout the parish.",
-  "population": "10311"
-},
-
-"West Feliciana Parish": {
-  "description": "West Feliciana Parish benefits from healthcare, education, tourism, agriculture, professional services, and local business development. Its historic communities and growing residential appeal contribute to long-term economic growth and investment.",
-  "population": "15829"
-},
-
-"Winn Parish": {
-  "description": "Winn Parish supports a diversified economy based on forestry, healthcare services, agriculture, manufacturing, education, and local commerce. Natural resource industries and community-focused businesses continue to play important roles in economic activity throughout the parish.",
-  "population": "13773"
-}
+  "identity": {
+    "code": "la",
+    "slug": "louisiana",
+    "name": "Louisiana",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Acadia Parish": {
+      "description": "Acadia Parish supports a diverse economy based on agriculture, energy-related industries, healthcare services, manufacturing, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the parish.",
+      "population": "57456"
+    },
+    "Allen Parish": {
+      "description": "Allen Parish combines forestry, agriculture, manufacturing, healthcare services, tourism, and local business development within southwest Louisiana. Natural resource industries continue to play an important role in supporting economic growth.",
+      "population": "22340"
+    },
+    "Ascension Parish": {
+      "description": "Ascension Parish is one of Louisiana's fastest-growing parishes, driven by petrochemical manufacturing, healthcare, logistics, retail development, professional services, and residential expansion. Continued investment supports substantial economic growth and workforce development.",
+      "population": "130460"
+    },
+    "Assumption Parish": {
+      "description": "Assumption Parish supports an economy based on energy production, agriculture, seafood-related industries, healthcare services, and local commerce. Its strategic location along major waterways contributes to regional business activity.",
+      "population": "21039"
+    },
+    "Avoyelles Parish": {
+      "description": "Avoyelles Parish maintains a diversified economy supported by agriculture, healthcare services, manufacturing, tourism, and retail activity. Farming operations and community-focused businesses continue to contribute to economic stability throughout the parish.",
+      "population": "39128"
+    },
+    "Beauregard Parish": {
+      "description": "Beauregard Parish benefits from forestry, agriculture, manufacturing, healthcare services, energy-related industries, and local commerce. Natural resource sectors and industrial employers remain important contributors to economic activity.",
+      "population": "36695"
+    },
+    "Bienville Parish": {
+      "description": "Bienville Parish supports a rural economy centered on forestry, agriculture, energy production, healthcare services, and community-based businesses. Natural resource industries continue to play a significant role in local economic development.",
+      "population": "12809"
+    },
+    "Bossier Parish": {
+      "description": "Bossier Parish is one of northwest Louisiana's largest economic centers, supported by military-related employment, healthcare, technology, gaming, logistics, retail development, and professional services. Its growing economy contributes substantially to regional growth.",
+      "population": "131822"
+    },
+    "Caddo Parish": {
+      "description": "Caddo Parish is a major economic hub in Louisiana, anchored by healthcare, education, energy-related industries, finance, manufacturing, logistics, and professional services. Its diversified economy supports substantial employment and business activity throughout the region.",
+      "population": "233361"
+    },
+    "Calcasieu Parish": {
+      "description": "Calcasieu Parish serves as one of Louisiana's strongest economic centers, driven by petrochemical manufacturing, energy production, healthcare, gaming, tourism, logistics, and professional services. Its industrial base contributes significantly to statewide economic growth.",
+      "population": "203436"
+    },
+    "Caldwell Parish": {
+      "description": "Caldwell Parish supports a rural economy based on agriculture, forestry, healthcare services, manufacturing, and local commerce. Natural resource industries and farming operations continue to contribute significantly to economic activity throughout the parish.",
+      "population": "9689"
+    },
+    "Cameron Parish": {
+      "description": "Cameron Parish benefits from energy production, seafood industries, tourism, agriculture, transportation, and outdoor recreation. Its coastal location plays a major role in supporting regional economic activity and industrial development.",
+      "population": "5148"
+    },
+    "Catahoula Parish": {
+      "description": "Catahoula Parish maintains a diversified economy supported by agriculture, forestry, energy-related industries, healthcare services, tourism, and local business activity. Farming and natural resource sectors remain key contributors to economic stability.",
+      "population": "8774"
+    },
+    "Claiborne Parish": {
+      "description": "Claiborne Parish combines healthcare, education, forestry, manufacturing, agriculture, and local commerce within northern Louisiana. Community institutions and industrial employers contribute significantly to economic development.",
+      "population": "14257"
+    },
+    "Concordia Parish": {
+      "description": "Concordia Parish supports an economy driven by agriculture, transportation, healthcare services, tourism, manufacturing, and river-related commerce. Its location along the Mississippi River contributes to regional business activity.",
+      "population": "18436"
+    },
+    "DeSoto Parish": {
+      "description": "DeSoto Parish benefits from energy production, agriculture, healthcare services, manufacturing, logistics, and local commerce. Natural resource industries and business investment continue to support economic growth throughout the parish.",
+      "population": "26630"
+    },
+    "East Baton Rouge Parish": {
+      "description": "East Baton Rouge Parish is one of Louisiana's largest economic centers and home to Baton Rouge. Government services, healthcare, higher education, petrochemical industries, technology, finance, and professional services drive a highly diversified economy.",
+      "population": "456781"
+    },
+    "East Carroll Parish": {
+      "description": "East Carroll Parish maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, and local commerce. Farming operations remain the primary driver of economic activity throughout the parish.",
+      "population": "6743"
+    },
+    "East Feliciana Parish": {
+      "description": "East Feliciana Parish combines agriculture, healthcare services, education, tourism, manufacturing, and local business development. Its diversified economy contributes to stable employment opportunities and community growth.",
+      "population": "19265"
+    },
+    "Evangeline Parish": {
+      "description": "Evangeline Parish supports an economy based on agriculture, healthcare, manufacturing, forestry, retail activity, and local commerce. Farming operations and community-focused industries continue to contribute significantly to economic development.",
+      "population": "32264"
+    },
+    "Franklin Parish": {
+      "description": "Franklin Parish supports a strong agricultural economy based on crop production, agribusiness, healthcare services, manufacturing, and local commerce. Farming operations continue to serve as the foundation of economic activity throughout the parish.",
+      "population": "19654"
+    },
+    "Grant Parish": {
+      "description": "Grant Parish combines forestry, agriculture, healthcare services, manufacturing, tourism, and local business activity within central Louisiana. Natural resource industries remain important contributors to economic growth and employment.",
+      "population": "22349"
+    },
+    "Iberia Parish": {
+      "description": "Iberia Parish serves as a major economic center in south Louisiana, driven by energy production, healthcare, manufacturing, transportation, seafood industries, tourism, and professional services. Its diversified economy supports substantial regional employment.",
+      "population": "68566"
+    },
+    "Iberville Parish": {
+      "description": "Iberville Parish benefits from petrochemical manufacturing, energy production, agriculture, healthcare services, transportation, and local commerce. Industrial investment continues to drive significant economic growth throughout the parish.",
+      "population": "29948"
+    },
+    "Jackson Parish": {
+      "description": "Jackson Parish supports an economy based on forestry, manufacturing, healthcare services, education, agriculture, and local commerce. Community institutions and natural resource industries contribute significantly to economic stability.",
+      "population": "15191"
+    },
+    "Jefferson Parish": {
+      "description": "Jefferson Parish is one of Louisiana's largest economic centers, anchored by healthcare, logistics, tourism, manufacturing, education, finance, and professional services. Its location within the New Orleans metropolitan area supports substantial commercial activity and workforce growth.",
+      "population": "434051"
+    },
+    "Jefferson Davis Parish": {
+      "description": "Jefferson Davis Parish maintains a diversified economy supported by agriculture, energy-related industries, healthcare services, manufacturing, and local commerce. Farming operations and industrial employers continue to contribute significantly to economic activity.",
+      "population": "31172"
+    },
+    "Lafayette Parish": {
+      "description": "Lafayette Parish is one of Louisiana's strongest economic hubs, driven by healthcare, technology, energy-related industries, education, finance, logistics, and professional services. Its growing business environment supports innovation and long-term economic expansion.",
+      "population": "247617"
+    },
+    "Lafourche Parish": {
+      "description": "Lafourche Parish benefits from energy production, marine services, seafood industries, healthcare, tourism, and transportation-related businesses. Its coastal economy plays a vital role in supporting regional and statewide economic activity.",
+      "population": "97943"
+    },
+    "LaSalle Parish": {
+      "description": "LaSalle Parish supports a rural economy centered on forestry, agriculture, healthcare services, energy-related industries, and local commerce. Natural resource sectors continue to contribute significantly to economic development throughout the parish.",
+      "population": "14753"
+    },
+    "Lincoln Parish": {
+      "description": "Lincoln Parish serves as an important educational and economic center in northern Louisiana, supported by higher education, healthcare, manufacturing, technology, retail activity, and professional services. Its innovation-driven economy contributes significantly to regional growth.",
+      "population": "48782"
+    },
+    "Livingston Parish": {
+      "description": "Livingston Parish is one of Louisiana's fastest-growing parishes, driven by healthcare, logistics, manufacturing, retail development, professional services, and residential expansion. Continued population growth supports strong economic investment and workforce development.",
+      "population": "154674"
+    },
+    "Madison Parish": {
+      "description": "Madison Parish supports a rural economy based on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations remain a primary contributor to economic activity throughout the parish.",
+      "population": "10017"
+    },
+    "Morehouse Parish": {
+      "description": "Morehouse Parish combines manufacturing, agriculture, healthcare services, forestry, education, and local business activity within northeast Louisiana. Its diversified economy contributes to stable employment and community growth.",
+      "population": "25564"
+    },
+    "Natchitoches Parish": {
+      "description": "Natchitoches Parish benefits from higher education, tourism, healthcare services, manufacturing, agriculture, and professional industries. Its historic significance and diverse economy support substantial regional economic activity.",
+      "population": "37627"
+    },
+    "Orleans Parish": {
+      "description": "Orleans Parish is home to New Orleans and serves as one of the most important economic centers in the Gulf South. Tourism, healthcare, logistics, maritime industries, education, finance, technology, and professional services drive a highly diversified economy.",
+      "population": "364136"
+    },
+    "Ouachita Parish": {
+      "description": "Ouachita Parish is a major economic hub in northern Louisiana, supported by healthcare, education, manufacturing, finance, retail development, logistics, and professional services. Its strong business environment contributes significantly to regional employment.",
+      "population": "158368"
+    },
+    "Plaquemines Parish": {
+      "description": "Plaquemines Parish supports an economy driven by energy production, maritime industries, seafood harvesting, transportation, tourism, and local commerce. Its strategic coastal location plays a vital role in Louisiana's economy.",
+      "population": "22820"
+    },
+    "Pointe Coupee Parish": {
+      "description": "Pointe Coupee Parish combines agriculture, manufacturing, healthcare services, tourism, transportation, and local business activity. Farming operations and community-focused industries continue to support economic development throughout the parish.",
+      "population": "20977"
+    },
+    "Rapides Parish": {
+      "description": "Rapides Parish is one of central Louisiana's largest economic centers, driven by healthcare, education, manufacturing, transportation, retail development, and professional services. Its diversified economy supports substantial regional growth and employment.",
+      "population": "128239"
+    },
+    "Red River Parish": {
+      "description": "Red River Parish supports a rural economy based on agriculture, forestry, healthcare services, manufacturing, and local commerce. Farming operations and natural resource industries continue to contribute significantly to economic activity throughout the parish.",
+      "population": "7417"
+    },
+    "Richland Parish": {
+      "description": "Richland Parish maintains a diversified economy supported by agriculture, manufacturing, healthcare services, transportation, retail activity, and local commerce. Agribusiness remains an important contributor to regional economic growth.",
+      "population": "20137"
+    },
+    "Sabine Parish": {
+      "description": "Sabine Parish benefits from forestry, tourism, outdoor recreation, healthcare services, agriculture, and local business development. Natural resources and visitor-related industries play important roles in supporting economic activity.",
+      "population": "23243"
+    },
+    "St. Bernard Parish": {
+      "description": "St. Bernard Parish supports an economy driven by maritime industries, energy production, tourism, healthcare services, logistics, and local commerce. Its strategic coastal location contributes significantly to regional business activity.",
+      "population": "43484"
+    },
+    "St. Charles Parish": {
+      "description": "St. Charles Parish is one of Louisiana's strongest industrial economies, anchored by petrochemical manufacturing, energy production, logistics, healthcare services, and professional industries. Its location within the New Orleans metropolitan area supports substantial economic growth.",
+      "population": "52449"
+    },
+    "St. Helena Parish": {
+      "description": "St. Helena Parish maintains a rural economy centered on agriculture, forestry, healthcare services, education, and local commerce. Community-focused businesses and natural resource industries contribute to economic stability throughout the parish.",
+      "population": "10053"
+    },
+    "St. James Parish": {
+      "description": "St. James Parish benefits from petrochemical manufacturing, energy production, transportation, agriculture, healthcare services, and local commerce. Industrial investment continues to play a major role in supporting economic activity throughout the parish.",
+      "population": "20558"
+    },
+    "St. John the Baptist Parish": {
+      "description": "St. John the Baptist Parish supports a diversified economy based on energy production, manufacturing, logistics, healthcare services, retail development, and professional industries. Its strategic location between Baton Rouge and New Orleans contributes to strong economic activity.",
+      "population": "41761"
+    },
+    "St. Landry Parish": {
+      "description": "St. Landry Parish is one of Louisiana's largest parishes, supported by healthcare, agriculture, manufacturing, education, retail activity, tourism, and professional services. Its diverse economy contributes significantly to regional employment and business growth.",
+      "population": "82279"
+    },
+    "St. Martin Parish": {
+      "description": "St. Martin Parish combines energy-related industries, agriculture, tourism, healthcare services, seafood production, and local commerce. Its unique cultural heritage and diversified economy support continued economic development.",
+      "population": "51767"
+    },
+    "St. Mary Parish": {
+      "description": "St. Mary Parish supports a diverse economy driven by energy production, maritime industries, healthcare services, manufacturing, seafood processing, and local commerce. Its coastal location contributes significantly to regional economic activity and workforce development.",
+      "population": "49749"
+    },
+    "St. Tammany Parish": {
+      "description": "St. Tammany Parish is one of Louisiana's fastest-growing and most affluent parishes, supported by healthcare, professional services, education, technology, retail development, tourism, and residential expansion. Its strong business environment continues to attract substantial investment and population growth.",
+      "population": "275263"
+    },
+    "Tangipahoa Parish": {
+      "description": "Tangipahoa Parish serves as a major economic center in southeast Louisiana, driven by healthcare, higher education, logistics, manufacturing, agriculture, retail activity, and professional services. Its diversified economy supports strong regional employment and business development.",
+      "population": "136784"
+    },
+    "Tensas Parish": {
+      "description": "Tensas Parish maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, tourism, and local commerce. Farming operations remain the primary driver of economic activity throughout the parish.",
+      "population": "4147"
+    },
+    "Terrebonne Parish": {
+      "description": "Terrebonne Parish is one of Louisiana's most important coastal economies, anchored by energy production, marine services, seafood industries, healthcare, transportation, and tourism. Its diversified business base contributes significantly to statewide economic growth.",
+      "population": "104503"
+    },
+    "Union Parish": {
+      "description": "Union Parish supports an economy based on healthcare, education, agriculture, forestry, manufacturing, and local commerce. Community institutions and natural resource industries continue to play important roles in economic development.",
+      "population": "21412"
+    },
+    "Vermilion Parish": {
+      "description": "Vermilion Parish benefits from agriculture, seafood production, energy-related industries, healthcare services, tourism, and local business activity. Its coastal resources and diversified economy support long-term economic growth.",
+      "population": "57994"
+    },
+    "Vernon Parish": {
+      "description": "Vernon Parish serves as an important economic center in western Louisiana, supported by military-related employment, healthcare, education, manufacturing, retail development, and professional services. Its diverse economy contributes significantly to regional workforce growth.",
+      "population": "48350"
+    },
+    "Washington Parish": {
+      "description": "Washington Parish combines agriculture, forestry, healthcare services, manufacturing, tourism, and local commerce within southeast Louisiana. Natural resource industries and community-focused businesses continue to support economic stability.",
+      "population": "45812"
+    },
+    "Webster Parish": {
+      "description": "Webster Parish supports a diversified economy based on manufacturing, healthcare services, education, agriculture, retail activity, and local commerce. Industrial employers and business investment contribute significantly to regional economic activity.",
+      "population": "36790"
+    },
+    "West Baton Rouge Parish": {
+      "description": "West Baton Rouge Parish is a growing economic center within the Baton Rouge metropolitan region, supported by petrochemical manufacturing, logistics, healthcare services, transportation, retail development, and professional industries. Its strategic location along the Mississippi River contributes significantly to regional business activity.",
+      "population": "27992"
+    },
+    "West Carroll Parish": {
+      "description": "West Carroll Parish maintains a rural economy centered on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations continue to serve as the foundation of economic activity throughout the parish.",
+      "population": "10311"
+    },
+    "West Feliciana Parish": {
+      "description": "West Feliciana Parish benefits from healthcare, education, tourism, agriculture, professional services, and local business development. Its historic communities and growing residential appeal contribute to long-term economic growth and investment.",
+      "population": "15829"
+    },
+    "Winn Parish": {
+      "description": "Winn Parish supports a diversified economy based on forestry, healthcare services, agriculture, manufacturing, education, and local commerce. Natural resource industries and community-focused businesses continue to play important roles in economic activity throughout the parish.",
+      "population": "13773"
+    }
+  }
 }

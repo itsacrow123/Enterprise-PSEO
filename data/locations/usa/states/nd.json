@@ -1,261 +1,223 @@
 {
-"Adams County": {
-  "description": "Adams County supports a rural economy driven by agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
-  "population": "2179"
-},
-
-"Barnes County": {
-  "description": "Barnes County serves as an important regional center in southeastern North Dakota, supported by healthcare, higher education, agriculture, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "10739"
-},
-
-"Benson County": {
-  "description": "Benson County benefits from agriculture, healthcare services, education, transportation, energy-related industries, and local business activity. Farming operations remain a key contributor to economic stability and growth throughout the county.",
-  "population": "6691"
-},
-
-"Billings County": {
-  "description": "Billings County supports an economy based on energy production, tourism, ranching, healthcare services, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "1046"
-},
-
-"Bottineau County": {
-  "description": "Bottineau County combines agriculture, tourism, healthcare services, education, outdoor recreation, and local commerce. Farming operations and visitor spending contribute substantially to regional economic growth.",
-  "population": "6379"
-},
-
-"Bowman County": {
-  "description": "Bowman County supports a diversified economy driven by agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Natural resources and farming remain important contributors to economic activity.",
-  "population": "3005"
-},
-
-"Burke County": {
-  "description": "Burke County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Its resource-based economy supports stable employment opportunities and continued development.",
-  "population": "2196"
-},
-
-"Burleigh County": {
-  "description": "Burleigh County is one of North Dakota's largest economic centers and home to Bismarck. Government services, healthcare, finance, education, technology, professional services, and retail development drive a highly diversified economy and strong workforce growth.",
-  "population": "102078"
-},
-
-"Cass County": {
-  "description": "Cass County is North Dakota's largest economic center, anchored by healthcare, technology, higher education, finance, manufacturing, logistics, professional services, and retail development. Its innovation-focused economy contributes substantially to statewide employment and business investment.",
-  "population": "203751"
-},
-
-"Cavalier County": {
-  "description": "Cavalier County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, energy-related industries, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "3762"
-},
-"Dickey County": {
-  "description": "Dickey County supports a diversified economy based on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "4859"
-},
-
-"Divide County": {
-  "description": "Divide County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and local business development. Natural resource industries contribute significantly to regional economic growth.",
-  "population": "2195"
-},
-
-"Dunn County": {
-  "description": "Dunn County is a major energy-producing county in western North Dakota, supported by oil and gas development, agriculture, transportation, healthcare services, construction, and professional industries. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "4596"
-},
-
-"Eddy County": {
-  "description": "Eddy County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain key contributors to economic stability throughout the county.",
-  "population": "2273"
-},
-
-"Emmons County": {
-  "description": "Emmons County supports an economy driven by agriculture, ranching, healthcare services, tourism, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "3250"
-},
-
-"Foster County": {
-  "description": "Foster County combines agriculture, healthcare services, transportation, agribusiness, manufacturing, and local business activity. Its diversified economy supports stable employment opportunities and continued community development.",
-  "population": "3217"
-},
-
-"Golden Valley County": {
-  "description": "Golden Valley County supports a rural economy based on agriculture, energy-related industries, ranching, healthcare services, transportation, and local commerce. Natural resources and farming operations remain important contributors to economic growth.",
-  "population": "1821"
-},
-
-"Grand Forks County": {
-  "description": "Grand Forks County is one of North Dakota's leading economic and educational centers, driven by higher education, healthcare, aerospace, technology, finance, logistics, and professional services. Its innovation-focused economy supports substantial business investment and workforce development.",
-  "population": "75323"
-},
-
-"Grant County": {
-  "description": "Grant County benefits from agriculture, ranching, energy production, healthcare services, transportation, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
-  "population": "2218"
-},
-
-"Griggs County": {
-  "description": "Griggs County maintains a strong agricultural economy complemented by healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "2184"
-},
-"Hettinger County": {
-  "description": "Hettinger County supports a diversified economy based on agriculture, ranching, healthcare services, energy-related industries, transportation, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
-  "population": "2471"
-},
-
-"Kidder County": {
-  "description": "Kidder County benefits from agriculture, renewable energy development, healthcare services, transportation, agribusiness, and local business activity. Farming operations remain a primary contributor to economic stability and growth.",
-  "population": "2238"
-},
-
-"LaMoure County": {
-  "description": "LaMoure County maintains a strong agricultural economy complemented by healthcare services, transportation, agribusiness, manufacturing, and local commerce. Farming operations continue to drive economic activity throughout the county.",
-  "population": "4046"
-},
-
-"Logan County": {
-  "description": "Logan County supports a rural economy centered on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the foundation of economic activity throughout the county.",
-  "population": "1876"
-},
-
-"McHenry County": {
-  "description": "McHenry County combines agriculture, healthcare services, transportation, energy-related industries, agribusiness, and local business development. Its diversified economy supports stable workforce opportunities and continued growth.",
-  "population": "6070"
-},
-
-"McIntosh County": {
-  "description": "McIntosh County supports an economy driven by agriculture, ranching, healthcare services, transportation, tourism, and local commerce. Farming operations contribute significantly to economic activity throughout the county.",
-  "population": "2528"
-},
-
-"McKenzie County": {
-  "description": "McKenzie County is one of North Dakota's most important energy-producing regions, anchored by oil and gas development, transportation, construction, healthcare services, retail activity, and professional industries. Its resource-driven economy contributes substantially to statewide economic growth and investment.",
-  "population": "14574"
-},
-
-"McLean County": {
-  "description": "McLean County benefits from agriculture, energy production, healthcare services, transportation, tourism, and local commerce. Natural resources and farming operations remain important contributors to economic development throughout the county.",
-  "population": "9456"
-},
-
-"Mercer County": {
-  "description": "Mercer County serves as a major energy center in North Dakota, supported by coal mining, power generation, healthcare services, transportation, construction, and professional services. Energy-related industries drive significant economic activity and workforce development.",
-  "population": "8268"
-},
-
-"Morton County": {
-  "description": "Morton County is one of North Dakota's fastest-growing counties, supported by healthcare, energy-related industries, logistics, retail development, professional services, and residential expansion. Its proximity to Bismarck contributes substantially to economic growth and business investment.",
-  "population": "34108"
-},
-"Mountrail County": {
-  "description": "Mountrail County is one of North Dakota's leading energy-producing regions, supported by oil and gas development, transportation, healthcare services, construction, retail activity, and professional industries. Its resource-driven economy contributes substantially to regional employment and investment.",
-  "population": "9928"
-},
-
-"Nelson County": {
-  "description": "Nelson County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, tourism, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
-  "population": "2875"
-},
-
-"Oliver County": {
-  "description": "Oliver County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Natural resources and farming operations contribute significantly to economic growth.",
-  "population": "1884"
-},
-
-"Pembina County": {
-  "description": "Pembina County serves as an important transportation and trade center along the Canadian border, supported by agriculture, logistics, healthcare services, manufacturing, and professional services. Cross-border commerce contributes significantly to regional economic activity.",
-  "population": "6694"
-},
-
-"Pierce County": {
-  "description": "Pierce County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain central to economic stability throughout the county.",
-  "population": "3925"
-},
-
-"Ramsey County": {
-  "description": "Ramsey County is a regional economic center in northeastern North Dakota, driven by healthcare, education, manufacturing, agriculture, retail activity, and professional services. Its diversified economy supports stable employment opportunities and business growth.",
-  "population": "11605"
-},
-
-"Ransom County": {
-  "description": "Ransom County supports an economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "5374"
-},
-
-"Renville County": {
-  "description": "Renville County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Its diversified economy supports workforce opportunities and continued development.",
-  "population": "2265"
-},
-
-"Richland County": {
-  "description": "Richland County serves as an important economic center in southeastern North Dakota, supported by agriculture, healthcare services, manufacturing, education, logistics, and professional services. Its diversified economy contributes substantially to regional growth and employment.",
-  "population": "16193"
-},
-
-"Rolette County": {
-  "description": "Rolette County supports a diversified economy driven by healthcare services, education, agriculture, transportation, government employment, and local commerce. Community institutions contribute significantly to economic activity throughout the county.",
-  "population": "12710"
-},
-"Sargent County": {
-  "description": "Sargent County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, manufacturing, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "3669"
-},
-
-"Sheridan County": {
-  "description": "Sheridan County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations continue to support economic stability and workforce opportunities.",
-  "population": "1249"
-},
-
-"Sioux County": {
-  "description": "Sioux County benefits from agriculture, ranching, healthcare services, education, transportation, government employment, and local business activity. Community institutions contribute significantly to economic development throughout the county.",
-  "population": "3898"
-},
-
-"Slope County": {
-  "description": "Slope County supports an economy driven by agriculture, energy-related industries, ranching, healthcare services, transportation, and local commerce. Natural resources and farming operations remain key contributors to economic activity.",
-  "population": "706"
-},
-
-"Stark County": {
-  "description": "Stark County is one of western North Dakota's strongest economic centers, supported by energy production, healthcare, logistics, manufacturing, retail development, construction, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "33935"
-},
-
-"Steele County": {
-  "description": "Steele County maintains a strong agricultural economy complemented by healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "1888"
-},
-
-"Stutsman County": {
-  "description": "Stutsman County serves as a major economic center in central North Dakota, driven by healthcare, education, manufacturing, agriculture, logistics, retail activity, and professional services. Its diversified economy supports substantial regional employment and business growth.",
-  "population": "21593"
-},
-
-"Towner County": {
-  "description": "Towner County supports a rural economy based on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations contribute significantly to economic activity throughout the county.",
-  "population": "2196"
-},
-
-"Traill County": {
-  "description": "Traill County benefits from agriculture, higher education, healthcare services, transportation, manufacturing, and local business development. Its diversified economy supports stable employment opportunities and continued growth.",
-  "population": "7981"
-},
-
-"Walsh County": {
-  "description": "Walsh County serves as an important agricultural and healthcare center in northeastern North Dakota, supported by education, manufacturing, retail activity, transportation, and professional services. Its diversified economy contributes significantly to regional development.",
-  "population": "10610"
-},
-"Ward County": {
-  "description": "Ward County is one of North Dakota's largest economic centers and home to Minot. Healthcare, education, logistics, energy-related industries, retail development, professional services, and manufacturing drive a highly diversified economy that supports substantial regional employment and business investment.",
-  "population": "70006"
-},
-
-"Wells County": {
-  "description": "Wells County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "3982"
-},
-
-"Williams County": {
-  "description": "Williams County is one of North Dakota's most important energy-producing regions, anchored by oil and gas development, logistics, healthcare services, construction, retail activity, professional industries, and transportation. Its resource-driven economy contributes substantially to statewide economic growth and workforce development.",
-  "population": "40321"
-}
+  "identity": {
+    "code": "nd",
+    "slug": "north-dakota",
+    "name": "North Dakota",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County supports a rural economy driven by agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
+      "population": "2179"
+    },
+    "Barnes County": {
+      "description": "Barnes County serves as an important regional center in southeastern North Dakota, supported by healthcare, higher education, agriculture, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "10739"
+    },
+    "Benson County": {
+      "description": "Benson County benefits from agriculture, healthcare services, education, transportation, energy-related industries, and local business activity. Farming operations remain a key contributor to economic stability and growth throughout the county.",
+      "population": "6691"
+    },
+    "Billings County": {
+      "description": "Billings County supports an economy based on energy production, tourism, ranching, healthcare services, transportation, and local commerce. Natural resources and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "1046"
+    },
+    "Bottineau County": {
+      "description": "Bottineau County combines agriculture, tourism, healthcare services, education, outdoor recreation, and local commerce. Farming operations and visitor spending contribute substantially to regional economic growth.",
+      "population": "6379"
+    },
+    "Bowman County": {
+      "description": "Bowman County supports a diversified economy driven by agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Natural resources and farming remain important contributors to economic activity.",
+      "population": "3005"
+    },
+    "Burke County": {
+      "description": "Burke County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Its resource-based economy supports stable employment opportunities and continued development.",
+      "population": "2196"
+    },
+    "Burleigh County": {
+      "description": "Burleigh County is one of North Dakota's largest economic centers and home to Bismarck. Government services, healthcare, finance, education, technology, professional services, and retail development drive a highly diversified economy and strong workforce growth.",
+      "population": "102078"
+    },
+    "Cass County": {
+      "description": "Cass County is North Dakota's largest economic center, anchored by healthcare, technology, higher education, finance, manufacturing, logistics, professional services, and retail development. Its innovation-focused economy contributes substantially to statewide employment and business investment.",
+      "population": "203751"
+    },
+    "Cavalier County": {
+      "description": "Cavalier County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, energy-related industries, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "3762"
+    },
+    "Dickey County": {
+      "description": "Dickey County supports a diversified economy based on agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "4859"
+    },
+    "Divide County": {
+      "description": "Divide County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and local business development. Natural resource industries contribute significantly to regional economic growth.",
+      "population": "2195"
+    },
+    "Dunn County": {
+      "description": "Dunn County is a major energy-producing county in western North Dakota, supported by oil and gas development, agriculture, transportation, healthcare services, construction, and professional industries. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "4596"
+    },
+    "Eddy County": {
+      "description": "Eddy County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain key contributors to economic stability throughout the county.",
+      "population": "2273"
+    },
+    "Emmons County": {
+      "description": "Emmons County supports an economy driven by agriculture, ranching, healthcare services, tourism, transportation, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "3250"
+    },
+    "Foster County": {
+      "description": "Foster County combines agriculture, healthcare services, transportation, agribusiness, manufacturing, and local business activity. Its diversified economy supports stable employment opportunities and continued community development.",
+      "population": "3217"
+    },
+    "Golden Valley County": {
+      "description": "Golden Valley County supports a rural economy based on agriculture, energy-related industries, ranching, healthcare services, transportation, and local commerce. Natural resources and farming operations remain important contributors to economic growth.",
+      "population": "1821"
+    },
+    "Grand Forks County": {
+      "description": "Grand Forks County is one of North Dakota's leading economic and educational centers, driven by higher education, healthcare, aerospace, technology, finance, logistics, and professional services. Its innovation-focused economy supports substantial business investment and workforce development.",
+      "population": "75323"
+    },
+    "Grant County": {
+      "description": "Grant County benefits from agriculture, ranching, energy production, healthcare services, transportation, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
+      "population": "2218"
+    },
+    "Griggs County": {
+      "description": "Griggs County maintains a strong agricultural economy complemented by healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "2184"
+    },
+    "Hettinger County": {
+      "description": "Hettinger County supports a diversified economy based on agriculture, ranching, healthcare services, energy-related industries, transportation, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
+      "population": "2471"
+    },
+    "Kidder County": {
+      "description": "Kidder County benefits from agriculture, renewable energy development, healthcare services, transportation, agribusiness, and local business activity. Farming operations remain a primary contributor to economic stability and growth.",
+      "population": "2238"
+    },
+    "LaMoure County": {
+      "description": "LaMoure County maintains a strong agricultural economy complemented by healthcare services, transportation, agribusiness, manufacturing, and local commerce. Farming operations continue to drive economic activity throughout the county.",
+      "population": "4046"
+    },
+    "Logan County": {
+      "description": "Logan County supports a rural economy centered on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming remains the foundation of economic activity throughout the county.",
+      "population": "1876"
+    },
+    "McHenry County": {
+      "description": "McHenry County combines agriculture, healthcare services, transportation, energy-related industries, agribusiness, and local business development. Its diversified economy supports stable workforce opportunities and continued growth.",
+      "population": "6070"
+    },
+    "McIntosh County": {
+      "description": "McIntosh County supports an economy driven by agriculture, ranching, healthcare services, transportation, tourism, and local commerce. Farming operations contribute significantly to economic activity throughout the county.",
+      "population": "2528"
+    },
+    "McKenzie County": {
+      "description": "McKenzie County is one of North Dakota's most important energy-producing regions, anchored by oil and gas development, transportation, construction, healthcare services, retail activity, and professional industries. Its resource-driven economy contributes substantially to statewide economic growth and investment.",
+      "population": "14574"
+    },
+    "McLean County": {
+      "description": "McLean County benefits from agriculture, energy production, healthcare services, transportation, tourism, and local commerce. Natural resources and farming operations remain important contributors to economic development throughout the county.",
+      "population": "9456"
+    },
+    "Mercer County": {
+      "description": "Mercer County serves as a major energy center in North Dakota, supported by coal mining, power generation, healthcare services, transportation, construction, and professional services. Energy-related industries drive significant economic activity and workforce development.",
+      "population": "8268"
+    },
+    "Morton County": {
+      "description": "Morton County is one of North Dakota's fastest-growing counties, supported by healthcare, energy-related industries, logistics, retail development, professional services, and residential expansion. Its proximity to Bismarck contributes substantially to economic growth and business investment.",
+      "population": "34108"
+    },
+    "Mountrail County": {
+      "description": "Mountrail County is one of North Dakota's leading energy-producing regions, supported by oil and gas development, transportation, healthcare services, construction, retail activity, and professional industries. Its resource-driven economy contributes substantially to regional employment and investment.",
+      "population": "9928"
+    },
+    "Nelson County": {
+      "description": "Nelson County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, tourism, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
+      "population": "2875"
+    },
+    "Oliver County": {
+      "description": "Oliver County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local business development. Natural resources and farming operations contribute significantly to economic growth.",
+      "population": "1884"
+    },
+    "Pembina County": {
+      "description": "Pembina County serves as an important transportation and trade center along the Canadian border, supported by agriculture, logistics, healthcare services, manufacturing, and professional services. Cross-border commerce contributes significantly to regional economic activity.",
+      "population": "6694"
+    },
+    "Pierce County": {
+      "description": "Pierce County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain central to economic stability throughout the county.",
+      "population": "3925"
+    },
+    "Ramsey County": {
+      "description": "Ramsey County is a regional economic center in northeastern North Dakota, driven by healthcare, education, manufacturing, agriculture, retail activity, and professional services. Its diversified economy supports stable employment opportunities and business growth.",
+      "population": "11605"
+    },
+    "Ransom County": {
+      "description": "Ransom County supports an economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "5374"
+    },
+    "Renville County": {
+      "description": "Renville County benefits from agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Its diversified economy supports workforce opportunities and continued development.",
+      "population": "2265"
+    },
+    "Richland County": {
+      "description": "Richland County serves as an important economic center in southeastern North Dakota, supported by agriculture, healthcare services, manufacturing, education, logistics, and professional services. Its diversified economy contributes substantially to regional growth and employment.",
+      "population": "16193"
+    },
+    "Rolette County": {
+      "description": "Rolette County supports a diversified economy driven by healthcare services, education, agriculture, transportation, government employment, and local commerce. Community institutions contribute significantly to economic activity throughout the county.",
+      "population": "12710"
+    },
+    "Sargent County": {
+      "description": "Sargent County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, manufacturing, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "3669"
+    },
+    "Sheridan County": {
+      "description": "Sheridan County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations continue to support economic stability and workforce opportunities.",
+      "population": "1249"
+    },
+    "Sioux County": {
+      "description": "Sioux County benefits from agriculture, ranching, healthcare services, education, transportation, government employment, and local business activity. Community institutions contribute significantly to economic development throughout the county.",
+      "population": "3898"
+    },
+    "Slope County": {
+      "description": "Slope County supports an economy driven by agriculture, energy-related industries, ranching, healthcare services, transportation, and local commerce. Natural resources and farming operations remain key contributors to economic activity.",
+      "population": "706"
+    },
+    "Stark County": {
+      "description": "Stark County is one of western North Dakota's strongest economic centers, supported by energy production, healthcare, logistics, manufacturing, retail development, construction, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "33935"
+    },
+    "Steele County": {
+      "description": "Steele County maintains a strong agricultural economy complemented by healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "1888"
+    },
+    "Stutsman County": {
+      "description": "Stutsman County serves as a major economic center in central North Dakota, driven by healthcare, education, manufacturing, agriculture, logistics, retail activity, and professional services. Its diversified economy supports substantial regional employment and business growth.",
+      "population": "21593"
+    },
+    "Towner County": {
+      "description": "Towner County supports a rural economy based on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations contribute significantly to economic activity throughout the county.",
+      "population": "2196"
+    },
+    "Traill County": {
+      "description": "Traill County benefits from agriculture, higher education, healthcare services, transportation, manufacturing, and local business development. Its diversified economy supports stable employment opportunities and continued growth.",
+      "population": "7981"
+    },
+    "Walsh County": {
+      "description": "Walsh County serves as an important agricultural and healthcare center in northeastern North Dakota, supported by education, manufacturing, retail activity, transportation, and professional services. Its diversified economy contributes significantly to regional development.",
+      "population": "10610"
+    },
+    "Ward County": {
+      "description": "Ward County is one of North Dakota's largest economic centers and home to Minot. Healthcare, education, logistics, energy-related industries, retail development, professional services, and manufacturing drive a highly diversified economy that supports substantial regional employment and business investment.",
+      "population": "70006"
+    },
+    "Wells County": {
+      "description": "Wells County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "3982"
+    },
+    "Williams County": {
+      "description": "Williams County is one of North Dakota's most important energy-producing regions, anchored by oil and gas development, logistics, healthcare services, construction, retail activity, professional industries, and transportation. Its resource-driven economy contributes substantially to statewide economic growth and workforce development.",
+      "population": "40321"
+    }
+  }
 }

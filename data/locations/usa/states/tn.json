@@ -1,516 +1,391 @@
 {
-"Anderson County": {
-  "description": "Anderson County supports a diversified economy based on energy-related industries, healthcare services, manufacturing, professional services, education, and retail development. Its strategic location contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "79009"
-},
-
-"Bedford County": {
-  "description": "Bedford County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and local business development. Its diversified economy contributes substantially to employment opportunities and continued economic expansion.",
-  "population": "52031"
-},
-
-"Benton County": {
-  "description": "Benton County supports an economy driven by tourism, agriculture, healthcare services, transportation, retail activity, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "16344"
-},
-
-"Bledsoe County": {
-  "description": "Bledsoe County maintains a diversified economy centered on healthcare services, agriculture, manufacturing, transportation, government-related employment, and local commerce. Regional employers contribute significantly to economic development throughout the county.",
-  "population": "15064"
-},
-
-"Blount County": {
-  "description": "Blount County is one of eastern Tennessee's strongest economic centers, supported by manufacturing, tourism, healthcare services, professional services, retail development, and logistics. Its proximity to the Great Smoky Mountains contributes substantially to workforce growth and business investment.",
-  "population": "140557"
-},
-
-"Bradley County": {
-  "description": "Bradley County serves as a major economic center in southeastern Tennessee, driven by manufacturing, healthcare services, logistics, professional services, retail development, and transportation. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "112761"
-},
-
-"Campbell County": {
-  "description": "Campbell County supports a diversified economy based on healthcare services, tourism, transportation, retail activity, manufacturing, and local commerce. Its natural resources and business community contribute significantly to economic activity throughout the county.",
-  "population": "39898"
-},
-
-"Cannon County": {
-  "description": "Cannon County benefits from agriculture, healthcare services, manufacturing, transportation, professional services, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "15179"
-},
-
-"Carroll County": {
-  "description": "Carroll County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Its diversified business base contributes substantially to workforce opportunities and economic development.",
-  "population": "28503"
-},
-
-"Carter County": {
-  "description": "Carter County combines healthcare services, tourism, manufacturing, transportation, retail activity, and professional industries. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "57479"
-},
-"Cheatham County": {
-  "description": "Cheatham County supports a diversified economy based on healthcare services, manufacturing, logistics, professional services, retail development, and residential growth. Its proximity to Nashville contributes significantly to workforce opportunities and business investment.",
-  "population": "43035"
-},
-
-"Chester County": {
-  "description": "Chester County benefits from agriculture, healthcare services, manufacturing, transportation, retail activity, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "17908"
-},
-
-"Claiborne County": {
-  "description": "Claiborne County supports an economy driven by healthcare services, education, manufacturing, tourism, transportation, and local commerce. Educational institutions and regional employers contribute substantially to workforce opportunities and economic activity.",
-  "population": "32178"
-},
-
-"Clay County": {
-  "description": "Clay County maintains a diversified economy centered on agriculture, healthcare services, tourism, transportation, retail activity, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "7602"
-},
-
-"Cocke County": {
-  "description": "Cocke County benefits from tourism, healthcare services, manufacturing, transportation, retail activity, and professional services. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "36650"
-},
-
-"Coffee County": {
-  "description": "Coffee County is an important economic center in middle Tennessee, supported by manufacturing, healthcare services, logistics, transportation, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "58965"
-},
-
-"Crockett County": {
-  "description": "Crockett County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "14077"
-},
-
-"Cumberland County": {
-  "description": "Cumberland County is one of Tennessee's growing economic centers, driven by healthcare services, tourism, retail development, professional services, construction, and residential growth. Its diversified economy contributes significantly to workforce opportunities and business investment.",
-  "population": "65541"
-},
-
-"Davidson County": {
-  "description": "Davidson County is one of Tennessee's largest economic centers and home to Nashville. Healthcare, music and entertainment, finance, technology, logistics, higher education, professional services, tourism, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "715884"
-},
-
-"Decatur County": {
-  "description": "Decatur County supports an economy driven by tourism, agriculture, healthcare services, transportation, manufacturing, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "11826"
-},
-"DeKalb County": {
-  "description": "DeKalb County supports a diversified economy based on tourism, healthcare services, manufacturing, agriculture, transportation, and local commerce. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "20882"
-},
-
-"Dickson County": {
-  "description": "Dickson County is a growing economic center in middle Tennessee, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its proximity to Nashville contributes substantially to workforce growth and business investment.",
-  "population": "57549"
-},
-
-"Dyer County": {
-  "description": "Dyer County benefits from agriculture, manufacturing, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes significantly to regional employment and economic development.",
-  "population": "36326"
-},
-
-"Fayette County": {
-  "description": "Fayette County supports an economy driven by agriculture, healthcare services, logistics, manufacturing, residential development, and local commerce. Its location near the Memphis metropolitan area contributes significantly to business growth and workforce opportunities.",
-  "population": "42852"
-},
-
-"Fentress County": {
-  "description": "Fentress County maintains a diversified economy centered on tourism, healthcare services, agriculture, transportation, retail activity, and local business development. Visitor spending and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "19479"
-},
-
-"Franklin County": {
-  "description": "Franklin County serves as an important economic center in southern Tennessee, supported by manufacturing, healthcare services, logistics, tourism, retail development, and professional services. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "43850"
-},
-
-"Gibson County": {
-  "description": "Gibson County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "50384"
-},
-
-"Giles County": {
-  "description": "Giles County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes substantially to employment opportunities and regional economic growth.",
-  "population": "30346"
-},
-
-"Grainger County": {
-  "description": "Grainger County supports an economy driven by agriculture, healthcare services, tourism, transportation, retail activity, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "23527"
-},
-
-"Greene County": {
-  "description": "Greene County is one of eastern Tennessee's strongest economic centers, anchored by manufacturing, healthcare services, agriculture, logistics, retail development, and professional services. Its diversified economy contributes substantially to workforce opportunities and business growth.",
-  "population": "72141"
-},
-"Grundy County": {
-  "description": "Grundy County supports a diversified economy based on tourism, healthcare services, manufacturing, transportation, outdoor recreation, and local commerce. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "13990"
-},
-
-"Hamblen County": {
-  "description": "Hamblen County is an important economic center in eastern Tennessee, supported by manufacturing, healthcare services, logistics, retail development, professional services, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "65598"
-},
-
-"Hamilton County": {
-  "description": "Hamilton County is one of Tennessee's largest economic centers and home to Chattanooga. Healthcare, manufacturing, logistics, technology, finance, professional services, tourism, and corporate headquarters drive a highly diversified economy supporting substantial employment and business growth.",
-  "population": "379865"
-},
-
-"Hancock County": {
-  "description": "Hancock County maintains a rural economy centered on healthcare services, agriculture, transportation, forestry, tourism, and local commerce. Regional employers and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "6686"
-},
-
-"Hardeman County": {
-  "description": "Hardeman County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local business development. Farming operations and industrial employers contribute significantly to economic growth throughout the county.",
-  "population": "25139"
-},
-
-"Hardin County": {
-  "description": "Hardin County benefits from tourism, healthcare services, manufacturing, transportation, agriculture, and retail activity. Visitor spending and diversified industries contribute substantially to workforce opportunities and economic development.",
-  "population": "27574"
-},
-
-"Hawkins County": {
-  "description": "Hawkins County serves as an important economic center in northeastern Tennessee, supported by manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "56908"
-},
-
-"Haywood County": {
-  "description": "Haywood County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "17321"
-},
-
-"Henderson County": {
-  "description": "Henderson County benefits from agriculture, healthcare services, manufacturing, transportation, retail activity, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
-  "population": "28752"
-},
-
-"Henry County": {
-  "description": "Henry County supports an economy driven by tourism, agriculture, healthcare services, manufacturing, transportation, and local business development. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "33084"
-},
-"Grundy County": {
-  "description": "Grundy County supports a diversified economy based on tourism, healthcare services, manufacturing, transportation, outdoor recreation, and local commerce. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "13990"
-},
-
-"Hamblen County": {
-  "description": "Hamblen County is an important economic center in eastern Tennessee, supported by manufacturing, healthcare services, logistics, retail development, professional services, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "65598"
-},
-
-"Hamilton County": {
-  "description": "Hamilton County is one of Tennessee's largest economic centers and home to Chattanooga. Healthcare, manufacturing, logistics, technology, finance, professional services, tourism, and corporate headquarters drive a highly diversified economy supporting substantial employment and business growth.",
-  "population": "379865"
-},
-
-"Hancock County": {
-  "description": "Hancock County maintains a rural economy centered on healthcare services, agriculture, transportation, forestry, tourism, and local commerce. Regional employers and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "6686"
-},
-
-"Hardeman County": {
-  "description": "Hardeman County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local business development. Farming operations and industrial employers contribute significantly to economic growth throughout the county.",
-  "population": "25139"
-},
-
-"Hardin County": {
-  "description": "Hardin County benefits from tourism, healthcare services, manufacturing, transportation, agriculture, and retail activity. Visitor spending and diversified industries contribute substantially to workforce opportunities and economic development.",
-  "population": "27574"
-},
-
-"Hawkins County": {
-  "description": "Hawkins County serves as an important economic center in northeastern Tennessee, supported by manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "56908"
-},
-
-"Haywood County": {
-  "description": "Haywood County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "17321"
-},
-
-"Henderson County": {
-  "description": "Henderson County benefits from agriculture, healthcare services, manufacturing, transportation, retail activity, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
-  "population": "28752"
-},
-
-"Henry County": {
-  "description": "Henry County supports an economy driven by tourism, agriculture, healthcare services, manufacturing, transportation, and local business development. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "33084"
-},
-"Hickman County": {
-  "description": "Hickman County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "25777"
-},
-
-"Houston County": {
-  "description": "Houston County maintains a rural economy centered on agriculture, healthcare services, tourism, transportation, retail activity, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "8307"
-},
-
-"Humphreys County": {
-  "description": "Humphreys County benefits from manufacturing, healthcare services, transportation, agriculture, logistics, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic development.",
-  "population": "18607"
-},
-
-"Jackson County": {
-  "description": "Jackson County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "11786"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is a growing economic center in eastern Tennessee, supported by manufacturing, healthcare services, logistics, retail development, professional services, and residential growth. Its strategic location contributes substantially to business investment and workforce expansion.",
-  "population": "57617"
-},
-
-"Johnson County": {
-  "description": "Johnson County benefits from tourism, healthcare services, agriculture, transportation, retail activity, and local business development. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "18312"
-},
-
-"Knox County": {
-  "description": "Knox County is one of Tennessee's largest economic centers and home to Knoxville. Healthcare, higher education, technology, manufacturing, professional services, logistics, retail development, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "500669"
-},
-
-"Lake County": {
-  "description": "Lake County supports a diversified economy based on agriculture, healthcare services, transportation, government-related employment, retail activity, and local commerce. Regional institutions contribute significantly to workforce opportunities and economic activity throughout the county.",
-  "population": "6756"
-},
-
-"Lauderdale County": {
-  "description": "Lauderdale County combines agriculture, manufacturing, healthcare services, transportation, logistics, and local business activity. Farming operations and industrial employers contribute substantially to economic development throughout the county.",
-  "population": "25827"
-},
-
-"Lawrence County": {
-  "description": "Lawrence County serves as an important economic center in southern Tennessee, supported by manufacturing, healthcare services, agriculture, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "46286"
-},
-"Lewis County": {
-  "description": "Lewis County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "12907"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
-  "population": "36496"
-},
-
-"Loudon County": {
-  "description": "Loudon County is a growing economic center in eastern Tennessee, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its proximity to Knoxville contributes significantly to business investment and workforce growth.",
-  "population": "57542"
-},
-
-"Macon County": {
-  "description": "Macon County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, retail activity, and local business development. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "27035"
-},
-
-"Madison County": {
-  "description": "Madison County is one of western Tennessee's largest economic centers and home to Jackson. Healthcare, manufacturing, logistics, higher education, professional services, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "98979"
-},
-
-"Marion County": {
-  "description": "Marion County benefits from manufacturing, healthcare services, tourism, transportation, energy-related industries, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic development.",
-  "population": "29462"
-},
-
-"Marshall County": {
-  "description": "Marshall County supports a diversified economy based on manufacturing, agriculture, healthcare services, logistics, transportation, and local commerce. Industrial employers and farming operations contribute significantly to economic growth throughout the county.",
-  "population": "36952"
-},
-
-"Maury County": {
-  "description": "Maury County is one of Tennessee's fastest-growing economic centers, driven by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its location within the greater Nashville region supports substantial business investment and workforce growth.",
-  "population": "108442"
-},
-
-"McMinn County": {
-  "description": "McMinn County serves as an important economic center in southeastern Tennessee, supported by manufacturing, healthcare services, logistics, retail development, professional services, and transportation. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "54865"
-},
-
-"McNairy County": {
-  "description": "McNairy County combines agriculture, manufacturing, healthcare services, transportation, forestry, and local business activity. Farming operations and industrial employers contribute substantially to economic development throughout the county.",
-  "population": "26042"
-},
-"Meigs County": {
-  "description": "Meigs County supports a diversified economy based on manufacturing, healthcare services, agriculture, transportation, tourism, and local commerce. Regional employers and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "12826"
-},
-
-"Monroe County": {
-  "description": "Monroe County benefits from tourism, manufacturing, healthcare services, transportation, retail activity, and professional services. Visitor spending and diversified industries contribute substantially to workforce opportunities and economic growth.",
-  "population": "47215"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County is one of Tennessee's fastest-growing economic centers and home to Clarksville. Military-related industries, healthcare, manufacturing, logistics, professional services, retail development, and residential expansion drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "242253"
-},
-
-"Moore County": {
-  "description": "Moore County supports an economy driven by manufacturing, tourism, healthcare services, transportation, retail activity, and local business development. Visitor spending and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "6665"
-},
-
-"Morgan County": {
-  "description": "Morgan County combines healthcare services, manufacturing, tourism, transportation, forestry, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
-  "population": "21817"
-},
-
-"Obion County": {
-  "description": "Obion County serves as an important economic center in northwestern Tennessee, supported by agriculture, manufacturing, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "30084"
-},
-
-"Overton County": {
-  "description": "Overton County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "22615"
-},
-
-"Perry County": {
-  "description": "Perry County benefits from forestry, agriculture, healthcare services, transportation, tourism, and local business development. Natural resources and regional employers contribute substantially to economic growth throughout the county.",
-  "population": "8315"
-},
-
-"Pickett County": {
-  "description": "Pickett County maintains a rural economy centered on tourism, agriculture, healthcare services, transportation, retail activity, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "4940"
-},
-
-"Polk County": {
-  "description": "Polk County supports an economy driven by manufacturing, tourism, healthcare services, transportation, forestry, and professional services. Its natural resources and business community contribute significantly to workforce opportunities and economic development.",
-  "population": "17410"
-},
-"Putnam County": {
-  "description": "Putnam County is a major economic center in Upper Cumberland Tennessee, supported by healthcare, higher education, manufacturing, logistics, professional services, retail development, and technology-related industries. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "81646"
-},
-
-"Rhea County": {
-  "description": "Rhea County benefits from manufacturing, healthcare services, transportation, tourism, retail activity, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "33686"
-},
-
-"Roane County": {
-  "description": "Roane County serves as an important economic center in eastern Tennessee, supported by energy-related industries, healthcare services, manufacturing, logistics, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "54150"
-},
-
-"Robertson County": {
-  "description": "Robertson County is one of the fastest-growing counties in the Nashville region, driven by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its strategic location supports substantial workforce growth and economic development.",
-  "population": "74317"
-},
-
-"Rutherford County": {
-  "description": "Rutherford County is one of Tennessee's largest and fastest-growing economic centers, anchored by healthcare, higher education, manufacturing, logistics, technology, professional services, retail development, and residential growth. Its location within the Nashville metropolitan area drives substantial business investment and workforce expansion.",
-  "population": "366091"
-},
-
-"Scott County": {
-  "description": "Scott County supports a diversified economy based on healthcare services, tourism, manufacturing, transportation, forestry, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "21978"
-},
-
-"Sequatchie County": {
-  "description": "Sequatchie County benefits from manufacturing, healthcare services, agriculture, transportation, tourism, and local business development. Its growing economy contributes significantly to workforce opportunities and regional growth.",
-  "population": "16501"
-},
-
-"Sevier County": {
-  "description": "Sevier County is one of Tennessee's most tourism-driven economic centers, supported by hospitality, healthcare services, retail development, entertainment, professional services, and real estate activity. Visitor spending contributes substantially to employment, business investment, and regional economic growth.",
-  "population": "103198"
-},
-
-"Shelby County": {
-  "description": "Shelby County is one of Tennessee's largest economic centers and home to Memphis. Logistics, healthcare, transportation, manufacturing, finance, professional services, technology, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "910530"
-},
-
-"Smith County": {
-  "description": "Smith County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, retail activity, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "20117"
-},
-"Stewart County": {
-  "description": "Stewart County supports a diversified economy based on tourism, agriculture, healthcare services, transportation, retail activity, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "13976"
-},
-
-"Sullivan County": {
-  "description": "Sullivan County is one of northeastern Tennessee's largest economic centers, supported by healthcare, manufacturing, logistics, retail development, professional services, and transportation. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "160716"
-},
-
-"Sumner County": {
-  "description": "Sumner County is one of Tennessee's fastest-growing and most affluent economic centers, driven by healthcare, professional services, manufacturing, logistics, retail development, and residential expansion. Its location within the Nashville metropolitan area supports substantial business investment and workforce growth.",
-  "population": "204184"
-},
-
-"Tipton County": {
-  "description": "Tipton County benefits from agriculture, logistics, manufacturing, healthcare services, transportation, and residential development. Its proximity to the Memphis metropolitan area contributes significantly to economic growth and workforce opportunities.",
-  "population": "62910"
-},
-
-"Trousdale County": {
-  "description": "Trousdale County supports an economy driven by manufacturing, healthcare services, transportation, agriculture, retail activity, and local business development. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "12231"
-},
-
-"Unicoi County": {
-  "description": "Unicoi County benefits from manufacturing, tourism, healthcare services, transportation, forestry, and local commerce. Its natural resources and diversified industries contribute substantially to regional economic development.",
-  "population": "17980"
-},
-
-"Union County": {
-  "description": "Union County supports a diversified economy based on healthcare services, agriculture, tourism, transportation, retail activity, and local commerce. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "20744"
-},
-
-"Van Buren County": {
-  "description": "Van Buren County maintains a rural economy centered on tourism, healthcare services, agriculture, transportation, forestry, and local business activity. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "6168"
-},
-
-"Warren County": {
-  "description": "Warren County is an important economic center in middle Tennessee, supported by agriculture, manufacturing, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional business growth.",
-  "population": "42875"
-},
-
-"Washington County": {
-  "description": "Washington County is one of northeastern Tennessee's strongest economic centers and home to Johnson City. Healthcare, higher education, manufacturing, professional services, retail development, and technology-related industries drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "136867"
-},
-"Wayne County": {
-  "description": "Wayne County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "17137"
-},
-
-"Weakley County": {
-  "description": "Weakley County serves as an important economic center in northwestern Tennessee, supported by higher education, agriculture, manufacturing, healthcare services, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "33042"
-},
-
-"White County": {
-  "description": "White County benefits from manufacturing, healthcare services, agriculture, transportation, tourism, and retail development. Its diversified economy contributes substantially to workforce opportunities and regional economic development.",
-  "population": "28156"
-},
-
-"Williamson County": {
-  "description": "Williamson County is one of Tennessee's most affluent and fastest-growing economic centers, driven by healthcare, finance, technology, professional services, corporate headquarters, retail development, and residential expansion. Its location within the Nashville metropolitan area supports substantial business investment and workforce growth.",
-  "population": "269328"
-},
-
-"Wilson County": {
-  "description": "Wilson County is one of Tennessee's fastest-growing counties, supported by healthcare, manufacturing, logistics, professional services, retail development, and residential growth. Its location within the Nashville metropolitan area contributes significantly to economic investment and workforce expansion.",
-  "population": "164163"
-}
+  "identity": {
+    "code": "tn",
+    "slug": "tennessee",
+    "name": "Tennessee",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Anderson County": {
+      "description": "Anderson County supports a diversified economy based on energy-related industries, healthcare services, manufacturing, professional services, education, and retail development. Its strategic location contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "79009"
+    },
+    "Bedford County": {
+      "description": "Bedford County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and local business development. Its diversified economy contributes substantially to employment opportunities and continued economic expansion.",
+      "population": "52031"
+    },
+    "Benton County": {
+      "description": "Benton County supports an economy driven by tourism, agriculture, healthcare services, transportation, retail activity, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "16344"
+    },
+    "Bledsoe County": {
+      "description": "Bledsoe County maintains a diversified economy centered on healthcare services, agriculture, manufacturing, transportation, government-related employment, and local commerce. Regional employers contribute significantly to economic development throughout the county.",
+      "population": "15064"
+    },
+    "Blount County": {
+      "description": "Blount County is one of eastern Tennessee's strongest economic centers, supported by manufacturing, tourism, healthcare services, professional services, retail development, and logistics. Its proximity to the Great Smoky Mountains contributes substantially to workforce growth and business investment.",
+      "population": "140557"
+    },
+    "Bradley County": {
+      "description": "Bradley County serves as a major economic center in southeastern Tennessee, driven by manufacturing, healthcare services, logistics, professional services, retail development, and transportation. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "112761"
+    },
+    "Campbell County": {
+      "description": "Campbell County supports a diversified economy based on healthcare services, tourism, transportation, retail activity, manufacturing, and local commerce. Its natural resources and business community contribute significantly to economic activity throughout the county.",
+      "population": "39898"
+    },
+    "Cannon County": {
+      "description": "Cannon County benefits from agriculture, healthcare services, manufacturing, transportation, professional services, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "15179"
+    },
+    "Carroll County": {
+      "description": "Carroll County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Its diversified business base contributes substantially to workforce opportunities and economic development.",
+      "population": "28503"
+    },
+    "Carter County": {
+      "description": "Carter County combines healthcare services, tourism, manufacturing, transportation, retail activity, and professional industries. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "57479"
+    },
+    "Cheatham County": {
+      "description": "Cheatham County supports a diversified economy based on healthcare services, manufacturing, logistics, professional services, retail development, and residential growth. Its proximity to Nashville contributes significantly to workforce opportunities and business investment.",
+      "population": "43035"
+    },
+    "Chester County": {
+      "description": "Chester County benefits from agriculture, healthcare services, manufacturing, transportation, retail activity, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "17908"
+    },
+    "Claiborne County": {
+      "description": "Claiborne County supports an economy driven by healthcare services, education, manufacturing, tourism, transportation, and local commerce. Educational institutions and regional employers contribute substantially to workforce opportunities and economic activity.",
+      "population": "32178"
+    },
+    "Clay County": {
+      "description": "Clay County maintains a diversified economy centered on agriculture, healthcare services, tourism, transportation, retail activity, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "7602"
+    },
+    "Cocke County": {
+      "description": "Cocke County benefits from tourism, healthcare services, manufacturing, transportation, retail activity, and professional services. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "36650"
+    },
+    "Coffee County": {
+      "description": "Coffee County is an important economic center in middle Tennessee, supported by manufacturing, healthcare services, logistics, transportation, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "58965"
+    },
+    "Crockett County": {
+      "description": "Crockett County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "14077"
+    },
+    "Cumberland County": {
+      "description": "Cumberland County is one of Tennessee's growing economic centers, driven by healthcare services, tourism, retail development, professional services, construction, and residential growth. Its diversified economy contributes significantly to workforce opportunities and business investment.",
+      "population": "65541"
+    },
+    "Davidson County": {
+      "description": "Davidson County is one of Tennessee's largest economic centers and home to Nashville. Healthcare, music and entertainment, finance, technology, logistics, higher education, professional services, tourism, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "715884"
+    },
+    "Decatur County": {
+      "description": "Decatur County supports an economy driven by tourism, agriculture, healthcare services, transportation, manufacturing, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "11826"
+    },
+    "DeKalb County": {
+      "description": "DeKalb County supports a diversified economy based on tourism, healthcare services, manufacturing, agriculture, transportation, and local commerce. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "20882"
+    },
+    "Dickson County": {
+      "description": "Dickson County is a growing economic center in middle Tennessee, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its proximity to Nashville contributes substantially to workforce growth and business investment.",
+      "population": "57549"
+    },
+    "Dyer County": {
+      "description": "Dyer County benefits from agriculture, manufacturing, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes significantly to regional employment and economic development.",
+      "population": "36326"
+    },
+    "Fayette County": {
+      "description": "Fayette County supports an economy driven by agriculture, healthcare services, logistics, manufacturing, residential development, and local commerce. Its location near the Memphis metropolitan area contributes significantly to business growth and workforce opportunities.",
+      "population": "42852"
+    },
+    "Fentress County": {
+      "description": "Fentress County maintains a diversified economy centered on tourism, healthcare services, agriculture, transportation, retail activity, and local business development. Visitor spending and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "19479"
+    },
+    "Franklin County": {
+      "description": "Franklin County serves as an important economic center in southern Tennessee, supported by manufacturing, healthcare services, logistics, tourism, retail development, and professional services. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "43850"
+    },
+    "Gibson County": {
+      "description": "Gibson County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "50384"
+    },
+    "Giles County": {
+      "description": "Giles County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes substantially to employment opportunities and regional economic growth.",
+      "population": "30346"
+    },
+    "Grainger County": {
+      "description": "Grainger County supports an economy driven by agriculture, healthcare services, tourism, transportation, retail activity, and local commerce. Farming operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "23527"
+    },
+    "Greene County": {
+      "description": "Greene County is one of eastern Tennessee's strongest economic centers, anchored by manufacturing, healthcare services, agriculture, logistics, retail development, and professional services. Its diversified economy contributes substantially to workforce opportunities and business growth.",
+      "population": "72141"
+    },
+    "Grundy County": {
+      "description": "Grundy County supports a diversified economy based on tourism, healthcare services, manufacturing, transportation, outdoor recreation, and local commerce. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "13990"
+    },
+    "Hamblen County": {
+      "description": "Hamblen County is an important economic center in eastern Tennessee, supported by manufacturing, healthcare services, logistics, retail development, professional services, and transportation. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "65598"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County is one of Tennessee's largest economic centers and home to Chattanooga. Healthcare, manufacturing, logistics, technology, finance, professional services, tourism, and corporate headquarters drive a highly diversified economy supporting substantial employment and business growth.",
+      "population": "379865"
+    },
+    "Hancock County": {
+      "description": "Hancock County maintains a rural economy centered on healthcare services, agriculture, transportation, forestry, tourism, and local commerce. Regional employers and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "6686"
+    },
+    "Hardeman County": {
+      "description": "Hardeman County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, logistics, and local business development. Farming operations and industrial employers contribute significantly to economic growth throughout the county.",
+      "population": "25139"
+    },
+    "Hardin County": {
+      "description": "Hardin County benefits from tourism, healthcare services, manufacturing, transportation, agriculture, and retail activity. Visitor spending and diversified industries contribute substantially to workforce opportunities and economic development.",
+      "population": "27574"
+    },
+    "Hawkins County": {
+      "description": "Hawkins County serves as an important economic center in northeastern Tennessee, supported by manufacturing, healthcare services, agriculture, logistics, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "56908"
+    },
+    "Haywood County": {
+      "description": "Haywood County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "17321"
+    },
+    "Henderson County": {
+      "description": "Henderson County benefits from agriculture, healthcare services, manufacturing, transportation, retail activity, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
+      "population": "28752"
+    },
+    "Henry County": {
+      "description": "Henry County supports an economy driven by tourism, agriculture, healthcare services, manufacturing, transportation, and local business development. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "33084"
+    },
+    "Hickman County": {
+      "description": "Hickman County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "25777"
+    },
+    "Houston County": {
+      "description": "Houston County maintains a rural economy centered on agriculture, healthcare services, tourism, transportation, retail activity, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "8307"
+    },
+    "Humphreys County": {
+      "description": "Humphreys County benefits from manufacturing, healthcare services, transportation, agriculture, logistics, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic development.",
+      "population": "18607"
+    },
+    "Jackson County": {
+      "description": "Jackson County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "11786"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is a growing economic center in eastern Tennessee, supported by manufacturing, healthcare services, logistics, retail development, professional services, and residential growth. Its strategic location contributes substantially to business investment and workforce expansion.",
+      "population": "57617"
+    },
+    "Johnson County": {
+      "description": "Johnson County benefits from tourism, healthcare services, agriculture, transportation, retail activity, and local business development. Visitor spending and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "18312"
+    },
+    "Knox County": {
+      "description": "Knox County is one of Tennessee's largest economic centers and home to Knoxville. Healthcare, higher education, technology, manufacturing, professional services, logistics, retail development, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "500669"
+    },
+    "Lake County": {
+      "description": "Lake County supports a diversified economy based on agriculture, healthcare services, transportation, government-related employment, retail activity, and local commerce. Regional institutions contribute significantly to workforce opportunities and economic activity throughout the county.",
+      "population": "6756"
+    },
+    "Lauderdale County": {
+      "description": "Lauderdale County combines agriculture, manufacturing, healthcare services, transportation, logistics, and local business activity. Farming operations and industrial employers contribute substantially to economic development throughout the county.",
+      "population": "25827"
+    },
+    "Lawrence County": {
+      "description": "Lawrence County serves as an important economic center in southern Tennessee, supported by manufacturing, healthcare services, agriculture, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "46286"
+    },
+    "Lewis County": {
+      "description": "Lewis County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "12907"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County benefits from manufacturing, agriculture, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
+      "population": "36496"
+    },
+    "Loudon County": {
+      "description": "Loudon County is a growing economic center in eastern Tennessee, supported by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its proximity to Knoxville contributes significantly to business investment and workforce growth.",
+      "population": "57542"
+    },
+    "Macon County": {
+      "description": "Macon County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, retail activity, and local business development. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "27035"
+    },
+    "Madison County": {
+      "description": "Madison County is one of western Tennessee's largest economic centers and home to Jackson. Healthcare, manufacturing, logistics, higher education, professional services, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "98979"
+    },
+    "Marion County": {
+      "description": "Marion County benefits from manufacturing, healthcare services, tourism, transportation, energy-related industries, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic development.",
+      "population": "29462"
+    },
+    "Marshall County": {
+      "description": "Marshall County supports a diversified economy based on manufacturing, agriculture, healthcare services, logistics, transportation, and local commerce. Industrial employers and farming operations contribute significantly to economic growth throughout the county.",
+      "population": "36952"
+    },
+    "Maury County": {
+      "description": "Maury County is one of Tennessee's fastest-growing economic centers, driven by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its location within the greater Nashville region supports substantial business investment and workforce growth.",
+      "population": "108442"
+    },
+    "McMinn County": {
+      "description": "McMinn County serves as an important economic center in southeastern Tennessee, supported by manufacturing, healthcare services, logistics, retail development, professional services, and transportation. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "54865"
+    },
+    "McNairy County": {
+      "description": "McNairy County combines agriculture, manufacturing, healthcare services, transportation, forestry, and local business activity. Farming operations and industrial employers contribute substantially to economic development throughout the county.",
+      "population": "26042"
+    },
+    "Meigs County": {
+      "description": "Meigs County supports a diversified economy based on manufacturing, healthcare services, agriculture, transportation, tourism, and local commerce. Regional employers and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "12826"
+    },
+    "Monroe County": {
+      "description": "Monroe County benefits from tourism, manufacturing, healthcare services, transportation, retail activity, and professional services. Visitor spending and diversified industries contribute substantially to workforce opportunities and economic growth.",
+      "population": "47215"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County is one of Tennessee's fastest-growing economic centers and home to Clarksville. Military-related industries, healthcare, manufacturing, logistics, professional services, retail development, and residential expansion drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "242253"
+    },
+    "Moore County": {
+      "description": "Moore County supports an economy driven by manufacturing, tourism, healthcare services, transportation, retail activity, and local business development. Visitor spending and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "6665"
+    },
+    "Morgan County": {
+      "description": "Morgan County combines healthcare services, manufacturing, tourism, transportation, forestry, and local commerce. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
+      "population": "21817"
+    },
+    "Obion County": {
+      "description": "Obion County serves as an important economic center in northwestern Tennessee, supported by agriculture, manufacturing, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "30084"
+    },
+    "Overton County": {
+      "description": "Overton County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, tourism, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "22615"
+    },
+    "Perry County": {
+      "description": "Perry County benefits from forestry, agriculture, healthcare services, transportation, tourism, and local business development. Natural resources and regional employers contribute substantially to economic growth throughout the county.",
+      "population": "8315"
+    },
+    "Pickett County": {
+      "description": "Pickett County maintains a rural economy centered on tourism, agriculture, healthcare services, transportation, retail activity, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "4940"
+    },
+    "Polk County": {
+      "description": "Polk County supports an economy driven by manufacturing, tourism, healthcare services, transportation, forestry, and professional services. Its natural resources and business community contribute significantly to workforce opportunities and economic development.",
+      "population": "17410"
+    },
+    "Putnam County": {
+      "description": "Putnam County is a major economic center in Upper Cumberland Tennessee, supported by healthcare, higher education, manufacturing, logistics, professional services, retail development, and technology-related industries. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "81646"
+    },
+    "Rhea County": {
+      "description": "Rhea County benefits from manufacturing, healthcare services, transportation, tourism, retail activity, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "33686"
+    },
+    "Roane County": {
+      "description": "Roane County serves as an important economic center in eastern Tennessee, supported by energy-related industries, healthcare services, manufacturing, logistics, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "54150"
+    },
+    "Robertson County": {
+      "description": "Robertson County is one of the fastest-growing counties in the Nashville region, driven by manufacturing, healthcare services, logistics, professional services, retail development, and residential expansion. Its strategic location supports substantial workforce growth and economic development.",
+      "population": "74317"
+    },
+    "Rutherford County": {
+      "description": "Rutherford County is one of Tennessee's largest and fastest-growing economic centers, anchored by healthcare, higher education, manufacturing, logistics, technology, professional services, retail development, and residential growth. Its location within the Nashville metropolitan area drives substantial business investment and workforce expansion.",
+      "population": "366091"
+    },
+    "Scott County": {
+      "description": "Scott County supports a diversified economy based on healthcare services, tourism, manufacturing, transportation, forestry, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "21978"
+    },
+    "Sequatchie County": {
+      "description": "Sequatchie County benefits from manufacturing, healthcare services, agriculture, transportation, tourism, and local business development. Its growing economy contributes significantly to workforce opportunities and regional growth.",
+      "population": "16501"
+    },
+    "Sevier County": {
+      "description": "Sevier County is one of Tennessee's most tourism-driven economic centers, supported by hospitality, healthcare services, retail development, entertainment, professional services, and real estate activity. Visitor spending contributes substantially to employment, business investment, and regional economic growth.",
+      "population": "103198"
+    },
+    "Shelby County": {
+      "description": "Shelby County is one of Tennessee's largest economic centers and home to Memphis. Logistics, healthcare, transportation, manufacturing, finance, professional services, technology, and corporate headquarters drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "910530"
+    },
+    "Smith County": {
+      "description": "Smith County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, retail activity, and local commerce. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "20117"
+    },
+    "Stewart County": {
+      "description": "Stewart County supports a diversified economy based on tourism, agriculture, healthcare services, transportation, retail activity, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "13976"
+    },
+    "Sullivan County": {
+      "description": "Sullivan County is one of northeastern Tennessee's largest economic centers, supported by healthcare, manufacturing, logistics, retail development, professional services, and transportation. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "160716"
+    },
+    "Sumner County": {
+      "description": "Sumner County is one of Tennessee's fastest-growing and most affluent economic centers, driven by healthcare, professional services, manufacturing, logistics, retail development, and residential expansion. Its location within the Nashville metropolitan area supports substantial business investment and workforce growth.",
+      "population": "204184"
+    },
+    "Tipton County": {
+      "description": "Tipton County benefits from agriculture, logistics, manufacturing, healthcare services, transportation, and residential development. Its proximity to the Memphis metropolitan area contributes significantly to economic growth and workforce opportunities.",
+      "population": "62910"
+    },
+    "Trousdale County": {
+      "description": "Trousdale County supports an economy driven by manufacturing, healthcare services, transportation, agriculture, retail activity, and local business development. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "12231"
+    },
+    "Unicoi County": {
+      "description": "Unicoi County benefits from manufacturing, tourism, healthcare services, transportation, forestry, and local commerce. Its natural resources and diversified industries contribute substantially to regional economic development.",
+      "population": "17980"
+    },
+    "Union County": {
+      "description": "Union County supports a diversified economy based on healthcare services, agriculture, tourism, transportation, retail activity, and local commerce. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "20744"
+    },
+    "Van Buren County": {
+      "description": "Van Buren County maintains a rural economy centered on tourism, healthcare services, agriculture, transportation, forestry, and local business activity. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "6168"
+    },
+    "Warren County": {
+      "description": "Warren County is an important economic center in middle Tennessee, supported by agriculture, manufacturing, healthcare services, logistics, transportation, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional business growth.",
+      "population": "42875"
+    },
+    "Washington County": {
+      "description": "Washington County is one of northeastern Tennessee's strongest economic centers and home to Johnson City. Healthcare, higher education, manufacturing, professional services, retail development, and technology-related industries drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "136867"
+    },
+    "Wayne County": {
+      "description": "Wayne County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, forestry, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "17137"
+    },
+    "Weakley County": {
+      "description": "Weakley County serves as an important economic center in northwestern Tennessee, supported by higher education, agriculture, manufacturing, healthcare services, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "33042"
+    },
+    "White County": {
+      "description": "White County benefits from manufacturing, healthcare services, agriculture, transportation, tourism, and retail development. Its diversified economy contributes substantially to workforce opportunities and regional economic development.",
+      "population": "28156"
+    },
+    "Williamson County": {
+      "description": "Williamson County is one of Tennessee's most affluent and fastest-growing economic centers, driven by healthcare, finance, technology, professional services, corporate headquarters, retail development, and residential expansion. Its location within the Nashville metropolitan area supports substantial business investment and workforce growth.",
+      "population": "269328"
+    },
+    "Wilson County": {
+      "description": "Wilson County is one of Tennessee's fastest-growing counties, supported by healthcare, manufacturing, logistics, professional services, retail development, and residential growth. Its location within the Nashville metropolitan area contributes significantly to economic investment and workforce expansion.",
+      "population": "164163"
+    }
+  }
 }

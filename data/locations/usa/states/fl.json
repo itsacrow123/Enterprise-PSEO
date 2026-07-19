@@ -1,335 +1,279 @@
 {
-	
-"Alachua County": {
-  "description": "Alachua County is a major educational and healthcare center in North Florida, anchored by higher education institutions, research facilities, and a growing technology sector. Healthcare, education, professional services, and innovation-driven businesses contribute significantly to the local economy.",
-  "population": "290780"
-},
-
-"Baker County": {
-  "description": "Baker County is a rural North Florida county known for its forestry resources, agricultural operations, and strong community character. Timber production, farming, government services, and local businesses support economic activity throughout the county.",
-  "population": "29485"
-},
-
-"Bay County": {
-  "description": "Bay County serves as a major economic center along Florida's Gulf Coast, supporting tourism, healthcare, military-related employment, and maritime industries. Its coastal location continues to attract residents, visitors, and business investment.",
-  "population": "191773"
-},
-
-"Bradford County": {
-  "description": "Bradford County combines agricultural production, healthcare services, and small-town communities within North Florida. Farming, local commerce, and public sector employment remain important contributors to the county's economy.",
-  "population": "28617"
-},
-
-"Brevard County": {
-  "description": "Brevard County is internationally recognized for its aerospace industry, space exploration facilities, tourism attractions, and growing technology sector. Advanced manufacturing, defense, healthcare, and hospitality industries support a diverse and expanding economy.",
-  "population": "654168"
-},
-
-"Broward County": {
-  "description": "Broward County is one of Florida's largest and most economically active counties, supporting tourism, healthcare, finance, international trade, technology, and real estate development. Its strategic South Florida location drives substantial residential and commercial growth.",
-  "population": "1989834"
-},
-
-"Calhoun County": {
-  "description": "Calhoun County is characterized by rural landscapes, agricultural production, forestry operations, and close-knit communities. Farming, timber industries, and local businesses continue to support economic activity throughout the county.",
-  "population": "13475"
-},
-
-"Charlotte County": {
-  "description": "Charlotte County is known for its coastal communities, recreational boating, healthcare services, and growing retirement population. Tourism, real estate, hospitality, and healthcare contribute significantly to the county's economy.",
-  "population": "214563"
-},
-
-"Citrus County": {
-  "description": "Citrus County combines natural springs, outdoor recreation opportunities, healthcare services, and residential growth. Tourism, healthcare, retail, and hospitality industries play important roles in supporting the local economy.",
-  "population": "162836"
-},
-
-"Clay County": {
-  "description": "Clay County is one of Northeast Florida's fastest-growing counties, benefiting from residential development, healthcare services, retail expansion, and proximity to Jacksonville. Population growth continues to drive business investment and economic activity.",
-  "population": "233419"
-},
-
-"Collier County": {
-  "description": "Collier County is one of Florida's most affluent coastal counties, known for luxury communities, tourism, healthcare, and real estate development. Hospitality, retail, construction, and professional services contribute significantly to a strong local economy.",
-  "population": "416546"
-},
-
-"Columbia County": {
-  "description": "Columbia County serves as an important transportation and healthcare hub in North Florida. Logistics, medical services, agriculture, and retail businesses support economic growth throughout the county.",
-  "population": "74745"
-},
-
-"DeSoto County": {
-  "description": "DeSoto County is recognized for its agricultural production, particularly cattle ranching and citrus farming. Agriculture, food processing, and local commerce remain central to the county's economy.",
-  "population": "34001"
-},
-
-"Dixie County": {
-  "description": "Dixie County features a rural economy supported by forestry, agriculture, fishing, and outdoor recreation opportunities. Its natural resources and coastal access contribute to local economic activity.",
-  "population": "17123"
-},
-
-"Duval County": {
-  "description": "Duval County is home to Jacksonville and serves as one of Florida's largest economic centers. Finance, healthcare, logistics, transportation, military operations, and technology industries drive substantial business activity throughout the county.",
-  "population": "1026688"
-},
-
-"Escambia County": {
-  "description": "Escambia County combines tourism, military installations, healthcare services, education, and maritime industries within a diverse Gulf Coast economy. Its strategic location supports both commercial growth and visitor activity.",
-  "population": "329188"
-},
-
-"Flagler County": {
-  "description": "Flagler County is one of Florida's fastest-growing residential counties, attracting retirees, families, and businesses seeking coastal living. Healthcare, construction, tourism, and retail contribute to continued economic expansion.",
-  "population": "145126"
-},
-
-"Franklin County": {
-  "description": "Franklin County is known for its coastal communities, seafood industry, tourism sector, and natural beauty. Fishing, hospitality, recreation, and visitor services remain important drivers of economic activity.",
-  "population": "12568"
-},
-
-"Gadsden County": {
-  "description": "Gadsden County supports agriculture, healthcare, education, and government-related employment within the Tallahassee metropolitan region. Its strategic location contributes to steady economic development and residential growth.",
-  "population": "43914"
-},
-
-"Gilchrist County": {
-  "description": "Gilchrist County is characterized by rural communities, agricultural production, natural springs, and outdoor recreation opportunities. Farming, tourism, and local businesses support the county's economy.",
-  "population": "19008"
-},
-
-"Glades County": {
-  "description": "Glades County is a rural South Florida county known for its agricultural production, ranching operations, and outdoor recreation opportunities. Farming, livestock, tourism, and local businesses contribute to economic activity throughout the county.",
-  "population": "12548"
-},
-
-"Gulf County": {
-  "description": "Gulf County is located along Florida's Gulf Coast and supports an economy driven by tourism, fishing, hospitality, and outdoor recreation. Its coastal communities and natural attractions continue to attract visitors and residents alike.",
-  "population": "15410"
-},
-
-"Hamilton County": {
-  "description": "Hamilton County combines agricultural production, forestry resources, and transportation access within North Florida. Farming, timber operations, and local commerce remain important contributors to the county's economy.",
-  "population": "14691"
-},
-
-"Hardee County": {
-  "description": "Hardee County is recognized for its agricultural strength, particularly in citrus production, cattle ranching, and farming operations. Agriculture and agribusiness continue to serve as the foundation of the local economy.",
-  "population": "26078"
-},
-
-"Hendry County": {
-  "description": "Hendry County is a major agricultural county in South Florida, supporting sugar production, vegetable farming, cattle operations, and agribusiness. Agriculture remains the dominant economic driver throughout the region.",
-  "population": "40903"
-},
-
-"Hernando County": {
-  "description": "Hernando County has experienced substantial residential growth due to its attractive communities, healthcare services, and proximity to the Tampa Bay region. Construction, healthcare, retail, and tourism contribute significantly to economic development.",
-  "population": "211946"
-},
-
-"Highlands County": {
-  "description": "Highlands County combines agriculture, healthcare, tourism, and retirement-oriented communities within Central Florida. Citrus production, hospitality, and healthcare services play major roles in the local economy.",
-  "population": "107922"
-},
-
-"Hillsborough County": {
-  "description": "Hillsborough County is one of Florida's largest economic centers and home to Tampa. Healthcare, finance, technology, logistics, tourism, education, and professional services support a highly diversified and rapidly growing economy.",
-  "population": "1569769"
-},
-
-"Holmes County": {
-  "description": "Holmes County is characterized by rural communities, agricultural production, forestry resources, and small businesses. Farming and timber-related industries continue to support economic activity throughout the county.",
-  "population": "19832"
-},
-
-"Indian River County": {
-  "description": "Indian River County is known for its coastal lifestyle, healthcare sector, tourism industry, and growing residential communities. Real estate, hospitality, healthcare, and retail services contribute significantly to the county's economy.",
-  "population": "166014"
-},
-
-"Jackson County": {
-  "description": "Jackson County serves as an important agricultural, educational, and healthcare center in Florida's Panhandle. Farming, manufacturing, healthcare services, and local businesses contribute to a stable and diversified economy.",
-  "population": "46603"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is known for its historic communities, agricultural operations, and rural character. Farming, forestry, tourism, and local commerce continue to support economic activity throughout the county.",
-  "population": "15121"
-},
-
-"Lafayette County": {
-  "description": "Lafayette County is a rural North Florida county supported by agriculture, forestry, and small business activity. Farming operations and natural resource industries remain central to the local economy.",
-  "population": "8702"
-},
-
-"Lake County": {
-  "description": "Lake County is one of Central Florida's fastest-growing counties, benefiting from residential development, healthcare expansion, tourism, and retail growth. Its location near Orlando continues to attract new residents and businesses.",
-  "population": "441784"
-},
-
-"Lee County": {
-  "description": "Lee County is a major Gulf Coast economic center known for tourism, healthcare, real estate, construction, and hospitality industries. Its growing population and strong visitor economy contribute significantly to regional economic growth.",
-  "population": "834573"
-},
-
-"Leon County": {
-  "description": "Leon County is home to Florida's capital city and serves as a center for government, higher education, healthcare, and professional services. Public administration and educational institutions play major roles in the county's economy.",
-  "population": "302221"
-},
-
-"Levy County": {
-  "description": "Levy County combines agriculture, forestry, fishing, and tourism within a diverse rural economy. Its natural resources and recreational opportunities attract both visitors and residents throughout the year.",
-  "population": "44409"
-},
-
-"Liberty County": {
-  "description": "Liberty County is one of Florida's least populated counties and features extensive forests, outdoor recreation opportunities, and agricultural activity. Forestry, farming, and local services support economic activity throughout the county.",
-  "population": "7790"
-},
-
-"Madison County": {
-  "description": "Madison County supports a rural economy based on agriculture, forestry, healthcare, and local commerce. Its historic communities and farming traditions continue to shape economic activity across the county.",
-  "population": "17602"
-},
-
-"Manatee County": {
-  "description": "Manatee County is one of Florida's fastest-growing coastal counties, supported by tourism, healthcare, real estate, construction, and professional services. Continued residential development and business investment drive economic expansion.",
-  "population": "448229"
-},
-
-"Marion County": {
-  "description": "Marion County is a major Central Florida county known for its equestrian industry, healthcare sector, logistics operations, and growing residential communities. Agriculture, construction, retail, and professional services contribute to a diverse local economy.",
-  "population": "402940"
-},
-
-"Martin County": {
-  "description": "Martin County combines coastal living, tourism, healthcare, and professional services within one of South Florida's most desirable residential markets. Its strong quality of life continues to attract both residents and business investment.",
-  "population": "170116"
-},
-
-"Miami-Dade County": {
-  "description": "Miami-Dade County is Florida's most populous county and an international center for finance, tourism, healthcare, aviation, trade, technology, and real estate. Its global connections and diverse economy make it one of the most influential markets in the United States.",
-  "population": "2751796"
-},
-
-"Monroe County": {
-  "description": "Monroe County encompasses the Florida Keys and supports a tourism-driven economy centered on hospitality, recreation, marine services, and environmental conservation. Visitors from around the world contribute significantly to local economic activity.",
-  "population": "82570"
-},
-
-"Nassau County": {
-  "description": "Nassau County is one of Northeast Florida's fastest-growing counties, benefiting from residential development, tourism, logistics, and proximity to Jacksonville. Continued growth has strengthened its economy and business environment.",
-  "population": "102198"
-},
-
-"Okaloosa County": {
-  "description": "Okaloosa County supports a strong economy driven by military operations, tourism, aerospace, healthcare, and hospitality industries. Its Gulf Coast location and defense-related employment create significant economic activity throughout the county.",
-  "population": "230367"
-},
-
-"Okeechobee County": {
-  "description": "Okeechobee County is known for agriculture, cattle ranching, outdoor recreation, and natural resources. Farming and agribusiness remain major contributors to economic activity throughout the county.",
-  "population": "43168"
-},
-
-"Orange County": {
-  "description": "Orange County is home to Orlando and serves as one of Florida's largest economic centers. Tourism, entertainment, healthcare, technology, education, and professional services drive a highly diversified and rapidly growing economy.",
-  "population": "1512535"
-},
-
-"Osceola County": {
-  "description": "Osceola County is one of Florida's fastest-growing counties, benefiting from tourism, residential development, healthcare, logistics, and hospitality industries. Its location within the Orlando metropolitan area continues to fuel expansion.",
-  "population": "429783"
-},
-
-"Palm Beach County": {
-  "description": "Palm Beach County is one of Florida's most affluent and economically significant counties, supporting finance, healthcare, tourism, real estate, technology, and professional services. Its diverse economy attracts both businesses and residents from around the world.",
-  "population": "1538981"
-},
-"Pasco County": {
-  "description": "Pasco County is one of Florida's fastest-growing counties, benefiting from residential expansion, healthcare development, retail investment, and proximity to the Tampa Bay region. Continued population growth supports strong demand across multiple industries.",
-  "population": "682051"
-},
-
-"Pinellas County": {
-  "description": "Pinellas County is a major economic center on Florida's Gulf Coast, anchored by tourism, healthcare, technology, finance, and professional services. Its dense population, coastal attractions, and business activity make it one of the state's most valuable local markets.",
-  "population": "975280"
-},
-
-"Polk County": {
-  "description": "Polk County occupies a strategic position between Tampa and Orlando and supports a diverse economy driven by logistics, agriculture, healthcare, manufacturing, and residential development. Rapid growth continues to strengthen its regional influence.",
-  "population": "818330"
-},
-
-"Putnam County": {
-  "description": "Putnam County combines agricultural production, healthcare services, manufacturing, and outdoor recreation opportunities within a growing North Florida economy. Local businesses and public services contribute to long-term economic stability.",
-  "population": "75082"
-},
-
-"St. Johns County": {
-  "description": "St. Johns County is one of Florida's most affluent and fastest-growing counties, supported by tourism, healthcare, education, construction, and professional services. Its strong quality of life continues to attract residents and business investment.",
-  "population": "330380"
-},
-
-"St. Lucie County": {
-  "description": "St. Lucie County benefits from residential growth, healthcare expansion, tourism, and logistics activity along Florida's Treasure Coast. Continued development has strengthened its position as an important regional economic center.",
-  "population": "375751"
-},
-
-"Santa Rosa County": {
-  "description": "Santa Rosa County combines military-related employment, tourism, healthcare, and residential growth within the Florida Panhandle. Its expanding communities and business-friendly environment contribute to sustained economic development.",
-  "population": "207105"
-},
-
-"Sarasota County": {
-  "description": "Sarasota County is internationally known for its tourism industry, cultural attractions, healthcare services, and coastal communities. Hospitality, real estate, professional services, and healthcare drive a diverse and prosperous local economy.",
-  "population": "462569"
-},
-
-"Seminole County": {
-  "description": "Seminole County is a highly developed Central Florida county supporting technology, healthcare, finance, education, and professional services. Its location within the Orlando metropolitan area contributes to continued residential and commercial growth.",
-  "population": "489462"
-},
-
-"Sumter County": {
-  "description": "Sumter County has experienced significant population growth due to retirement communities, healthcare development, construction, and service-based industries. Residential expansion continues to drive economic activity throughout the county.",
-  "population": "152754"
-},
-"Suwannee County": {
-  "description": "Suwannee County is known for its agricultural production, natural springs, outdoor recreation opportunities, and strong rural communities. Farming, healthcare, tourism, and local businesses contribute significantly to the county's economy.",
-  "population": "47092"
-},
-
-"Taylor County": {
-  "description": "Taylor County supports a diverse economy based on forestry, manufacturing, fishing, agriculture, and outdoor recreation. Its natural resources and Gulf Coast location continue to provide economic opportunities throughout the region.",
-  "population": "21943"
-},
-
-"Union County": {
-  "description": "Union County is a small North Florida county characterized by agriculture, public sector employment, healthcare services, and local commerce. Community-focused businesses and government services play important roles in the local economy.",
-  "population": "16412"
-},
-
-"Volusia County": {
-  "description": "Volusia County is a major tourism and economic center along Florida's Atlantic Coast, known for its beaches, motorsports attractions, healthcare sector, higher education institutions, and growing business community. Tourism and professional services contribute substantially to economic growth.",
-  "population": "611104"
-},
-
-"Wakulla County": {
-  "description": "Wakulla County features coastal resources, natural attractions, tourism opportunities, and growing residential communities. Hospitality, healthcare, government services, and outdoor recreation support the county's economy.",
-  "population": "36217"
-},
-
-"Walton County": {
-  "description": "Walton County is one of Florida's fastest-growing tourism destinations, supported by luxury coastal communities, hospitality businesses, real estate development, and professional services. Visitor spending plays a major role in the local economy.",
-  "population": "95384"
-},
-
-"Washington County": {
-  "description": "Washington County combines agricultural production, forestry resources, manufacturing, and local commerce within Florida's Panhandle region. Farming and small businesses remain important contributors to economic activity throughout the county.",
-  "population": "26192"
-}
+  "identity": {
+    "code": "fl",
+    "slug": "florida",
+    "name": "Florida",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Alachua County": {
+      "description": "Alachua County is a major educational and healthcare center in North Florida, anchored by higher education institutions, research facilities, and a growing technology sector. Healthcare, education, professional services, and innovation-driven businesses contribute significantly to the local economy.",
+      "population": "290780"
+    },
+    "Baker County": {
+      "description": "Baker County is a rural North Florida county known for its forestry resources, agricultural operations, and strong community character. Timber production, farming, government services, and local businesses support economic activity throughout the county.",
+      "population": "29485"
+    },
+    "Bay County": {
+      "description": "Bay County serves as a major economic center along Florida's Gulf Coast, supporting tourism, healthcare, military-related employment, and maritime industries. Its coastal location continues to attract residents, visitors, and business investment.",
+      "population": "191773"
+    },
+    "Bradford County": {
+      "description": "Bradford County combines agricultural production, healthcare services, and small-town communities within North Florida. Farming, local commerce, and public sector employment remain important contributors to the county's economy.",
+      "population": "28617"
+    },
+    "Brevard County": {
+      "description": "Brevard County is internationally recognized for its aerospace industry, space exploration facilities, tourism attractions, and growing technology sector. Advanced manufacturing, defense, healthcare, and hospitality industries support a diverse and expanding economy.",
+      "population": "654168"
+    },
+    "Broward County": {
+      "description": "Broward County is one of Florida's largest and most economically active counties, supporting tourism, healthcare, finance, international trade, technology, and real estate development. Its strategic South Florida location drives substantial residential and commercial growth.",
+      "population": "1989834"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County is characterized by rural landscapes, agricultural production, forestry operations, and close-knit communities. Farming, timber industries, and local businesses continue to support economic activity throughout the county.",
+      "population": "13475"
+    },
+    "Charlotte County": {
+      "description": "Charlotte County is known for its coastal communities, recreational boating, healthcare services, and growing retirement population. Tourism, real estate, hospitality, and healthcare contribute significantly to the county's economy.",
+      "population": "214563"
+    },
+    "Citrus County": {
+      "description": "Citrus County combines natural springs, outdoor recreation opportunities, healthcare services, and residential growth. Tourism, healthcare, retail, and hospitality industries play important roles in supporting the local economy.",
+      "population": "162836"
+    },
+    "Clay County": {
+      "description": "Clay County is one of Northeast Florida's fastest-growing counties, benefiting from residential development, healthcare services, retail expansion, and proximity to Jacksonville. Population growth continues to drive business investment and economic activity.",
+      "population": "233419"
+    },
+    "Collier County": {
+      "description": "Collier County is one of Florida's most affluent coastal counties, known for luxury communities, tourism, healthcare, and real estate development. Hospitality, retail, construction, and professional services contribute significantly to a strong local economy.",
+      "population": "416546"
+    },
+    "Columbia County": {
+      "description": "Columbia County serves as an important transportation and healthcare hub in North Florida. Logistics, medical services, agriculture, and retail businesses support economic growth throughout the county.",
+      "population": "74745"
+    },
+    "DeSoto County": {
+      "description": "DeSoto County is recognized for its agricultural production, particularly cattle ranching and citrus farming. Agriculture, food processing, and local commerce remain central to the county's economy.",
+      "population": "34001"
+    },
+    "Dixie County": {
+      "description": "Dixie County features a rural economy supported by forestry, agriculture, fishing, and outdoor recreation opportunities. Its natural resources and coastal access contribute to local economic activity.",
+      "population": "17123"
+    },
+    "Duval County": {
+      "description": "Duval County is home to Jacksonville and serves as one of Florida's largest economic centers. Finance, healthcare, logistics, transportation, military operations, and technology industries drive substantial business activity throughout the county.",
+      "population": "1026688"
+    },
+    "Escambia County": {
+      "description": "Escambia County combines tourism, military installations, healthcare services, education, and maritime industries within a diverse Gulf Coast economy. Its strategic location supports both commercial growth and visitor activity.",
+      "population": "329188"
+    },
+    "Flagler County": {
+      "description": "Flagler County is one of Florida's fastest-growing residential counties, attracting retirees, families, and businesses seeking coastal living. Healthcare, construction, tourism, and retail contribute to continued economic expansion.",
+      "population": "145126"
+    },
+    "Franklin County": {
+      "description": "Franklin County is known for its coastal communities, seafood industry, tourism sector, and natural beauty. Fishing, hospitality, recreation, and visitor services remain important drivers of economic activity.",
+      "population": "12568"
+    },
+    "Gadsden County": {
+      "description": "Gadsden County supports agriculture, healthcare, education, and government-related employment within the Tallahassee metropolitan region. Its strategic location contributes to steady economic development and residential growth.",
+      "population": "43914"
+    },
+    "Gilchrist County": {
+      "description": "Gilchrist County is characterized by rural communities, agricultural production, natural springs, and outdoor recreation opportunities. Farming, tourism, and local businesses support the county's economy.",
+      "population": "19008"
+    },
+    "Glades County": {
+      "description": "Glades County is a rural South Florida county known for its agricultural production, ranching operations, and outdoor recreation opportunities. Farming, livestock, tourism, and local businesses contribute to economic activity throughout the county.",
+      "population": "12548"
+    },
+    "Gulf County": {
+      "description": "Gulf County is located along Florida's Gulf Coast and supports an economy driven by tourism, fishing, hospitality, and outdoor recreation. Its coastal communities and natural attractions continue to attract visitors and residents alike.",
+      "population": "15410"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County combines agricultural production, forestry resources, and transportation access within North Florida. Farming, timber operations, and local commerce remain important contributors to the county's economy.",
+      "population": "14691"
+    },
+    "Hardee County": {
+      "description": "Hardee County is recognized for its agricultural strength, particularly in citrus production, cattle ranching, and farming operations. Agriculture and agribusiness continue to serve as the foundation of the local economy.",
+      "population": "26078"
+    },
+    "Hendry County": {
+      "description": "Hendry County is a major agricultural county in South Florida, supporting sugar production, vegetable farming, cattle operations, and agribusiness. Agriculture remains the dominant economic driver throughout the region.",
+      "population": "40903"
+    },
+    "Hernando County": {
+      "description": "Hernando County has experienced substantial residential growth due to its attractive communities, healthcare services, and proximity to the Tampa Bay region. Construction, healthcare, retail, and tourism contribute significantly to economic development.",
+      "population": "211946"
+    },
+    "Highlands County": {
+      "description": "Highlands County combines agriculture, healthcare, tourism, and retirement-oriented communities within Central Florida. Citrus production, hospitality, and healthcare services play major roles in the local economy.",
+      "population": "107922"
+    },
+    "Hillsborough County": {
+      "description": "Hillsborough County is one of Florida's largest economic centers and home to Tampa. Healthcare, finance, technology, logistics, tourism, education, and professional services support a highly diversified and rapidly growing economy.",
+      "population": "1569769"
+    },
+    "Holmes County": {
+      "description": "Holmes County is characterized by rural communities, agricultural production, forestry resources, and small businesses. Farming and timber-related industries continue to support economic activity throughout the county.",
+      "population": "19832"
+    },
+    "Indian River County": {
+      "description": "Indian River County is known for its coastal lifestyle, healthcare sector, tourism industry, and growing residential communities. Real estate, hospitality, healthcare, and retail services contribute significantly to the county's economy.",
+      "population": "166014"
+    },
+    "Jackson County": {
+      "description": "Jackson County serves as an important agricultural, educational, and healthcare center in Florida's Panhandle. Farming, manufacturing, healthcare services, and local businesses contribute to a stable and diversified economy.",
+      "population": "46603"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is known for its historic communities, agricultural operations, and rural character. Farming, forestry, tourism, and local commerce continue to support economic activity throughout the county.",
+      "population": "15121"
+    },
+    "Lafayette County": {
+      "description": "Lafayette County is a rural North Florida county supported by agriculture, forestry, and small business activity. Farming operations and natural resource industries remain central to the local economy.",
+      "population": "8702"
+    },
+    "Lake County": {
+      "description": "Lake County is one of Central Florida's fastest-growing counties, benefiting from residential development, healthcare expansion, tourism, and retail growth. Its location near Orlando continues to attract new residents and businesses.",
+      "population": "441784"
+    },
+    "Lee County": {
+      "description": "Lee County is a major Gulf Coast economic center known for tourism, healthcare, real estate, construction, and hospitality industries. Its growing population and strong visitor economy contribute significantly to regional economic growth.",
+      "population": "834573"
+    },
+    "Leon County": {
+      "description": "Leon County is home to Florida's capital city and serves as a center for government, higher education, healthcare, and professional services. Public administration and educational institutions play major roles in the county's economy.",
+      "population": "302221"
+    },
+    "Levy County": {
+      "description": "Levy County combines agriculture, forestry, fishing, and tourism within a diverse rural economy. Its natural resources and recreational opportunities attract both visitors and residents throughout the year.",
+      "population": "44409"
+    },
+    "Liberty County": {
+      "description": "Liberty County is one of Florida's least populated counties and features extensive forests, outdoor recreation opportunities, and agricultural activity. Forestry, farming, and local services support economic activity throughout the county.",
+      "population": "7790"
+    },
+    "Madison County": {
+      "description": "Madison County supports a rural economy based on agriculture, forestry, healthcare, and local commerce. Its historic communities and farming traditions continue to shape economic activity across the county.",
+      "population": "17602"
+    },
+    "Manatee County": {
+      "description": "Manatee County is one of Florida's fastest-growing coastal counties, supported by tourism, healthcare, real estate, construction, and professional services. Continued residential development and business investment drive economic expansion.",
+      "population": "448229"
+    },
+    "Marion County": {
+      "description": "Marion County is a major Central Florida county known for its equestrian industry, healthcare sector, logistics operations, and growing residential communities. Agriculture, construction, retail, and professional services contribute to a diverse local economy.",
+      "population": "402940"
+    },
+    "Martin County": {
+      "description": "Martin County combines coastal living, tourism, healthcare, and professional services within one of South Florida's most desirable residential markets. Its strong quality of life continues to attract both residents and business investment.",
+      "population": "170116"
+    },
+    "Miami-Dade County": {
+      "description": "Miami-Dade County is Florida's most populous county and an international center for finance, tourism, healthcare, aviation, trade, technology, and real estate. Its global connections and diverse economy make it one of the most influential markets in the United States.",
+      "population": "2751796"
+    },
+    "Monroe County": {
+      "description": "Monroe County encompasses the Florida Keys and supports a tourism-driven economy centered on hospitality, recreation, marine services, and environmental conservation. Visitors from around the world contribute significantly to local economic activity.",
+      "population": "82570"
+    },
+    "Nassau County": {
+      "description": "Nassau County is one of Northeast Florida's fastest-growing counties, benefiting from residential development, tourism, logistics, and proximity to Jacksonville. Continued growth has strengthened its economy and business environment.",
+      "population": "102198"
+    },
+    "Okaloosa County": {
+      "description": "Okaloosa County supports a strong economy driven by military operations, tourism, aerospace, healthcare, and hospitality industries. Its Gulf Coast location and defense-related employment create significant economic activity throughout the county.",
+      "population": "230367"
+    },
+    "Okeechobee County": {
+      "description": "Okeechobee County is known for agriculture, cattle ranching, outdoor recreation, and natural resources. Farming and agribusiness remain major contributors to economic activity throughout the county.",
+      "population": "43168"
+    },
+    "Orange County": {
+      "description": "Orange County is home to Orlando and serves as one of Florida's largest economic centers. Tourism, entertainment, healthcare, technology, education, and professional services drive a highly diversified and rapidly growing economy.",
+      "population": "1512535"
+    },
+    "Osceola County": {
+      "description": "Osceola County is one of Florida's fastest-growing counties, benefiting from tourism, residential development, healthcare, logistics, and hospitality industries. Its location within the Orlando metropolitan area continues to fuel expansion.",
+      "population": "429783"
+    },
+    "Palm Beach County": {
+      "description": "Palm Beach County is one of Florida's most affluent and economically significant counties, supporting finance, healthcare, tourism, real estate, technology, and professional services. Its diverse economy attracts both businesses and residents from around the world.",
+      "population": "1538981"
+    },
+    "Pasco County": {
+      "description": "Pasco County is one of Florida's fastest-growing counties, benefiting from residential expansion, healthcare development, retail investment, and proximity to the Tampa Bay region. Continued population growth supports strong demand across multiple industries.",
+      "population": "682051"
+    },
+    "Pinellas County": {
+      "description": "Pinellas County is a major economic center on Florida's Gulf Coast, anchored by tourism, healthcare, technology, finance, and professional services. Its dense population, coastal attractions, and business activity make it one of the state's most valuable local markets.",
+      "population": "975280"
+    },
+    "Polk County": {
+      "description": "Polk County occupies a strategic position between Tampa and Orlando and supports a diverse economy driven by logistics, agriculture, healthcare, manufacturing, and residential development. Rapid growth continues to strengthen its regional influence.",
+      "population": "818330"
+    },
+    "Putnam County": {
+      "description": "Putnam County combines agricultural production, healthcare services, manufacturing, and outdoor recreation opportunities within a growing North Florida economy. Local businesses and public services contribute to long-term economic stability.",
+      "population": "75082"
+    },
+    "St. Johns County": {
+      "description": "St. Johns County is one of Florida's most affluent and fastest-growing counties, supported by tourism, healthcare, education, construction, and professional services. Its strong quality of life continues to attract residents and business investment.",
+      "population": "330380"
+    },
+    "St. Lucie County": {
+      "description": "St. Lucie County benefits from residential growth, healthcare expansion, tourism, and logistics activity along Florida's Treasure Coast. Continued development has strengthened its position as an important regional economic center.",
+      "population": "375751"
+    },
+    "Santa Rosa County": {
+      "description": "Santa Rosa County combines military-related employment, tourism, healthcare, and residential growth within the Florida Panhandle. Its expanding communities and business-friendly environment contribute to sustained economic development.",
+      "population": "207105"
+    },
+    "Sarasota County": {
+      "description": "Sarasota County is internationally known for its tourism industry, cultural attractions, healthcare services, and coastal communities. Hospitality, real estate, professional services, and healthcare drive a diverse and prosperous local economy.",
+      "population": "462569"
+    },
+    "Seminole County": {
+      "description": "Seminole County is a highly developed Central Florida county supporting technology, healthcare, finance, education, and professional services. Its location within the Orlando metropolitan area contributes to continued residential and commercial growth.",
+      "population": "489462"
+    },
+    "Sumter County": {
+      "description": "Sumter County has experienced significant population growth due to retirement communities, healthcare development, construction, and service-based industries. Residential expansion continues to drive economic activity throughout the county.",
+      "population": "152754"
+    },
+    "Suwannee County": {
+      "description": "Suwannee County is known for its agricultural production, natural springs, outdoor recreation opportunities, and strong rural communities. Farming, healthcare, tourism, and local businesses contribute significantly to the county's economy.",
+      "population": "47092"
+    },
+    "Taylor County": {
+      "description": "Taylor County supports a diverse economy based on forestry, manufacturing, fishing, agriculture, and outdoor recreation. Its natural resources and Gulf Coast location continue to provide economic opportunities throughout the region.",
+      "population": "21943"
+    },
+    "Union County": {
+      "description": "Union County is a small North Florida county characterized by agriculture, public sector employment, healthcare services, and local commerce. Community-focused businesses and government services play important roles in the local economy.",
+      "population": "16412"
+    },
+    "Volusia County": {
+      "description": "Volusia County is a major tourism and economic center along Florida's Atlantic Coast, known for its beaches, motorsports attractions, healthcare sector, higher education institutions, and growing business community. Tourism and professional services contribute substantially to economic growth.",
+      "population": "611104"
+    },
+    "Wakulla County": {
+      "description": "Wakulla County features coastal resources, natural attractions, tourism opportunities, and growing residential communities. Hospitality, healthcare, government services, and outdoor recreation support the county's economy.",
+      "population": "36217"
+    },
+    "Walton County": {
+      "description": "Walton County is one of Florida's fastest-growing tourism destinations, supported by luxury coastal communities, hospitality businesses, real estate development, and professional services. Visitor spending plays a major role in the local economy.",
+      "population": "95384"
+    },
+    "Washington County": {
+      "description": "Washington County combines agricultural production, forestry resources, manufacturing, and local commerce within Florida's Panhandle region. Farming and small businesses remain important contributors to economic activity throughout the county.",
+      "population": "26192"
+    }
+  }
 }

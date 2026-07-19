@@ -1,1246 +1,1027 @@
 {
-"Anderson County": {
-  "description": "Anderson County supports a diversified economy based on healthcare services, manufacturing, agriculture, transportation, retail development, and professional services. Its regional employers contribute significantly to workforce opportunities and economic growth throughout the county.",
-  "population": "58458"
-},
-
-"Andrews County": {
-  "description": "Andrews County is an important economic center in West Texas, driven by energy production, healthcare services, transportation, manufacturing, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "18705"
-},
-
-"Angelina County": {
-  "description": "Angelina County is one of East Texas's strongest economic centers, supported by healthcare, manufacturing, forestry-related industries, education, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce growth and regional business activity.",
-  "population": "86395"
-},
-
-"Aransas County": {
-  "description": "Aransas County benefits from tourism, healthcare services, hospitality, maritime industries, retail development, and professional services. Visitor spending and coastal economic activity contribute substantially to employment and business growth throughout the county.",
-  "population": "23510"
-},
-
-"Archer County": {
-  "description": "Archer County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
-  "population": "8553"
-},
-
-"Armstrong County": {
-  "description": "Armstrong County maintains a rural economy centered on ranching, agriculture, energy production, healthcare services, transportation, and local commerce. Livestock operations and natural resources contribute significantly to economic growth throughout the county.",
-  "population": "1848"
-},
-
-"Atascosa County": {
-  "description": "Atascosa County is one of South Texas's growing economic centers, supported by energy production, healthcare services, agriculture, logistics, manufacturing, and residential development. Its proximity to San Antonio contributes substantially to workforce growth and business investment.",
-  "population": "52084"
-},
-
-"Austin County": {
-  "description": "Austin County supports an economy driven by agriculture, manufacturing, healthcare services, tourism, transportation, and professional services. Its strategic location between Houston and Austin contributes significantly to regional economic development.",
-  "population": "32143"
-},
-
-"Bailey County": {
-  "description": "Bailey County benefits from agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations remain a major contributor to economic activity and workforce opportunities throughout the county.",
-  "population": "6699"
-},
-
-"Bandera County": {
-  "description": "Bandera County supports a diversified economy based on tourism, healthcare services, hospitality, agriculture, retail activity, and local business development. Visitor spending and regional commerce contribute significantly to economic growth throughout the county.",
-  "population": "20851"
-},
-"Bastrop County": {
-  "description": "Bastrop County is one of Central Texas's fastest-growing economic centers, supported by healthcare services, technology, manufacturing, professional services, retail development, and residential expansion. Its proximity to Austin contributes substantially to workforce growth and business investment.",
-  "population": "102168"
-},
-
-"Baylor County": {
-  "description": "Baylor County supports a rural economy based on agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "3353"
-},
-
-"Bee County": {
-  "description": "Bee County benefits from healthcare services, education, agriculture, transportation, manufacturing, and retail development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "31396"
-},
-
-"Bell County": {
-  "description": "Bell County is one of Central Texas's largest economic centers, driven by military-related industries, healthcare services, logistics, higher education, professional services, retail development, and residential growth. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "389347"
-},
-
-"Bexar County": {
-  "description": "Bexar County is one of Texas's largest economic centers and home to San Antonio. Healthcare, military-related industries, finance, technology, tourism, logistics, professional services, and corporate headquarters drive a highly diversified economy supporting substantial employment and business growth.",
-  "population": "2126658"
-},
-
-"Blanco County": {
-  "description": "Blanco County supports a diversified economy based on tourism, healthcare services, agriculture, hospitality, retail activity, and professional services. Visitor spending and regional business development contribute significantly to economic activity throughout the county.",
-  "population": "12822"
-},
-
-"Borden County": {
-  "description": "Borden County maintains a rural economy centered on ranching, agriculture, energy production, healthcare services, transportation, and local commerce. Livestock operations and natural resources contribute significantly to economic growth throughout the county.",
-  "population": "631"
-},
-
-"Bosque County": {
-  "description": "Bosque County benefits from agriculture, manufacturing, healthcare services, tourism, transportation, and local business development. Farming operations and visitor-related industries contribute substantially to workforce opportunities and economic activity.",
-  "population": "18783"
-},
-
-"Bowie County": {
-  "description": "Bowie County serves as an important economic center in Northeast Texas, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
-  "population": "92565"
-},
-
-"Brazoria County": {
-  "description": "Brazoria County is one of Texas's strongest economic centers, supported by energy production, petrochemicals, healthcare services, manufacturing, logistics, professional services, and residential development. Its location within the Houston metropolitan area drives substantial workforce growth and business investment.",
-  "population": "395478"
-},
-"Brazos County": {
-  "description": "Brazos County is one of Texas's leading education and innovation economies, anchored by higher education, healthcare services, technology, research, professional services, retail development, and residential growth. Its knowledge-based economy contributes substantially to workforce development and business investment.",
-  "population": "241028"
-},
-
-"Brewster County": {
-  "description": "Brewster County supports a diversified economy based on tourism, higher education, healthcare services, hospitality, transportation, and local commerce. Visitor spending and educational institutions contribute significantly to economic activity throughout the county.",
-  "population": "9203"
-},
-
-"Briscoe County": {
-  "description": "Briscoe County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock production remain primary contributors to economic growth throughout the county.",
-  "population": "1435"
-},
-
-"Brooks County": {
-  "description": "Brooks County benefits from agriculture, energy-related industries, healthcare services, transportation, retail activity, and local business development. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "7069"
-},
-
-"Brown County": {
-  "description": "Brown County serves as an important economic center in Central Texas, supported by healthcare services, manufacturing, education, agriculture, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "37864"
-},
-
-"Burleson County": {
-  "description": "Burleson County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local commerce. Its strategic location contributes substantially to economic development and workforce opportunities.",
-  "population": "18443"
-},
-
-"Burnet County": {
-  "description": "Burnet County is one of Central Texas's fastest-growing counties, driven by tourism, healthcare services, construction, professional services, retail development, and residential expansion. Its proximity to the Austin metropolitan area supports substantial business investment and workforce growth.",
-  "population": "55119"
-},
-
-"Caldwell County": {
-  "description": "Caldwell County is a rapidly growing economic center in Central Texas, supported by manufacturing, logistics, healthcare services, professional services, retail development, and residential growth. Its location near Austin contributes significantly to business expansion and workforce opportunities.",
-  "population": "49853"
-},
-
-"Calhoun County": {
-  "description": "Calhoun County benefits from energy-related industries, maritime commerce, healthcare services, manufacturing, transportation, and professional services. Coastal industries and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "20220"
-},
-
-"Callahan County": {
-  "description": "Callahan County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute substantially to workforce opportunities and economic growth.",
-  "population": "13943"
-},
-"Cameron County": {
-  "description": "Cameron County is one of South Texas's largest economic centers, driven by healthcare services, international trade, logistics, tourism, education, professional services, and retail development. Its border location contributes substantially to workforce growth and business investment.",
-  "population": "425163"
-},
-
-"Camp County": {
-  "description": "Camp County supports a diversified economy based on healthcare services, agriculture, manufacturing, transportation, retail activity, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "13094"
-},
-
-"Carson County": {
-  "description": "Carson County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and manufacturing. Natural resources and farming operations contribute significantly to workforce opportunities and economic growth.",
-  "population": "5807"
-},
-
-"Cass County": {
-  "description": "Cass County supports an economy driven by agriculture, forestry, healthcare services, manufacturing, transportation, and local business development. Farming operations and regional industries contribute substantially to economic activity throughout the county.",
-  "population": "28694"
-},
-
-"Castro County": {
-  "description": "Castro County maintains a strong agricultural economy centered on farming, livestock production, agribusiness, healthcare services, transportation, and food processing. Agricultural operations remain a primary contributor to economic growth throughout the county.",
-  "population": "7537"
-},
-
-"Chambers County": {
-  "description": "Chambers County is one of the fastest-growing economic centers in the Houston region, supported by energy production, petrochemicals, logistics, healthcare services, manufacturing, and residential development. Its strategic location drives substantial business investment and workforce expansion.",
-  "population": "50049"
-},
-
-"Cherokee County": {
-  "description": "Cherokee County benefits from healthcare services, manufacturing, agriculture, transportation, forestry-related industries, and retail development. Its diversified economy contributes significantly to regional employment and economic development.",
-  "population": "52103"
-},
-
-"Childress County": {
-  "description": "Childress County serves as an important regional hub in the Texas Panhandle, supported by healthcare services, transportation, agriculture, logistics, retail development, and professional services. Its diversified economy contributes substantially to workforce opportunities and business growth.",
-  "population": "6907"
-},
-
-"Clay County": {
-  "description": "Clay County supports a diversified economy based on agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "10394"
-},
-
-"Cochran County": {
-  "description": "Cochran County maintains a rural economy centered on agriculture, energy production, healthcare services, transportation, agribusiness, and local business activity. Farming operations remain a major contributor to economic growth throughout the county.",
-  "population": "2547"
-},
-"Coke County": {
-  "description": "Coke County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
-  "population": "3338"
-},
-
-"Coleman County": {
-  "description": "Coleman County benefits from agriculture, ranching, healthcare services, energy-related industries, transportation, and local business development. Livestock production and regional employers contribute substantially to workforce opportunities and economic growth.",
-  "population": "7900"
-},
-
-"Collin County": {
-  "description": "Collin County is one of the fastest-growing and most affluent economic centers in the United States, driven by technology, finance, healthcare, telecommunications, professional services, corporate headquarters, retail development, and residential expansion. Its location within the Dallas–Fort Worth metropolitan area supports substantial business investment and workforce growth.",
-  "population": "1165920"
-},
-
-"Collingsworth County": {
-  "description": "Collingsworth County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations remain primary contributors to economic activity throughout the county.",
-  "population": "2920"
-},
-
-"Colorado County": {
-  "description": "Colorado County supports a diversified economy based on manufacturing, agriculture, healthcare services, transportation, energy-related industries, and professional services. Its strategic location contributes significantly to regional economic development.",
-  "population": "20967"
-},
-
-"Comal County": {
-  "description": "Comal County is one of Texas's fastest-growing counties, supported by healthcare services, tourism, professional services, construction, retail development, and residential growth. Its location between Austin and San Antonio contributes substantially to workforce expansion and business investment.",
-  "population": "188995"
-},
-
-"Comanche County": {
-  "description": "Comanche County benefits from agriculture, healthcare services, manufacturing, transportation, energy-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "13484"
-},
-
-"Concho County": {
-  "description": "Concho County supports an economy driven by agriculture, ranching, healthcare services, transportation, energy production, and local business activity. Natural resources and livestock operations contribute substantially to economic growth throughout the county.",
-  "population": "3226"
-},
-
-"Cooke County": {
-  "description": "Cooke County is a growing economic center in North Texas, supported by manufacturing, healthcare services, logistics, agriculture, professional services, and retail development. Its strategic location contributes significantly to business growth and workforce opportunities.",
-  "population": "43653"
-},
-
-"Coryell County": {
-  "description": "Coryell County serves as an important economic center in Central Texas, driven by military-related industries, healthcare services, logistics, manufacturing, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "83609"
-},
-"Cottle County": {
-  "description": "Cottle County supports a rural economy based on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations remain primary contributors to economic activity throughout the county.",
-  "population": "1398"
-},
-
-"Crane County": {
-  "description": "Crane County is an important energy-producing economy in West Texas, supported by oil and gas development, healthcare services, transportation, professional services, construction, and local commerce. Energy-related industries contribute significantly to employment and economic growth.",
-  "population": "4797"
-},
-
-"Crockett County": {
-  "description": "Crockett County benefits from energy production, ranching, healthcare services, transportation, agribusiness, and local business development. Natural resources and livestock operations contribute substantially to economic activity throughout the county.",
-  "population": "3362"
-},
-
-"Crosby County": {
-  "description": "Crosby County supports a diversified economy based on agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local commerce. Farming operations remain a major contributor to workforce opportunities and economic development.",
-  "population": "5547"
-},
-
-"Culberson County": {
-  "description": "Culberson County maintains a rural economy centered on tourism, transportation, energy-related industries, healthcare services, ranching, and local commerce. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "2148"
-},
-
-"Dallam County": {
-  "description": "Dallam County supports a strong agricultural economy driven by farming, livestock production, agribusiness, food processing, healthcare services, and transportation. Agricultural industries contribute substantially to employment and regional economic growth.",
-  "population": "7067"
-},
-
-"Dallas County": {
-  "description": "Dallas County is one of the largest economic centers in the United States, driven by finance, technology, healthcare, telecommunications, logistics, professional services, corporate headquarters, real estate, and retail development. Its highly diversified economy supports substantial business investment, innovation, and workforce growth.",
-  "population": "2613539"
-},
-
-"Dawson County": {
-  "description": "Dawson County benefits from agriculture, energy production, healthcare services, transportation, manufacturing, and local business development. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "12728"
-},
-
-"Deaf Smith County": {
-  "description": "Deaf Smith County is an important agricultural and food-processing center in the Texas Panhandle, supported by farming, livestock production, manufacturing, healthcare services, transportation, and agribusiness. Its diversified economy contributes substantially to regional employment and business growth.",
-  "population": "18375"
-},
-
-"Delta County": {
-  "description": "Delta County supports an economy driven by agriculture, healthcare services, transportation, retail activity, agribusiness, and local commerce. Farming operations and community businesses contribute significantly to economic development throughout the county.",
-  "population": "5283"
-},
-"Denton County": {
-  "description": "Denton County is one of the fastest-growing economic centers in Texas, driven by technology, healthcare, higher education, finance, professional services, logistics, retail development, and corporate investment. Its location within the Dallas–Fort Worth metropolitan area supports substantial workforce growth and business expansion.",
-  "population": "1025406"
-},
-
-"DeWitt County": {
-  "description": "DeWitt County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "19620"
-},
-
-"Dickens County": {
-  "description": "Dickens County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock production remains a major contributor to economic growth throughout the county.",
-  "population": "1765"
-},
-
-"Dimmit County": {
-  "description": "Dimmit County benefits from energy production, agriculture, healthcare services, transportation, retail activity, and professional services. Oil and gas development contributes substantially to employment opportunities and economic growth throughout the county.",
-  "population": "9430"
-},
-
-"Donley County": {
-  "description": "Donley County supports an economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations contribute significantly to economic activity throughout the county.",
-  "population": "3278"
-},
-
-"Duval County": {
-  "description": "Duval County combines energy-related industries, agriculture, healthcare services, transportation, retail development, and local business activity. Natural resources and regional employers contribute substantially to workforce opportunities and economic development.",
-  "population": "9846"
-},
-
-"Eastland County": {
-  "description": "Eastland County serves as an important regional economic center, supported by healthcare services, energy production, agriculture, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "17810"
-},
-
-"Ector County": {
-  "description": "Ector County is one of West Texas's largest economic centers and home to Odessa. Energy production, healthcare services, logistics, professional services, construction, manufacturing, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "165171"
-},
-
-"Edwards County": {
-  "description": "Edwards County maintains a rural economy centered on ranching, agriculture, tourism, healthcare services, transportation, and local commerce. Livestock operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "1422"
-},
-
-"Ellis County": {
-  "description": "Ellis County is one of the fastest-growing counties in North Texas, supported by manufacturing, logistics, healthcare services, professional services, retail development, and residential expansion. Its location within the Dallas–Fort Worth metropolitan area contributes substantially to workforce growth and business investment.",
-  "population": "214380"
-},
-"El Paso County": {
-  "description": "El Paso County is one of Texas's largest economic centers, driven by international trade, healthcare, military-related industries, logistics, manufacturing, higher education, professional services, and retail development. Its border location supports substantial business investment, workforce growth, and regional economic activity.",
-  "population": "868859"
-},
-
-"Erath County": {
-  "description": "Erath County serves as an important economic center in North Central Texas, supported by agriculture, higher education, healthcare services, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "43075"
-},
-
-"Falls County": {
-  "description": "Falls County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "16855"
-},
-
-"Fannin County": {
-  "description": "Fannin County is a growing economic center in North Texas, supported by healthcare services, agriculture, manufacturing, logistics, professional services, and residential development. Its strategic location contributes substantially to workforce opportunities and business investment.",
-  "population": "38521"
-},
-
-"Fayette County": {
-  "description": "Fayette County benefits from agriculture, tourism, manufacturing, healthcare services, transportation, and professional services. Its location between major Texas metros contributes significantly to economic development and regional business activity.",
-  "population": "24831"
-},
-
-"Fisher County": {
-  "description": "Fisher County maintains a rural economy centered on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute significantly to economic growth throughout the county.",
-  "population": "3645"
-},
-
-"Floyd County": {
-  "description": "Floyd County supports an economy driven by agriculture, agribusiness, healthcare services, transportation, food processing, and local business development. Farming operations remain a major contributor to workforce opportunities and economic activity.",
-  "population": "5568"
-},
-
-"Foard County": {
-  "description": "Foard County benefits from agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "1136"
-},
-
-"Fort Bend County": {
-  "description": "Fort Bend County is one of Texas's fastest-growing and most affluent economic centers, supported by healthcare, energy-related industries, technology, finance, professional services, logistics, retail development, and residential expansion. Its location within the Houston metropolitan area drives substantial business investment and workforce growth.",
-  "population": "858112"
-},
-
-"Franklin County": {
-  "description": "Franklin County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, retail activity, and local commerce. Farming operations and regional employers contribute significantly to economic development throughout the county.",
-  "population": "10852"
-},
-"Freestone County": {
-  "description": "Freestone County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, manufacturing, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
-  "population": "19816"
-},
-
-"Frio County": {
-  "description": "Frio County benefits from agriculture, energy-related industries, healthcare services, transportation, retail activity, and local business development. Farming operations and regional employers contribute substantially to workforce opportunities and economic growth.",
-  "population": "18410"
-},
-
-"Gaines County": {
-  "description": "Gaines County is one of West Texas's strongest energy and agricultural economies, driven by oil and gas production, farming, agribusiness, healthcare services, transportation, and manufacturing. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "22459"
-},
-
-"Galveston County": {
-  "description": "Galveston County is one of Texas's major coastal economic centers, supported by healthcare, tourism, maritime industries, logistics, higher education, professional services, retail development, and energy-related businesses. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "350682"
-},
-
-"Garza County": {
-  "description": "Garza County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "5816"
-},
-
-"Gillespie County": {
-  "description": "Gillespie County is one of Texas Hill Country's strongest tourism and hospitality economies, supported by tourism, healthcare services, agriculture, wineries, professional services, retail development, and residential growth. Visitor spending contributes substantially to business investment and workforce opportunities.",
-  "population": "27297"
-},
-
-"Glasscock County": {
-  "description": "Glasscock County maintains a rural economy centered on energy production, ranching, healthcare services, transportation, agribusiness, and local commerce. Oil and gas development contributes significantly to economic growth throughout the county.",
-  "population": "1116"
-},
-
-"Goliad County": {
-  "description": "Goliad County benefits from agriculture, tourism, healthcare services, energy-related industries, transportation, and local business development. Historic attractions and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "7585"
-},
-
-"Gonzales County": {
-  "description": "Gonzales County supports a diversified economy based on energy production, agriculture, manufacturing, healthcare services, transportation, and professional services. Its strategic location contributes significantly to workforce opportunities and regional economic development.",
-  "population": "20637"
-},
-
-"Gray County": {
-  "description": "Gray County serves as an important economic center in the Texas Panhandle, supported by energy production, healthcare services, manufacturing, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "21971"
-},
-"Grayson County": {
-  "description": "Grayson County is one of North Texas's fastest-growing economic centers, supported by manufacturing, healthcare services, logistics, higher education, professional services, retail development, and residential expansion. Its strategic location contributes substantially to workforce growth and business investment.",
-  "population": "145894"
-},
-
-"Gregg County": {
-  "description": "Gregg County is a major economic center in East Texas, driven by healthcare, manufacturing, energy-related industries, logistics, professional services, retail development, and education. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "124239"
-},
-
-"Grimes County": {
-  "description": "Grimes County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local commerce. Its growing business community contributes substantially to economic development and workforce opportunities.",
-  "population": "31510"
-},
-
-"Guadalupe County": {
-  "description": "Guadalupe County is one of the fastest-growing counties in Texas, supported by healthcare, manufacturing, logistics, professional services, retail development, and residential growth. Its location within the San Antonio metropolitan area drives substantial business investment and workforce expansion.",
-  "population": "193999"
-},
-
-"Hale County": {
-  "description": "Hale County serves as an important agricultural and manufacturing center in the Texas Panhandle, supported by farming, agribusiness, healthcare services, transportation, education, and professional services. Its diversified economy contributes significantly to regional employment and business activity.",
-  "population": "32452"
-},
-
-"Hall County": {
-  "description": "Hall County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations remain primary contributors to economic growth throughout the county.",
-  "population": "2825"
-},
-
-"Hamilton County": {
-  "description": "Hamilton County benefits from agriculture, healthcare services, manufacturing, tourism, transportation, and local business development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "8547"
-},
-
-"Hansford County": {
-  "description": "Hansford County supports an economy driven by agriculture, energy production, agribusiness, healthcare services, transportation, and local commerce. Natural resources and farming operations contribute substantially to workforce opportunities and economic development.",
-  "population": "5399"
-},
-
-"Hardeman County": {
-  "description": "Hardeman County combines agriculture, ranching, healthcare services, transportation, energy-related industries, and local business activity. Farming operations and natural resources contribute significantly to economic growth throughout the county.",
-  "population": "3658"
-},
-
-"Hardin County": {
-  "description": "Hardin County is a growing economic center in Southeast Texas, supported by healthcare services, manufacturing, logistics, energy-related industries, professional services, retail development, and residential growth. Its proximity to the Beaumont and Houston markets contributes substantially to business investment and workforce expansion.",
-  "population": "60316"
-},
-"Harris County": {
-  "description": "Harris County is Texas's largest economic center and home to Houston. Energy, healthcare, aerospace, finance, technology, logistics, manufacturing, professional services, international trade, and corporate headquarters drive a highly diversified economy supporting substantial employment, innovation, and business investment.",
-  "population": "4831139"
-},
-
-"Harrison County": {
-  "description": "Harrison County supports a diversified economy based on healthcare services, manufacturing, transportation, education, professional services, and retail development. Its strategic location contributes significantly to workforce opportunities and regional economic growth.",
-  "population": "69435"
-},
-
-"Hartley County": {
-  "description": "Hartley County maintains a rural economy centered on agriculture, ranching, agribusiness, healthcare services, transportation, and energy-related industries. Livestock and farming operations contribute substantially to economic activity throughout the county.",
-  "population": "5576"
-},
-
-"Haskell County": {
-  "description": "Haskell County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute significantly to workforce opportunities and economic development.",
-  "population": "5448"
-},
-
-"Hays County": {
-  "description": "Hays County is one of the fastest-growing counties in the United States, driven by healthcare, higher education, technology, professional services, retail development, tourism, and residential expansion. Its location within the Austin–San Antonio corridor supports substantial business investment and workforce growth.",
-  "population": "277359"
-},
-
-"Hemphill County": {
-  "description": "Hemphill County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local business development. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "3782"
-},
-
-"Henderson County": {
-  "description": "Henderson County is an important economic center in East Texas, supported by healthcare services, manufacturing, tourism, retail development, professional services, and residential growth. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "84010"
-},
-
-"Hidalgo County": {
-  "description": "Hidalgo County is one of Texas's largest and fastest-growing economic centers, anchored by healthcare, international trade, logistics, education, professional services, retail development, and manufacturing. Its border location contributes substantially to workforce growth and regional business activity.",
-  "population": "890490"
-},
-
-"Hill County": {
-  "description": "Hill County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "37426"
-},
-
-"Hockley County": {
-  "description": "Hockley County benefits from agriculture, energy production, healthcare services, manufacturing, transportation, and agribusiness. Natural resources and farming operations contribute substantially to workforce opportunities and economic development throughout the county.",
-  "population": "21612"
-},
-"Hood County": {
-  "description": "Hood County is a growing economic center in North Texas, supported by healthcare services, tourism, professional services, retail development, construction, and residential expansion. Its proximity to the Dallas–Fort Worth region contributes substantially to workforce growth and business investment.",
-  "population": "67000"
-},
-
-"Hopkins County": {
-  "description": "Hopkins County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and retail development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "38220"
-},
-
-"Houston County": {
-  "description": "Houston County benefits from agriculture, forestry-related industries, healthcare services, manufacturing, transportation, and local commerce. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
-  "population": "22900"
-},
-
-"Howard County": {
-  "description": "Howard County serves as an important economic center in West Texas, supported by energy production, healthcare services, manufacturing, logistics, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business investment.",
-  "population": "36640"
-},
-
-"Hudspeth County": {
-  "description": "Hudspeth County maintains a rural economy centered on transportation, energy-related industries, ranching, healthcare services, tourism, and local commerce. Natural resources and strategic transportation corridors contribute significantly to economic activity throughout the county.",
-  "population": "3200"
-},
-
-"Hunt County": {
-  "description": "Hunt County is one of the fastest-growing counties in Northeast Texas, driven by healthcare services, manufacturing, logistics, professional services, retail development, and residential growth. Its proximity to the Dallas metropolitan area supports substantial workforce expansion and business investment.",
-  "population": "108152"
-},
-
-"Hutchinson County": {
-  "description": "Hutchinson County benefits from energy production, manufacturing, healthcare services, transportation, professional services, and retail activity. Natural resource industries contribute significantly to workforce opportunities and economic development throughout the county.",
-  "population": "20585"
-},
-
-"Irion County": {
-  "description": "Irion County supports an economy driven by ranching, agriculture, energy production, healthcare services, transportation, and local business activity. Livestock operations and natural resources contribute substantially to economic growth throughout the county.",
-  "population": "1513"
-},
-
-"Jack County": {
-  "description": "Jack County combines agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
-  "population": "8645"
-},
-
-"Jackson County": {
-  "description": "Jackson County supports a diversified economy based on agriculture, manufacturing, energy-related industries, healthcare services, transportation, and professional services. Its strong business community contributes substantially to workforce opportunities and regional economic growth.",
-  "population": "14530"
-},
-"Jasper County": {
-  "description": "Jasper County supports a diversified economy based on forestry-related industries, healthcare services, manufacturing, transportation, tourism, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "35649"
-},
-
-"Jeff Davis County": {
-  "description": "Jeff Davis County benefits from tourism, ranching, healthcare services, hospitality, transportation, and local business development. Visitor spending and natural attractions contribute substantially to workforce opportunities and economic growth.",
-  "population": "2211"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County is one of Southeast Texas's largest economic centers, driven by energy production, petrochemicals, healthcare services, manufacturing, logistics, professional services, and maritime commerce. Its diversified economy contributes significantly to regional employment and business investment.",
-  "population": "256526"
-},
-
-"Jim Hogg County": {
-  "description": "Jim Hogg County supports an economy based on energy production, ranching, healthcare services, transportation, retail activity, and local commerce. Natural resources and livestock operations contribute substantially to economic activity throughout the county.",
-  "population": "4860"
-},
-
-"Jim Wells County": {
-  "description": "Jim Wells County benefits from agriculture, energy-related industries, healthcare services, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
-  "population": "39482"
-},
-
-"Johnson County": {
-  "description": "Johnson County is one of the fastest-growing counties in North Texas, supported by healthcare services, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Dallas–Fort Worth growth corridor drives substantial business investment and workforce growth.",
-  "population": "198972"
-},
-
-"Jones County": {
-  "description": "Jones County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, manufacturing, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "20196"
-},
-
-"Karnes County": {
-  "description": "Karnes County is an important energy-producing county in South Texas, supported by oil and gas development, agriculture, healthcare services, transportation, manufacturing, and local business activity. Energy-related industries contribute substantially to workforce opportunities and economic growth.",
-  "population": "14900"
-},
-
-"Kaufman County": {
-  "description": "Kaufman County is one of Texas's fastest-growing economic centers, driven by healthcare services, logistics, manufacturing, professional services, retail development, and residential growth. Its proximity to Dallas supports substantial business investment and workforce expansion.",
-  "population": "172366"
-},
-
-"Kendall County": {
-  "description": "Kendall County is one of Texas's most affluent and rapidly growing counties, supported by healthcare services, professional services, tourism, retail development, construction, and residential expansion. Its location within the San Antonio metropolitan area contributes significantly to economic growth and business investment.",
-  "population": "49889"
-},
-"Kenedy County": {
-  "description": "Kenedy County supports a rural economy based on ranching, energy production, healthcare services, transportation, wildlife management, and local commerce. Natural resources and agricultural operations contribute significantly to economic activity throughout the county.",
-  "population": "350"
-},
-
-"Kent County": {
-  "description": "Kent County maintains a diversified economy centered on ranching, agriculture, energy-related industries, healthcare services, transportation, and local business activity. Livestock operations and natural resources contribute substantially to economic growth throughout the county.",
-  "population": "762"
-},
-
-"Kerr County": {
-  "description": "Kerr County is one of the Texas Hill Country's strongest economic centers, driven by healthcare services, tourism, professional services, retail development, hospitality, and residential growth. Its diversified economy contributes significantly to workforce opportunities and business investment.",
-  "population": "53466"
-},
-
-"Kimble County": {
-  "description": "Kimble County benefits from ranching, agriculture, tourism, healthcare services, transportation, and local commerce. Livestock operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "4300"
-},
-
-"King County": {
-  "description": "King County supports a rural economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local business development. Livestock production remains the primary contributor to economic growth throughout the county.",
-  "population": "265"
-},
-
-"Kinney County": {
-  "description": "Kinney County combines tourism, ranching, transportation, healthcare services, retail activity, and local commerce. Its strategic border-region location contributes substantially to workforce opportunities and economic activity.",
-  "population": "3129"
-},
-
-"Kleberg County": {
-  "description": "Kleberg County serves as an important economic center in South Texas, supported by higher education, agriculture, energy-related industries, healthcare services, manufacturing, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "30682"
-},
-
-"Knox County": {
-  "description": "Knox County supports an economy driven by agriculture, healthcare services, energy production, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute substantially to economic activity throughout the county.",
-  "population": "3353"
-},
-
-"Lamar County": {
-  "description": "Lamar County is an important economic center in Northeast Texas, anchored by healthcare services, manufacturing, transportation, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce growth and business investment.",
-  "population": "50907"
-},
-
-"Lamb County": {
-  "description": "Lamb County benefits from agriculture, food processing, healthcare services, manufacturing, transportation, and agribusiness. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "12893"
-},
-"Lampasas County": {
-  "description": "Lampasas County supports a diversified economy based on healthcare services, agriculture, tourism, retail development, professional services, and residential growth. Its strategic Central Texas location contributes significantly to workforce opportunities and economic development.",
-  "population": "22230"
-},
-
-"La Salle County": {
-  "description": "La Salle County is an important energy-producing economy in South Texas, driven by oil and gas development, healthcare services, transportation, agriculture, manufacturing, and local commerce. Energy-related industries contribute substantially to employment and business growth.",
-  "population": "6861"
-},
-
-"Lavaca County": {
-  "description": "Lavaca County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and professional services. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "20296"
-},
-
-"Lee County": {
-  "description": "Lee County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, tourism, and local business development. Its location between Austin and College Station contributes substantially to workforce opportunities and economic growth.",
-  "population": "17958"
-},
-
-"Leon County": {
-  "description": "Leon County combines agriculture, energy-related industries, healthcare services, transportation, retail activity, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
-  "population": "16184"
-},
-
-"Liberty County": {
-  "description": "Liberty County is one of the fastest-growing counties in Southeast Texas, supported by energy production, manufacturing, logistics, healthcare services, professional services, and residential expansion. Its proximity to Houston drives substantial workforce growth and business investment.",
-  "population": "106107"
-},
-
-"Limestone County": {
-  "description": "Limestone County serves as an important economic center in Central Texas, supported by manufacturing, agriculture, healthcare services, transportation, energy-related industries, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "24117"
-},
-
-"Lipscomb County": {
-  "description": "Lipscomb County maintains a rural economy centered on agriculture, ranching, energy production, healthcare services, transportation, and local commerce. Farming operations and natural resources contribute substantially to economic activity throughout the county.",
-  "population": "3238"
-},
-
-"Live Oak County": {
-  "description": "Live Oak County benefits from energy production, agriculture, healthcare services, transportation, manufacturing, and local business development. Natural resources and farming operations contribute significantly to workforce opportunities and economic growth.",
-  "population": "11742"
-},
-
-"Llano County": {
-  "description": "Llano County is one of the Texas Hill Country's strongest tourism and retirement economies, supported by healthcare services, tourism, hospitality, retail development, professional services, and real estate activity. Visitor spending contributes substantially to business investment and employment growth.",
-  "population": "22308"
-},
-"Loving County": {
-  "description": "Loving County supports a highly specialized economy centered on energy production, transportation, healthcare services, construction, and local business activity. Oil and gas development remains the primary driver of economic growth throughout the county.",
-  "population": "64"
-},
-
-"Lubbock County": {
-  "description": "Lubbock County is one of West Texas's largest economic centers, driven by healthcare, higher education, agriculture, technology, professional services, logistics, retail development, and manufacturing. Its diversified economy supports substantial employment, business investment, and regional growth.",
-  "population": "321261"
-},
-
-"Lynn County": {
-  "description": "Lynn County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
-  "population": "5732"
-},
-
-"Madison County": {
-  "description": "Madison County supports a diversified economy based on agriculture, healthcare services, transportation, manufacturing, retail activity, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "14606"
-},
-
-"Marion County": {
-  "description": "Marion County combines tourism, healthcare services, manufacturing, transportation, forestry-related industries, and local commerce. Its natural resources and business community contribute substantially to workforce opportunities and economic development.",
-  "population": "9700"
-},
-
-"Martin County": {
-  "description": "Martin County is an important energy-producing county in West Texas, supported by oil and gas development, healthcare services, transportation, construction, professional services, and local commerce. Energy-related industries contribute significantly to employment and economic growth.",
-  "population": "5767"
-},
-
-"Mason County": {
-  "description": "Mason County benefits from ranching, tourism, healthcare services, agriculture, transportation, and local business development. Livestock operations and visitor-related industries contribute substantially to economic activity throughout the county.",
-  "population": "3953"
-},
-
-"Matagorda County": {
-  "description": "Matagorda County serves as an important Gulf Coast economic center, supported by energy production, maritime industries, healthcare services, manufacturing, transportation, tourism, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "36710"
-},
-
-"Maverick County": {
-  "description": "Maverick County is a major border-region economic center in South Texas, driven by international trade, healthcare services, logistics, education, professional services, retail development, and transportation. Its strategic location contributes substantially to workforce growth and business investment.",
-  "population": "58987"
-},
-
-"McCulloch County": {
-  "description": "McCulloch County supports an economy driven by agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "7603"
-},
-"McLennan County": {
-  "description": "McLennan County is a major economic center in Central Texas and home to Waco. Healthcare, higher education, manufacturing, logistics, professional services, retail development, tourism, and technology-related industries drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "268696"
-},
-
-"McMullen County": {
-  "description": "McMullen County supports an economy driven by energy production, ranching, healthcare services, transportation, construction, and local commerce. Oil and gas development remains the primary contributor to economic activity throughout the county.",
-  "population": "598"
-},
-
-"Medina County": {
-  "description": "Medina County is one of South Texas's fastest-growing economic centers, supported by healthcare services, manufacturing, logistics, agriculture, professional services, retail development, and residential growth. Its proximity to San Antonio contributes substantially to workforce expansion and business investment.",
-  "population": "56630"
-},
-
-"Menard County": {
-  "description": "Menard County benefits from ranching, agriculture, healthcare services, tourism, transportation, and local business development. Livestock operations and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "2138"
-},
-
-"Midland County": {
-  "description": "Midland County is one of Texas's strongest economic centers, driven by energy production, finance, healthcare services, technology, professional services, construction, logistics, and corporate headquarters. Its highly diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "176832"
-},
-
-"Milam County": {
-  "description": "Milam County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "25050"
-},
-
-"Mills County": {
-  "description": "Mills County combines agriculture, ranching, healthcare services, transportation, tourism, and local commerce. Livestock operations and regional businesses contribute substantially to workforce opportunities and economic development.",
-  "population": "4493"
-},
-
-"Mitchell County": {
-  "description": "Mitchell County benefits from energy production, agriculture, healthcare services, manufacturing, transportation, and professional services. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "8628"
-},
-
-"Montague County": {
-  "description": "Montague County supports an economy driven by agriculture, energy-related industries, healthcare services, manufacturing, transportation, and local business development. Farming operations and natural resource industries contribute significantly to economic growth throughout the county.",
-  "population": "20027"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County is one of the fastest-growing and most affluent counties in Texas, supported by healthcare, energy-related industries, professional services, logistics, retail development, technology, and residential expansion. Its location within the Houston metropolitan area drives substantial business investment and workforce growth.",
-  "population": "748059"
-},
-"Moore County": {
-  "description": "Moore County is a major agricultural and energy-related economic center in the Texas Panhandle, supported by agribusiness, food processing, healthcare services, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "21724"
-},
-
-"Morris County": {
-  "description": "Morris County supports a diversified economy based on healthcare services, manufacturing, agriculture, transportation, forestry-related industries, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
-  "population": "12280"
-},
-
-"Motley County": {
-  "description": "Motley County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock operations and farming remain primary contributors to economic growth throughout the county.",
-  "population": "1063"
-},
-
-"Nacogdoches County": {
-  "description": "Nacogdoches County is one of East Texas's leading education and healthcare economies, supported by higher education, healthcare services, manufacturing, forestry-related industries, professional services, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
-  "population": "64747"
-},
-
-"Navarro County": {
-  "description": "Navarro County serves as an important economic center in North Texas, supported by manufacturing, healthcare services, logistics, agriculture, professional services, and retail development. Its strategic location contributes significantly to regional employment and business growth.",
-  "population": "54938"
-},
-
-"Newton County": {
-  "description": "Newton County benefits from forestry-related industries, healthcare services, agriculture, transportation, tourism, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "13126"
-},
-
-"Nolan County": {
-  "description": "Nolan County supports an economy driven by energy production, manufacturing, healthcare services, transportation, agriculture, and professional services. Natural resources and industrial employers contribute substantially to workforce opportunities and economic development.",
-  "population": "14554"
-},
-
-"Nueces County": {
-  "description": "Nueces County is one of South Texas's largest economic centers and home to Corpus Christi. Energy production, maritime commerce, healthcare services, logistics, manufacturing, tourism, professional services, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "353178"
-},
-
-"Ochiltree County": {
-  "description": "Ochiltree County supports a strong agricultural economy based on farming, livestock production, agribusiness, healthcare services, transportation, and energy-related industries. Agricultural operations contribute significantly to regional employment and economic growth.",
-  "population": "10479"
-},
-
-"Oldham County": {
-  "description": "Oldham County maintains a rural economy centered on ranching, agriculture, transportation, healthcare services, energy-related industries, and local commerce. Livestock operations and natural resources contribute substantially to economic activity throughout the county.",
-  "population": "1758"
-},
-"Orange County": {
-  "description": "Orange County is an important economic center in Southeast Texas, supported by energy-related industries, manufacturing, healthcare services, logistics, professional services, maritime commerce, and retail development. Its strategic Gulf Coast location contributes significantly to regional employment and business growth.",
-  "population": "84808"
-},
-
-"Palo Pinto County": {
-  "description": "Palo Pinto County benefits from tourism, energy production, healthcare services, agriculture, transportation, and local business development. Natural resources and visitor-related industries contribute substantially to workforce opportunities and economic activity.",
-  "population": "28111"
-},
-
-"Panola County": {
-  "description": "Panola County supports a diversified economy based on energy production, manufacturing, healthcare services, transportation, forestry-related industries, and professional services. Its diversified business community contributes significantly to economic growth throughout the county.",
-  "population": "23183"
-},
-
-"Parker County": {
-  "description": "Parker County is one of the fastest-growing counties in Texas, driven by healthcare services, logistics, professional services, retail development, construction, and residential expansion. Its location within the Dallas–Fort Worth metropolitan area supports substantial workforce growth and business investment.",
-  "population": "162180"
-},
-
-"Parmer County": {
-  "description": "Parmer County supports a strong agricultural economy based on farming, livestock production, agribusiness, food processing, healthcare services, and transportation. Agricultural industries contribute significantly to regional employment and economic development.",
-  "population": "9607"
-},
-
-"Pecos County": {
-  "description": "Pecos County is an important economic center in West Texas, supported by energy production, transportation, healthcare services, agriculture, logistics, and professional services. Natural resources contribute substantially to workforce opportunities and economic growth.",
-  "population": "15631"
-},
-
-"Polk County": {
-  "description": "Polk County benefits from forestry-related industries, healthcare services, manufacturing, tourism, transportation, and local commerce. Natural resources and diversified employers contribute significantly to economic activity throughout the county.",
-  "population": "53618"
-},
-
-"Potter County": {
-  "description": "Potter County is one of the Texas Panhandle's largest economic centers and home to Amarillo. Healthcare, logistics, manufacturing, energy-related industries, professional services, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "118525"
-},
-
-"Presidio County": {
-  "description": "Presidio County supports an economy driven by tourism, international trade, healthcare services, transportation, ranching, and local commerce. Its border location and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "6267"
-},
-
-"Rains County": {
-  "description": "Rains County supports a diversified economy based on healthcare services, agriculture, tourism, transportation, retail activity, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "12915"
-},
-"Randall County": {
-  "description": "Randall County is one of the Texas Panhandle's strongest economic centers, supported by healthcare services, education, manufacturing, logistics, professional services, retail development, and residential growth. Its location within the Amarillo metropolitan area contributes substantially to workforce expansion and business investment.",
-  "population": "147409"
-},
-
-"Reagan County": {
-  "description": "Reagan County is an important energy-producing economy in West Texas, driven by oil and gas development, healthcare services, transportation, construction, professional services, and local commerce. Energy-related industries contribute significantly to employment and economic growth.",
-  "population": "3385"
-},
-
-"Real County": {
-  "description": "Real County benefits from tourism, ranching, healthcare services, transportation, hospitality, and local business development. Visitor spending and agricultural operations contribute substantially to economic activity throughout the county.",
-  "population": "2758"
-},
-
-"Red River County": {
-  "description": "Red River County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, forestry-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic development throughout the county.",
-  "population": "12023"
-},
-
-"Reeves County": {
-  "description": "Reeves County is a major economic center in the West Texas energy corridor, supported by oil and gas production, logistics, healthcare services, transportation, construction, and professional services. Its diversified economy contributes substantially to workforce opportunities and business investment.",
-  "population": "14212"
-},
-
-"Refugio County": {
-  "description": "Refugio County supports an economy driven by energy production, agriculture, healthcare services, transportation, tourism, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "6895"
-},
-
-"Roberts County": {
-  "description": "Roberts County maintains a rural economy centered on ranching, energy-related industries, healthcare services, transportation, agribusiness, and local business activity. Livestock operations and natural resources contribute substantially to economic growth throughout the county.",
-  "population": "827"
-},
-
-"Robertson County": {
-  "description": "Robertson County benefits from agriculture, manufacturing, healthcare services, transportation, energy-related industries, and professional services. Its strategic Central Texas location contributes significantly to workforce opportunities and economic development.",
-  "population": "17074"
-},
-
-"Rockwall County": {
-  "description": "Rockwall County is one of the fastest-growing and most affluent counties in Texas, supported by healthcare services, finance, professional services, retail development, technology-related businesses, and residential expansion. Its location within the Dallas metropolitan area drives substantial business investment and workforce growth.",
-  "population": "123432"
-},
-
-"Runnels County": {
-  "description": "Runnels County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
-  "population": "10192"
-},
-"Rusk County": {
-  "description": "Rusk County is an important economic center in East Texas, supported by healthcare services, manufacturing, energy-related industries, transportation, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "52984"
-},
-
-"Sabine County": {
-  "description": "Sabine County benefits from forestry-related industries, tourism, healthcare services, transportation, agriculture, and local commerce. Natural resources and visitor-related businesses contribute substantially to economic activity throughout the county.",
-  "population": "10046"
-},
-
-"San Augustine County": {
-  "description": "San Augustine County supports a diversified economy based on agriculture, forestry-related industries, healthcare services, transportation, tourism, and local business development. Regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "7838"
-},
-
-"San Jacinto County": {
-  "description": "San Jacinto County is a growing economic center in Southeast Texas, supported by healthcare services, tourism, construction, transportation, retail development, and residential expansion. Its proximity to the Houston region contributes substantially to economic development and workforce growth.",
-  "population": "30889"
-},
-
-"San Patricio County": {
-  "description": "San Patricio County is one of South Texas's strongest industrial economies, driven by energy production, manufacturing, maritime commerce, healthcare services, logistics, professional services, and transportation. Its proximity to Corpus Christi contributes significantly to business investment and workforce expansion.",
-  "population": "68610"
-},
-
-"San Saba County": {
-  "description": "San Saba County benefits from agriculture, ranching, healthcare services, tourism, transportation, and local commerce. Farming operations and visitor-related industries contribute substantially to economic activity throughout the county.",
-  "population": "5956"
-},
-
-"Schleicher County": {
-  "description": "Schleicher County supports a rural economy centered on ranching, agriculture, energy-related industries, healthcare services, transportation, and local business activity. Livestock operations and natural resources contribute significantly to economic growth throughout the county.",
-  "population": "2790"
-},
-
-"Scurry County": {
-  "description": "Scurry County is an important economic center in West Texas, supported by energy production, healthcare services, manufacturing, transportation, education, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
-  "population": "16578"
-},
-
-"Shackelford County": {
-  "description": "Shackelford County maintains a diversified economy based on ranching, agriculture, healthcare services, tourism, transportation, and local commerce. Livestock operations and visitor-related industries contribute substantially to economic activity throughout the county.",
-  "population": "3105"
-},
-
-"Shelby County": {
-  "description": "Shelby County supports an economy driven by forestry-related industries, manufacturing, healthcare services, transportation, agriculture, and local business development. Natural resources and regional employers contribute significantly to workforce opportunities and economic growth.",
-  "population": "24824"
-},
-"Sherman County": {
-  "description": "Sherman County supports a strong agricultural economy based on farming, livestock production, agribusiness, healthcare services, transportation, and energy-related industries. Agricultural operations contribute significantly to economic activity throughout the county.",
-  "population": "2785"
-},
-
-"Smith County": {
-  "description": "Smith County is one of East Texas's largest economic centers and home to Tyler. Healthcare, manufacturing, education, professional services, logistics, retail development, and technology-related industries drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "245871"
-},
-
-"Somervell County": {
-  "description": "Somervell County benefits from tourism, healthcare services, retail development, professional services, construction, and local commerce. Visitor spending and residential growth contribute substantially to workforce opportunities and economic development.",
-  "population": "9598"
-},
-
-"Starr County": {
-  "description": "Starr County is an important economic center in the Rio Grande Valley, supported by healthcare services, international trade, education, transportation, professional services, retail development, and agriculture. Its border-region economy contributes significantly to workforce growth and business activity.",
-  "population": "67385"
-},
-
-"Stephens County": {
-  "description": "Stephens County supports a diversified economy based on energy production, agriculture, healthcare services, manufacturing, transportation, and professional services. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "9164"
-},
-
-"Sterling County": {
-  "description": "Sterling County maintains a rural economy centered on ranching, energy-related industries, healthcare services, transportation, agribusiness, and local business activity. Livestock operations and natural resources contribute substantially to economic growth throughout the county.",
-  "population": "1311"
-},
-
-"Stonewall County": {
-  "description": "Stonewall County supports an economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations and livestock production contribute significantly to economic activity throughout the county.",
-  "population": "1205"
-},
-
-"Sutton County": {
-  "description": "Sutton County benefits from energy production, ranching, healthcare services, transportation, tourism, and local business development. Natural resources and agricultural operations contribute substantially to workforce opportunities and economic growth.",
-  "population": "3470"
-},
-
-"Swisher County": {
-  "description": "Swisher County supports a diversified agricultural economy based on farming, agribusiness, food processing, healthcare services, transportation, and manufacturing. Agricultural industries contribute significantly to regional employment and business development.",
-  "population": "7327"
-},
-
-"Tarrant County": {
-  "description": "Tarrant County is one of Texas's largest economic centers and home to Fort Worth. Aerospace, healthcare, finance, logistics, manufacturing, technology, professional services, and corporate headquarters drive a highly diversified economy supporting substantial employment, innovation, and business investment.",
-  "population": "2188638"
-},
-"Taylor County": {
-  "description": "Taylor County is one of West Texas's leading economic centers and home to Abilene. Healthcare, higher education, military-related industries, manufacturing, professional services, logistics, retail development, and technology-related businesses drive a diversified economy supporting substantial employment and business investment.",
-  "population": "146836"
-},
-
-"Terrell County": {
-  "description": "Terrell County supports a rural economy based on ranching, energy production, healthcare services, transportation, tourism, and local commerce. Natural resources and livestock operations contribute significantly to economic activity throughout the county.",
-  "population": "760"
-},
-
-"Terry County": {
-  "description": "Terry County benefits from agriculture, energy-related industries, healthcare services, manufacturing, transportation, and agribusiness. Farming operations and natural resource development contribute substantially to workforce opportunities and economic growth.",
-  "population": "12340"
-},
-
-"Throckmorton County": {
-  "description": "Throckmorton County maintains a diversified rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock operations remain a primary contributor to economic development throughout the county.",
-  "population": "1440"
-},
-
-"Titus County": {
-  "description": "Titus County is an important economic center in Northeast Texas, supported by manufacturing, healthcare services, logistics, agriculture, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "32540"
-},
-
-"Tom Green County": {
-  "description": "Tom Green County is one of West Texas's largest economic centers and home to San Angelo. Healthcare, education, military-related industries, manufacturing, professional services, logistics, retail development, and finance drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "121883"
-},
-
-"Travis County": {
-  "description": "Travis County is one of the strongest economic centers in the United States and home to Austin. Technology, healthcare, higher education, finance, professional services, government, startups, corporate headquarters, and advanced manufacturing drive a highly diversified economy supporting substantial innovation, workforce growth, and business investment.",
-  "population": "1335898"
-},
-
-"Trinity County": {
-  "description": "Trinity County supports an economy driven by forestry-related industries, healthcare services, agriculture, tourism, transportation, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "14585"
-},
-
-"Tyler County": {
-  "description": "Tyler County benefits from forestry-related industries, healthcare services, manufacturing, transportation, tourism, and local business development. Natural resources and diversified employers contribute substantially to workforce opportunities and economic growth.",
-  "population": "20150"
-},
-
-"Upshur County": {
-  "description": "Upshur County supports a diversified economy based on healthcare services, manufacturing, transportation, forestry-related industries, retail development, and professional services. Its growing business community contributes significantly to regional economic development.",
-  "population": "41892"
-},
-"Upton County": {
-  "description": "Upton County supports an economy driven by energy production, healthcare services, transportation, construction, professional services, and local commerce. Oil and gas development remains the primary contributor to workforce opportunities and economic growth throughout the county.",
-  "population": "3308"
-},
-
-"Uvalde County": {
-  "description": "Uvalde County is an important economic center in South Texas, supported by healthcare services, agriculture, education, tourism, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "24664"
-},
-
-"Val Verde County": {
-  "description": "Val Verde County benefits from international trade, healthcare services, transportation, tourism, education, professional services, and retail development. Its border-region location contributes substantially to workforce opportunities and economic activity throughout the county.",
-  "population": "47384"
-},
-
-"Van Zandt County": {
-  "description": "Van Zandt County supports a diversified economy based on healthcare services, agriculture, manufacturing, transportation, retail development, and residential growth. Its strategic East Texas location contributes significantly to economic development and workforce expansion.",
-  "population": "61234"
-},
-
-"Victoria County": {
-  "description": "Victoria County is one of South Texas's strongest regional economic centers, driven by healthcare services, manufacturing, energy-related industries, logistics, professional services, retail development, and transportation. Its diversified economy contributes substantially to employment and business investment.",
-  "population": "91725"
-},
-
-"Walker County": {
-  "description": "Walker County supports a diversified economy based on higher education, healthcare services, manufacturing, transportation, professional services, retail development, and government-related employment. Educational institutions contribute significantly to workforce development and economic growth.",
-  "population": "76998"
-},
-
-"Waller County": {
-  "description": "Waller County is one of the fastest-growing counties in Southeast Texas, supported by logistics, healthcare services, manufacturing, professional services, retail development, and residential expansion. Its proximity to Houston drives substantial workforce growth and business investment.",
-  "population": "65410"
-},
-
-"Ward County": {
-  "description": "Ward County benefits from energy production, healthcare services, transportation, manufacturing, construction, and local business development. Oil and gas industries contribute significantly to economic activity and employment opportunities throughout the county.",
-  "population": "11998"
-},
-
-"Washington County": {
-  "description": "Washington County supports an economy driven by healthcare services, tourism, agriculture, manufacturing, professional services, and retail development. Its historic significance and diversified business community contribute substantially to economic growth throughout the county.",
-  "population": "37093"
-},
-
-"Webb County": {
-  "description": "Webb County is one of Texas's largest international trade and logistics centers and home to Laredo. Transportation, warehousing, healthcare services, international commerce, professional services, manufacturing, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
-  "population": "267114"
-},
-"Wharton County": {
-  "description": "Wharton County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and professional services. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "41620"
-},
-
-"Wheeler County": {
-  "description": "Wheeler County benefits from agriculture, ranching, energy production, healthcare services, transportation, and local commerce. Livestock operations and natural resource industries contribute substantially to workforce opportunities and economic growth.",
-  "population": "4990"
-},
-
-"Wichita County": {
-  "description": "Wichita County is one of North Texas's largest economic centers and home to Wichita Falls. Healthcare, manufacturing, defense-related industries, education, logistics, professional services, and retail development drive a diversified economy supporting substantial employment and business investment.",
-  "population": "129350"
-},
-
-"Wilbarger County": {
-  "description": "Wilbarger County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, energy-related industries, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
-  "population": "12573"
-},
-
-"Willacy County": {
-  "description": "Willacy County benefits from agriculture, international trade, healthcare services, transportation, manufacturing, and local commerce. Farming operations and border-region economic activity contribute substantially to workforce opportunities and economic development.",
-  "population": "19966"
-},
-
-"Williamson County": {
-  "description": "Williamson County is one of the fastest-growing and most affluent counties in the United States, driven by technology, healthcare, finance, professional services, advanced manufacturing, retail development, and residential expansion. Its location within the Austin metropolitan area supports substantial business investment and workforce growth.",
-  "population": "671485"
-},
-
-"Wilson County": {
-  "description": "Wilson County is a rapidly growing economic center in South Texas, supported by healthcare services, manufacturing, logistics, agriculture, professional services, and residential development. Its proximity to San Antonio contributes significantly to workforce expansion and business investment.",
-  "population": "55430"
-},
-
-"Winkler County": {
-  "description": "Winkler County supports an economy based on energy production, healthcare services, transportation, construction, professional services, and local commerce. Oil and gas development remains a primary driver of economic activity throughout the county.",
-  "population": "7894"
-},
-
-"Wise County": {
-  "description": "Wise County is one of the fastest-growing counties in North Texas, driven by manufacturing, logistics, healthcare services, professional services, retail development, and residential expansion. Its location within the Dallas–Fort Worth growth corridor contributes substantially to workforce opportunities and economic growth.",
-  "population": "80110"
-},
-
-"Wood County": {
-  "description": "Wood County supports a diversified economy based on healthcare services, tourism, manufacturing, agriculture, transportation, and local business development. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
-  "population": "45539"
-},
-"Yoakum County": {
-  "description": "Yoakum County supports a diversified economy based on energy production, agriculture, healthcare services, transportation, agribusiness, and local commerce. Oil and gas development and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "8557"
-},
-
-"Young County": {
-  "description": "Young County benefits from energy production, agriculture, healthcare services, manufacturing, transportation, tourism, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
-  "population": "17903"
-},
-
-"Zapata County": {
-  "description": "Zapata County supports an economy driven by international trade, tourism, healthcare services, transportation, energy-related industries, and local commerce. Border-region activity and visitor spending contribute significantly to economic development throughout the county.",
-  "population": "13889"
-},
-
-"Zavala County": {
-  "description": "Zavala County benefits from agriculture, energy production, healthcare services, transportation, manufacturing, and local business development. Farming operations and natural resource industries contribute substantially to workforce opportunities and economic growth.",
-  "population": "11677"
-}
+  "identity": {
+    "code": "tx",
+    "slug": "texas",
+    "name": "Texas",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Anderson County": {
+      "description": "Anderson County supports a diversified economy based on healthcare services, manufacturing, agriculture, transportation, retail development, and professional services. Its regional employers contribute significantly to workforce opportunities and economic growth throughout the county.",
+      "population": "58458"
+    },
+    "Andrews County": {
+      "description": "Andrews County is an important economic center in West Texas, driven by energy production, healthcare services, transportation, manufacturing, professional services, and retail development. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "18705"
+    },
+    "Angelina County": {
+      "description": "Angelina County is one of East Texas's strongest economic centers, supported by healthcare, manufacturing, forestry-related industries, education, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce growth and regional business activity.",
+      "population": "86395"
+    },
+    "Aransas County": {
+      "description": "Aransas County benefits from tourism, healthcare services, hospitality, maritime industries, retail development, and professional services. Visitor spending and coastal economic activity contribute substantially to employment and business growth throughout the county.",
+      "population": "23510"
+    },
+    "Archer County": {
+      "description": "Archer County supports a diversified economy based on agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
+      "population": "8553"
+    },
+    "Armstrong County": {
+      "description": "Armstrong County maintains a rural economy centered on ranching, agriculture, energy production, healthcare services, transportation, and local commerce. Livestock operations and natural resources contribute significantly to economic growth throughout the county.",
+      "population": "1848"
+    },
+    "Atascosa County": {
+      "description": "Atascosa County is one of South Texas's growing economic centers, supported by energy production, healthcare services, agriculture, logistics, manufacturing, and residential development. Its proximity to San Antonio contributes substantially to workforce growth and business investment.",
+      "population": "52084"
+    },
+    "Austin County": {
+      "description": "Austin County supports an economy driven by agriculture, manufacturing, healthcare services, tourism, transportation, and professional services. Its strategic location between Houston and Austin contributes significantly to regional economic development.",
+      "population": "32143"
+    },
+    "Bailey County": {
+      "description": "Bailey County benefits from agriculture, agribusiness, healthcare services, transportation, manufacturing, and local commerce. Farming operations remain a major contributor to economic activity and workforce opportunities throughout the county.",
+      "population": "6699"
+    },
+    "Bandera County": {
+      "description": "Bandera County supports a diversified economy based on tourism, healthcare services, hospitality, agriculture, retail activity, and local business development. Visitor spending and regional commerce contribute significantly to economic growth throughout the county.",
+      "population": "20851"
+    },
+    "Bastrop County": {
+      "description": "Bastrop County is one of Central Texas's fastest-growing economic centers, supported by healthcare services, technology, manufacturing, professional services, retail development, and residential expansion. Its proximity to Austin contributes substantially to workforce growth and business investment.",
+      "population": "102168"
+    },
+    "Baylor County": {
+      "description": "Baylor County supports a rural economy based on agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "3353"
+    },
+    "Bee County": {
+      "description": "Bee County benefits from healthcare services, education, agriculture, transportation, manufacturing, and retail development. Its diversified economy contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "31396"
+    },
+    "Bell County": {
+      "description": "Bell County is one of Central Texas's largest economic centers, driven by military-related industries, healthcare services, logistics, higher education, professional services, retail development, and residential growth. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "389347"
+    },
+    "Bexar County": {
+      "description": "Bexar County is one of Texas's largest economic centers and home to San Antonio. Healthcare, military-related industries, finance, technology, tourism, logistics, professional services, and corporate headquarters drive a highly diversified economy supporting substantial employment and business growth.",
+      "population": "2126658"
+    },
+    "Blanco County": {
+      "description": "Blanco County supports a diversified economy based on tourism, healthcare services, agriculture, hospitality, retail activity, and professional services. Visitor spending and regional business development contribute significantly to economic activity throughout the county.",
+      "population": "12822"
+    },
+    "Borden County": {
+      "description": "Borden County maintains a rural economy centered on ranching, agriculture, energy production, healthcare services, transportation, and local commerce. Livestock operations and natural resources contribute significantly to economic growth throughout the county.",
+      "population": "631"
+    },
+    "Bosque County": {
+      "description": "Bosque County benefits from agriculture, manufacturing, healthcare services, tourism, transportation, and local business development. Farming operations and visitor-related industries contribute substantially to workforce opportunities and economic activity.",
+      "population": "18783"
+    },
+    "Bowie County": {
+      "description": "Bowie County serves as an important economic center in Northeast Texas, supported by healthcare, manufacturing, logistics, education, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
+      "population": "92565"
+    },
+    "Brazoria County": {
+      "description": "Brazoria County is one of Texas's strongest economic centers, supported by energy production, petrochemicals, healthcare services, manufacturing, logistics, professional services, and residential development. Its location within the Houston metropolitan area drives substantial workforce growth and business investment.",
+      "population": "395478"
+    },
+    "Brazos County": {
+      "description": "Brazos County is one of Texas's leading education and innovation economies, anchored by higher education, healthcare services, technology, research, professional services, retail development, and residential growth. Its knowledge-based economy contributes substantially to workforce development and business investment.",
+      "population": "241028"
+    },
+    "Brewster County": {
+      "description": "Brewster County supports a diversified economy based on tourism, higher education, healthcare services, hospitality, transportation, and local commerce. Visitor spending and educational institutions contribute significantly to economic activity throughout the county.",
+      "population": "9203"
+    },
+    "Briscoe County": {
+      "description": "Briscoe County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock production remain primary contributors to economic growth throughout the county.",
+      "population": "1435"
+    },
+    "Brooks County": {
+      "description": "Brooks County benefits from agriculture, energy-related industries, healthcare services, transportation, retail activity, and local business development. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "7069"
+    },
+    "Brown County": {
+      "description": "Brown County serves as an important economic center in Central Texas, supported by healthcare services, manufacturing, education, agriculture, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "37864"
+    },
+    "Burleson County": {
+      "description": "Burleson County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local commerce. Its strategic location contributes substantially to economic development and workforce opportunities.",
+      "population": "18443"
+    },
+    "Burnet County": {
+      "description": "Burnet County is one of Central Texas's fastest-growing counties, driven by tourism, healthcare services, construction, professional services, retail development, and residential expansion. Its proximity to the Austin metropolitan area supports substantial business investment and workforce growth.",
+      "population": "55119"
+    },
+    "Caldwell County": {
+      "description": "Caldwell County is a rapidly growing economic center in Central Texas, supported by manufacturing, logistics, healthcare services, professional services, retail development, and residential growth. Its location near Austin contributes significantly to business expansion and workforce opportunities.",
+      "population": "49853"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County benefits from energy-related industries, maritime commerce, healthcare services, manufacturing, transportation, and professional services. Coastal industries and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "20220"
+    },
+    "Callahan County": {
+      "description": "Callahan County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute substantially to workforce opportunities and economic growth.",
+      "population": "13943"
+    },
+    "Cameron County": {
+      "description": "Cameron County is one of South Texas's largest economic centers, driven by healthcare services, international trade, logistics, tourism, education, professional services, and retail development. Its border location contributes substantially to workforce growth and business investment.",
+      "population": "425163"
+    },
+    "Camp County": {
+      "description": "Camp County supports a diversified economy based on healthcare services, agriculture, manufacturing, transportation, retail activity, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "13094"
+    },
+    "Carson County": {
+      "description": "Carson County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and manufacturing. Natural resources and farming operations contribute significantly to workforce opportunities and economic growth.",
+      "population": "5807"
+    },
+    "Cass County": {
+      "description": "Cass County supports an economy driven by agriculture, forestry, healthcare services, manufacturing, transportation, and local business development. Farming operations and regional industries contribute substantially to economic activity throughout the county.",
+      "population": "28694"
+    },
+    "Castro County": {
+      "description": "Castro County maintains a strong agricultural economy centered on farming, livestock production, agribusiness, healthcare services, transportation, and food processing. Agricultural operations remain a primary contributor to economic growth throughout the county.",
+      "population": "7537"
+    },
+    "Chambers County": {
+      "description": "Chambers County is one of the fastest-growing economic centers in the Houston region, supported by energy production, petrochemicals, logistics, healthcare services, manufacturing, and residential development. Its strategic location drives substantial business investment and workforce expansion.",
+      "population": "50049"
+    },
+    "Cherokee County": {
+      "description": "Cherokee County benefits from healthcare services, manufacturing, agriculture, transportation, forestry-related industries, and retail development. Its diversified economy contributes significantly to regional employment and economic development.",
+      "population": "52103"
+    },
+    "Childress County": {
+      "description": "Childress County serves as an important regional hub in the Texas Panhandle, supported by healthcare services, transportation, agriculture, logistics, retail development, and professional services. Its diversified economy contributes substantially to workforce opportunities and business growth.",
+      "population": "6907"
+    },
+    "Clay County": {
+      "description": "Clay County supports a diversified economy based on agriculture, ranching, energy-related industries, healthcare services, transportation, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "10394"
+    },
+    "Cochran County": {
+      "description": "Cochran County maintains a rural economy centered on agriculture, energy production, healthcare services, transportation, agribusiness, and local business activity. Farming operations remain a major contributor to economic growth throughout the county.",
+      "population": "2547"
+    },
+    "Coke County": {
+      "description": "Coke County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
+      "population": "3338"
+    },
+    "Coleman County": {
+      "description": "Coleman County benefits from agriculture, ranching, healthcare services, energy-related industries, transportation, and local business development. Livestock production and regional employers contribute substantially to workforce opportunities and economic growth.",
+      "population": "7900"
+    },
+    "Collin County": {
+      "description": "Collin County is one of the fastest-growing and most affluent economic centers in the United States, driven by technology, finance, healthcare, telecommunications, professional services, corporate headquarters, retail development, and residential expansion. Its location within the Dallas–Fort Worth metropolitan area supports substantial business investment and workforce growth.",
+      "population": "1165920"
+    },
+    "Collingsworth County": {
+      "description": "Collingsworth County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations remain primary contributors to economic activity throughout the county.",
+      "population": "2920"
+    },
+    "Colorado County": {
+      "description": "Colorado County supports a diversified economy based on manufacturing, agriculture, healthcare services, transportation, energy-related industries, and professional services. Its strategic location contributes significantly to regional economic development.",
+      "population": "20967"
+    },
+    "Comal County": {
+      "description": "Comal County is one of Texas's fastest-growing counties, supported by healthcare services, tourism, professional services, construction, retail development, and residential growth. Its location between Austin and San Antonio contributes substantially to workforce expansion and business investment.",
+      "population": "188995"
+    },
+    "Comanche County": {
+      "description": "Comanche County benefits from agriculture, healthcare services, manufacturing, transportation, energy-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "13484"
+    },
+    "Concho County": {
+      "description": "Concho County supports an economy driven by agriculture, ranching, healthcare services, transportation, energy production, and local business activity. Natural resources and livestock operations contribute substantially to economic growth throughout the county.",
+      "population": "3226"
+    },
+    "Cooke County": {
+      "description": "Cooke County is a growing economic center in North Texas, supported by manufacturing, healthcare services, logistics, agriculture, professional services, and retail development. Its strategic location contributes significantly to business growth and workforce opportunities.",
+      "population": "43653"
+    },
+    "Coryell County": {
+      "description": "Coryell County serves as an important economic center in Central Texas, driven by military-related industries, healthcare services, logistics, manufacturing, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "83609"
+    },
+    "Cottle County": {
+      "description": "Cottle County supports a rural economy based on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations remain primary contributors to economic activity throughout the county.",
+      "population": "1398"
+    },
+    "Crane County": {
+      "description": "Crane County is an important energy-producing economy in West Texas, supported by oil and gas development, healthcare services, transportation, professional services, construction, and local commerce. Energy-related industries contribute significantly to employment and economic growth.",
+      "population": "4797"
+    },
+    "Crockett County": {
+      "description": "Crockett County benefits from energy production, ranching, healthcare services, transportation, agribusiness, and local business development. Natural resources and livestock operations contribute substantially to economic activity throughout the county.",
+      "population": "3362"
+    },
+    "Crosby County": {
+      "description": "Crosby County supports a diversified economy based on agriculture, healthcare services, energy-related industries, transportation, agribusiness, and local commerce. Farming operations remain a major contributor to workforce opportunities and economic development.",
+      "population": "5547"
+    },
+    "Culberson County": {
+      "description": "Culberson County maintains a rural economy centered on tourism, transportation, energy-related industries, healthcare services, ranching, and local commerce. Visitor spending and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "2148"
+    },
+    "Dallam County": {
+      "description": "Dallam County supports a strong agricultural economy driven by farming, livestock production, agribusiness, food processing, healthcare services, and transportation. Agricultural industries contribute substantially to employment and regional economic growth.",
+      "population": "7067"
+    },
+    "Dallas County": {
+      "description": "Dallas County is one of the largest economic centers in the United States, driven by finance, technology, healthcare, telecommunications, logistics, professional services, corporate headquarters, real estate, and retail development. Its highly diversified economy supports substantial business investment, innovation, and workforce growth.",
+      "population": "2613539"
+    },
+    "Dawson County": {
+      "description": "Dawson County benefits from agriculture, energy production, healthcare services, transportation, manufacturing, and local business development. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "12728"
+    },
+    "Deaf Smith County": {
+      "description": "Deaf Smith County is an important agricultural and food-processing center in the Texas Panhandle, supported by farming, livestock production, manufacturing, healthcare services, transportation, and agribusiness. Its diversified economy contributes substantially to regional employment and business growth.",
+      "population": "18375"
+    },
+    "Delta County": {
+      "description": "Delta County supports an economy driven by agriculture, healthcare services, transportation, retail activity, agribusiness, and local commerce. Farming operations and community businesses contribute significantly to economic development throughout the county.",
+      "population": "5283"
+    },
+    "Denton County": {
+      "description": "Denton County is one of the fastest-growing economic centers in Texas, driven by technology, healthcare, higher education, finance, professional services, logistics, retail development, and corporate investment. Its location within the Dallas–Fort Worth metropolitan area supports substantial workforce growth and business expansion.",
+      "population": "1025406"
+    },
+    "DeWitt County": {
+      "description": "DeWitt County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, manufacturing, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "19620"
+    },
+    "Dickens County": {
+      "description": "Dickens County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock production remains a major contributor to economic growth throughout the county.",
+      "population": "1765"
+    },
+    "Dimmit County": {
+      "description": "Dimmit County benefits from energy production, agriculture, healthcare services, transportation, retail activity, and professional services. Oil and gas development contributes substantially to employment opportunities and economic growth throughout the county.",
+      "population": "9430"
+    },
+    "Donley County": {
+      "description": "Donley County supports an economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations contribute significantly to economic activity throughout the county.",
+      "population": "3278"
+    },
+    "Duval County": {
+      "description": "Duval County combines energy-related industries, agriculture, healthcare services, transportation, retail development, and local business activity. Natural resources and regional employers contribute substantially to workforce opportunities and economic development.",
+      "population": "9846"
+    },
+    "Eastland County": {
+      "description": "Eastland County serves as an important regional economic center, supported by healthcare services, energy production, agriculture, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "17810"
+    },
+    "Ector County": {
+      "description": "Ector County is one of West Texas's largest economic centers and home to Odessa. Energy production, healthcare services, logistics, professional services, construction, manufacturing, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "165171"
+    },
+    "Edwards County": {
+      "description": "Edwards County maintains a rural economy centered on ranching, agriculture, tourism, healthcare services, transportation, and local commerce. Livestock operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "1422"
+    },
+    "Ellis County": {
+      "description": "Ellis County is one of the fastest-growing counties in North Texas, supported by manufacturing, logistics, healthcare services, professional services, retail development, and residential expansion. Its location within the Dallas–Fort Worth metropolitan area contributes substantially to workforce growth and business investment.",
+      "population": "214380"
+    },
+    "El Paso County": {
+      "description": "El Paso County is one of Texas's largest economic centers, driven by international trade, healthcare, military-related industries, logistics, manufacturing, higher education, professional services, and retail development. Its border location supports substantial business investment, workforce growth, and regional economic activity.",
+      "population": "868859"
+    },
+    "Erath County": {
+      "description": "Erath County serves as an important economic center in North Central Texas, supported by agriculture, higher education, healthcare services, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "43075"
+    },
+    "Falls County": {
+      "description": "Falls County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "16855"
+    },
+    "Fannin County": {
+      "description": "Fannin County is a growing economic center in North Texas, supported by healthcare services, agriculture, manufacturing, logistics, professional services, and residential development. Its strategic location contributes substantially to workforce opportunities and business investment.",
+      "population": "38521"
+    },
+    "Fayette County": {
+      "description": "Fayette County benefits from agriculture, tourism, manufacturing, healthcare services, transportation, and professional services. Its location between major Texas metros contributes significantly to economic development and regional business activity.",
+      "population": "24831"
+    },
+    "Fisher County": {
+      "description": "Fisher County maintains a rural economy centered on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute significantly to economic growth throughout the county.",
+      "population": "3645"
+    },
+    "Floyd County": {
+      "description": "Floyd County supports an economy driven by agriculture, agribusiness, healthcare services, transportation, food processing, and local business development. Farming operations remain a major contributor to workforce opportunities and economic activity.",
+      "population": "5568"
+    },
+    "Foard County": {
+      "description": "Foard County benefits from agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "1136"
+    },
+    "Fort Bend County": {
+      "description": "Fort Bend County is one of Texas's fastest-growing and most affluent economic centers, supported by healthcare, energy-related industries, technology, finance, professional services, logistics, retail development, and residential expansion. Its location within the Houston metropolitan area drives substantial business investment and workforce growth.",
+      "population": "858112"
+    },
+    "Franklin County": {
+      "description": "Franklin County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, retail activity, and local commerce. Farming operations and regional employers contribute significantly to economic development throughout the county.",
+      "population": "10852"
+    },
+    "Freestone County": {
+      "description": "Freestone County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, manufacturing, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
+      "population": "19816"
+    },
+    "Frio County": {
+      "description": "Frio County benefits from agriculture, energy-related industries, healthcare services, transportation, retail activity, and local business development. Farming operations and regional employers contribute substantially to workforce opportunities and economic growth.",
+      "population": "18410"
+    },
+    "Gaines County": {
+      "description": "Gaines County is one of West Texas's strongest energy and agricultural economies, driven by oil and gas production, farming, agribusiness, healthcare services, transportation, and manufacturing. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "22459"
+    },
+    "Galveston County": {
+      "description": "Galveston County is one of Texas's major coastal economic centers, supported by healthcare, tourism, maritime industries, logistics, higher education, professional services, retail development, and energy-related businesses. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "350682"
+    },
+    "Garza County": {
+      "description": "Garza County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "5816"
+    },
+    "Gillespie County": {
+      "description": "Gillespie County is one of Texas Hill Country's strongest tourism and hospitality economies, supported by tourism, healthcare services, agriculture, wineries, professional services, retail development, and residential growth. Visitor spending contributes substantially to business investment and workforce opportunities.",
+      "population": "27297"
+    },
+    "Glasscock County": {
+      "description": "Glasscock County maintains a rural economy centered on energy production, ranching, healthcare services, transportation, agribusiness, and local commerce. Oil and gas development contributes significantly to economic growth throughout the county.",
+      "population": "1116"
+    },
+    "Goliad County": {
+      "description": "Goliad County benefits from agriculture, tourism, healthcare services, energy-related industries, transportation, and local business development. Historic attractions and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "7585"
+    },
+    "Gonzales County": {
+      "description": "Gonzales County supports a diversified economy based on energy production, agriculture, manufacturing, healthcare services, transportation, and professional services. Its strategic location contributes significantly to workforce opportunities and regional economic development.",
+      "population": "20637"
+    },
+    "Gray County": {
+      "description": "Gray County serves as an important economic center in the Texas Panhandle, supported by energy production, healthcare services, manufacturing, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "21971"
+    },
+    "Grayson County": {
+      "description": "Grayson County is one of North Texas's fastest-growing economic centers, supported by manufacturing, healthcare services, logistics, higher education, professional services, retail development, and residential expansion. Its strategic location contributes substantially to workforce growth and business investment.",
+      "population": "145894"
+    },
+    "Gregg County": {
+      "description": "Gregg County is a major economic center in East Texas, driven by healthcare, manufacturing, energy-related industries, logistics, professional services, retail development, and education. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "124239"
+    },
+    "Grimes County": {
+      "description": "Grimes County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local commerce. Its growing business community contributes substantially to economic development and workforce opportunities.",
+      "population": "31510"
+    },
+    "Guadalupe County": {
+      "description": "Guadalupe County is one of the fastest-growing counties in Texas, supported by healthcare, manufacturing, logistics, professional services, retail development, and residential growth. Its location within the San Antonio metropolitan area drives substantial business investment and workforce expansion.",
+      "population": "193999"
+    },
+    "Hale County": {
+      "description": "Hale County serves as an important agricultural and manufacturing center in the Texas Panhandle, supported by farming, agribusiness, healthcare services, transportation, education, and professional services. Its diversified economy contributes significantly to regional employment and business activity.",
+      "population": "32452"
+    },
+    "Hall County": {
+      "description": "Hall County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock operations remain primary contributors to economic growth throughout the county.",
+      "population": "2825"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County benefits from agriculture, healthcare services, manufacturing, tourism, transportation, and local business development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "8547"
+    },
+    "Hansford County": {
+      "description": "Hansford County supports an economy driven by agriculture, energy production, agribusiness, healthcare services, transportation, and local commerce. Natural resources and farming operations contribute substantially to workforce opportunities and economic development.",
+      "population": "5399"
+    },
+    "Hardeman County": {
+      "description": "Hardeman County combines agriculture, ranching, healthcare services, transportation, energy-related industries, and local business activity. Farming operations and natural resources contribute significantly to economic growth throughout the county.",
+      "population": "3658"
+    },
+    "Hardin County": {
+      "description": "Hardin County is a growing economic center in Southeast Texas, supported by healthcare services, manufacturing, logistics, energy-related industries, professional services, retail development, and residential growth. Its proximity to the Beaumont and Houston markets contributes substantially to business investment and workforce expansion.",
+      "population": "60316"
+    },
+    "Harris County": {
+      "description": "Harris County is Texas's largest economic center and home to Houston. Energy, healthcare, aerospace, finance, technology, logistics, manufacturing, professional services, international trade, and corporate headquarters drive a highly diversified economy supporting substantial employment, innovation, and business investment.",
+      "population": "4831139"
+    },
+    "Harrison County": {
+      "description": "Harrison County supports a diversified economy based on healthcare services, manufacturing, transportation, education, professional services, and retail development. Its strategic location contributes significantly to workforce opportunities and regional economic growth.",
+      "population": "69435"
+    },
+    "Hartley County": {
+      "description": "Hartley County maintains a rural economy centered on agriculture, ranching, agribusiness, healthcare services, transportation, and energy-related industries. Livestock and farming operations contribute substantially to economic activity throughout the county.",
+      "population": "5576"
+    },
+    "Haskell County": {
+      "description": "Haskell County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute significantly to workforce opportunities and economic development.",
+      "population": "5448"
+    },
+    "Hays County": {
+      "description": "Hays County is one of the fastest-growing counties in the United States, driven by healthcare, higher education, technology, professional services, retail development, tourism, and residential expansion. Its location within the Austin–San Antonio corridor supports substantial business investment and workforce growth.",
+      "population": "277359"
+    },
+    "Hemphill County": {
+      "description": "Hemphill County supports an economy driven by agriculture, energy production, healthcare services, transportation, agribusiness, and local business development. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "3782"
+    },
+    "Henderson County": {
+      "description": "Henderson County is an important economic center in East Texas, supported by healthcare services, manufacturing, tourism, retail development, professional services, and residential growth. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "84010"
+    },
+    "Hidalgo County": {
+      "description": "Hidalgo County is one of Texas's largest and fastest-growing economic centers, anchored by healthcare, international trade, logistics, education, professional services, retail development, and manufacturing. Its border location contributes substantially to workforce growth and regional business activity.",
+      "population": "890490"
+    },
+    "Hill County": {
+      "description": "Hill County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, logistics, and local commerce. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "37426"
+    },
+    "Hockley County": {
+      "description": "Hockley County benefits from agriculture, energy production, healthcare services, manufacturing, transportation, and agribusiness. Natural resources and farming operations contribute substantially to workforce opportunities and economic development throughout the county.",
+      "population": "21612"
+    },
+    "Hood County": {
+      "description": "Hood County is a growing economic center in North Texas, supported by healthcare services, tourism, professional services, retail development, construction, and residential expansion. Its proximity to the Dallas–Fort Worth region contributes substantially to workforce growth and business investment.",
+      "population": "67000"
+    },
+    "Hopkins County": {
+      "description": "Hopkins County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and retail development. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "38220"
+    },
+    "Houston County": {
+      "description": "Houston County benefits from agriculture, forestry-related industries, healthcare services, manufacturing, transportation, and local commerce. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
+      "population": "22900"
+    },
+    "Howard County": {
+      "description": "Howard County serves as an important economic center in West Texas, supported by energy production, healthcare services, manufacturing, logistics, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business investment.",
+      "population": "36640"
+    },
+    "Hudspeth County": {
+      "description": "Hudspeth County maintains a rural economy centered on transportation, energy-related industries, ranching, healthcare services, tourism, and local commerce. Natural resources and strategic transportation corridors contribute significantly to economic activity throughout the county.",
+      "population": "3200"
+    },
+    "Hunt County": {
+      "description": "Hunt County is one of the fastest-growing counties in Northeast Texas, driven by healthcare services, manufacturing, logistics, professional services, retail development, and residential growth. Its proximity to the Dallas metropolitan area supports substantial workforce expansion and business investment.",
+      "population": "108152"
+    },
+    "Hutchinson County": {
+      "description": "Hutchinson County benefits from energy production, manufacturing, healthcare services, transportation, professional services, and retail activity. Natural resource industries contribute significantly to workforce opportunities and economic development throughout the county.",
+      "population": "20585"
+    },
+    "Irion County": {
+      "description": "Irion County supports an economy driven by ranching, agriculture, energy production, healthcare services, transportation, and local business activity. Livestock operations and natural resources contribute substantially to economic growth throughout the county.",
+      "population": "1513"
+    },
+    "Jack County": {
+      "description": "Jack County combines agriculture, energy-related industries, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
+      "population": "8645"
+    },
+    "Jackson County": {
+      "description": "Jackson County supports a diversified economy based on agriculture, manufacturing, energy-related industries, healthcare services, transportation, and professional services. Its strong business community contributes substantially to workforce opportunities and regional economic growth.",
+      "population": "14530"
+    },
+    "Jasper County": {
+      "description": "Jasper County supports a diversified economy based on forestry-related industries, healthcare services, manufacturing, transportation, tourism, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "35649"
+    },
+    "Jeff Davis County": {
+      "description": "Jeff Davis County benefits from tourism, ranching, healthcare services, hospitality, transportation, and local business development. Visitor spending and natural attractions contribute substantially to workforce opportunities and economic growth.",
+      "population": "2211"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County is one of Southeast Texas's largest economic centers, driven by energy production, petrochemicals, healthcare services, manufacturing, logistics, professional services, and maritime commerce. Its diversified economy contributes significantly to regional employment and business investment.",
+      "population": "256526"
+    },
+    "Jim Hogg County": {
+      "description": "Jim Hogg County supports an economy based on energy production, ranching, healthcare services, transportation, retail activity, and local commerce. Natural resources and livestock operations contribute substantially to economic activity throughout the county.",
+      "population": "4860"
+    },
+    "Jim Wells County": {
+      "description": "Jim Wells County benefits from agriculture, energy-related industries, healthcare services, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to workforce opportunities and regional economic development.",
+      "population": "39482"
+    },
+    "Johnson County": {
+      "description": "Johnson County is one of the fastest-growing counties in North Texas, supported by healthcare services, manufacturing, logistics, professional services, retail development, and residential expansion. Its location within the Dallas–Fort Worth growth corridor drives substantial business investment and workforce growth.",
+      "population": "198972"
+    },
+    "Jones County": {
+      "description": "Jones County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, manufacturing, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "20196"
+    },
+    "Karnes County": {
+      "description": "Karnes County is an important energy-producing county in South Texas, supported by oil and gas development, agriculture, healthcare services, transportation, manufacturing, and local business activity. Energy-related industries contribute substantially to workforce opportunities and economic growth.",
+      "population": "14900"
+    },
+    "Kaufman County": {
+      "description": "Kaufman County is one of Texas's fastest-growing economic centers, driven by healthcare services, logistics, manufacturing, professional services, retail development, and residential growth. Its proximity to Dallas supports substantial business investment and workforce expansion.",
+      "population": "172366"
+    },
+    "Kendall County": {
+      "description": "Kendall County is one of Texas's most affluent and rapidly growing counties, supported by healthcare services, professional services, tourism, retail development, construction, and residential expansion. Its location within the San Antonio metropolitan area contributes significantly to economic growth and business investment.",
+      "population": "49889"
+    },
+    "Kenedy County": {
+      "description": "Kenedy County supports a rural economy based on ranching, energy production, healthcare services, transportation, wildlife management, and local commerce. Natural resources and agricultural operations contribute significantly to economic activity throughout the county.",
+      "population": "350"
+    },
+    "Kent County": {
+      "description": "Kent County maintains a diversified economy centered on ranching, agriculture, energy-related industries, healthcare services, transportation, and local business activity. Livestock operations and natural resources contribute substantially to economic growth throughout the county.",
+      "population": "762"
+    },
+    "Kerr County": {
+      "description": "Kerr County is one of the Texas Hill Country's strongest economic centers, driven by healthcare services, tourism, professional services, retail development, hospitality, and residential growth. Its diversified economy contributes significantly to workforce opportunities and business investment.",
+      "population": "53466"
+    },
+    "Kimble County": {
+      "description": "Kimble County benefits from ranching, agriculture, tourism, healthcare services, transportation, and local commerce. Livestock operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "4300"
+    },
+    "King County": {
+      "description": "King County supports a rural economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local business development. Livestock production remains the primary contributor to economic growth throughout the county.",
+      "population": "265"
+    },
+    "Kinney County": {
+      "description": "Kinney County combines tourism, ranching, transportation, healthcare services, retail activity, and local commerce. Its strategic border-region location contributes substantially to workforce opportunities and economic activity.",
+      "population": "3129"
+    },
+    "Kleberg County": {
+      "description": "Kleberg County serves as an important economic center in South Texas, supported by higher education, agriculture, energy-related industries, healthcare services, manufacturing, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "30682"
+    },
+    "Knox County": {
+      "description": "Knox County supports an economy driven by agriculture, healthcare services, energy production, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute substantially to economic activity throughout the county.",
+      "population": "3353"
+    },
+    "Lamar County": {
+      "description": "Lamar County is an important economic center in Northeast Texas, anchored by healthcare services, manufacturing, transportation, logistics, professional services, and retail development. Its diversified economy contributes significantly to workforce growth and business investment.",
+      "population": "50907"
+    },
+    "Lamb County": {
+      "description": "Lamb County benefits from agriculture, food processing, healthcare services, manufacturing, transportation, and agribusiness. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "12893"
+    },
+    "Lampasas County": {
+      "description": "Lampasas County supports a diversified economy based on healthcare services, agriculture, tourism, retail development, professional services, and residential growth. Its strategic Central Texas location contributes significantly to workforce opportunities and economic development.",
+      "population": "22230"
+    },
+    "La Salle County": {
+      "description": "La Salle County is an important energy-producing economy in South Texas, driven by oil and gas development, healthcare services, transportation, agriculture, manufacturing, and local commerce. Energy-related industries contribute substantially to employment and business growth.",
+      "population": "6861"
+    },
+    "Lavaca County": {
+      "description": "Lavaca County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and professional services. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "20296"
+    },
+    "Lee County": {
+      "description": "Lee County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, tourism, and local business development. Its location between Austin and College Station contributes substantially to workforce opportunities and economic growth.",
+      "population": "17958"
+    },
+    "Leon County": {
+      "description": "Leon County combines agriculture, energy-related industries, healthcare services, transportation, retail activity, and local commerce. Farming operations and natural resource development contribute significantly to economic activity throughout the county.",
+      "population": "16184"
+    },
+    "Liberty County": {
+      "description": "Liberty County is one of the fastest-growing counties in Southeast Texas, supported by energy production, manufacturing, logistics, healthcare services, professional services, and residential expansion. Its proximity to Houston drives substantial workforce growth and business investment.",
+      "population": "106107"
+    },
+    "Limestone County": {
+      "description": "Limestone County serves as an important economic center in Central Texas, supported by manufacturing, agriculture, healthcare services, transportation, energy-related industries, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "24117"
+    },
+    "Lipscomb County": {
+      "description": "Lipscomb County maintains a rural economy centered on agriculture, ranching, energy production, healthcare services, transportation, and local commerce. Farming operations and natural resources contribute substantially to economic activity throughout the county.",
+      "population": "3238"
+    },
+    "Live Oak County": {
+      "description": "Live Oak County benefits from energy production, agriculture, healthcare services, transportation, manufacturing, and local business development. Natural resources and farming operations contribute significantly to workforce opportunities and economic growth.",
+      "population": "11742"
+    },
+    "Llano County": {
+      "description": "Llano County is one of the Texas Hill Country's strongest tourism and retirement economies, supported by healthcare services, tourism, hospitality, retail development, professional services, and real estate activity. Visitor spending contributes substantially to business investment and employment growth.",
+      "population": "22308"
+    },
+    "Loving County": {
+      "description": "Loving County supports a highly specialized economy centered on energy production, transportation, healthcare services, construction, and local business activity. Oil and gas development remains the primary driver of economic growth throughout the county.",
+      "population": "64"
+    },
+    "Lubbock County": {
+      "description": "Lubbock County is one of West Texas's largest economic centers, driven by healthcare, higher education, agriculture, technology, professional services, logistics, retail development, and manufacturing. Its diversified economy supports substantial employment, business investment, and regional growth.",
+      "population": "321261"
+    },
+    "Lynn County": {
+      "description": "Lynn County benefits from agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resource industries contribute significantly to economic activity throughout the county.",
+      "population": "5732"
+    },
+    "Madison County": {
+      "description": "Madison County supports a diversified economy based on agriculture, healthcare services, transportation, manufacturing, retail activity, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "14606"
+    },
+    "Marion County": {
+      "description": "Marion County combines tourism, healthcare services, manufacturing, transportation, forestry-related industries, and local commerce. Its natural resources and business community contribute substantially to workforce opportunities and economic development.",
+      "population": "9700"
+    },
+    "Martin County": {
+      "description": "Martin County is an important energy-producing county in West Texas, supported by oil and gas development, healthcare services, transportation, construction, professional services, and local commerce. Energy-related industries contribute significantly to employment and economic growth.",
+      "population": "5767"
+    },
+    "Mason County": {
+      "description": "Mason County benefits from ranching, tourism, healthcare services, agriculture, transportation, and local business development. Livestock operations and visitor-related industries contribute substantially to economic activity throughout the county.",
+      "population": "3953"
+    },
+    "Matagorda County": {
+      "description": "Matagorda County serves as an important Gulf Coast economic center, supported by energy production, maritime industries, healthcare services, manufacturing, transportation, tourism, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "36710"
+    },
+    "Maverick County": {
+      "description": "Maverick County is a major border-region economic center in South Texas, driven by international trade, healthcare services, logistics, education, professional services, retail development, and transportation. Its strategic location contributes substantially to workforce growth and business investment.",
+      "population": "58987"
+    },
+    "McCulloch County": {
+      "description": "McCulloch County supports an economy driven by agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "7603"
+    },
+    "McLennan County": {
+      "description": "McLennan County is a major economic center in Central Texas and home to Waco. Healthcare, higher education, manufacturing, logistics, professional services, retail development, tourism, and technology-related industries drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "268696"
+    },
+    "McMullen County": {
+      "description": "McMullen County supports an economy driven by energy production, ranching, healthcare services, transportation, construction, and local commerce. Oil and gas development remains the primary contributor to economic activity throughout the county.",
+      "population": "598"
+    },
+    "Medina County": {
+      "description": "Medina County is one of South Texas's fastest-growing economic centers, supported by healthcare services, manufacturing, logistics, agriculture, professional services, retail development, and residential growth. Its proximity to San Antonio contributes substantially to workforce expansion and business investment.",
+      "population": "56630"
+    },
+    "Menard County": {
+      "description": "Menard County benefits from ranching, agriculture, healthcare services, tourism, transportation, and local business development. Livestock operations and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "2138"
+    },
+    "Midland County": {
+      "description": "Midland County is one of Texas's strongest economic centers, driven by energy production, finance, healthcare services, technology, professional services, construction, logistics, and corporate headquarters. Its highly diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "176832"
+    },
+    "Milam County": {
+      "description": "Milam County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "25050"
+    },
+    "Mills County": {
+      "description": "Mills County combines agriculture, ranching, healthcare services, transportation, tourism, and local commerce. Livestock operations and regional businesses contribute substantially to workforce opportunities and economic development.",
+      "population": "4493"
+    },
+    "Mitchell County": {
+      "description": "Mitchell County benefits from energy production, agriculture, healthcare services, manufacturing, transportation, and professional services. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "8628"
+    },
+    "Montague County": {
+      "description": "Montague County supports an economy driven by agriculture, energy-related industries, healthcare services, manufacturing, transportation, and local business development. Farming operations and natural resource industries contribute significantly to economic growth throughout the county.",
+      "population": "20027"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County is one of the fastest-growing and most affluent counties in Texas, supported by healthcare, energy-related industries, professional services, logistics, retail development, technology, and residential expansion. Its location within the Houston metropolitan area drives substantial business investment and workforce growth.",
+      "population": "748059"
+    },
+    "Moore County": {
+      "description": "Moore County is a major agricultural and energy-related economic center in the Texas Panhandle, supported by agribusiness, food processing, healthcare services, manufacturing, transportation, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "21724"
+    },
+    "Morris County": {
+      "description": "Morris County supports a diversified economy based on healthcare services, manufacturing, agriculture, transportation, forestry-related industries, and local commerce. Regional employers contribute significantly to economic activity throughout the county.",
+      "population": "12280"
+    },
+    "Motley County": {
+      "description": "Motley County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock operations and farming remain primary contributors to economic growth throughout the county.",
+      "population": "1063"
+    },
+    "Nacogdoches County": {
+      "description": "Nacogdoches County is one of East Texas's leading education and healthcare economies, supported by higher education, healthcare services, manufacturing, forestry-related industries, professional services, and retail development. Its diversified economy contributes substantially to workforce growth and business investment.",
+      "population": "64747"
+    },
+    "Navarro County": {
+      "description": "Navarro County serves as an important economic center in North Texas, supported by manufacturing, healthcare services, logistics, agriculture, professional services, and retail development. Its strategic location contributes significantly to regional employment and business growth.",
+      "population": "54938"
+    },
+    "Newton County": {
+      "description": "Newton County benefits from forestry-related industries, healthcare services, agriculture, transportation, tourism, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "13126"
+    },
+    "Nolan County": {
+      "description": "Nolan County supports an economy driven by energy production, manufacturing, healthcare services, transportation, agriculture, and professional services. Natural resources and industrial employers contribute substantially to workforce opportunities and economic development.",
+      "population": "14554"
+    },
+    "Nueces County": {
+      "description": "Nueces County is one of South Texas's largest economic centers and home to Corpus Christi. Energy production, maritime commerce, healthcare services, logistics, manufacturing, tourism, professional services, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "353178"
+    },
+    "Ochiltree County": {
+      "description": "Ochiltree County supports a strong agricultural economy based on farming, livestock production, agribusiness, healthcare services, transportation, and energy-related industries. Agricultural operations contribute significantly to regional employment and economic growth.",
+      "population": "10479"
+    },
+    "Oldham County": {
+      "description": "Oldham County maintains a rural economy centered on ranching, agriculture, transportation, healthcare services, energy-related industries, and local commerce. Livestock operations and natural resources contribute substantially to economic activity throughout the county.",
+      "population": "1758"
+    },
+    "Orange County": {
+      "description": "Orange County is an important economic center in Southeast Texas, supported by energy-related industries, manufacturing, healthcare services, logistics, professional services, maritime commerce, and retail development. Its strategic Gulf Coast location contributes significantly to regional employment and business growth.",
+      "population": "84808"
+    },
+    "Palo Pinto County": {
+      "description": "Palo Pinto County benefits from tourism, energy production, healthcare services, agriculture, transportation, and local business development. Natural resources and visitor-related industries contribute substantially to workforce opportunities and economic activity.",
+      "population": "28111"
+    },
+    "Panola County": {
+      "description": "Panola County supports a diversified economy based on energy production, manufacturing, healthcare services, transportation, forestry-related industries, and professional services. Its diversified business community contributes significantly to economic growth throughout the county.",
+      "population": "23183"
+    },
+    "Parker County": {
+      "description": "Parker County is one of the fastest-growing counties in Texas, driven by healthcare services, logistics, professional services, retail development, construction, and residential expansion. Its location within the Dallas–Fort Worth metropolitan area supports substantial workforce growth and business investment.",
+      "population": "162180"
+    },
+    "Parmer County": {
+      "description": "Parmer County supports a strong agricultural economy based on farming, livestock production, agribusiness, food processing, healthcare services, and transportation. Agricultural industries contribute significantly to regional employment and economic development.",
+      "population": "9607"
+    },
+    "Pecos County": {
+      "description": "Pecos County is an important economic center in West Texas, supported by energy production, transportation, healthcare services, agriculture, logistics, and professional services. Natural resources contribute substantially to workforce opportunities and economic growth.",
+      "population": "15631"
+    },
+    "Polk County": {
+      "description": "Polk County benefits from forestry-related industries, healthcare services, manufacturing, tourism, transportation, and local commerce. Natural resources and diversified employers contribute significantly to economic activity throughout the county.",
+      "population": "53618"
+    },
+    "Potter County": {
+      "description": "Potter County is one of the Texas Panhandle's largest economic centers and home to Amarillo. Healthcare, logistics, manufacturing, energy-related industries, professional services, retail development, and transportation drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "118525"
+    },
+    "Presidio County": {
+      "description": "Presidio County supports an economy driven by tourism, international trade, healthcare services, transportation, ranching, and local commerce. Its border location and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "6267"
+    },
+    "Rains County": {
+      "description": "Rains County supports a diversified economy based on healthcare services, agriculture, tourism, transportation, retail activity, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "12915"
+    },
+    "Randall County": {
+      "description": "Randall County is one of the Texas Panhandle's strongest economic centers, supported by healthcare services, education, manufacturing, logistics, professional services, retail development, and residential growth. Its location within the Amarillo metropolitan area contributes substantially to workforce expansion and business investment.",
+      "population": "147409"
+    },
+    "Reagan County": {
+      "description": "Reagan County is an important energy-producing economy in West Texas, driven by oil and gas development, healthcare services, transportation, construction, professional services, and local commerce. Energy-related industries contribute significantly to employment and economic growth.",
+      "population": "3385"
+    },
+    "Real County": {
+      "description": "Real County benefits from tourism, ranching, healthcare services, transportation, hospitality, and local business development. Visitor spending and agricultural operations contribute substantially to economic activity throughout the county.",
+      "population": "2758"
+    },
+    "Red River County": {
+      "description": "Red River County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, forestry-related industries, and local commerce. Farming operations and regional employers contribute significantly to economic development throughout the county.",
+      "population": "12023"
+    },
+    "Reeves County": {
+      "description": "Reeves County is a major economic center in the West Texas energy corridor, supported by oil and gas production, logistics, healthcare services, transportation, construction, and professional services. Its diversified economy contributes substantially to workforce opportunities and business investment.",
+      "population": "14212"
+    },
+    "Refugio County": {
+      "description": "Refugio County supports an economy driven by energy production, agriculture, healthcare services, transportation, tourism, and local commerce. Natural resources and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "6895"
+    },
+    "Roberts County": {
+      "description": "Roberts County maintains a rural economy centered on ranching, energy-related industries, healthcare services, transportation, agribusiness, and local business activity. Livestock operations and natural resources contribute substantially to economic growth throughout the county.",
+      "population": "827"
+    },
+    "Robertson County": {
+      "description": "Robertson County benefits from agriculture, manufacturing, healthcare services, transportation, energy-related industries, and professional services. Its strategic Central Texas location contributes significantly to workforce opportunities and economic development.",
+      "population": "17074"
+    },
+    "Rockwall County": {
+      "description": "Rockwall County is one of the fastest-growing and most affluent counties in Texas, supported by healthcare services, finance, professional services, retail development, technology-related businesses, and residential expansion. Its location within the Dallas metropolitan area drives substantial business investment and workforce growth.",
+      "population": "123432"
+    },
+    "Runnels County": {
+      "description": "Runnels County supports a diversified economy based on agriculture, energy production, healthcare services, transportation, agribusiness, and local commerce. Farming operations and natural resources contribute significantly to economic activity throughout the county.",
+      "population": "10192"
+    },
+    "Rusk County": {
+      "description": "Rusk County is an important economic center in East Texas, supported by healthcare services, manufacturing, energy-related industries, transportation, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "52984"
+    },
+    "Sabine County": {
+      "description": "Sabine County benefits from forestry-related industries, tourism, healthcare services, transportation, agriculture, and local commerce. Natural resources and visitor-related businesses contribute substantially to economic activity throughout the county.",
+      "population": "10046"
+    },
+    "San Augustine County": {
+      "description": "San Augustine County supports a diversified economy based on agriculture, forestry-related industries, healthcare services, transportation, tourism, and local business development. Regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "7838"
+    },
+    "San Jacinto County": {
+      "description": "San Jacinto County is a growing economic center in Southeast Texas, supported by healthcare services, tourism, construction, transportation, retail development, and residential expansion. Its proximity to the Houston region contributes substantially to economic development and workforce growth.",
+      "population": "30889"
+    },
+    "San Patricio County": {
+      "description": "San Patricio County is one of South Texas's strongest industrial economies, driven by energy production, manufacturing, maritime commerce, healthcare services, logistics, professional services, and transportation. Its proximity to Corpus Christi contributes significantly to business investment and workforce expansion.",
+      "population": "68610"
+    },
+    "San Saba County": {
+      "description": "San Saba County benefits from agriculture, ranching, healthcare services, tourism, transportation, and local commerce. Farming operations and visitor-related industries contribute substantially to economic activity throughout the county.",
+      "population": "5956"
+    },
+    "Schleicher County": {
+      "description": "Schleicher County supports a rural economy centered on ranching, agriculture, energy-related industries, healthcare services, transportation, and local business activity. Livestock operations and natural resources contribute significantly to economic growth throughout the county.",
+      "population": "2790"
+    },
+    "Scurry County": {
+      "description": "Scurry County is an important economic center in West Texas, supported by energy production, healthcare services, manufacturing, transportation, education, and professional services. Its diversified economy contributes significantly to regional employment and business investment.",
+      "population": "16578"
+    },
+    "Shackelford County": {
+      "description": "Shackelford County maintains a diversified economy based on ranching, agriculture, healthcare services, tourism, transportation, and local commerce. Livestock operations and visitor-related industries contribute substantially to economic activity throughout the county.",
+      "population": "3105"
+    },
+    "Shelby County": {
+      "description": "Shelby County supports an economy driven by forestry-related industries, manufacturing, healthcare services, transportation, agriculture, and local business development. Natural resources and regional employers contribute significantly to workforce opportunities and economic growth.",
+      "population": "24824"
+    },
+    "Sherman County": {
+      "description": "Sherman County supports a strong agricultural economy based on farming, livestock production, agribusiness, healthcare services, transportation, and energy-related industries. Agricultural operations contribute significantly to economic activity throughout the county.",
+      "population": "2785"
+    },
+    "Smith County": {
+      "description": "Smith County is one of East Texas's largest economic centers and home to Tyler. Healthcare, manufacturing, education, professional services, logistics, retail development, and technology-related industries drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "245871"
+    },
+    "Somervell County": {
+      "description": "Somervell County benefits from tourism, healthcare services, retail development, professional services, construction, and local commerce. Visitor spending and residential growth contribute substantially to workforce opportunities and economic development.",
+      "population": "9598"
+    },
+    "Starr County": {
+      "description": "Starr County is an important economic center in the Rio Grande Valley, supported by healthcare services, international trade, education, transportation, professional services, retail development, and agriculture. Its border-region economy contributes significantly to workforce growth and business activity.",
+      "population": "67385"
+    },
+    "Stephens County": {
+      "description": "Stephens County supports a diversified economy based on energy production, agriculture, healthcare services, manufacturing, transportation, and professional services. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "9164"
+    },
+    "Sterling County": {
+      "description": "Sterling County maintains a rural economy centered on ranching, energy-related industries, healthcare services, transportation, agribusiness, and local business activity. Livestock operations and natural resources contribute substantially to economic growth throughout the county.",
+      "population": "1311"
+    },
+    "Stonewall County": {
+      "description": "Stonewall County supports an economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations and livestock production contribute significantly to economic activity throughout the county.",
+      "population": "1205"
+    },
+    "Sutton County": {
+      "description": "Sutton County benefits from energy production, ranching, healthcare services, transportation, tourism, and local business development. Natural resources and agricultural operations contribute substantially to workforce opportunities and economic growth.",
+      "population": "3470"
+    },
+    "Swisher County": {
+      "description": "Swisher County supports a diversified agricultural economy based on farming, agribusiness, food processing, healthcare services, transportation, and manufacturing. Agricultural industries contribute significantly to regional employment and business development.",
+      "population": "7327"
+    },
+    "Tarrant County": {
+      "description": "Tarrant County is one of Texas's largest economic centers and home to Fort Worth. Aerospace, healthcare, finance, logistics, manufacturing, technology, professional services, and corporate headquarters drive a highly diversified economy supporting substantial employment, innovation, and business investment.",
+      "population": "2188638"
+    },
+    "Taylor County": {
+      "description": "Taylor County is one of West Texas's leading economic centers and home to Abilene. Healthcare, higher education, military-related industries, manufacturing, professional services, logistics, retail development, and technology-related businesses drive a diversified economy supporting substantial employment and business investment.",
+      "population": "146836"
+    },
+    "Terrell County": {
+      "description": "Terrell County supports a rural economy based on ranching, energy production, healthcare services, transportation, tourism, and local commerce. Natural resources and livestock operations contribute significantly to economic activity throughout the county.",
+      "population": "760"
+    },
+    "Terry County": {
+      "description": "Terry County benefits from agriculture, energy-related industries, healthcare services, manufacturing, transportation, and agribusiness. Farming operations and natural resource development contribute substantially to workforce opportunities and economic growth.",
+      "population": "12340"
+    },
+    "Throckmorton County": {
+      "description": "Throckmorton County maintains a diversified rural economy centered on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock operations remain a primary contributor to economic development throughout the county.",
+      "population": "1440"
+    },
+    "Titus County": {
+      "description": "Titus County is an important economic center in Northeast Texas, supported by manufacturing, healthcare services, logistics, agriculture, professional services, and retail development. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "32540"
+    },
+    "Tom Green County": {
+      "description": "Tom Green County is one of West Texas's largest economic centers and home to San Angelo. Healthcare, education, military-related industries, manufacturing, professional services, logistics, retail development, and finance drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "121883"
+    },
+    "Travis County": {
+      "description": "Travis County is one of the strongest economic centers in the United States and home to Austin. Technology, healthcare, higher education, finance, professional services, government, startups, corporate headquarters, and advanced manufacturing drive a highly diversified economy supporting substantial innovation, workforce growth, and business investment.",
+      "population": "1335898"
+    },
+    "Trinity County": {
+      "description": "Trinity County supports an economy driven by forestry-related industries, healthcare services, agriculture, tourism, transportation, and local commerce. Natural resources and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "14585"
+    },
+    "Tyler County": {
+      "description": "Tyler County benefits from forestry-related industries, healthcare services, manufacturing, transportation, tourism, and local business development. Natural resources and diversified employers contribute substantially to workforce opportunities and economic growth.",
+      "population": "20150"
+    },
+    "Upshur County": {
+      "description": "Upshur County supports a diversified economy based on healthcare services, manufacturing, transportation, forestry-related industries, retail development, and professional services. Its growing business community contributes significantly to regional economic development.",
+      "population": "41892"
+    },
+    "Upton County": {
+      "description": "Upton County supports an economy driven by energy production, healthcare services, transportation, construction, professional services, and local commerce. Oil and gas development remains the primary contributor to workforce opportunities and economic growth throughout the county.",
+      "population": "3308"
+    },
+    "Uvalde County": {
+      "description": "Uvalde County is an important economic center in South Texas, supported by healthcare services, agriculture, education, tourism, transportation, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "24664"
+    },
+    "Val Verde County": {
+      "description": "Val Verde County benefits from international trade, healthcare services, transportation, tourism, education, professional services, and retail development. Its border-region location contributes substantially to workforce opportunities and economic activity throughout the county.",
+      "population": "47384"
+    },
+    "Van Zandt County": {
+      "description": "Van Zandt County supports a diversified economy based on healthcare services, agriculture, manufacturing, transportation, retail development, and residential growth. Its strategic East Texas location contributes significantly to economic development and workforce expansion.",
+      "population": "61234"
+    },
+    "Victoria County": {
+      "description": "Victoria County is one of South Texas's strongest regional economic centers, driven by healthcare services, manufacturing, energy-related industries, logistics, professional services, retail development, and transportation. Its diversified economy contributes substantially to employment and business investment.",
+      "population": "91725"
+    },
+    "Walker County": {
+      "description": "Walker County supports a diversified economy based on higher education, healthcare services, manufacturing, transportation, professional services, retail development, and government-related employment. Educational institutions contribute significantly to workforce development and economic growth.",
+      "population": "76998"
+    },
+    "Waller County": {
+      "description": "Waller County is one of the fastest-growing counties in Southeast Texas, supported by logistics, healthcare services, manufacturing, professional services, retail development, and residential expansion. Its proximity to Houston drives substantial workforce growth and business investment.",
+      "population": "65410"
+    },
+    "Ward County": {
+      "description": "Ward County benefits from energy production, healthcare services, transportation, manufacturing, construction, and local business development. Oil and gas industries contribute significantly to economic activity and employment opportunities throughout the county.",
+      "population": "11998"
+    },
+    "Washington County": {
+      "description": "Washington County supports an economy driven by healthcare services, tourism, agriculture, manufacturing, professional services, and retail development. Its historic significance and diversified business community contribute substantially to economic growth throughout the county.",
+      "population": "37093"
+    },
+    "Webb County": {
+      "description": "Webb County is one of Texas's largest international trade and logistics centers and home to Laredo. Transportation, warehousing, healthcare services, international commerce, professional services, manufacturing, and retail development drive a highly diversified economy supporting substantial employment and business investment.",
+      "population": "267114"
+    },
+    "Wharton County": {
+      "description": "Wharton County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, energy-related industries, and professional services. Farming operations and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "41620"
+    },
+    "Wheeler County": {
+      "description": "Wheeler County benefits from agriculture, ranching, energy production, healthcare services, transportation, and local commerce. Livestock operations and natural resource industries contribute substantially to workforce opportunities and economic growth.",
+      "population": "4990"
+    },
+    "Wichita County": {
+      "description": "Wichita County is one of North Texas's largest economic centers and home to Wichita Falls. Healthcare, manufacturing, defense-related industries, education, logistics, professional services, and retail development drive a diversified economy supporting substantial employment and business investment.",
+      "population": "129350"
+    },
+    "Wilbarger County": {
+      "description": "Wilbarger County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, energy-related industries, and local business development. Farming operations and regional employers contribute significantly to economic growth throughout the county.",
+      "population": "12573"
+    },
+    "Willacy County": {
+      "description": "Willacy County benefits from agriculture, international trade, healthcare services, transportation, manufacturing, and local commerce. Farming operations and border-region economic activity contribute substantially to workforce opportunities and economic development.",
+      "population": "19966"
+    },
+    "Williamson County": {
+      "description": "Williamson County is one of the fastest-growing and most affluent counties in the United States, driven by technology, healthcare, finance, professional services, advanced manufacturing, retail development, and residential expansion. Its location within the Austin metropolitan area supports substantial business investment and workforce growth.",
+      "population": "671485"
+    },
+    "Wilson County": {
+      "description": "Wilson County is a rapidly growing economic center in South Texas, supported by healthcare services, manufacturing, logistics, agriculture, professional services, and residential development. Its proximity to San Antonio contributes significantly to workforce expansion and business investment.",
+      "population": "55430"
+    },
+    "Winkler County": {
+      "description": "Winkler County supports an economy based on energy production, healthcare services, transportation, construction, professional services, and local commerce. Oil and gas development remains a primary driver of economic activity throughout the county.",
+      "population": "7894"
+    },
+    "Wise County": {
+      "description": "Wise County is one of the fastest-growing counties in North Texas, driven by manufacturing, logistics, healthcare services, professional services, retail development, and residential expansion. Its location within the Dallas–Fort Worth growth corridor contributes substantially to workforce opportunities and economic growth.",
+      "population": "80110"
+    },
+    "Wood County": {
+      "description": "Wood County supports a diversified economy based on healthcare services, tourism, manufacturing, agriculture, transportation, and local business development. Visitor spending and regional employers contribute significantly to economic activity throughout the county.",
+      "population": "45539"
+    },
+    "Yoakum County": {
+      "description": "Yoakum County supports a diversified economy based on energy production, agriculture, healthcare services, transportation, agribusiness, and local commerce. Oil and gas development and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "8557"
+    },
+    "Young County": {
+      "description": "Young County benefits from energy production, agriculture, healthcare services, manufacturing, transportation, tourism, and professional services. Its diversified economy contributes substantially to workforce opportunities and regional economic growth.",
+      "population": "17903"
+    },
+    "Zapata County": {
+      "description": "Zapata County supports an economy driven by international trade, tourism, healthcare services, transportation, energy-related industries, and local commerce. Border-region activity and visitor spending contribute significantly to economic development throughout the county.",
+      "population": "13889"
+    },
+    "Zavala County": {
+      "description": "Zavala County benefits from agriculture, energy production, healthcare services, transportation, manufacturing, and local business development. Farming operations and natural resource industries contribute substantially to workforce opportunities and economic growth.",
+      "population": "11677"
+    }
+  }
 }

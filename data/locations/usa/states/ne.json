@@ -1,408 +1,343 @@
 {
-"Adams County": {
-  "description": "Adams County serves as an important economic center in south-central Nebraska, supported by healthcare, manufacturing, agriculture, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "31687"
-},
-
-"Antelope County": {
-  "description": "Antelope County supports a rural economy based on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "6267"
-},
-
-"Arthur County": {
-  "description": "Arthur County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Livestock production remains central to economic stability throughout the county.",
-  "population": "434"
-},
-
-"Banner County": {
-  "description": "Banner County benefits from agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming and natural resource activities contribute significantly to economic activity throughout the county.",
-  "population": "690"
-},
-
-"Blaine County": {
-  "description": "Blaine County supports a rural economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock and farming operations remain key contributors to economic development.",
-  "population": "465"
-},
-
-"Boone County": {
-  "description": "Boone County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business development. Its diversified economy supports stable employment opportunities and continued growth.",
-  "population": "5379"
-},
-
-"Box Butte County": {
-  "description": "Box Butte County serves as a regional center in western Nebraska, supported by healthcare, agriculture, manufacturing, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional business development.",
-  "population": "10795"
-},
-
-"Boyd County": {
-  "description": "Boyd County supports an economy based on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "1780"
-},
-
-"Brown County": {
-  "description": "Brown County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, tourism, and local business activity. Natural resources and livestock production contribute significantly to economic growth.",
-  "population": "2851"
-},
-
-"Buffalo County": {
-  "description": "Buffalo County is one of Nebraska's strongest economic centers, driven by healthcare, education, manufacturing, agriculture, logistics, retail development, and professional services. Its diversified economy supports substantial employment and regional investment.",
-  "population": "50748"
-},
-"Burt County": {
-  "description": "Burt County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, manufacturing, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
-  "population": "6565"
-},
-
-"Butler County": {
-  "description": "Butler County benefits from agriculture, manufacturing, healthcare services, transportation, renewable energy development, and local business activity. Its diversified economy supports stable workforce opportunities and long-term growth.",
-  "population": "8145"
-},
-
-"Cass County": {
-  "description": "Cass County is one of Nebraska's growing economic centers, supported by healthcare, manufacturing, logistics, agriculture, retail development, professional services, and residential expansion. Its proximity to the Omaha metropolitan area contributes significantly to economic investment and workforce growth.",
-  "population": "27436"
-},
-
-"Cedar County": {
-  "description": "Cedar County maintains a rural economy centered on agriculture, livestock production, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "8229"
-},
-
-"Chase County": {
-  "description": "Chase County supports an economy driven by agriculture, ranching, healthcare services, transportation, tourism, and local business development. Farming and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "3803"
-},
-
-"Cherry County": {
-  "description": "Cherry County is one of Nebraska's largest agricultural regions, supported by ranching, healthcare services, tourism, transportation, agribusiness, and local commerce. Livestock production remains a major contributor to economic activity throughout the county.",
-  "population": "5689"
-},
-
-"Cheyenne County": {
-  "description": "Cheyenne County serves as an important transportation and agricultural center in western Nebraska, supported by logistics, healthcare services, manufacturing, agribusiness, retail activity, and professional services. Its diversified economy contributes significantly to regional growth.",
-  "population": "9468"
-},
-
-"Clay County": {
-  "description": "Clay County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business activity. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
-  "population": "6047"
-},
-
-"Colfax County": {
-  "description": "Colfax County supports a diversified economy based on agriculture, food processing, manufacturing, healthcare services, transportation, and local commerce. Its strong agribusiness sector contributes substantially to regional employment and growth.",
-  "population": "10691"
-},
-
-"Cuming County": {
-  "description": "Cuming County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and professional services. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "8950"
-},
-"Custer County": {
-  "description": "Custer County serves as a major agricultural and regional service center in central Nebraska, supported by ranching, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Its diversified economy contributes significantly to regional employment and business activity.",
-  "population": "10702"
-},
-
-"Dakota County": {
-  "description": "Dakota County is one of Nebraska's strongest economic centers, supported by manufacturing, food processing, healthcare services, logistics, retail development, and professional services. Its location within the Sioux City metropolitan area drives substantial business investment and workforce growth.",
-  "population": "21931"
-},
-
-"Dawes County": {
-  "description": "Dawes County benefits from higher education, healthcare services, tourism, agriculture, retail activity, and local business development. Educational institutions and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "8420"
-},
-
-"Dawson County": {
-  "description": "Dawson County supports a diversified economy based on agriculture, food processing, manufacturing, healthcare services, transportation, and professional services. Its strong agribusiness sector contributes substantially to regional employment and economic growth.",
-  "population": "23734"
-},
-
-"Deuel County": {
-  "description": "Deuel County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "1836"
-},
-
-"Dixon County": {
-  "description": "Dixon County supports an economy driven by agriculture, livestock production, healthcare services, transportation, agribusiness, and local business activity. Farming operations contribute significantly to economic stability and growth.",
-  "population": "5480"
-},
-
-"Dodge County": {
-  "description": "Dodge County is an important economic center in eastern Nebraska, supported by manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its diversified economy contributes significantly to regional employment and investment.",
-  "population": "37086"
-},
-
-"Douglas County": {
-  "description": "Douglas County is Nebraska's largest economic center and home to Omaha. Finance, healthcare, technology, logistics, manufacturing, professional services, higher education, and corporate headquarters drive one of the Midwest's most diversified and dynamic economies.",
-  "population": "601158"
-},
-
-"Dundy County": {
-  "description": "Dundy County supports a rural economy based on agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "1648"
-},
-
-"Fillmore County": {
-  "description": "Fillmore County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and local industries contribute significantly to economic development throughout the county.",
-  "population": "5521"
-},
-"Hamilton County": {
-  "description": "Hamilton County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "9561"
-},
-
-"Harlan County": {
-  "description": "Harlan County benefits from agriculture, tourism, healthcare services, energy-related industries, transportation, and local business development. Farming operations and recreation-related industries contribute significantly to economic growth.",
-  "population": "3036"
-},
-
-"Hayes County": {
-  "description": "Hayes County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a primary contributor to economic activity throughout the county.",
-  "population": "915"
-},
-
-"Hitchcock County": {
-  "description": "Hitchcock County supports an economy driven by agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations remain central to economic stability and growth.",
-  "population": "2675"
-},
-
-"Holt County": {
-  "description": "Holt County serves as a major agricultural and regional service center in north-central Nebraska, supported by ranching, healthcare services, education, transportation, agribusiness, and professional services. Its diversified economy contributes significantly to regional employment and development.",
-  "population": "10291"
-},
-
-"Hooker County": {
-  "description": "Hooker County maintains a ranching-focused economy complemented by agriculture, healthcare services, transportation, tourism, and local business activity. Livestock production remains a major contributor to economic activity throughout the county.",
-  "population": "711"
-},
-
-"Howard County": {
-  "description": "Howard County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic growth throughout the county.",
-  "population": "6485"
-},
-
-"Jefferson County": {
-  "description": "Jefferson County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, renewable energy development, and local business development. Its economy contributes to stable employment and long-term growth.",
-  "population": "7194"
-},
-
-"Johnson County": {
-  "description": "Johnson County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a key contributor to economic activity and workforce opportunities throughout the county.",
-  "population": "5290"
-},
-
-"Kearney County": {
-  "description": "Kearney County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Its diversified economy contributes significantly to regional economic development.",
-  "population": "6546"
-},
-"Keith County": {
-  "description": "Keith County supports a diversified economy driven by tourism, agriculture, healthcare services, transportation, hospitality, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
-  "population": "8062"
-},
-
-"Keya Paha County": {
-  "description": "Keya Paha County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains central to economic activity throughout the county.",
-  "population": "824"
-},
-
-"Kimball County": {
-  "description": "Kimball County benefits from agriculture, transportation, energy-related industries, healthcare services, logistics, and local business development. Its strategic location along major transportation corridors supports economic growth.",
-  "population": "3654"
-},
-
-"Knox County": {
-  "description": "Knox County supports a strong agricultural economy complemented by healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "8352"
-},
-
-"Lancaster County": {
-  "description": "Lancaster County is one of Nebraska's largest economic centers and home to Lincoln. Government services, healthcare, higher education, technology, finance, manufacturing, professional services, and retail development drive a highly diversified economy and substantial workforce growth.",
-  "population": "327799"
-},
-
-"Lincoln County": {
-  "description": "Lincoln County serves as a major economic hub in western Nebraska, supported by transportation, logistics, healthcare services, manufacturing, agriculture, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "34906"
-},
-
-"Logan County": {
-  "description": "Logan County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations continue to support economic stability and workforce opportunities.",
-  "population": "763"
-},
-
-"Loup County": {
-  "description": "Loup County supports an economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock production remains the foundation of economic activity throughout the county.",
-  "population": "607"
-},
-
-"McPherson County": {
-  "description": "McPherson County benefits from agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic development and stability.",
-  "population": "399"
-},
-
-"Madison County": {
-  "description": "Madison County is an important economic center in northeastern Nebraska, supported by manufacturing, healthcare services, higher education, agriculture, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
-  "population": "35370"
-},
-"Merrick County": {
-  "description": "Merrick County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "7684"
-},
-
-"Morrill County": {
-  "description": "Morrill County benefits from agriculture, transportation, healthcare services, manufacturing, energy-related industries, and local business development. Its economy supports stable workforce opportunities and continued growth.",
-  "population": "4574"
-},
-
-"Nance County": {
-  "description": "Nance County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "3380"
-},
-
-"Nemaha County": {
-  "description": "Nemaha County serves as an important economic center in southeastern Nebraska, supported by manufacturing, healthcare services, agriculture, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
-  "population": "7068"
-},
-
-"Nuckolls County": {
-  "description": "Nuckolls County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Farming operations continue to contribute substantially to economic growth throughout the county.",
-  "population": "4015"
-},
-
-"Otoe County": {
-  "description": "Otoe County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strategic location in southeastern Nebraska supports continued economic investment and workforce growth.",
-  "population": "15794"
-},
-
-"Pawnee County": {
-  "description": "Pawnee County maintains a rural economy based on agriculture, healthcare services, transportation, agribusiness, manufacturing, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
-  "population": "2544"
-},
-
-"Perkins County": {
-  "description": "Perkins County supports an economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock production contribute significantly to economic development throughout the county.",
-  "population": "2812"
-},
-
-"Phelps County": {
-  "description": "Phelps County serves as a regional agricultural and service center, supported by healthcare, manufacturing, transportation, agribusiness, retail activity, and professional services. Its diversified economy contributes substantially to regional employment and growth.",
-  "population": "8847"
-},
-
-"Pierce County": {
-  "description": "Pierce County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "7268"
-},
-"Platte County": {
-  "description": "Platte County is one of Nebraska's leading economic centers, supported by manufacturing, healthcare services, agriculture, logistics, retail development, higher education, and professional services. Its diversified economy contributes substantially to regional employment and business investment.",
-  "population": "34872"
-},
-
-"Polk County": {
-  "description": "Polk County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "5168"
-},
-
-"Red Willow County": {
-  "description": "Red Willow County serves as an important regional hub in southwest Nebraska, driven by healthcare, agriculture, manufacturing, transportation, retail activity, and professional services. Its diversified economy supports stable workforce opportunities and continued growth.",
-  "population": "10874"
-},
-
-"Richardson County": {
-  "description": "Richardson County benefits from agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business development. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "7746"
-},
-
-"Rock County": {
-  "description": "Rock County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, tourism, and local commerce. Livestock production remains central to economic development throughout the county.",
-  "population": "1262"
-},
-
-"Saline County": {
-  "description": "Saline County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, renewable energy development, and local commerce. Its diversified economy contributes significantly to regional employment and business growth.",
-  "population": "14379"
-},
-
-"Sarpy County": {
-  "description": "Sarpy County is one of Nebraska's fastest-growing and most affluent counties, supported by healthcare, finance, technology, logistics, professional services, retail development, and residential expansion. Its location within the Omaha metropolitan area drives substantial economic investment and workforce growth.",
-  "population": "199921"
-},
-
-"Saunders County": {
-  "description": "Saunders County benefits from agriculture, manufacturing, healthcare services, logistics, retail activity, and professional industries. Its proximity to the Omaha and Lincoln regions supports continued economic development and business investment.",
-  "population": "23367"
-},
-
-"Scotts Bluff County": {
-  "description": "Scotts Bluff County is a major economic center in western Nebraska, anchored by healthcare, education, agriculture, transportation, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business activity.",
-  "population": "36084"
-},
-
-"Seward County": {
-  "description": "Seward County supports a diversified economy based on manufacturing, healthcare services, agriculture, logistics, education, and local commerce. Its strategic location contributes significantly to regional economic growth and workforce opportunities.",
-  "population": "18123"
-},
-"Sheridan County": {
-  "description": "Sheridan County supports a diversified economy based on ranching, agriculture, healthcare services, tourism, transportation, and local commerce. Livestock production and visitor-related industries contribute significantly to economic activity throughout the county.",
-  "population": "5068"
-},
-
-"Sherman County": {
-  "description": "Sherman County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
-  "population": "2957"
-},
-
-"Sioux County": {
-  "description": "Sioux County benefits from ranching, agriculture, tourism, healthcare services, transportation, and local business development. Natural attractions and livestock production contribute significantly to economic growth throughout the county.",
-  "population": "1135"
-},
-
-"Stanton County": {
-  "description": "Stanton County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
-  "population": "5942"
-},
-
-"Thayer County": {
-  "description": "Thayer County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Its diversified economy supports stable workforce opportunities and continued growth.",
-  "population": "5060"
-},
-
-"Thomas County": {
-  "description": "Thomas County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, tourism, agribusiness, and local commerce. Livestock production remains central to economic development throughout the county.",
-  "population": "673"
-},
-
-"Thurston County": {
-  "description": "Thurston County supports a diversified economy based on healthcare services, education, agriculture, transportation, government employment, and local commerce. Community institutions contribute significantly to economic activity throughout the county.",
-  "population": "6991"
-},
-
-"Valley County": {
-  "description": "Valley County benefits from agriculture, healthcare services, tourism, transportation, agribusiness, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
-  "population": "4071"
-},
-
-"Washington County": {
-  "description": "Washington County is a growing economic center within the Omaha metropolitan region, supported by healthcare, manufacturing, logistics, retail development, professional services, and residential expansion. Its strategic location contributes substantially to business investment and workforce growth.",
-  "population": "21195"
-},
-
-"Wayne County": {
-  "description": "Wayne County serves as an important educational and healthcare center in northeastern Nebraska, supported by higher education, healthcare services, agriculture, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and development.",
-  "population": "9541"
-},
-"Webster County": {
-  "description": "Webster County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
-  "population": "3364"
-},
-
-"Wheeler County": {
-  "description": "Wheeler County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Livestock production remains central to economic stability throughout the county.",
-  "population": "774"
-},
-
-"York County": {
-  "description": "York County is one of Nebraska's strongest regional economic centers, driven by manufacturing, healthcare services, agriculture, logistics, retail development, professional services, and transportation. Its diversified economy contributes substantially to employment, business investment, and long-term economic growth.",
-  "population": "14098"
-}
+  "identity": {
+    "code": "ne",
+    "slug": "nebraska",
+    "name": "Nebraska",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adams County": {
+      "description": "Adams County serves as an important economic center in south-central Nebraska, supported by healthcare, manufacturing, agriculture, logistics, retail development, and professional services. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "31687"
+    },
+    "Antelope County": {
+      "description": "Antelope County supports a rural economy based on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "6267"
+    },
+    "Arthur County": {
+      "description": "Arthur County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Livestock production remains central to economic stability throughout the county.",
+      "population": "434"
+    },
+    "Banner County": {
+      "description": "Banner County benefits from agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming and natural resource activities contribute significantly to economic activity throughout the county.",
+      "population": "690"
+    },
+    "Blaine County": {
+      "description": "Blaine County supports a rural economy driven by agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock and farming operations remain key contributors to economic development.",
+      "population": "465"
+    },
+    "Boone County": {
+      "description": "Boone County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business development. Its diversified economy supports stable employment opportunities and continued growth.",
+      "population": "5379"
+    },
+    "Box Butte County": {
+      "description": "Box Butte County serves as a regional center in western Nebraska, supported by healthcare, agriculture, manufacturing, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional business development.",
+      "population": "10795"
+    },
+    "Boyd County": {
+      "description": "Boyd County supports an economy based on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "1780"
+    },
+    "Brown County": {
+      "description": "Brown County maintains a rural economy centered on ranching, agriculture, healthcare services, transportation, tourism, and local business activity. Natural resources and livestock production contribute significantly to economic growth.",
+      "population": "2851"
+    },
+    "Buffalo County": {
+      "description": "Buffalo County is one of Nebraska's strongest economic centers, driven by healthcare, education, manufacturing, agriculture, logistics, retail development, and professional services. Its diversified economy supports substantial employment and regional investment.",
+      "population": "50748"
+    },
+    "Burt County": {
+      "description": "Burt County supports a diversified economy based on agriculture, healthcare services, transportation, agribusiness, manufacturing, and local commerce. Farming operations remain a key contributor to economic activity throughout the county.",
+      "population": "6565"
+    },
+    "Butler County": {
+      "description": "Butler County benefits from agriculture, manufacturing, healthcare services, transportation, renewable energy development, and local business activity. Its diversified economy supports stable workforce opportunities and long-term growth.",
+      "population": "8145"
+    },
+    "Cass County": {
+      "description": "Cass County is one of Nebraska's growing economic centers, supported by healthcare, manufacturing, logistics, agriculture, retail development, professional services, and residential expansion. Its proximity to the Omaha metropolitan area contributes significantly to economic investment and workforce growth.",
+      "population": "27436"
+    },
+    "Cedar County": {
+      "description": "Cedar County maintains a rural economy centered on agriculture, livestock production, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "8229"
+    },
+    "Chase County": {
+      "description": "Chase County supports an economy driven by agriculture, ranching, healthcare services, transportation, tourism, and local business development. Farming and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "3803"
+    },
+    "Cherry County": {
+      "description": "Cherry County is one of Nebraska's largest agricultural regions, supported by ranching, healthcare services, tourism, transportation, agribusiness, and local commerce. Livestock production remains a major contributor to economic activity throughout the county.",
+      "population": "5689"
+    },
+    "Cheyenne County": {
+      "description": "Cheyenne County serves as an important transportation and agricultural center in western Nebraska, supported by logistics, healthcare services, manufacturing, agribusiness, retail activity, and professional services. Its diversified economy contributes significantly to regional growth.",
+      "population": "9468"
+    },
+    "Clay County": {
+      "description": "Clay County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local business activity. Farming operations and industrial employers contribute significantly to economic development throughout the county.",
+      "population": "6047"
+    },
+    "Colfax County": {
+      "description": "Colfax County supports a diversified economy based on agriculture, food processing, manufacturing, healthcare services, transportation, and local commerce. Its strong agribusiness sector contributes substantially to regional employment and growth.",
+      "population": "10691"
+    },
+    "Cuming County": {
+      "description": "Cuming County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and professional services. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "8950"
+    },
+    "Custer County": {
+      "description": "Custer County serves as a major agricultural and regional service center in central Nebraska, supported by ranching, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Its diversified economy contributes significantly to regional employment and business activity.",
+      "population": "10702"
+    },
+    "Dakota County": {
+      "description": "Dakota County is one of Nebraska's strongest economic centers, supported by manufacturing, food processing, healthcare services, logistics, retail development, and professional services. Its location within the Sioux City metropolitan area drives substantial business investment and workforce growth.",
+      "population": "21931"
+    },
+    "Dawes County": {
+      "description": "Dawes County benefits from higher education, healthcare services, tourism, agriculture, retail activity, and local business development. Educational institutions and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "8420"
+    },
+    "Dawson County": {
+      "description": "Dawson County supports a diversified economy based on agriculture, food processing, manufacturing, healthcare services, transportation, and professional services. Its strong agribusiness sector contributes substantially to regional employment and economic growth.",
+      "population": "23734"
+    },
+    "Deuel County": {
+      "description": "Deuel County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "1836"
+    },
+    "Dixon County": {
+      "description": "Dixon County supports an economy driven by agriculture, livestock production, healthcare services, transportation, agribusiness, and local business activity. Farming operations contribute significantly to economic stability and growth.",
+      "population": "5480"
+    },
+    "Dodge County": {
+      "description": "Dodge County is an important economic center in eastern Nebraska, supported by manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its diversified economy contributes significantly to regional employment and investment.",
+      "population": "37086"
+    },
+    "Douglas County": {
+      "description": "Douglas County is Nebraska's largest economic center and home to Omaha. Finance, healthcare, technology, logistics, manufacturing, professional services, higher education, and corporate headquarters drive one of the Midwest's most diversified and dynamic economies.",
+      "population": "601158"
+    },
+    "Dundy County": {
+      "description": "Dundy County supports a rural economy based on agriculture, ranching, healthcare services, transportation, energy-related industries, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "1648"
+    },
+    "Fillmore County": {
+      "description": "Fillmore County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and local industries contribute significantly to economic development throughout the county.",
+      "population": "5521"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "9561"
+    },
+    "Harlan County": {
+      "description": "Harlan County benefits from agriculture, tourism, healthcare services, energy-related industries, transportation, and local business development. Farming operations and recreation-related industries contribute significantly to economic growth.",
+      "population": "3036"
+    },
+    "Hayes County": {
+      "description": "Hayes County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains a primary contributor to economic activity throughout the county.",
+      "population": "915"
+    },
+    "Hitchcock County": {
+      "description": "Hitchcock County supports an economy driven by agriculture, ranching, healthcare services, transportation, renewable energy development, and local commerce. Farming operations remain central to economic stability and growth.",
+      "population": "2675"
+    },
+    "Holt County": {
+      "description": "Holt County serves as a major agricultural and regional service center in north-central Nebraska, supported by ranching, healthcare services, education, transportation, agribusiness, and professional services. Its diversified economy contributes significantly to regional employment and development.",
+      "population": "10291"
+    },
+    "Hooker County": {
+      "description": "Hooker County maintains a ranching-focused economy complemented by agriculture, healthcare services, transportation, tourism, and local business activity. Livestock production remains a major contributor to economic activity throughout the county.",
+      "population": "711"
+    },
+    "Howard County": {
+      "description": "Howard County benefits from agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic growth throughout the county.",
+      "population": "6485"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, renewable energy development, and local business development. Its economy contributes to stable employment and long-term growth.",
+      "population": "7194"
+    },
+    "Johnson County": {
+      "description": "Johnson County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a key contributor to economic activity and workforce opportunities throughout the county.",
+      "population": "5290"
+    },
+    "Kearney County": {
+      "description": "Kearney County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Its diversified economy contributes significantly to regional economic development.",
+      "population": "6546"
+    },
+    "Keith County": {
+      "description": "Keith County supports a diversified economy driven by tourism, agriculture, healthcare services, transportation, hospitality, and local commerce. Visitor spending and farming operations contribute significantly to economic activity throughout the county.",
+      "population": "8062"
+    },
+    "Keya Paha County": {
+      "description": "Keya Paha County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, and local commerce. Livestock production remains central to economic activity throughout the county.",
+      "population": "824"
+    },
+    "Kimball County": {
+      "description": "Kimball County benefits from agriculture, transportation, energy-related industries, healthcare services, logistics, and local business development. Its strategic location along major transportation corridors supports economic growth.",
+      "population": "3654"
+    },
+    "Knox County": {
+      "description": "Knox County supports a strong agricultural economy complemented by healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "8352"
+    },
+    "Lancaster County": {
+      "description": "Lancaster County is one of Nebraska's largest economic centers and home to Lincoln. Government services, healthcare, higher education, technology, finance, manufacturing, professional services, and retail development drive a highly diversified economy and substantial workforce growth.",
+      "population": "327799"
+    },
+    "Lincoln County": {
+      "description": "Lincoln County serves as a major economic hub in western Nebraska, supported by transportation, logistics, healthcare services, manufacturing, agriculture, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "34906"
+    },
+    "Logan County": {
+      "description": "Logan County maintains a rural economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations continue to support economic stability and workforce opportunities.",
+      "population": "763"
+    },
+    "Loup County": {
+      "description": "Loup County supports an economy based on ranching, agriculture, healthcare services, transportation, agribusiness, and local business activity. Livestock production remains the foundation of economic activity throughout the county.",
+      "population": "607"
+    },
+    "McPherson County": {
+      "description": "McPherson County benefits from agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic development and stability.",
+      "population": "399"
+    },
+    "Madison County": {
+      "description": "Madison County is an important economic center in northeastern Nebraska, supported by manufacturing, healthcare services, higher education, agriculture, retail development, and professional services. Its diversified economy contributes substantially to regional employment and investment.",
+      "population": "35370"
+    },
+    "Merrick County": {
+      "description": "Merrick County supports a diversified economy based on agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "7684"
+    },
+    "Morrill County": {
+      "description": "Morrill County benefits from agriculture, transportation, healthcare services, manufacturing, energy-related industries, and local business development. Its economy supports stable workforce opportunities and continued growth.",
+      "population": "4574"
+    },
+    "Nance County": {
+      "description": "Nance County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "3380"
+    },
+    "Nemaha County": {
+      "description": "Nemaha County serves as an important economic center in southeastern Nebraska, supported by manufacturing, healthcare services, agriculture, transportation, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and business development.",
+      "population": "7068"
+    },
+    "Nuckolls County": {
+      "description": "Nuckolls County supports an economy driven by agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Farming operations continue to contribute substantially to economic growth throughout the county.",
+      "population": "4015"
+    },
+    "Otoe County": {
+      "description": "Otoe County benefits from manufacturing, healthcare services, agriculture, logistics, retail development, and professional industries. Its strategic location in southeastern Nebraska supports continued economic investment and workforce growth.",
+      "population": "15794"
+    },
+    "Pawnee County": {
+      "description": "Pawnee County maintains a rural economy based on agriculture, healthcare services, transportation, agribusiness, manufacturing, and local commerce. Farming operations remain a major contributor to economic activity throughout the county.",
+      "population": "2544"
+    },
+    "Perkins County": {
+      "description": "Perkins County supports an economy centered on agriculture, ranching, healthcare services, transportation, agribusiness, and local commerce. Farming and livestock production contribute significantly to economic development throughout the county.",
+      "population": "2812"
+    },
+    "Phelps County": {
+      "description": "Phelps County serves as a regional agricultural and service center, supported by healthcare, manufacturing, transportation, agribusiness, retail activity, and professional services. Its diversified economy contributes substantially to regional employment and growth.",
+      "population": "8847"
+    },
+    "Pierce County": {
+      "description": "Pierce County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "7268"
+    },
+    "Platte County": {
+      "description": "Platte County is one of Nebraska's leading economic centers, supported by manufacturing, healthcare services, agriculture, logistics, retail development, higher education, and professional services. Its diversified economy contributes substantially to regional employment and business investment.",
+      "population": "34872"
+    },
+    "Polk County": {
+      "description": "Polk County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "5168"
+    },
+    "Red Willow County": {
+      "description": "Red Willow County serves as an important regional hub in southwest Nebraska, driven by healthcare, agriculture, manufacturing, transportation, retail activity, and professional services. Its diversified economy supports stable workforce opportunities and continued growth.",
+      "population": "10874"
+    },
+    "Richardson County": {
+      "description": "Richardson County benefits from agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business development. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "7746"
+    },
+    "Rock County": {
+      "description": "Rock County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, tourism, and local commerce. Livestock production remains central to economic development throughout the county.",
+      "population": "1262"
+    },
+    "Saline County": {
+      "description": "Saline County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, renewable energy development, and local commerce. Its diversified economy contributes significantly to regional employment and business growth.",
+      "population": "14379"
+    },
+    "Sarpy County": {
+      "description": "Sarpy County is one of Nebraska's fastest-growing and most affluent counties, supported by healthcare, finance, technology, logistics, professional services, retail development, and residential expansion. Its location within the Omaha metropolitan area drives substantial economic investment and workforce growth.",
+      "population": "199921"
+    },
+    "Saunders County": {
+      "description": "Saunders County benefits from agriculture, manufacturing, healthcare services, logistics, retail activity, and professional industries. Its proximity to the Omaha and Lincoln regions supports continued economic development and business investment.",
+      "population": "23367"
+    },
+    "Scotts Bluff County": {
+      "description": "Scotts Bluff County is a major economic center in western Nebraska, anchored by healthcare, education, agriculture, transportation, retail development, and professional services. Its diversified economy contributes substantially to regional employment and business activity.",
+      "population": "36084"
+    },
+    "Seward County": {
+      "description": "Seward County supports a diversified economy based on manufacturing, healthcare services, agriculture, logistics, education, and local commerce. Its strategic location contributes significantly to regional economic growth and workforce opportunities.",
+      "population": "18123"
+    },
+    "Sheridan County": {
+      "description": "Sheridan County supports a diversified economy based on ranching, agriculture, healthcare services, tourism, transportation, and local commerce. Livestock production and visitor-related industries contribute significantly to economic activity throughout the county.",
+      "population": "5068"
+    },
+    "Sherman County": {
+      "description": "Sherman County maintains a rural economy centered on agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local commerce. Farming operations remain the foundation of economic activity throughout the county.",
+      "population": "2957"
+    },
+    "Sioux County": {
+      "description": "Sioux County benefits from ranching, agriculture, tourism, healthcare services, transportation, and local business development. Natural attractions and livestock production contribute significantly to economic growth throughout the county.",
+      "population": "1135"
+    },
+    "Stanton County": {
+      "description": "Stanton County supports an economy driven by agriculture, manufacturing, healthcare services, transportation, agribusiness, and local commerce. Farming operations and industrial employers contribute significantly to economic activity throughout the county.",
+      "population": "5942"
+    },
+    "Thayer County": {
+      "description": "Thayer County combines agriculture, healthcare services, manufacturing, transportation, agribusiness, and local business activity. Its diversified economy supports stable workforce opportunities and continued growth.",
+      "population": "5060"
+    },
+    "Thomas County": {
+      "description": "Thomas County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, tourism, agribusiness, and local commerce. Livestock production remains central to economic development throughout the county.",
+      "population": "673"
+    },
+    "Thurston County": {
+      "description": "Thurston County supports a diversified economy based on healthcare services, education, agriculture, transportation, government employment, and local commerce. Community institutions contribute significantly to economic activity throughout the county.",
+      "population": "6991"
+    },
+    "Valley County": {
+      "description": "Valley County benefits from agriculture, healthcare services, tourism, transportation, agribusiness, and local business development. Farming operations and visitor-related industries contribute significantly to economic growth throughout the county.",
+      "population": "4071"
+    },
+    "Washington County": {
+      "description": "Washington County is a growing economic center within the Omaha metropolitan region, supported by healthcare, manufacturing, logistics, retail development, professional services, and residential expansion. Its strategic location contributes substantially to business investment and workforce growth.",
+      "population": "21195"
+    },
+    "Wayne County": {
+      "description": "Wayne County serves as an important educational and healthcare center in northeastern Nebraska, supported by higher education, healthcare services, agriculture, manufacturing, retail activity, and professional services. Its diversified economy contributes significantly to regional employment and development.",
+      "population": "9541"
+    },
+    "Webster County": {
+      "description": "Webster County supports a diversified economy based on agriculture, healthcare services, manufacturing, transportation, agribusiness, and local commerce. Farming operations remain a primary contributor to economic activity throughout the county.",
+      "population": "3364"
+    },
+    "Wheeler County": {
+      "description": "Wheeler County maintains a ranching-focused economy supported by agriculture, healthcare services, transportation, agribusiness, renewable energy development, and local business activity. Livestock production remains central to economic stability throughout the county.",
+      "population": "774"
+    },
+    "York County": {
+      "description": "York County is one of Nebraska's strongest regional economic centers, driven by manufacturing, healthcare services, agriculture, logistics, retail development, professional services, and transportation. Its diversified economy contributes substantially to employment, business investment, and long-term economic growth.",
+      "population": "14098"
+    }
+  }
 }

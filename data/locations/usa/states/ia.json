@@ -1,487 +1,407 @@
 {
-"Adair County": {
-  "description": "Adair County supports a strong rural economy centered on agriculture, livestock production, agribusiness, and local commerce. Farming operations and community-focused businesses continue to play vital roles in economic activity throughout the county.",
-  "population": "7496"
-},
-
-"Adams County": {
-  "description": "Adams County is characterized by productive farmland, agricultural enterprises, and small-town communities in southwest Iowa. Agriculture remains the primary economic driver, supported by local services and agribusiness operations.",
-  "population": "3671"
-},
-
-"Allamakee County": {
-  "description": "Allamakee County is known for its scenic river valleys, outdoor recreation opportunities, tourism industry, and agricultural production. Hospitality, farming, healthcare, and local businesses contribute to a diverse regional economy.",
-  "population": "13949"
-},
-
-"Appanoose County": {
-  "description": "Appanoose County combines healthcare, manufacturing, agriculture, and local commerce within southern Iowa. Economic activity is supported by a mix of industrial employers, farming operations, and service-based businesses.",
-  "population": "12276"
-},
-
-"Audubon County": {
-  "description": "Audubon County maintains a rural economy driven by agriculture, livestock production, agribusiness, and community services. Farming and agricultural support industries continue to provide the foundation for economic stability.",
-  "population": "5491"
-},
-
-"Benton County": {
-  "description": "Benton County benefits from agriculture, manufacturing, healthcare, and transportation access within eastern Iowa. Its diverse economy supports both rural communities and growing business activity throughout the county.",
-  "population": "25778"
-},
-
-"Black Hawk County": {
-  "description": "Black Hawk County is one of Iowa's leading economic centers, supported by manufacturing, healthcare, education, technology, and professional services. Its urban communities and skilled workforce contribute to strong regional economic growth.",
-  "population": "132782"
-},
-
-"Boone County": {
-  "description": "Boone County combines agriculture, logistics, manufacturing, healthcare, and tourism within a growing central Iowa economy. Its transportation infrastructure supports continued commercial development and business investment.",
-  "population": "26395"
-},
-
-"Bremer County": {
-  "description": "Bremer County supports a diversified economy based on agriculture, manufacturing, healthcare, education, and retail activity. Its strong workforce and stable business environment contribute to long-term economic growth.",
-  "population": "25191"
-},
-
-"Buchanan County": {
-  "description": "Buchanan County features productive farmland, manufacturing operations, healthcare services, and local commerce. Agriculture and industry continue to play important roles in supporting economic activity throughout the county.",
-  "population": "20828"
-},
-"Buena Vista County": {
-  "description": "Buena Vista County supports a diverse economy driven by agriculture, food processing, manufacturing, healthcare, and education. Agribusiness and industrial employers continue to play important roles in regional economic growth.",
-  "population": "19620"
-},
-
-"Butler County": {
-  "description": "Butler County combines productive farmland, manufacturing operations, healthcare services, and local commerce within northeast Iowa. Agriculture and industry provide a stable foundation for economic activity throughout the county.",
-  "population": "14460"
-},
-
-"Calhoun County": {
-  "description": "Calhoun County maintains a strong agricultural economy supported by crop production, livestock operations, agribusiness, and community services. Farming remains the primary driver of economic activity across the county.",
-  "population": "9657"
-},
-
-"Carroll County": {
-  "description": "Carroll County serves as a regional center for agriculture, healthcare, manufacturing, and retail activity in west-central Iowa. Its diversified economy supports both rural communities and commercial development.",
-  "population": "20118"
-},
-
-"Cass County": {
-  "description": "Cass County benefits from agriculture, manufacturing, healthcare services, and transportation access. Farming operations and local businesses continue to support long-term economic stability throughout the county.",
-  "population": "12962"
-},
-
-"Cedar County": {
-  "description": "Cedar County combines agriculture, manufacturing, logistics, and residential growth within eastern Iowa. Its proximity to larger economic centers supports continued business development and workforce opportunities.",
-  "population": "18903"
-},
-
-"Cerro Gordo County": {
-  "description": "Cerro Gordo County is a major economic center in north-central Iowa, supporting healthcare, manufacturing, finance, retail, and professional services. Its diverse economy contributes significantly to regional employment and business activity.",
-  "population": "43127"
-},
-
-"Cherokee County": {
-  "description": "Cherokee County supports an economy based on agriculture, healthcare, manufacturing, and local commerce. Farming operations and community institutions remain important contributors to economic activity throughout the county.",
-  "population": "11732"
-},
-
-"Chickasaw County": {
-  "description": "Chickasaw County combines agriculture, food production, manufacturing, and healthcare services within a stable northeast Iowa economy. Agribusiness and industrial employers help support long-term economic growth.",
-  "population": "12012"
-},
-
-"Clarke County": {
-  "description": "Clarke County benefits from agriculture, manufacturing, healthcare, logistics, and retail activity. Its central location and transportation connections support business development and economic expansion throughout the county.",
-  "population": "9388"
-},
-"Clay County": {
-  "description": "Clay County supports a balanced economy built on agriculture, manufacturing, healthcare, education, and local commerce. Agribusiness and regional service industries continue to contribute to economic growth throughout the county.",
-  "population": "16384"
-},
-
-"Clayton County": {
-  "description": "Clayton County is known for its scenic Mississippi River landscapes, tourism attractions, agriculture, and outdoor recreation opportunities. Hospitality, farming, and small businesses play important roles in the county's economy.",
-  "population": "17472"
-},
-
-"Clinton County": {
-  "description": "Clinton County serves as an important manufacturing, logistics, healthcare, and transportation center along the Mississippi River. Its strategic location supports a diverse economy and strong regional business activity.",
-  "population": "46593"
-},
-
-"Crawford County": {
-  "description": "Crawford County combines agricultural production, food processing, healthcare, and local commerce within western Iowa. Farming and community-based industries remain key drivers of economic activity.",
-  "population": "16438"
-},
-
-"Dallas County": {
-  "description": "Dallas County is Iowa's fastest-growing county and a major part of the Des Moines metropolitan area. Residential development, healthcare, finance, technology, logistics, and professional services continue to drive rapid economic expansion.",
-  "population": "111620"
-},
-
-"Davis County": {
-  "description": "Davis County supports a rural economy centered on agriculture, livestock production, healthcare services, and local businesses. Farming operations remain the primary contributor to economic activity throughout the county.",
-  "population": "8997"
-},
-
-"Decatur County": {
-  "description": "Decatur County combines agriculture, manufacturing, healthcare, tourism, and local commerce within southern Iowa. Economic activity is supported by both traditional industries and community-focused development.",
-  "population": "7536"
-},
-
-"Delaware County": {
-  "description": "Delaware County benefits from agriculture, manufacturing, healthcare, and transportation access within eastern Iowa. Its diversified economy supports employment opportunities across multiple sectors.",
-  "population": "17162"
-},
-
-"Des Moines County": {
-  "description": "Des Moines County serves as a regional center for manufacturing, healthcare, education, transportation, and commercial activity. Its Mississippi River location contributes to business development and economic growth.",
-  "population": "38524"
-},
-
-"Dickinson County": {
-  "description": "Dickinson County is one of Iowa's premier tourism destinations, known for its lakes, outdoor recreation, hospitality industry, and growing service sector. Visitor spending plays a significant role in supporting the local economy.",
-  "population": "18368"
-},
-"Dubuque County": {
-  "description": "Dubuque County is one of Iowa's leading economic centers, supported by manufacturing, healthcare, finance, education, tourism, and professional services. Its Mississippi River location and diversified economy contribute significantly to regional growth and employment.",
-  "population": "100416"
-},
-
-"Emmet County": {
-  "description": "Emmet County supports a strong agricultural economy based on crop production, livestock operations, agribusiness, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "9074"
-},
-
-"Fayette County": {
-  "description": "Fayette County combines agriculture, higher education, healthcare, manufacturing, and local businesses within northeast Iowa. Its diverse economic base supports long-term stability and community development.",
-  "population": "19862"
-},
-
-"Floyd County": {
-  "description": "Floyd County benefits from agriculture, healthcare services, manufacturing, and retail activity. Farming operations and regional employers continue to contribute to economic growth throughout the county.",
-  "population": "15502"
-},
-
-"Franklin County": {
-  "description": "Franklin County maintains a rural economy supported by agriculture, agribusiness, healthcare, and community-focused commerce. Crop production and livestock operations remain central to economic activity.",
-  "population": "10155"
-},
-
-"Fremont County": {
-  "description": "Fremont County combines agriculture, logistics, tourism, healthcare, and local commerce within southwest Iowa. Its location near major transportation corridors supports business activity and regional connectivity.",
-  "population": "6961"
-},
-
-"Greene County": {
-  "description": "Greene County supports an economy based on agriculture, manufacturing, healthcare, and retail services. Farming operations and local businesses continue to provide employment opportunities throughout the county.",
-  "population": "8688"
-},
-
-"Grundy County": {
-  "description": "Grundy County features productive farmland, manufacturing operations, healthcare services, and strong community institutions. Agriculture and industry remain important contributors to economic stability and growth.",
-  "population": "12355"
-},
-
-"Guthrie County": {
-  "description": "Guthrie County combines agriculture, tourism, healthcare, and residential development within a growing central Iowa economy. Its rural character and proximity to larger markets support continued economic activity.",
-  "population": "10623"
-},
-
-"Hamilton County": {
-  "description": "Hamilton County serves as a regional center for agriculture, manufacturing, healthcare, education, and local commerce. Its diversified economy supports business development and workforce opportunities throughout the county.",
-  "population": "15167"
-},
-"Hancock County": {
-  "description": "Hancock County supports a strong agricultural economy centered on crop production, livestock operations, agribusiness, and local commerce. Farming remains the primary economic driver, supported by community-focused businesses and services.",
-  "population": "10680"
-},
-
-"Hardin County": {
-  "description": "Hardin County combines agriculture, manufacturing, healthcare, logistics, and retail activity within central Iowa. Its transportation infrastructure and diversified economy contribute to long-term economic growth and stability.",
-  "population": "16685"
-},
-
-"Harrison County": {
-  "description": "Harrison County benefits from agriculture, tourism, outdoor recreation, and local business development. Farming operations and community services continue to support economic activity throughout the county.",
-  "population": "14449"
-},
-
-"Henry County": {
-  "description": "Henry County serves as a regional center for manufacturing, healthcare, agriculture, education, and commerce in southeast Iowa. Its diversified economy supports a strong workforce and continued business investment.",
-  "population": "19937"
-},
-
-"Howard County": {
-  "description": "Howard County maintains a rural economy based on agriculture, food production, healthcare services, and local commerce. Agribusiness and farming operations remain key contributors to economic activity throughout the county.",
-  "population": "9440"
-},
-
-"Humboldt County": {
-  "description": "Humboldt County combines agriculture, manufacturing, healthcare, and retail industries within a stable north-central Iowa economy. Crop production and industrial employers contribute significantly to local employment opportunities.",
-  "population": "9559"
-},
-
-"Ida County": {
-  "description": "Ida County supports an agricultural economy focused on farming, livestock production, agribusiness, and community services. Rural enterprises and agricultural operations continue to drive economic activity across the county.",
-  "population": "6848"
-},
-
-"Iowa County": {
-  "description": "Iowa County benefits from agriculture, manufacturing, healthcare, and residential growth within eastern Iowa. Its diverse economic base supports both rural communities and expanding commercial activity.",
-  "population": "16508"
-},
-
-"Jackson County": {
-  "description": "Jackson County is known for its Mississippi River communities, tourism attractions, agriculture, manufacturing, and healthcare services. Its strategic location contributes to a balanced and growing regional economy.",
-  "population": "19485"
-},
-
-"Jasper County": {
-  "description": "Jasper County serves as an important economic center near the Des Moines metropolitan area, supporting manufacturing, healthcare, logistics, agriculture, and retail development. Continued growth strengthens its role within central Iowa.",
-  "population": "38091"
-},
-"Jefferson County": {
-  "description": "Jefferson County combines healthcare, education, agriculture, tourism, and local commerce within southeast Iowa. Its vibrant communities and diverse economic base support continued business activity and regional development.",
-  "population": "15749"
-},
-
-"Johnson County": {
-  "description": "Johnson County is one of Iowa's most dynamic economic centers, anchored by higher education, healthcare, technology, research, and professional services. Its highly educated workforce and growing population contribute to strong economic expansion.",
-  "population": "158749"
-},
-
-"Jones County": {
-  "description": "Jones County supports a balanced economy driven by agriculture, manufacturing, healthcare, and local commerce. Farming operations and industrial employers continue to provide important employment opportunities throughout the county.",
-  "population": "20563"
-},
-
-"Keokuk County": {
-  "description": "Keokuk County maintains a rural economy centered on agriculture, livestock production, agribusiness, and community services. Farming remains the foundation of economic activity across the county.",
-  "population": "9950"
-},
-
-"Kossuth County": {
-  "description": "Kossuth County is Iowa's largest county by land area and supports a strong agricultural economy based on crop production, livestock operations, agribusiness, and food processing industries.",
-  "population": "14804"
-},
-
-"Lee County": {
-  "description": "Lee County serves as a regional center for manufacturing, healthcare, transportation, tourism, and commerce along the Mississippi River. Its strategic location contributes to a diverse and growing economy.",
-  "population": "33703"
-},
-
-"Linn County": {
-  "description": "Linn County is one of Iowa's largest economic hubs, driven by manufacturing, technology, healthcare, finance, education, and professional services. Its strong business environment supports continued growth and innovation.",
-  "population": "233507"
-},
-
-"Louisa County": {
-  "description": "Louisa County benefits from agriculture, manufacturing, logistics, and healthcare services. Its transportation connections and diverse industries contribute to stable economic activity throughout the county.",
-  "population": "10837"
-},
-
-"Lucas County": {
-  "description": "Lucas County combines agriculture, healthcare, retail services, and local business development within south-central Iowa. Community-focused enterprises and farming operations continue to support economic growth.",
-  "population": "8538"
-},
-
-"Lyon County": {
-  "description": "Lyon County supports a thriving agricultural economy centered on farming, livestock production, agribusiness, manufacturing, and food processing. Strong industrial activity complements its agricultural foundation.",
-  "population": "12068"
-},
-"Madison County": {
-  "description": "Madison County is known for its historic covered bridges, tourism attractions, agriculture, and growing residential communities. Visitor spending, farming operations, healthcare services, and local businesses contribute significantly to the county's economy.",
-  "population": "16312"
-},
-
-"Mahaska County": {
-  "description": "Mahaska County serves as a regional center for manufacturing, healthcare, education, agriculture, and retail activity in south-central Iowa. Its diversified economy supports long-term employment and business growth.",
-  "population": "22190"
-},
-
-"Marion County": {
-  "description": "Marion County combines manufacturing, healthcare, agriculture, tourism, and residential development within a growing central Iowa economy. Its strategic location and expanding communities support continued economic activity.",
-  "population": "33996"
-},
-
-"Marshall County": {
-  "description": "Marshall County is one of Iowa's leading manufacturing and industrial centers, supporting healthcare, logistics, education, food processing, and professional services. Its diverse economy contributes significantly to regional growth.",
-  "population": "39539"
-},
-
-"Mills County": {
-  "description": "Mills County benefits from agriculture, logistics, healthcare, tourism, and residential growth due to its proximity to the Omaha metropolitan area. Continued development supports a strong and expanding local economy.",
-  "population": "15109"
-},
-
-"Mitchell County": {
-  "description": "Mitchell County maintains a stable economy based on agriculture, manufacturing, healthcare services, and local commerce. Farming operations and industrial employers continue to provide important economic opportunities.",
-  "population": "10463"
-},
-
-"Monona County": {
-  "description": "Monona County supports a rural economy centered on agriculture, livestock production, agribusiness, and community services. Farming remains the primary driver of economic activity throughout the county.",
-  "population": "8201"
-},
-
-"Monroe County": {
-  "description": "Monroe County combines agriculture, healthcare, retail services, manufacturing, and local commerce within south-central Iowa. Community-focused businesses and farming operations contribute to economic stability.",
-  "population": "7554"
-},
-
-"Montgomery County": {
-  "description": "Montgomery County serves as a regional center for agriculture, healthcare, manufacturing, retail, and professional services. Its diversified economy supports employment opportunities throughout southwest Iowa.",
-  "population": "10087"
-},
-
-"Muscatine County": {
-  "description": "Muscatine County is a major manufacturing, logistics, healthcare, and agricultural center along the Mississippi River. Its strong industrial base and transportation infrastructure contribute significantly to regional economic growth.",
-  "population": "43006"
-},
-"O'Brien County": {
-  "description": "O'Brien County supports a strong agricultural economy centered on crop production, livestock operations, food processing, and agribusiness. Farming remains the primary economic driver, supported by local businesses and community services.",
-  "population": "13990"
-},
-
-"Osceola County": {
-  "description": "Osceola County combines agriculture, manufacturing, healthcare services, and local commerce within northwest Iowa. Agribusiness and community-focused industries continue to support economic stability throughout the county.",
-  "population": "6087"
-},
-
-"Page County": {
-  "description": "Page County serves as a regional center for agriculture, healthcare, manufacturing, retail activity, and local commerce in southwest Iowa. Its diversified economy contributes to steady employment and business development.",
-  "population": "15129"
-},
-
-"Palo Alto County": {
-  "description": "Palo Alto County maintains a rural economy driven by agriculture, livestock production, agribusiness, healthcare services, and local businesses. Farming operations continue to play a vital role in economic activity throughout the county.",
-  "population": "8868"
-},
-
-"Plymouth County": {
-  "description": "Plymouth County supports a thriving agricultural economy complemented by manufacturing, food processing, healthcare, and transportation industries. Its strong business environment contributes to long-term economic growth.",
-  "population": "25698"
-},
-
-"Pocahontas County": {
-  "description": "Pocahontas County combines agriculture, agribusiness, renewable energy development, healthcare services, and local commerce. Farming remains the foundation of economic activity across the county.",
-  "population": "6655"
-},
-
-"Polk County": {
-  "description": "Polk County is Iowa's largest economic center and home to Des Moines. Finance, insurance, healthcare, technology, government services, logistics, and professional industries drive one of the strongest and most diversified economies in the Midwest.",
-  "population": "503700"
-},
-
-"Pottawattamie County": {
-  "description": "Pottawattamie County serves as a major economic hub in western Iowa, benefiting from logistics, healthcare, manufacturing, transportation, retail development, and its connection to the Omaha metropolitan area.",
-  "population": "93817"
-},
-
-"Poweshiek County": {
-  "description": "Poweshiek County supports a balanced economy based on higher education, manufacturing, agriculture, healthcare, and local commerce. Its educational institutions and business community contribute to economic growth throughout the county.",
-  "population": "18682"
-},
-
-"Ringgold County": {
-  "description": "Ringgold County is characterized by agriculture, livestock production, healthcare services, and small-town communities. Farming operations and agribusiness remain central to economic activity throughout the county.",
-  "population": "4687"
-},
-"Sac County": {
-  "description": "Sac County supports a strong agricultural economy centered on crop production, livestock operations, agribusiness, and local commerce. Farming and community-based businesses continue to provide the foundation for economic activity throughout the county.",
-  "population": "9806"
-},
-
-"Scott County": {
-  "description": "Scott County is one of Iowa's largest economic centers and serves as a key hub for manufacturing, healthcare, logistics, finance, education, and professional services. Its Mississippi River location and diverse economy support substantial regional growth.",
-  "population": "174669"
-},
-
-"Shelby County": {
-  "description": "Shelby County combines agriculture, food production, healthcare services, manufacturing, and local commerce within western Iowa. Farming operations and agribusiness remain important contributors to economic stability.",
-  "population": "11746"
-},
-
-"Sioux County": {
-  "description": "Sioux County is one of Iowa's most productive agricultural regions, supporting livestock production, food processing, manufacturing, healthcare, and agribusiness. Its strong economy and workforce continue to drive business growth.",
-  "population": "35798"
-},
-
-"Story County": {
-  "description": "Story County is a major center for higher education, technology, research, healthcare, and professional services. Innovation, workforce development, and business investment contribute to one of Iowa's most dynamic local economies.",
-  "population": "100964"
-},
-
-"Tama County": {
-  "description": "Tama County supports a diversified economy based on agriculture, manufacturing, healthcare, education, and local business activity. Farming and industrial employers continue to provide important employment opportunities throughout the county.",
-  "population": "17010"
-},
-
-"Taylor County": {
-  "description": "Taylor County maintains a rural economy driven by agriculture, livestock production, healthcare services, and community-focused businesses. Farming operations remain central to economic activity across the county.",
-  "population": "5896"
-},
-
-"Union County": {
-  "description": "Union County serves as a regional center for healthcare, education, agriculture, retail activity, and local commerce in south-central Iowa. Its diversified economy supports stable employment and business development.",
-  "population": "12317"
-},
-
-"Van Buren County": {
-  "description": "Van Buren County is known for its historic villages, tourism attractions, agriculture, and outdoor recreation opportunities. Visitor spending, farming, and local businesses contribute significantly to economic activity throughout the county.",
-  "population": "6867"
-},
-
-"Wapello County": {
-  "description": "Wapello County supports a diverse economy driven by manufacturing, healthcare, logistics, education, and retail industries. Its established business community contributes to long-term economic growth and regional commerce.",
-  "population": "35035"
-},
-"Warren County": {
-  "description": "Warren County is one of Iowa's fastest-growing counties, benefiting from residential development, healthcare services, logistics, retail growth, and proximity to the Des Moines metropolitan area. Continued investment supports strong economic expansion throughout the county.",
-  "population": "54218"
-},
-
-"Washington County": {
-  "description": "Washington County combines agriculture, manufacturing, healthcare, education, and local commerce within a diversified southeast Iowa economy. Its strong business community contributes to stable employment and long-term economic growth.",
-  "population": "22489"
-},
-
-"Wayne County": {
-  "description": "Wayne County supports a rural economy centered on agriculture, livestock production, healthcare services, and community-based businesses. Farming operations remain the primary driver of economic activity throughout the county.",
-  "population": "6403"
-},
-
-"Webster County": {
-  "description": "Webster County serves as a major economic center in north-central Iowa, supporting manufacturing, healthcare, education, logistics, retail, and professional services. Its diversified economy contributes significantly to regional employment and commerce.",
-  "population": "36412"
-},
-
-"Winnebago County": {
-  "description": "Winnebago County benefits from agriculture, manufacturing, food processing, healthcare services, and local commerce. Agribusiness and industrial employers continue to support economic growth and workforce opportunities throughout the county.",
-  "population": "10152"
-},
-
-"Winneshiek County": {
-  "description": "Winneshiek County is known for its scenic landscapes, tourism attractions, higher education presence, agriculture, and healthcare services. Visitor spending and local businesses contribute to a balanced and growing economy.",
-  "population": "19858"
-},
-
-"Woodbury County": {
-  "description": "Woodbury County is one of Iowa's largest economic centers, anchored by healthcare, manufacturing, transportation, finance, education, and professional services. Its strategic location and diversified economy drive substantial regional growth.",
-  "population": "105941"
-},
-
-"Worth County": {
-  "description": "Worth County maintains a strong agricultural economy supported by crop production, livestock operations, agribusiness, healthcare services, and community-focused commerce. Farming remains central to economic activity throughout the county.",
-  "population": "7443"
-},
-
-"Wright County": {
-  "description": "Wright County combines agriculture, manufacturing, renewable energy development, healthcare services, and local business activity within a stable north-central Iowa economy. Its diversified economic base supports continued growth and investment.",
-  "population": "12789"
-}
+  "identity": {
+    "code": "ia",
+    "slug": "iowa",
+    "name": "Iowa",
+    "country": null,
+    "type": "state"
+  },
+  "counties": {
+    "Adair County": {
+      "description": "Adair County supports a strong rural economy centered on agriculture, livestock production, agribusiness, and local commerce. Farming operations and community-focused businesses continue to play vital roles in economic activity throughout the county.",
+      "population": "7496"
+    },
+    "Adams County": {
+      "description": "Adams County is characterized by productive farmland, agricultural enterprises, and small-town communities in southwest Iowa. Agriculture remains the primary economic driver, supported by local services and agribusiness operations.",
+      "population": "3671"
+    },
+    "Allamakee County": {
+      "description": "Allamakee County is known for its scenic river valleys, outdoor recreation opportunities, tourism industry, and agricultural production. Hospitality, farming, healthcare, and local businesses contribute to a diverse regional economy.",
+      "population": "13949"
+    },
+    "Appanoose County": {
+      "description": "Appanoose County combines healthcare, manufacturing, agriculture, and local commerce within southern Iowa. Economic activity is supported by a mix of industrial employers, farming operations, and service-based businesses.",
+      "population": "12276"
+    },
+    "Audubon County": {
+      "description": "Audubon County maintains a rural economy driven by agriculture, livestock production, agribusiness, and community services. Farming and agricultural support industries continue to provide the foundation for economic stability.",
+      "population": "5491"
+    },
+    "Benton County": {
+      "description": "Benton County benefits from agriculture, manufacturing, healthcare, and transportation access within eastern Iowa. Its diverse economy supports both rural communities and growing business activity throughout the county.",
+      "population": "25778"
+    },
+    "Black Hawk County": {
+      "description": "Black Hawk County is one of Iowa's leading economic centers, supported by manufacturing, healthcare, education, technology, and professional services. Its urban communities and skilled workforce contribute to strong regional economic growth.",
+      "population": "132782"
+    },
+    "Boone County": {
+      "description": "Boone County combines agriculture, logistics, manufacturing, healthcare, and tourism within a growing central Iowa economy. Its transportation infrastructure supports continued commercial development and business investment.",
+      "population": "26395"
+    },
+    "Bremer County": {
+      "description": "Bremer County supports a diversified economy based on agriculture, manufacturing, healthcare, education, and retail activity. Its strong workforce and stable business environment contribute to long-term economic growth.",
+      "population": "25191"
+    },
+    "Buchanan County": {
+      "description": "Buchanan County features productive farmland, manufacturing operations, healthcare services, and local commerce. Agriculture and industry continue to play important roles in supporting economic activity throughout the county.",
+      "population": "20828"
+    },
+    "Buena Vista County": {
+      "description": "Buena Vista County supports a diverse economy driven by agriculture, food processing, manufacturing, healthcare, and education. Agribusiness and industrial employers continue to play important roles in regional economic growth.",
+      "population": "19620"
+    },
+    "Butler County": {
+      "description": "Butler County combines productive farmland, manufacturing operations, healthcare services, and local commerce within northeast Iowa. Agriculture and industry provide a stable foundation for economic activity throughout the county.",
+      "population": "14460"
+    },
+    "Calhoun County": {
+      "description": "Calhoun County maintains a strong agricultural economy supported by crop production, livestock operations, agribusiness, and community services. Farming remains the primary driver of economic activity across the county.",
+      "population": "9657"
+    },
+    "Carroll County": {
+      "description": "Carroll County serves as a regional center for agriculture, healthcare, manufacturing, and retail activity in west-central Iowa. Its diversified economy supports both rural communities and commercial development.",
+      "population": "20118"
+    },
+    "Cass County": {
+      "description": "Cass County benefits from agriculture, manufacturing, healthcare services, and transportation access. Farming operations and local businesses continue to support long-term economic stability throughout the county.",
+      "population": "12962"
+    },
+    "Cedar County": {
+      "description": "Cedar County combines agriculture, manufacturing, logistics, and residential growth within eastern Iowa. Its proximity to larger economic centers supports continued business development and workforce opportunities.",
+      "population": "18903"
+    },
+    "Cerro Gordo County": {
+      "description": "Cerro Gordo County is a major economic center in north-central Iowa, supporting healthcare, manufacturing, finance, retail, and professional services. Its diverse economy contributes significantly to regional employment and business activity.",
+      "population": "43127"
+    },
+    "Cherokee County": {
+      "description": "Cherokee County supports an economy based on agriculture, healthcare, manufacturing, and local commerce. Farming operations and community institutions remain important contributors to economic activity throughout the county.",
+      "population": "11732"
+    },
+    "Chickasaw County": {
+      "description": "Chickasaw County combines agriculture, food production, manufacturing, and healthcare services within a stable northeast Iowa economy. Agribusiness and industrial employers help support long-term economic growth.",
+      "population": "12012"
+    },
+    "Clarke County": {
+      "description": "Clarke County benefits from agriculture, manufacturing, healthcare, logistics, and retail activity. Its central location and transportation connections support business development and economic expansion throughout the county.",
+      "population": "9388"
+    },
+    "Clay County": {
+      "description": "Clay County supports a balanced economy built on agriculture, manufacturing, healthcare, education, and local commerce. Agribusiness and regional service industries continue to contribute to economic growth throughout the county.",
+      "population": "16384"
+    },
+    "Clayton County": {
+      "description": "Clayton County is known for its scenic Mississippi River landscapes, tourism attractions, agriculture, and outdoor recreation opportunities. Hospitality, farming, and small businesses play important roles in the county's economy.",
+      "population": "17472"
+    },
+    "Clinton County": {
+      "description": "Clinton County serves as an important manufacturing, logistics, healthcare, and transportation center along the Mississippi River. Its strategic location supports a diverse economy and strong regional business activity.",
+      "population": "46593"
+    },
+    "Crawford County": {
+      "description": "Crawford County combines agricultural production, food processing, healthcare, and local commerce within western Iowa. Farming and community-based industries remain key drivers of economic activity.",
+      "population": "16438"
+    },
+    "Dallas County": {
+      "description": "Dallas County is Iowa's fastest-growing county and a major part of the Des Moines metropolitan area. Residential development, healthcare, finance, technology, logistics, and professional services continue to drive rapid economic expansion.",
+      "population": "111620"
+    },
+    "Davis County": {
+      "description": "Davis County supports a rural economy centered on agriculture, livestock production, healthcare services, and local businesses. Farming operations remain the primary contributor to economic activity throughout the county.",
+      "population": "8997"
+    },
+    "Decatur County": {
+      "description": "Decatur County combines agriculture, manufacturing, healthcare, tourism, and local commerce within southern Iowa. Economic activity is supported by both traditional industries and community-focused development.",
+      "population": "7536"
+    },
+    "Delaware County": {
+      "description": "Delaware County benefits from agriculture, manufacturing, healthcare, and transportation access within eastern Iowa. Its diversified economy supports employment opportunities across multiple sectors.",
+      "population": "17162"
+    },
+    "Des Moines County": {
+      "description": "Des Moines County serves as a regional center for manufacturing, healthcare, education, transportation, and commercial activity. Its Mississippi River location contributes to business development and economic growth.",
+      "population": "38524"
+    },
+    "Dickinson County": {
+      "description": "Dickinson County is one of Iowa's premier tourism destinations, known for its lakes, outdoor recreation, hospitality industry, and growing service sector. Visitor spending plays a significant role in supporting the local economy.",
+      "population": "18368"
+    },
+    "Dubuque County": {
+      "description": "Dubuque County is one of Iowa's leading economic centers, supported by manufacturing, healthcare, finance, education, tourism, and professional services. Its Mississippi River location and diversified economy contribute significantly to regional growth and employment.",
+      "population": "100416"
+    },
+    "Emmet County": {
+      "description": "Emmet County supports a strong agricultural economy based on crop production, livestock operations, agribusiness, and local commerce. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "9074"
+    },
+    "Fayette County": {
+      "description": "Fayette County combines agriculture, higher education, healthcare, manufacturing, and local businesses within northeast Iowa. Its diverse economic base supports long-term stability and community development.",
+      "population": "19862"
+    },
+    "Floyd County": {
+      "description": "Floyd County benefits from agriculture, healthcare services, manufacturing, and retail activity. Farming operations and regional employers continue to contribute to economic growth throughout the county.",
+      "population": "15502"
+    },
+    "Franklin County": {
+      "description": "Franklin County maintains a rural economy supported by agriculture, agribusiness, healthcare, and community-focused commerce. Crop production and livestock operations remain central to economic activity.",
+      "population": "10155"
+    },
+    "Fremont County": {
+      "description": "Fremont County combines agriculture, logistics, tourism, healthcare, and local commerce within southwest Iowa. Its location near major transportation corridors supports business activity and regional connectivity.",
+      "population": "6961"
+    },
+    "Greene County": {
+      "description": "Greene County supports an economy based on agriculture, manufacturing, healthcare, and retail services. Farming operations and local businesses continue to provide employment opportunities throughout the county.",
+      "population": "8688"
+    },
+    "Grundy County": {
+      "description": "Grundy County features productive farmland, manufacturing operations, healthcare services, and strong community institutions. Agriculture and industry remain important contributors to economic stability and growth.",
+      "population": "12355"
+    },
+    "Guthrie County": {
+      "description": "Guthrie County combines agriculture, tourism, healthcare, and residential development within a growing central Iowa economy. Its rural character and proximity to larger markets support continued economic activity.",
+      "population": "10623"
+    },
+    "Hamilton County": {
+      "description": "Hamilton County serves as a regional center for agriculture, manufacturing, healthcare, education, and local commerce. Its diversified economy supports business development and workforce opportunities throughout the county.",
+      "population": "15167"
+    },
+    "Hancock County": {
+      "description": "Hancock County supports a strong agricultural economy centered on crop production, livestock operations, agribusiness, and local commerce. Farming remains the primary economic driver, supported by community-focused businesses and services.",
+      "population": "10680"
+    },
+    "Hardin County": {
+      "description": "Hardin County combines agriculture, manufacturing, healthcare, logistics, and retail activity within central Iowa. Its transportation infrastructure and diversified economy contribute to long-term economic growth and stability.",
+      "population": "16685"
+    },
+    "Harrison County": {
+      "description": "Harrison County benefits from agriculture, tourism, outdoor recreation, and local business development. Farming operations and community services continue to support economic activity throughout the county.",
+      "population": "14449"
+    },
+    "Henry County": {
+      "description": "Henry County serves as a regional center for manufacturing, healthcare, agriculture, education, and commerce in southeast Iowa. Its diversified economy supports a strong workforce and continued business investment.",
+      "population": "19937"
+    },
+    "Howard County": {
+      "description": "Howard County maintains a rural economy based on agriculture, food production, healthcare services, and local commerce. Agribusiness and farming operations remain key contributors to economic activity throughout the county.",
+      "population": "9440"
+    },
+    "Humboldt County": {
+      "description": "Humboldt County combines agriculture, manufacturing, healthcare, and retail industries within a stable north-central Iowa economy. Crop production and industrial employers contribute significantly to local employment opportunities.",
+      "population": "9559"
+    },
+    "Ida County": {
+      "description": "Ida County supports an agricultural economy focused on farming, livestock production, agribusiness, and community services. Rural enterprises and agricultural operations continue to drive economic activity across the county.",
+      "population": "6848"
+    },
+    "Iowa County": {
+      "description": "Iowa County benefits from agriculture, manufacturing, healthcare, and residential growth within eastern Iowa. Its diverse economic base supports both rural communities and expanding commercial activity.",
+      "population": "16508"
+    },
+    "Jackson County": {
+      "description": "Jackson County is known for its Mississippi River communities, tourism attractions, agriculture, manufacturing, and healthcare services. Its strategic location contributes to a balanced and growing regional economy.",
+      "population": "19485"
+    },
+    "Jasper County": {
+      "description": "Jasper County serves as an important economic center near the Des Moines metropolitan area, supporting manufacturing, healthcare, logistics, agriculture, and retail development. Continued growth strengthens its role within central Iowa.",
+      "population": "38091"
+    },
+    "Jefferson County": {
+      "description": "Jefferson County combines healthcare, education, agriculture, tourism, and local commerce within southeast Iowa. Its vibrant communities and diverse economic base support continued business activity and regional development.",
+      "population": "15749"
+    },
+    "Johnson County": {
+      "description": "Johnson County is one of Iowa's most dynamic economic centers, anchored by higher education, healthcare, technology, research, and professional services. Its highly educated workforce and growing population contribute to strong economic expansion.",
+      "population": "158749"
+    },
+    "Jones County": {
+      "description": "Jones County supports a balanced economy driven by agriculture, manufacturing, healthcare, and local commerce. Farming operations and industrial employers continue to provide important employment opportunities throughout the county.",
+      "population": "20563"
+    },
+    "Keokuk County": {
+      "description": "Keokuk County maintains a rural economy centered on agriculture, livestock production, agribusiness, and community services. Farming remains the foundation of economic activity across the county.",
+      "population": "9950"
+    },
+    "Kossuth County": {
+      "description": "Kossuth County is Iowa's largest county by land area and supports a strong agricultural economy based on crop production, livestock operations, agribusiness, and food processing industries.",
+      "population": "14804"
+    },
+    "Lee County": {
+      "description": "Lee County serves as a regional center for manufacturing, healthcare, transportation, tourism, and commerce along the Mississippi River. Its strategic location contributes to a diverse and growing economy.",
+      "population": "33703"
+    },
+    "Linn County": {
+      "description": "Linn County is one of Iowa's largest economic hubs, driven by manufacturing, technology, healthcare, finance, education, and professional services. Its strong business environment supports continued growth and innovation.",
+      "population": "233507"
+    },
+    "Louisa County": {
+      "description": "Louisa County benefits from agriculture, manufacturing, logistics, and healthcare services. Its transportation connections and diverse industries contribute to stable economic activity throughout the county.",
+      "population": "10837"
+    },
+    "Lucas County": {
+      "description": "Lucas County combines agriculture, healthcare, retail services, and local business development within south-central Iowa. Community-focused enterprises and farming operations continue to support economic growth.",
+      "population": "8538"
+    },
+    "Lyon County": {
+      "description": "Lyon County supports a thriving agricultural economy centered on farming, livestock production, agribusiness, manufacturing, and food processing. Strong industrial activity complements its agricultural foundation.",
+      "population": "12068"
+    },
+    "Madison County": {
+      "description": "Madison County is known for its historic covered bridges, tourism attractions, agriculture, and growing residential communities. Visitor spending, farming operations, healthcare services, and local businesses contribute significantly to the county's economy.",
+      "population": "16312"
+    },
+    "Mahaska County": {
+      "description": "Mahaska County serves as a regional center for manufacturing, healthcare, education, agriculture, and retail activity in south-central Iowa. Its diversified economy supports long-term employment and business growth.",
+      "population": "22190"
+    },
+    "Marion County": {
+      "description": "Marion County combines manufacturing, healthcare, agriculture, tourism, and residential development within a growing central Iowa economy. Its strategic location and expanding communities support continued economic activity.",
+      "population": "33996"
+    },
+    "Marshall County": {
+      "description": "Marshall County is one of Iowa's leading manufacturing and industrial centers, supporting healthcare, logistics, education, food processing, and professional services. Its diverse economy contributes significantly to regional growth.",
+      "population": "39539"
+    },
+    "Mills County": {
+      "description": "Mills County benefits from agriculture, logistics, healthcare, tourism, and residential growth due to its proximity to the Omaha metropolitan area. Continued development supports a strong and expanding local economy.",
+      "population": "15109"
+    },
+    "Mitchell County": {
+      "description": "Mitchell County maintains a stable economy based on agriculture, manufacturing, healthcare services, and local commerce. Farming operations and industrial employers continue to provide important economic opportunities.",
+      "population": "10463"
+    },
+    "Monona County": {
+      "description": "Monona County supports a rural economy centered on agriculture, livestock production, agribusiness, and community services. Farming remains the primary driver of economic activity throughout the county.",
+      "population": "8201"
+    },
+    "Monroe County": {
+      "description": "Monroe County combines agriculture, healthcare, retail services, manufacturing, and local commerce within south-central Iowa. Community-focused businesses and farming operations contribute to economic stability.",
+      "population": "7554"
+    },
+    "Montgomery County": {
+      "description": "Montgomery County serves as a regional center for agriculture, healthcare, manufacturing, retail, and professional services. Its diversified economy supports employment opportunities throughout southwest Iowa.",
+      "population": "10087"
+    },
+    "Muscatine County": {
+      "description": "Muscatine County is a major manufacturing, logistics, healthcare, and agricultural center along the Mississippi River. Its strong industrial base and transportation infrastructure contribute significantly to regional economic growth.",
+      "population": "43006"
+    },
+    "O'Brien County": {
+      "description": "O'Brien County supports a strong agricultural economy centered on crop production, livestock operations, food processing, and agribusiness. Farming remains the primary economic driver, supported by local businesses and community services.",
+      "population": "13990"
+    },
+    "Osceola County": {
+      "description": "Osceola County combines agriculture, manufacturing, healthcare services, and local commerce within northwest Iowa. Agribusiness and community-focused industries continue to support economic stability throughout the county.",
+      "population": "6087"
+    },
+    "Page County": {
+      "description": "Page County serves as a regional center for agriculture, healthcare, manufacturing, retail activity, and local commerce in southwest Iowa. Its diversified economy contributes to steady employment and business development.",
+      "population": "15129"
+    },
+    "Palo Alto County": {
+      "description": "Palo Alto County maintains a rural economy driven by agriculture, livestock production, agribusiness, healthcare services, and local businesses. Farming operations continue to play a vital role in economic activity throughout the county.",
+      "population": "8868"
+    },
+    "Plymouth County": {
+      "description": "Plymouth County supports a thriving agricultural economy complemented by manufacturing, food processing, healthcare, and transportation industries. Its strong business environment contributes to long-term economic growth.",
+      "population": "25698"
+    },
+    "Pocahontas County": {
+      "description": "Pocahontas County combines agriculture, agribusiness, renewable energy development, healthcare services, and local commerce. Farming remains the foundation of economic activity across the county.",
+      "population": "6655"
+    },
+    "Polk County": {
+      "description": "Polk County is Iowa's largest economic center and home to Des Moines. Finance, insurance, healthcare, technology, government services, logistics, and professional industries drive one of the strongest and most diversified economies in the Midwest.",
+      "population": "503700"
+    },
+    "Pottawattamie County": {
+      "description": "Pottawattamie County serves as a major economic hub in western Iowa, benefiting from logistics, healthcare, manufacturing, transportation, retail development, and its connection to the Omaha metropolitan area.",
+      "population": "93817"
+    },
+    "Poweshiek County": {
+      "description": "Poweshiek County supports a balanced economy based on higher education, manufacturing, agriculture, healthcare, and local commerce. Its educational institutions and business community contribute to economic growth throughout the county.",
+      "population": "18682"
+    },
+    "Ringgold County": {
+      "description": "Ringgold County is characterized by agriculture, livestock production, healthcare services, and small-town communities. Farming operations and agribusiness remain central to economic activity throughout the county.",
+      "population": "4687"
+    },
+    "Sac County": {
+      "description": "Sac County supports a strong agricultural economy centered on crop production, livestock operations, agribusiness, and local commerce. Farming and community-based businesses continue to provide the foundation for economic activity throughout the county.",
+      "population": "9806"
+    },
+    "Scott County": {
+      "description": "Scott County is one of Iowa's largest economic centers and serves as a key hub for manufacturing, healthcare, logistics, finance, education, and professional services. Its Mississippi River location and diverse economy support substantial regional growth.",
+      "population": "174669"
+    },
+    "Shelby County": {
+      "description": "Shelby County combines agriculture, food production, healthcare services, manufacturing, and local commerce within western Iowa. Farming operations and agribusiness remain important contributors to economic stability.",
+      "population": "11746"
+    },
+    "Sioux County": {
+      "description": "Sioux County is one of Iowa's most productive agricultural regions, supporting livestock production, food processing, manufacturing, healthcare, and agribusiness. Its strong economy and workforce continue to drive business growth.",
+      "population": "35798"
+    },
+    "Story County": {
+      "description": "Story County is a major center for higher education, technology, research, healthcare, and professional services. Innovation, workforce development, and business investment contribute to one of Iowa's most dynamic local economies.",
+      "population": "100964"
+    },
+    "Tama County": {
+      "description": "Tama County supports a diversified economy based on agriculture, manufacturing, healthcare, education, and local business activity. Farming and industrial employers continue to provide important employment opportunities throughout the county.",
+      "population": "17010"
+    },
+    "Taylor County": {
+      "description": "Taylor County maintains a rural economy driven by agriculture, livestock production, healthcare services, and community-focused businesses. Farming operations remain central to economic activity across the county.",
+      "population": "5896"
+    },
+    "Union County": {
+      "description": "Union County serves as a regional center for healthcare, education, agriculture, retail activity, and local commerce in south-central Iowa. Its diversified economy supports stable employment and business development.",
+      "population": "12317"
+    },
+    "Van Buren County": {
+      "description": "Van Buren County is known for its historic villages, tourism attractions, agriculture, and outdoor recreation opportunities. Visitor spending, farming, and local businesses contribute significantly to economic activity throughout the county.",
+      "population": "6867"
+    },
+    "Wapello County": {
+      "description": "Wapello County supports a diverse economy driven by manufacturing, healthcare, logistics, education, and retail industries. Its established business community contributes to long-term economic growth and regional commerce.",
+      "population": "35035"
+    },
+    "Warren County": {
+      "description": "Warren County is one of Iowa's fastest-growing counties, benefiting from residential development, healthcare services, logistics, retail growth, and proximity to the Des Moines metropolitan area. Continued investment supports strong economic expansion throughout the county.",
+      "population": "54218"
+    },
+    "Washington County": {
+      "description": "Washington County combines agriculture, manufacturing, healthcare, education, and local commerce within a diversified southeast Iowa economy. Its strong business community contributes to stable employment and long-term economic growth.",
+      "population": "22489"
+    },
+    "Wayne County": {
+      "description": "Wayne County supports a rural economy centered on agriculture, livestock production, healthcare services, and community-based businesses. Farming operations remain the primary driver of economic activity throughout the county.",
+      "population": "6403"
+    },
+    "Webster County": {
+      "description": "Webster County serves as a major economic center in north-central Iowa, supporting manufacturing, healthcare, education, logistics, retail, and professional services. Its diversified economy contributes significantly to regional employment and commerce.",
+      "population": "36412"
+    },
+    "Winnebago County": {
+      "description": "Winnebago County benefits from agriculture, manufacturing, food processing, healthcare services, and local commerce. Agribusiness and industrial employers continue to support economic growth and workforce opportunities throughout the county.",
+      "population": "10152"
+    },
+    "Winneshiek County": {
+      "description": "Winneshiek County is known for its scenic landscapes, tourism attractions, higher education presence, agriculture, and healthcare services. Visitor spending and local businesses contribute to a balanced and growing economy.",
+      "population": "19858"
+    },
+    "Woodbury County": {
+      "description": "Woodbury County is one of Iowa's largest economic centers, anchored by healthcare, manufacturing, transportation, finance, education, and professional services. Its strategic location and diversified economy drive substantial regional growth.",
+      "population": "105941"
+    },
+    "Worth County": {
+      "description": "Worth County maintains a strong agricultural economy supported by crop production, livestock operations, agribusiness, healthcare services, and community-focused commerce. Farming remains central to economic activity throughout the county.",
+      "population": "7443"
+    },
+    "Wright County": {
+      "description": "Wright County combines agriculture, manufacturing, renewable energy development, healthcare services, and local business activity within a stable north-central Iowa economy. Its diversified economic base supports continued growth and investment.",
+      "population": "12789"
+    }
+  }
 }

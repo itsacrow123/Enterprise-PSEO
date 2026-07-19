@@ -1,27 +1,25 @@
 /**
  * Contract test: State identity
  *
- * EPIC-11 Phase 1A — additive identity shape + dual-shape coverage.
+ * EPIC-11 Phase 1B — identity-bearing state shape, legacy loader path removed.
  *
- * Purpose: pin the state identity surface so the backward-compatible claims of ADR v2
- * (State Identity & SSOT) remain provable across Phase 1A's additive decoration.
+ * Purpose: pin the state identity surface so the SSOT claims of ADR v2
+ * (State Identity & SSOT) remain provable after the dataset migration completed and
+ * the legacy raw-county-map loader path was removed (Phase 1B).
  *
- * Phase 1A widened the normalized state record from
- *   `{ code, counties, countyCount }`
- * to the additive
- *   `{ code, slug, name, country, type, counties, countyCount }`.
+ * The normalized state record is
+ *   `{ code, slug, name, country, type, counties, countyCount }`,
+ * with every field surfaced from the on-disk `identity` record.
  *
- * Two shape contracts are pinned here:
- *   - LEGACY shape (raw county map) — the current on-disk files. `slug === code`,
- *     `name: undefined`, `country: null`, `type: 'state'`; `counties`/`countyCount`
- *     byte-identical to pre-1A. Proves the unmigrated tree keeps working unchanged
- *     on the counties/countyCount keys.
- *   - NEW shape (`{ identity, counties }`) — driven via an in-memory fake DataLoader
- *     (no JSON written). Proves identity is surfaced and counties preserved, and that
- *     a malformed new-shape file throws DataValidationError so a botched migration
- *     fails loudly.
+ * Contract pinned here:
+ *   - On-disk REAL dataset (`de.json`, now migrated) surfaces its recorded identity
+ *     (`slug === 'delaware'`, `name === 'Delaware'`, `country: null`, `type: 'state'`)
+ *     and preserves its counties verbatim — anchored to actual on-disk behavior.
+ *   - In-memory NEW shape (`{ identity, counties }`) via a fake DataLoader proves
+ *     optional `country`/`type` defaults, and that a malformed dataset throws
+ *     DataValidationError so a botched or un-migrated (legacy) file fails loudly.
  *
- * `slugResolver`/`normalizeSlug` behavior pins are unchanged by Phase 1A.
+ * `slugResolver`/`normalizeSlug` behavior pins are unchanged by Phase 1B.
  */
 
 import { test } from 'node:test';
@@ -45,25 +43,26 @@ const DE_FIRST_COUNTY_KEY = 'Kent County';
 // stateLoader.loadState — current return shape
 // ---------------------------------------------------------------------------
 
-test('loadState returns a legacy-shape record with the additive identity key set', async () => {
+test('loadState surfaces the on-disk identity record for a migrated state', async () => {
   const dataLoader = makeDataLoader();
   const state = await loadState(dataLoader, DE_CODE);
 
   assert.equal(state?.code, DE_CODE);
   assert.equal(state?.countyCount, DE_EXPECTED_COUNTY_COUNT);
 
-  // Phase 1A added `slug`/`name`/`country`/`type` additively. For the LEGACY shape
-  // (the current on-disk `de.json`), identity is synthesized: `slug === code`, `name`
-  // unset, `country` null, `type` defaulted to `'state'`. The counties/countyCount keys
-  // and values are byte-identical to pre-1A.
+  // Post-migration (EPIC-11 Phase 1B), `de.json` is the identity-bearing
+  // `{ identity, counties }` shape, so identity is surfaced — not synthesized:
+  // `slug` from the file (`delaware`), `name` from the file (`Delaware`),
+  // `country: null`, `type: 'state'`. The counties/countyCount keys are preserved
+  // byte-identical to pre-migration.
   assert.deepEqual(
     Object.keys(state).sort(),
     ['code', 'counties', 'country', 'countyCount', 'name', 'slug', 'type'],
   );
-  assert.equal(state.slug, DE_CODE, 'legacy shape synthesizes slug === code');
-  assert.equal(state.name, undefined, 'legacy shape leaves name unset');
-  assert.equal(state.country, null, 'legacy shape sets country to null');
-  assert.equal(state.type, 'state', 'legacy shape defaults type to "state"');
+  assert.equal(state.slug, 'delaware', 'identity slug is surfaced from disk');
+  assert.equal(state.name, 'Delaware', 'identity name is surfaced from disk');
+  assert.equal(state.country, null, 'identity country defaults to null');
+  assert.equal(state.type, 'state', 'identity type is "state"');
 });
 
 test('loadState exposes counties as a map keyed by "<Name> County" with { description, population }', async () => {
@@ -105,14 +104,14 @@ test('loadState returns a state record wrapper that is NOT itself frozen', async
   const state = await loadState(dataLoader, DE_CODE);
 
   // Pinning ACTUAL current behavior. The DataLoader pipeline deep-freezes the
-  // *raw* county map, but `stateLoader.loadState` wraps it in a fresh
-  // `{ code, counties, countyCount }` object that is never frozen. ADR v2's
-  // validation/discipline story implies normalized runtime objects should be
-  // frozen; the current code does not freeze this wrapper. Documented here so
-  // any Phase-1 change that freezes the wrapper (desirable) is a *visible*
-  // contract change rather than an accident.
+  // raw on-disk object, but `stateLoader.loadState` normalizes a fresh record
+  // `{ code, slug, name, country, type, counties, countyCount }` that is never
+  // frozen. ADR v2's validation/discipline story implies normalized runtime
+  // objects should be frozen; the current code does not freeze this wrapper.
+  // Documented here so any change that freezes the wrapper (desirable) is a
+  // *visible* contract change rather than an accident.
   assert.equal(Object.isFrozen(state), false, 'normalized state wrapper is not frozen today');
-  assert.equal(Object.isFrozen(state.counties), true, 'underlying raw county map IS frozen');
+  assert.equal(Object.isFrozen(state.counties), true, 'underlying raw counties object IS frozen');
 });
 
 // ---------------------------------------------------------------------------
@@ -234,6 +233,19 @@ test('loadState throws DataValidationError when a new-shape dataset is missing c
   await assert.rejects(
     () => loadState(fakeDataLoader(raw), 'de'),
     (error) => error instanceof DataValidationError && /counties/.test(error.message),
+  );
+});
+
+test('loadState throws DataValidationError for a legacy (un-migrated) raw-county-map dataset', async () => {
+  // EPIC-11 Phase 1B removed the legacy loader path; an un-migrated file shaped as the
+  // raw county map (no `identity` record) must fail loudly rather than silently degrading.
+  const raw = {
+    'Kent County': { description: '...', population: '198542' },
+  };
+
+  await assert.rejects(
+    () => loadState(fakeDataLoader(raw), 'de'),
+    (error) => error instanceof DataValidationError && /identity/.test(error.message),
   );
 });
 

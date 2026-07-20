@@ -8,7 +8,7 @@
 import { loadState } from './stateLoader.js';
 import { loadCitiesByState, loadCityBySlug } from './cityLoader.js';
 import { loadCountyBySlug, loadCountiesByState } from './countyLoader.js';
-import { resolveStateSlug } from './slugResolver.js';
+import { resolveStateSlug, normalizeStateCode } from './slugResolver.js';
 
 /**
  * Loads a state together with its city and county datasets in one call.
@@ -84,21 +84,6 @@ export function getMissingStateError(stateCode) {
     stateCode: code,
     reason: `State "${code}" was not found in the data tier.`,
   };
-}
-
-/**
- * Normalizes a state code to its canonical lowercase form, rejecting empty input.
- *
- * @param {string} stateCode Raw state identifier.
- * @returns {string} Canonical lowercase state code.
- * @private
- */
-function normalizeStateCode(stateCode) {
-  if (typeof stateCode !== 'string' || stateCode.trim() === '') {
-    throw new TypeError('stateCode must be a non-empty string.');
-  }
-
-  return stateCode.trim().toLowerCase();
 }
 
 /**

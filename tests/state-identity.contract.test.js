@@ -26,7 +26,8 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 
 import { loadState } from '../engine/location/stateLoader.js';
-import { resolveStateSlug, normalizeSlug } from '../engine/location/slugResolver.js';
+import { loadCountiesByState } from '../engine/location/countyLoader.js';
+import { resolveStateSlug, normalizeSlug, normalizeStateCode } from '../engine/location/slugResolver.js';
 import { DataValidationError } from '../engine/data/validator.js';
 import { makeDataLoader } from './helpers/loaderHarness.js';
 
@@ -165,6 +166,19 @@ test('normalizeSlug collapses non-alphanumerics to hyphens and trims edges', () 
   assert.equal(normalizeSlug('Miami---FL'), 'miami-fl');
 });
 
+test('normalizeStateCode lowercases and trims a state code (shared location-layer normalizer)', () => {
+  // Sprint 1 — Task 1: the single shared state-code normalizer used by every
+  // Location Engine loader (state/city/county/service). Pins its contract so all
+  // layers agree on one cache key and load address per state.
+  assert.equal(normalizeStateCode('CA'), 'ca');
+  assert.equal(normalizeStateCode('de'), 'de');
+  assert.equal(normalizeStateCode('  NY  '), 'ny');
+  assert.equal(normalizeStateCode('De'), 'de');
+  assert.throws(() => normalizeStateCode(''), TypeError);
+  assert.throws(() => normalizeStateCode('   '), TypeError);
+  assert.throws(() => normalizeStateCode(/** @type {unknown} */ (42)), TypeError);
+});
+
 // ---------------------------------------------------------------------------
 // Phase 1A — NEW shape ({ identity, counties }) via in-memory fake DataLoader.
 // No JSON files are written by these tests; the fake returns parsed objects directly.
@@ -299,4 +313,52 @@ test('loadState is idempotent on an already-new-shape dataset: re-loading causes
 
   // The underlying raw dataset is preserved (no in-place wrap/mutation by the loader).
   assert.deepEqual(Object.keys(raw).sort(), ['counties', 'identity']);
+});
+
+// ---------------------------------------------------------------------------
+// countyLoader — error-handling consistency with the state loader (Sprint 1 Task 3).
+// An invalid `state.counties` map must surface as a DataValidationError (matching the
+// stateLoader's loud-failure idiom), never a raw TypeError from Object.entries(null).
+// ---------------------------------------------------------------------------
+
+test('loadCountiesByState derives county records from a migrated on-disk state', async () => {
+  const dataLoader = makeDataLoader();
+  const counties = await loadCountiesByState(dataLoader, DE_CODE);
+
+  assert.ok(Array.isArray(counties), 'counties must be an array');
+  assert.equal(counties.length, DE_EXPECTED_COUNTY_COUNT);
+
+  const first = counties.find((entry) => entry.name === DE_FIRST_COUNTY_KEY);
+  assert.ok(first, 'Kent County is derived from the on-disk state record');
+  // County slug is base + stateCode (Sprint 1 Task 2 unified slugifier).
+  assert.equal(first.slug, 'kent-county-de');
+  assert.equal(first.stateCode, 'de');
+  assert.equal(first.population, '198542');
+});
+
+test('loadCountiesByState throws DataValidationError (not TypeError) when state.counties is invalid', async () => {
+  // Sprint 1 — Task 3: an invalid `counties` map surfaces as DataValidationError,
+  // consistent with the state loader's loud-failure contract — never a raw TypeError
+  // from `Object.entries(null)` on a malformed state record.
+  const invalidRaw = {
+    identity: { code: 'de', slug: 'delaware', name: 'Delaware' },
+    counties: null, // invalid: not a plain object
+  };
+
+  await assert.rejects(
+    () => loadCountiesByState(fakeDataLoader(invalidRaw), 'de'),
+    (error) => error instanceof DataValidationError && /counties/.test(error.message),
+  );
+});
+
+test('loadCountiesByState throws DataValidationError when state.counties is an array', async () => {
+  const invalidRaw = {
+    identity: { code: 'de', slug: 'delaware', name: 'Delaware' },
+    counties: [{ name: 'Kent County', population: '198542' }], // invalid: array, not object
+  };
+
+  await assert.rejects(
+    () => loadCountiesByState(fakeDataLoader(invalidRaw), 'de'),
+    (error) => error instanceof DataValidationError && /counties/.test(error.message),
+  );
 });

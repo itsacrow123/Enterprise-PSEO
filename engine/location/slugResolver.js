@@ -100,6 +100,28 @@ export function normalizeSlug(input) {
 }
 
 /**
+ * Normalizes a state code to its canonical lowercase form, rejecting empty input.
+ *
+ * This is the single shared implementation used across the Location Engine
+ * (`stateLoader`, `cityLoader`, `countyLoader`, `locationService`) so that all
+ * layers normalize a requested state code identically — producing one cache key
+ * and load address per state. For the input domain the loaders actually receive
+ * (lowercase or uppercase two-letter USPS codes) this matches every prior local
+ * copy byte-for-byte; living in the pure, dependency-free `slugResolver` keeps it
+ * importable by every loader without introducing a cycle.
+ *
+ * @param {string} stateCode Raw state identifier (for example, `CA`, `ca`).
+ * @returns {string} Canonical lowercase state code (for example, `ca`).
+ */
+export function normalizeStateCode(stateCode) {
+  if (typeof stateCode !== 'string' || stateCode.trim() === '') {
+    throw new TypeError('stateCode must be a non-empty string.');
+  }
+
+  return stateCode.trim().toLowerCase();
+}
+
+/**
  * Normalizes a free-form state name or abbreviation into a canonical lowercase state code.
  *
  * Accepts full names (`California`), abbreviations (`CA`, `ca`), and slugified

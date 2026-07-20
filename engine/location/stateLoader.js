@@ -8,7 +8,7 @@
 import { DataLoadError } from '../data/loader.js';
 import { DataValidationError } from '../data/validator.js';
 import { MemoryCache } from '../data/cache.js';
-import { normalizeSlug } from './slugResolver.js';
+import { normalizeStateCode } from './slugResolver.js';
 
 /**
  * Loads a single state dataset by its lowercase state code.
@@ -173,20 +173,4 @@ function normalizeRawState(code, raw) {
     counties: /** @type {Record<string, {description: string, population: string}>} */ (counties),
     countyCount: Object.keys(counties).length,
   };
-}
-
-/**
- * Normalizes a state code to its canonical lowercase form.
- *
- * @param {string} stateCode Raw state identifier.
- * @returns {string} Canonical lowercase state code.
- * @private
- */
-function normalizeStateCode(stateCode) {
-  if (typeof stateCode !== 'string' || stateCode.trim() === '') {
-    throw new TypeError('stateCode must be a non-empty string.');
-  }
-
-  // State codes are already two-letter tokens; normalizeSlug yields the same lowercase form.
-  return normalizeSlug(stateCode);
 }

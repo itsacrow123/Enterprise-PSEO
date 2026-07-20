@@ -10,9 +10,10 @@
  * `DataLoader.loadCounty`.
  */
 
-import { DataLoadError } from '../data/loader.js';
 import { MemoryCache } from '../data/cache.js';
+import { DataValidationError } from '../data/validator.js';
 import { loadState } from './stateLoader.js';
+import { normalizeStateCode, normalizeSlug } from './slugResolver.js';
 
 /**
  * @typedef {Object} CountyRecord
@@ -32,6 +33,7 @@ import { loadState } from './stateLoader.js';
  * @param {string} stateCode Lowercase state identifier (for example, `fl`).
  * @param {{cache?: MemoryCache}} [options] Optional cache for normalized county arrays.
  * @returns {Promise<CountyRecord[] | undefined>} Normalized array of county records, or undefined when the state is missing from the data tier.
+ * @throws {DataValidationError} When the state record resolves but its `counties` map is missing or is not a plain object.
  */
 export async function loadCountiesByState(dataLoader, stateCode, options = {}) {
   const cache = options.cache;
@@ -51,7 +53,15 @@ export async function loadCountiesByState(dataLoader, stateCode, options = {}) {
     return undefined;
   }
 
-  const counties = Object.entries(state.counties).map(([name, value]) => normalizeCounty(code, name, value));
+  const countiesMap = state.counties;
+  if (countiesMap === null || countiesMap === undefined || typeof countiesMap !== 'object' || Array.isArray(countiesMap)) {
+    throw new DataValidationError(
+      `state dataset for "${code}" is missing the "counties" object from which county records are derived.`,
+      { datasetName: `state dataset (${code})`, field: 'counties' },
+    );
+  }
+
+  const counties = Object.entries(countiesMap).map(([name, value]) => normalizeCounty(code, name, value));
   Object.freeze(counties);
 
   if (cache) {
@@ -118,41 +128,11 @@ export function clearCountyCache(options, stateCode) {
 function normalizeCounty(stateCode, name, value) {
   return {
     name,
-    slug: `${slugify(name)}-${stateCode}`,
+    slug: `${normalizeSlug(name)}-${stateCode}`,
     stateCode,
     description: String(value?.description ?? ''),
     population: String(value?.population ?? ''),
   };
-}
-
-/**
- * Converts a display name into a slug-compatible token.
- *
- * @param {string} value Display name.
- * @returns {string} Slug token.
- * @private
- */
-function slugify(value) {
-  return String(value)
-    .trim()
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
-
-/**
- * Normalizes a state code to its canonical lowercase form.
- *
- * @param {string} stateCode Raw state identifier.
- * @returns {string} Canonical lowercase state code.
- * @private
- */
-function normalizeStateCode(stateCode) {
-  if (typeof stateCode !== 'string' || stateCode.trim() === '') {
-    throw new TypeError('stateCode must be a non-empty string.');
-  }
-
-  return stateCode.trim().toLowerCase();
 }
 
 /**

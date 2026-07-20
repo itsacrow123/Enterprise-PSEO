@@ -7,6 +7,7 @@
 
 import { DataLoadError } from '../data/loader.js';
 import { MemoryCache } from '../data/cache.js';
+import { normalizeStateCode } from './slugResolver.js';
 
 /**
  * @typedef {Object} CityRecord
@@ -148,21 +149,6 @@ function normalizeNearbyCity(raw) {
     name: String(raw?.name ?? ''),
     slug: String(raw?.slug ?? ''),
   };
-}
-
-/**
- * Normalizes a state code to its canonical lowercase form.
- *
- * @param {string} stateCode Raw state identifier.
- * @returns {string} Canonical lowercase state code.
- * @private
- */
-function normalizeStateCode(stateCode) {
-  if (typeof stateCode !== 'string' || stateCode.trim() === '') {
-    throw new TypeError('stateCode must be a non-empty string.');
-  }
-
-  return stateCode.trim().toLowerCase();
 }
 
 /**

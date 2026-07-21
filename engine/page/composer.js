@@ -16,6 +16,7 @@
 
 import { resolveLocation } from '../location/locationService.js';
 import { resolveStateSlug } from '../location/slugResolver.js';
+import { DataLoadError } from '../data/loader.js';
 
 /**
  * Normalizes a free-form state identifier to its canonical lowercase code.
@@ -54,6 +55,32 @@ function normalizeServiceSlug(serviceSlug) {
 }
 
 /**
+ * Soft-fails a service load only for *expected* missing-data errors.
+ *
+ * `DataLoadError` is the data tier's canonical "file could not be located, read,
+ * or parsed from storage" error — the legitimate "service missing from the data
+ * tier" case this composer drops a page on. Every other failure — a malformed-but-
+ * readable service file (`DataValidationError`), a bad identifier (`TypeError`),
+ * or any unexpected error — is re-thrown so a broken dataset or a programmer bug is
+ * visible rather than silently treated as "service absent" (which would emit a
+ * half-context or a silently dropped page). Sibling modules like `stateLoader`
+ * already hard-throw `DataValidationError` for the same reason; this keeps the
+ * composer consistent with that loud-on-broken / silent-on-missing contract.
+ *
+ * @param {unknown} error Rejection reason from the service load.
+ * @returns {undefined} `undefined`, signaling the service is absent.
+ * @throws {unknown} Re-throws any non-`DataLoadError` rejection.
+ * @private
+ */
+function softFailIfMissing(error) {
+  if (error instanceof DataLoadError) {
+    return undefined;
+  }
+
+  throw error;
+}
+
+/**
  * Composes one programmatic page context.
  *
  * Resolves the location tuple (`{ state, city, county }`) via the Location
@@ -78,7 +105,11 @@ function normalizeServiceSlug(serviceSlug) {
  * @param {string} serviceSlug Service slug (for example, `flooring`).
  * @returns {Promise<{ state: Record<string, unknown>, city: Record<string, unknown>, county: Record<string, unknown> | undefined, service: Record<string, unknown>, keywords: null, images: null, business: null, seo: null, schema: null, breadcrumbs: null, nearbyCities: never[], nearbyCounties: never[], relatedServices: never[], faq: never[] } | undefined>}
  *   The composed page context, or `undefined` when the state, city, or service
- *   is missing from the data tier.
+ *   is missing from the data tier. A malformed-but-readable service file
+ *   (`DataValidationError`) or an unexpected load error is re-thrown rather than
+ *   silently swallowed.
+ * @throws {import('../data/validator.js').DataValidationError} When the service record fails structural validation.
+ * @throws {unknown} For any non-`DataLoadError` rejection from the service load.
  */
 export async function composePageContext(dataLoader, cache, stateIdentifier, citySlug, serviceSlug) {
   const code = toStateCode(stateIdentifier);
@@ -93,7 +124,7 @@ export async function composePageContext(dataLoader, cache, stateIdentifier, cit
 
   const [location, service] = await Promise.all([
     resolveLocation(dataLoader, code, citySlug, { cache }),
-    dataLoader.loadService(serviceCode).catch(() => undefined),
+    dataLoader.loadService(serviceCode).catch(softFailIfMissing),
   ]);
 
   if (!location || !service) {

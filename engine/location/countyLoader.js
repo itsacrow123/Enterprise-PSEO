@@ -29,11 +29,18 @@ import { normalizeStateCode, normalizeSlug } from './slugResolver.js';
  *
  * Missing or unreadable states resolve to `undefined` rather than throwing.
  *
+ * A state missing from the data tier resolves to `undefined` rather than throwing, so
+ * callers can treat absent states uniformly. A readable state record whose `counties`
+ * map or its entries are malformed throws `DataValidationError` so a broken /
+ * partially-migrated file fails loudly rather than silently coercing invalid entries to
+ * blank strings — matching the validation philosophy already used by `stateLoader`
+ * and `cityLoader`.
+ *
  * @param {import('../data/loader.js').DataLoader} dataLoader Configured dataset loader.
  * @param {string} stateCode Lowercase state identifier (for example, `fl`).
  * @param {{cache?: MemoryCache}} [options] Optional cache for normalized county arrays.
  * @returns {Promise<CountyRecord[] | undefined>} Normalized array of county records, or undefined when the state is missing from the data tier.
- * @throws {DataValidationError} When the state record resolves but its `counties` map is missing or is not a plain object.
+ * @throws {DataValidationError} When the state record resolves but its `counties` map is missing or is not a plain object, or any county entry is missing a required field or has an invalid field type.
  */
 export async function loadCountiesByState(dataLoader, stateCode, options = {}) {
   const cache = options.cache;
@@ -61,7 +68,8 @@ export async function loadCountiesByState(dataLoader, stateCode, options = {}) {
     );
   }
 
-  const counties = Object.entries(countiesMap).map(([name, value]) => normalizeCounty(code, name, value));
+  const entries = Object.entries(countiesMap);
+  const counties = entries.map(([name, value], index) => normalizeCounty(code, name, value, index));
   Object.freeze(counties);
 
   if (cache) {
@@ -119,20 +127,65 @@ export function clearCountyCache(options, stateCode) {
 /**
  * Normalizes one county map entry into a Location Engine county record.
  *
+ * Required-field and type validation fail loudly via `DataValidationError` so a
+ * malformed or partially-migrated county entry is visible rather than silently
+ * coerced to blank strings — matching the validation philosophy already used in
+ * `stateLoader` and `cityLoader`.
+ *
  * @param {string} stateCode Lowercase state code the county belongs to.
  * @param {string} name County display name (the map key).
  * @param {{description?: unknown, population?: unknown}} value County map value.
+ * @param {number} [index] Entry index within the `counties` map, for error context.
  * @returns {CountyRecord} Normalized county record.
+ * @throws {DataValidationError} When the map value is not a plain object, is
+ *   missing a required field, or has an invalid field type.
  * @private
  */
-function normalizeCounty(stateCode, name, value) {
+function normalizeCounty(stateCode, name, value, index) {
+  if (!value || typeof value !== 'object' || Array.isArray(value)) {
+    throw new DataValidationError(
+      `county dataset for "${stateCode}" entry "${name}" at index ${index} must be a JSON object.`,
+      { datasetName: `county dataset (${stateCode})`, field: name, recordIndex: index },
+    );
+  }
+
+  const entry = /** @type {{description?: unknown, population?: unknown}} */ (value);
+
+  if (typeof entry.description !== 'string' || entry.description.trim() === '') {
+    throw new DataValidationError(
+      `county dataset for "${stateCode}" entry "${name}" at index ${index} is missing required field "description".`,
+      { datasetName: `county dataset (${stateCode})`, field: 'description', recordIndex: index },
+    );
+  }
+
+  if (typeof entry.population !== 'string' || entry.population.trim() === '') {
+    throw new DataValidationError(
+      `county dataset for "${stateCode}" entry "${name}" at index ${index} has an invalid "population" (expected a non-empty string, received ${describeValue(entry.population)}).`,
+      { datasetName: `county dataset (${stateCode})`, field: 'population', recordIndex: index },
+    );
+  }
+
   return {
     name,
     slug: `${normalizeSlug(name)}-${stateCode}`,
     stateCode,
-    description: String(value?.description ?? ''),
-    population: String(value?.population ?? ''),
+    description: entry.description,
+    population: entry.population,
   };
+}
+
+/**
+ * Describes an invalid value for an error message.
+ *
+ * @param {unknown} value Value to describe.
+ * @returns {string} Short human-readable description.
+ * @private
+ */
+function describeValue(value) {
+  if (value === null) return 'null';
+  if (value === undefined) return 'undefined';
+  if (Array.isArray(value)) return 'array';
+  return typeof value;
 }
 
 /**
